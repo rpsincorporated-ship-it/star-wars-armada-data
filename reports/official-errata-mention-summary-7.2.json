@@ -1,8 +1,0 @@
-﻿{
-    "milestone":  "7.2",
-    "status":  "PASS-244-ROW-OFFICIAL-MENTION-RECONCILIATION",
-    "queue_total":  244,
-    "mentioned":  4,
-    "not_mentioned":  240,
-    "production_writes":  0
-}

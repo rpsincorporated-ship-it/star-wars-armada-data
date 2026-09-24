@@ -1,9 +1,0 @@
-﻿{
-    "milestone":  "6.2",
-    "status":  "PASS-AUTHORITATIVE-EVIDENCE-PASS-A",
-    "upgrade_rows":  116,
-    "legacy_rows":  128,
-    "high_priority_upgrade_rows":  2,
-    "high_priority_legacy_rows":  6,
-    "production_writes":  0
-}

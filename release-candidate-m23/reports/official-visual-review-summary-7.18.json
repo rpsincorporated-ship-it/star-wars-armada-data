@@ -1,9 +1,0 @@
-﻿{
-    "milestone":  "7.18",
-    "status":  "PASS-OFFICIAL-VISUAL-REVIEW-PACKETS-BUILT",
-    "candidates":  6,
-    "visual_review_ready":  4,
-    "manual_targeting_required":  2,
-    "production_writes":  0,
-    "changed_production_files":  0
-}

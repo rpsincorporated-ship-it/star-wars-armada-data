@@ -1,8 +1,0 @@
-﻿{
-    "milestone":  "5.17",
-    "status":  "PASS-GLOBAL-INTEGRITY-AUDIT",
-    "production_json_files":  191,
-    "parse_failures":  0,
-    "stable_ids_present":  16,
-    "duplicate_stable_ids":  0
-}

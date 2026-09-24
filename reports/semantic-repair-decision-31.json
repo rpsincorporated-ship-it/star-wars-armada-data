@@ -1,8 +1,0 @@
-{
-    "milestone":  "31",
-    "decision":  "ZERO_PRODUCTION_REPAIRS",
-    "production_repairs_required":  0,
-    "blank_findings_closed":  31,
-    "cross_type_findings_closed":  7,
-    "rationale":  "All Milestone 30 review findings were classified as intentional schema blanks or legitimate cross-type Armada identities."
-}

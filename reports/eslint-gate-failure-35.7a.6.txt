@@ -1,7 +1,0 @@
-﻿System.Management.Automation.RemoteException
-Oops! Something went wrong! :(
-System.Management.Automation.RemoteException
-ESLint: 5.16.0.
-No files matching the pattern "data/*.json" were found.
-Please check for typing mistakes in the pattern.
-System.Management.Automation.RemoteException
