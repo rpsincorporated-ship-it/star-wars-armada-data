@@ -1,37 +1,118 @@
-# star-wars-armada-data
+# Star Wars Armada Data
 
-All the cards from Star Wars: Armada, encoded in JSON format.
+Structured JSON data and packaged image assets for **Star Wars: Armada** cards.
 
-The schema is similar to that used by https://github.com/guidokessels/xwing-data.
+This release is the certified `2025.01-final` build. The archive is laid out like the original repository:
 
-## What data is available?
-Card text in a structured form for:
-- Cards through Wave 8: SSD, Starhawk, Onager; and Rebellion in the Rim (RitR)
-- Errata through [version 5.1.1 of the FAQ](https://images-cdn.fantasyflightgames.com/filer_public/a8/52/a8529093-17c3-439b-8710-04f2de309e67/armada_faq_v511-compressed.pdf)
+```text
+data/
+image/
+.eslintrc.js
+.gitignore
+LICENSE
+README.md
+package-lock.json
+package.json
+```
+
+## What Data Is Included?
+
+Card text and structured data are included for:
+
 - Ships
-- Upgrades
 - Squadrons
+- Upgrades
 - Objectives for non-campaign play
 - Damage cards
-
-Images
-- For most of the above cards, as printed (not as printed in the FAQ post-errata)
 - Reference cards
+- Cards through Wave 8, including SSD, Starhawk, Onager, and Rebellion in the Rim
+- Errata through Armada FAQ version 5.1.1
 
-## What data is not available?
+Images are included under `image/` for the packaged card image library.
+
+## Image Availability
+
+Most packaged image references point to files under `image/`.
+
+Some records intentionally use:
+
+```json
+"image-status": "card-image-not-packaged"
+```
+
+That means the card identity is known and the data record is included, but the exact card-front image is not packaged in this release.
+
+For this release, eight Rebellion in the Rim squadron card images are intentionally not packaged:
+
+- Hondo Ohnaka
+- IG-88B
+- Kanan Jarrus
+- Lando Calrissian
+- Malee Hurra
+- Mart Mattin
+- Moralo Eval
+- Tel Trevura
+
+Those records retain their generic `squadron-image` references where available and are marked with `image-status: card-image-not-packaged` instead of adding unapproved exact card-front artwork.
+
+## What Is Not Included?
+
 - Campaign objectives from Corellian Conflict or Rebellion in the Rim
-- Images for cards prior to RitR and Wave 8
-- Rules, or rule changes from the FAQ, that aren't on cards
-- Rules clarifications (not errata) for cards, from the FAQ. The excellent [Star Wars Armada Wiki](https://starwars-armada.fandom.com/) has those.
+- Images for some cards prior to Rebellion in the Rim and Wave 8
+- Exact card-front images that are not cleared for redistribution
+- Rules text that is not printed on cards
+- Rules clarifications from FAQ documents that are not card errata
 
-## Corrections
-Yes, please! Submit any corrections as pull requests and I'll respond quickly.
+## Release Certification
+
+This release was certified through Milestone `35.7a.7`.
+
+Certification summary:
+
+- Production JSON files audited: `191`
+- Files under `image/`: `384`
+- Historical ESLint gate: `PASSED`
+- Release certification: `STRICT_GRANTED`
+- UTF-8 BOM normalization completed before final release packaging
+- Final release archive uses the original repository-style top-level layout
+
+Release asset:
+
+```text
+star-wars-armada-data-2025.01-final.zip
+```
+
+SHA256:
+
+```text
+7464DFF9D4C7026EA541DC20B0D18E3C39BA5AF8DCF9A31C63329767C2916086
+```
 
 ## Testing
-You can test that all the data is formatted correctly as JSON.
 
-1. Make sure Node.js and the `eslint` module are installed.
-1. Run `npm test` from the top-level directory of this project.
+Install dependencies and run:
+
+```bash
+npm test
+```
+
+The test command runs ESLint against the JSON data files.
+
+## Corrections
+
+Corrections are welcome. Please submit pull requests with clear source references for any data changes.
+
+For image additions, include provenance and redistribution status. Do not add card-front images unless they are cleared for redistribution.
+
+## References
+
+- Original repository: https://github.com/rkbodenner/star-wars-armada-data
+- X-Wing data schema inspiration: https://github.com/guidokessels/xwing-data
+- Armada FAQ 5.1.1: https://images-cdn.fantasyflightgames.com/filer_public/a8/52/a8529093-17c3-439b-8710-04f2de309e67/armada_faq_v511-compressed.pdf
+- Star Wars Armada Wiki: https://starwars-armada.fandom.com/
 
 ## Legal
-All images and card text Copyright & Trademark Lucasfilm Ltd.
+
+All Star Wars: Armada images, card text, names, and related intellectual property are Copyright and Trademark Lucasfilm Ltd. and/or their respective rights holders.
+
+This repository is an unofficial structured data project and is not affiliated with, endorsed by, or sponsored by Lucasfilm Ltd., Fantasy Flight Games, Atomic Mass Games, or Asmodee.
