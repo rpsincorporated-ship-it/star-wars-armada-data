@@ -1,0 +1,20 @@
+[
+    {
+        "ordinal":  30,
+        "identity":  "Darth Vader",
+        "classification":  "NOT_PACKAGED_POLICY_PRESERVED",
+        "image_status":  "card-image-not-packaged",
+        "production_repair_authorized":  false,
+        "image_packaging_authorized":  false,
+        "image_redistribution_authorized":  false
+    },
+    {
+        "ordinal":  79,
+        "identity":  "Vult Skerris",
+        "classification":  "NOT_PACKAGED_POLICY_PRESERVED",
+        "image_status":  "card-image-not-packaged",
+        "production_repair_authorized":  false,
+        "image_packaging_authorized":  false,
+        "image_redistribution_authorized":  false
+    }
+]

@@ -1,0 +1,16 @@
+{
+    "milestone":  "27",
+    "title":  "Final Five Campaign Objective Installation",
+    "baseline_records":  47,
+    "installed_records":  5,
+    "final_records":  52,
+    "installed_titles":  [
+                             "Asteroids",
+                             "Independent Station",
+                             "Holonet Override",
+                             "Prototype Recovery",
+                             "Volatile Cargo"
+                         ],
+    "source_policy":  "Recovered online rules stored as structured faithful summaries; not represented as verbatim card transcriptions.",
+    "backup":  "C:\\Development\\Armada_Database\\.milestone_27_backup_20260916_192339"
+}

@@ -1,0 +1,110 @@
+﻿[
+    {
+        "audit_id":  "ship:galactic-empire:data/ship-card/galactic-empire/imperial-i-class-star-destroyer.json:1",
+        "name":  "Imperial I-class Star Destroyer",
+        "path":  "data\\ship-card\\galactic-empire\\imperial-i-class-star-destroyer.json",
+        "local_class":  "SHIP",
+        "local_points":  112,
+        "original_current_bsdata_points":  [
+                                               110
+                                           ],
+        "exact_name_match_count":  1,
+        "same_class_match_count":  0,
+        "same_class_points":  [
+
+                              ],
+        "unknown_class_match_count":  1,
+        "reclassification":  "CROSS-CLASS-NAME-COLLISION",
+        "production_write_authorized":  false
+    },
+    {
+        "audit_id":  "ship:galactic-empire:data/ship-card/galactic-empire/onager-class-star-destroyer.json:1",
+        "name":  "Onager-class Star Destroyer",
+        "path":  "data\\ship-card\\galactic-empire\\onager-class-star-destroyer.json",
+        "local_class":  "SHIP",
+        "local_points":  110,
+        "original_current_bsdata_points":  [
+                                               120
+                                           ],
+        "exact_name_match_count":  1,
+        "same_class_match_count":  0,
+        "same_class_points":  [
+
+                              ],
+        "unknown_class_match_count":  1,
+        "reclassification":  "CROSS-CLASS-NAME-COLLISION",
+        "production_write_authorized":  false
+    },
+    {
+        "audit_id":  "ship:galactic-empire:data/ship-card/galactic-empire/onager-class-testbed.json:1",
+        "name":  "Onager-class Testbed",
+        "path":  "data\\ship-card\\galactic-empire\\onager-class-testbed.json",
+        "local_class":  "SHIP",
+        "local_points":  96,
+        "original_current_bsdata_points":  [
+                                               116
+                                           ],
+        "exact_name_match_count":  1,
+        "same_class_match_count":  0,
+        "same_class_points":  [
+
+                              ],
+        "unknown_class_match_count":  1,
+        "reclassification":  "CROSS-CLASS-NAME-COLLISION",
+        "production_write_authorized":  false
+    },
+    {
+        "audit_id":  "squadron:rebel-alliance:data/squadron-card/rebel-alliance/hera-syndulla.json:1",
+        "name":  "Hera Syndulla",
+        "path":  "data\\squadron-card\\rebel-alliance\\hera-syndulla.json",
+        "local_class":  "SQUADRON",
+        "local_points":  28,
+        "original_current_bsdata_points":  [
+                                               23
+                                           ],
+        "exact_name_match_count":  1,
+        "same_class_match_count":  1,
+        "same_class_points":  [
+                                  23
+                              ],
+        "unknown_class_match_count":  0,
+        "reclassification":  "SAME-CLASS-EXACT-MATCH",
+        "production_write_authorized":  false
+    },
+    {
+        "audit_id":  "squadron:rebel-alliance:data/squadron-card/rebel-alliance/lando-calrissian.json:1",
+        "name":  "Lando Calrissian",
+        "path":  "data\\squadron-card\\rebel-alliance\\lando-calrissian.json",
+        "local_class":  "SQUADRON",
+        "local_points":  23,
+        "original_current_bsdata_points":  [
+                                               4
+                                           ],
+        "exact_name_match_count":  1,
+        "same_class_match_count":  0,
+        "same_class_points":  [
+
+                              ],
+        "unknown_class_match_count":  0,
+        "reclassification":  "CROSS-CLASS-NAME-COLLISION",
+        "production_write_authorized":  false
+    },
+    {
+        "audit_id":  "squadron:galactic-empire:data/squadron-card/galactic-empire/hondo-ohnaka.json:1",
+        "name":  "Hondo Ohnaka",
+        "path":  "data\\squadron-card\\galactic-empire\\hondo-ohnaka.json",
+        "local_class":  "SQUADRON",
+        "local_points":  24,
+        "original_current_bsdata_points":  [
+                                               2
+                                           ],
+        "exact_name_match_count":  4,
+        "same_class_match_count":  0,
+        "same_class_points":  [
+
+                              ],
+        "unknown_class_match_count":  0,
+        "reclassification":  "CROSS-CLASS-NAME-COLLISION",
+        "production_write_authorized":  false
+    }
+]

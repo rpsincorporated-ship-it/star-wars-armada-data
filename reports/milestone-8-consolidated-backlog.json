@@ -1,0 +1,20 @@
+﻿{
+    "official_point_confirmations":  [
+                                         "Imperial I-class Star Destroyer",
+                                         "Onager-class Star Destroyer",
+                                         "Onager-class Testbed",
+                                         "Hera Syndulla"
+                                     ],
+    "name_collision_holds":  [
+                                 "Lando Calrissian",
+                                 "Hondo Ohnaka"
+                             ],
+    "campaign_exact_text_open":  19,
+    "text_sensitive_errata_candidates":  [
+                                             "VCX-100 Freighter",
+                                             "Lambda-class Shuttle",
+                                             "Major Rhymer",
+                                             "TIE Bomber Squadron"
+                                         ],
+    "policy":  "No community-only or inferred correction may alter production."
+}

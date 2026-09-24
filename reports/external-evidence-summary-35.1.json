@@ -1,0 +1,25 @@
+{
+    "milestone":  "35.1",
+    "title":  "External Evidence Acquisition Batch 1",
+    "production_json_files":  191,
+    "production_records":  365,
+    "objective_records":  52,
+    "official_sources_recorded":  3,
+    "official_card_existence_findings":  3,
+    "official_existence_cards":  [
+                                     "Fenn Rau",
+                                     "Vult Skerris",
+                                     "Matchstick"
+                                 ],
+    "unresolved_image_baseline":  10,
+    "physical_card_existence_verified_exact_image_pending":  3,
+    "exact_image_evidence_still_pending":  7,
+    "image_path_candidates_still_review_only":  87,
+    "campaign_objective_gates":  8,
+    "campaign_objectives_field_verified_this_batch":  0,
+    "production_repairs_authorized":  0,
+    "production_modified":  false,
+    "evidence_state":  "PARTIAL_EXTERNAL_EVIDENCE_ACQUIRED",
+    "release_certification":  "NOT_YET_GRANTED",
+    "next_action":  "Continue exact card-field and image verification using official evidence first; do not authorize production repairs yet."
+}

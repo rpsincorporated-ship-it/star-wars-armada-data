@@ -1,0 +1,155 @@
+﻿{
+    "milestone":  "4.7",
+    "status":  "PASS",
+    "scope":  "campaign-objective final payload contract preflight",
+    "live_objective_records":  36,
+    "field_contract":  [
+                           {
+                               "field":  "category",
+                               "present_records":  36,
+                               "absent_records":  0,
+                               "null_records":  0,
+                               "observed_types":  [
+                                                      "string"
+                                                  ],
+                               "required_on_every_record":  true,
+                               "nullable":  false
+                           },
+                           {
+                               "field":  "end-of-game",
+                               "present_records":  36,
+                               "absent_records":  0,
+                               "null_records":  0,
+                               "observed_types":  [
+                                                      "string"
+                                                  ],
+                               "required_on_every_record":  true,
+                               "nullable":  false
+                           },
+                           {
+                               "field":  "end-of-round",
+                               "present_records":  36,
+                               "absent_records":  0,
+                               "null_records":  0,
+                               "observed_types":  [
+                                                      "array",
+                                                      "string"
+                                                  ],
+                               "required_on_every_record":  true,
+                               "nullable":  false
+                           },
+                           {
+                               "field":  "errata",
+                               "present_records":  3,
+                               "absent_records":  33,
+                               "null_records":  0,
+                               "observed_types":  [
+                                                      "array"
+                                                  ],
+                               "required_on_every_record":  false,
+                               "nullable":  true
+                           },
+                           {
+                               "field":  "image",
+                               "present_records":  12,
+                               "absent_records":  24,
+                               "null_records":  0,
+                               "observed_types":  [
+                                                      "string"
+                                                  ],
+                               "required_on_every_record":  false,
+                               "nullable":  true
+                           },
+                           {
+                               "field":  "points",
+                               "present_records":  36,
+                               "absent_records":  0,
+                               "null_records":  0,
+                               "observed_types":  [
+                                                      "number"
+                                                  ],
+                               "required_on_every_record":  true,
+                               "nullable":  false
+                           },
+                           {
+                               "field":  "setup",
+                               "present_records":  36,
+                               "absent_records":  0,
+                               "null_records":  0,
+                               "observed_types":  [
+                                                      "array",
+                                                      "string"
+                                                  ],
+                               "required_on_every_record":  true,
+                               "nullable":  false
+                           },
+                           {
+                               "field":  "special-rule",
+                               "present_records":  36,
+                               "absent_records":  0,
+                               "null_records":  0,
+                               "observed_types":  [
+                                                      "array",
+                                                      "string"
+                                                  ],
+                               "required_on_every_record":  true,
+                               "nullable":  false
+                           },
+                           {
+                               "field":  "title",
+                               "present_records":  36,
+                               "absent_records":  0,
+                               "null_records":  0,
+                               "observed_types":  [
+                                                      "string"
+                                                  ],
+                               "required_on_every_record":  true,
+                               "nullable":  false
+                           }
+                       ],
+    "payload_rules":  {
+                          "production_objective_fields":  [
+                                                              "category",
+                                                              "end-of-game",
+                                                              "end-of-round",
+                                                              "errata",
+                                                              "image",
+                                                              "points",
+                                                              "setup",
+                                                              "special-rule",
+                                                              "title"
+                                                          ],
+                          "metadata_fields":  [
+                                                  "stable-id",
+                                                  "product-sku",
+                                                  "data-version",
+                                                  "text-status",
+                                                  "image-status"
+                                              ],
+                          "identity":  {
+                                           "records":  19,
+                                           "unique_stable_ids":  19,
+                                           "swm25_records":  8,
+                                           "swm31_records":  11,
+                                           "base_defense_product_version_records":  6
+                                       },
+                          "text":  {
+                                       "authorized_confirmation_required":  true,
+                                       "exact_text_completion_required_before_install":  true,
+                                       "official_final_cutoff":  "2025-01-21",
+                                       "release_label":  "2025.01-final",
+                                       "post_cutoff_rulings_allowed":  false
+                                   },
+                          "merge":  {
+                                        "production_before":  36,
+                                        "campaign_additions":  19,
+                                        "production_after":  55,
+                                        "top_level_json_array_required":  true
+                                    }
+                      },
+    "current_text_state":  "PASS-TEMPLATE-READY",
+    "payload_validator":  "tools\\validate_campaign_objective_payload.ps1",
+    "production_install_authorized":  false,
+    "production_card_data_modified":  false,
+    "next_action":  "Complete Milestone 4.5 exact-text input; then run the reusable payload validator before production-write preflight."
+}

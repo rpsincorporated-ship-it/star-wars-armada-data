@@ -1,0 +1,10 @@
+﻿{
+    "milestone":  "7.6",
+    "status":  "PASS-OFFICIAL-EVIDENCE-PROMOTION-AND-SAFE-TRANSACTION",
+    "promoted_direct_evidence_rows":  0,
+    "newly_applied_numeric_corrections":  0,
+    "changed_production_files":  0,
+    "remaining_text_sensitive_candidates":  4,
+    "unresolved_nonmentioned_queue_rows":  240,
+    "record_resolution":  "exact-name-first"
+}

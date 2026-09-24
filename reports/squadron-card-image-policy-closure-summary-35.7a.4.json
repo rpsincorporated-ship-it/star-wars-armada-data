@@ -1,0 +1,27 @@
+﻿{
+    "milestone":  "35.7a.4",
+    "title":  "Squadron Card Image Policy Closure",
+    "source_milestone":  "35.7a.3",
+    "targeted_population":  8,
+    "identity_evidence_confirmed":  8,
+    "policy_markers_applied":  8,
+    "canonical_images_added":  0,
+    "exact_card_images_packaged":  0,
+    "image_redistribution_authorized":  0,
+    "production_files_audited":  191,
+    "production_files_changed":  8,
+    "changed_files":  [
+                          "data\\squadron-card\\galactic-empire\\hondo-ohnaka.json",
+                          "data\\squadron-card\\galactic-empire\\ig-88b.json",
+                          "data\\squadron-card\\galactic-empire\\moralo-eval.json",
+                          "data\\squadron-card\\galactic-empire\\tel-trevura.json",
+                          "data\\squadron-card\\rebel-alliance\\kanan-jarrus.json",
+                          "data\\squadron-card\\rebel-alliance\\lando-calrissian.json",
+                          "data\\squadron-card\\rebel-alliance\\malee-hurra.json",
+                          "data\\squadron-card\\rebel-alliance\\mart-mattin.json"
+                      ],
+    "backup":  ".milestone_35_7a_4_policy_closure_backup_20260918_191910",
+    "release_certification":  "NOT_YET_GRANTED",
+    "milestone_status":  "SQUADRON_CARD_IMAGE_POLICY_CLOSED",
+    "next":  "Run final database consistency and release-candidate certification gates."
+}

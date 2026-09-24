@@ -1,0 +1,55 @@
+[
+    {
+        "name":  "Anakin Skywalker",
+        "subname":  "Delta-7 Aethersprite Squadron",
+        "faction":  "Galactic Republic",
+        "speed":  4,
+        "hull":  4,
+        "__comment":  "dice array is [red, blue, black] counts",
+        "squadron-attack":  [
+                                0,
+                                2,
+                                2
+                            ],
+        "attack":  [
+                       0,
+                       0,
+                       1
+                   ],
+        "keywords":  [
+                         "Adept 2",
+                         "Counter 2",
+                         "Dodge 1"
+                     ],
+        "points":  24,
+        "source":  {
+                       "product":  "Republic Fighter Squadrons Expansion Pack",
+                       "product-code":  "SWM36",
+                       "publisher":  "Fantasy Flight Games",
+                       "rules-baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                       "verification":  "BSData Galactic Republic catalogue rev. 14 (22/01/2025 errata changes added)",
+                       "data-version":  "2025.01-final"
+                   },
+        "legality":  {
+                         "ruleset":  "official-amg-final-2025",
+                         "status":  "legal",
+                         "official":  true,
+                         "faction":  "Galactic Republic",
+                         "productOrigin":  "SWM36",
+                         "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                         "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
+                     },
+        "unique":  true,
+        "text":  "While attacking a squadron during your activation, at the end of the Resolve Damage step, you may choose up to 2 enemy squadrons at distance 1 of the defender. If the defender was damaged, the chosen squadrons suffer 1 damage.",
+        "defense-tokens":  [
+                               "Brace",
+                               "Scatter"
+                           ],
+        "stable-id":  "squadron:galactic-republic:anakin-skywalker:delta-7-aethersprite-squadron",
+        "data-version":  "2025.01-final",
+        "supplement":  "Rapid Reinforcements I",
+        "supplement-revision":  "2.0",
+        "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
+        "image-status":  "card-image-not-packaged"
+    }
+]

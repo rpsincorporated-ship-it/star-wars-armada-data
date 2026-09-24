@@ -1,0 +1,2300 @@
+[
+    {
+        "file":  "image\\damage-card\\blinded-gunners.png",
+        "extension":  ".png",
+        "bytes":  214285,
+        "sha256":  "C2CDF5208EF5BAA96AB6A4E8636F1F2B15AFB78E29DFC9724620A257F766D2A8"
+    },
+    {
+        "file":  "image\\damage-card\\capacitor-failure.png",
+        "extension":  ".png",
+        "bytes":  230642,
+        "sha256":  "DE4ABE575A5FA2322D773567E34EF5ADF86890AF9850DBBE134BEB328ACCE38E"
+    },
+    {
+        "file":  "image\\damage-card\\comm-noise.png",
+        "extension":  ".png",
+        "bytes":  223617,
+        "sha256":  "6D3A39927B6D07521305CB8660C1FAF453F99E0A58C70994E63DD098E473D00F"
+    },
+    {
+        "file":  "image\\damage-card\\compartment-fire.png",
+        "extension":  ".png",
+        "bytes":  217477,
+        "sha256":  "83BED8674692DAED9A850A123E1D9C8C709F523F41C04118CD81A144CB8D8BB9"
+    },
+    {
+        "file":  "image\\damage-card\\coolant-discharge.png",
+        "extension":  ".png",
+        "bytes":  215729,
+        "sha256":  "BB0D37FC97C7A7C1D475A4A56D642376A9C15353C4B94B2536E9728C44C9E2E5"
+    },
+    {
+        "file":  "image\\damage-card\\crew-panic.png",
+        "extension":  ".png",
+        "bytes":  223075,
+        "sha256":  "FD2BA25FC719C484A98B70C5FA9FD8E427D708E8228D8508534712F656AD3714"
+    },
+    {
+        "file":  "image\\damage-card\\damage-back.png",
+        "extension":  ".png",
+        "bytes":  249964,
+        "sha256":  "24FC66013F1E84140DE79C5018BF0C5530C9C5F45BD47095D9D58635A73F571D"
+    },
+    {
+        "file":  "image\\damage-card\\damaged-controls.png",
+        "extension":  ".png",
+        "bytes":  224498,
+        "sha256":  "732041AE0D3D24903AC8DFC42308F0678498B95B4989FA14718883772AAC9C8C"
+    },
+    {
+        "file":  "image\\damage-card\\damaged-munitions.png",
+        "extension":  ".png",
+        "bytes":  220388,
+        "sha256":  "B165A5344E4DDE7056D3BBE653767626BA571D9C621432C25FA5A104A90A017A"
+    },
+    {
+        "file":  "image\\damage-card\\depowered-armament.png",
+        "extension":  ".png",
+        "bytes":  215783,
+        "sha256":  "48CC02DEAF93E7B596AA54C96DEF5D9ADF9FC0F90A24DF3935E4CD175A4B088B"
+    },
+    {
+        "file":  "image\\damage-card\\disengaged-fire-control.png",
+        "extension":  ".png",
+        "bytes":  224727,
+        "sha256":  "59694AEC2574331E64D16F6E936B1FC9B94A9D3F1080F62D3B62537757D72FC1"
+    },
+    {
+        "file":  "image\\damage-card\\faulty-countermeasures.png",
+        "extension":  ".png",
+        "bytes":  217254,
+        "sha256":  "32AF53688D49DD40F30FEF0C769694B41575E80119E61C2E9EF7746E071B47C5"
+    },
+    {
+        "file":  "image\\damage-card\\injured-crew.png",
+        "extension":  ".png",
+        "bytes":  216540,
+        "sha256":  "CD410587FEF51EFBFADB1FE444ED573C2A442225A3921EEE104462CADC623A79"
+    },
+    {
+        "file":  "image\\damage-card\\life-support-failure.png",
+        "extension":  ".png",
+        "bytes":  218890,
+        "sha256":  "2DBDF2F00DB8797202DB7501CA83F0C86C7A35525EFE82BEB0F78BC54FBA6605"
+    },
+    {
+        "file":  "image\\damage-card\\point-defense-failure.png",
+        "extension":  ".png",
+        "bytes":  220840,
+        "sha256":  "90C272FA9BA33FAF03A829D31F85E469268695BAB6EF0000D9AE504009678AA6"
+    },
+    {
+        "file":  "image\\damage-card\\power-failure.png",
+        "extension":  ".png",
+        "bytes":  216426,
+        "sha256":  "245B148A892E3B030F331957D3BB06945FDABDF28DB441AB40D70961591C7C21"
+    },
+    {
+        "file":  "image\\damage-card\\projector-misaligned.png",
+        "extension":  ".png",
+        "bytes":  243952,
+        "sha256":  "5EF3BF93423DE21D5E7D56AFBD35428E77933227ECC209BD5528E87A0F6EDF79"
+    },
+    {
+        "file":  "image\\damage-card\\ruptured-engine.png",
+        "extension":  ".png",
+        "bytes":  221046,
+        "sha256":  "20667CA5FED5781164FC572E38816C9713B399AAEB93F2DF396F2B7C921F2ECC"
+    },
+    {
+        "file":  "image\\damage-card\\shield-failure.png",
+        "extension":  ".png",
+        "bytes":  228759,
+        "sha256":  "21D35CEB6D891366BF1B7ABC36E18888AB570FA0F426F8FAEBE46265FAD14283"
+    },
+    {
+        "file":  "image\\damage-card\\structural-damage.png",
+        "extension":  ".png",
+        "bytes":  215870,
+        "sha256":  "9D025FBD09F11074D578C8EA1AE2A61EA83E76D512060B16442B6D1E68875873"
+    },
+    {
+        "file":  "image\\damage-card\\targeter-disruption.png",
+        "extension":  ".png",
+        "bytes":  221596,
+        "sha256":  "ECF6E88C723B7835F5CEBC1AC5AA02EBAEE7521F34D36178C70D46891B465EC1"
+    },
+    {
+        "file":  "image\\damage-card\\thrust-control-malfunction.png",
+        "extension":  ".png",
+        "bytes":  218306,
+        "sha256":  "43B1B0FBAA60312D7727D7876D80E16551392103D64DADFBDD504559D7283981"
+    },
+    {
+        "file":  "image\\damage-card\\thruster-fissure.png",
+        "extension":  ".png",
+        "bytes":  217548,
+        "sha256":  "FD645072483BF1426D4550AA41E9FA772E45E510534C571B45ED459C60941E11"
+    },
+    {
+        "file":  "image\\dice\\black-blank.png",
+        "extension":  ".png",
+        "bytes":  1759,
+        "sha256":  "0778FA3779E90C75E6A64584D12BF30D8F98EC20C8C1E1752595162E4A1052E2"
+    },
+    {
+        "file":  "image\\dice\\black-hit-critical-hit.png",
+        "extension":  ".png",
+        "bytes":  2316,
+        "sha256":  "AE97913DA5E9BD6BCC476ACE69489653A60C4F274B29EE7C0ACD8391FEFB199D"
+    },
+    {
+        "file":  "image\\dice\\black-hit.png",
+        "extension":  ".png",
+        "bytes":  2213,
+        "sha256":  "9A29D24BE7B99F43B549A01BC6CFDAF12064701903F6EBCD9F6E8454110640BC"
+    },
+    {
+        "file":  "image\\dice\\blue-accuracy.png",
+        "extension":  ".png",
+        "bytes":  3072,
+        "sha256":  "A184B6A8A72B8C3F7314BF9CAFB1F94E2EA550AAA5B26D1BEB7DD557192BE657"
+    },
+    {
+        "file":  "image\\dice\\blue-critical-hit.png",
+        "extension":  ".png",
+        "bytes":  3004,
+        "sha256":  "3906506959A0714CD353493E74E599DF264A5B50DCDF99650E17C778F6925A35"
+    },
+    {
+        "file":  "image\\dice\\blue-hit.png",
+        "extension":  ".png",
+        "bytes":  2892,
+        "sha256":  "A1CBDD26F798159CCCF16C2E65D2DB4D7DC8B9FF3D46784C2AB1EE62354F4F92"
+    },
+    {
+        "file":  "image\\dice\\red-accuracy.png",
+        "extension":  ".png",
+        "bytes":  3271,
+        "sha256":  "C6A3F6EC203A4D047AB0516F9CD95059C5916EFCEA42142BA075CD59FE1F2622"
+    },
+    {
+        "file":  "image\\dice\\red-blank.png",
+        "extension":  ".png",
+        "bytes":  2327,
+        "sha256":  "DEFF8D6D3C42D046781CA0F684803F7249AE7908C3BF7DE03F18CDB63ABE051C"
+    },
+    {
+        "file":  "image\\dice\\red-critical-hit.png",
+        "extension":  ".png",
+        "bytes":  3166,
+        "sha256":  "83BD3464537FE731D2BE52FAAB658AFA0101820749C6E6FC78499A6FB4F28DD1"
+    },
+    {
+        "file":  "image\\dice\\red-hit-hit.png",
+        "extension":  ".png",
+        "bytes":  3199,
+        "sha256":  "425F171F787383FCE91E20EAED33AC4845323ACA956046CD16D3C6FFAA9060A4"
+    },
+    {
+        "file":  "image\\dice\\red-hit.png",
+        "extension":  ".png",
+        "bytes":  3018,
+        "sha256":  "E9316378DC6A1F17D852F5A0DA6CABCB0B1B3F6727B60B7390514233D95CE212"
+    },
+    {
+        "file":  "image\\faction\\galactic-empire.png",
+        "extension":  ".png",
+        "bytes":  209043,
+        "sha256":  "CDAF14F69980BF4A81C859887068D3FD6B7DB8BE4F7D5607EE2DB134284A0036"
+    },
+    {
+        "file":  "image\\faction\\rebel-alliance.png",
+        "extension":  ".png",
+        "bytes":  156782,
+        "sha256":  "5BEDA9B9BA82D50AFF90659B8D3427C152C7C79746F102E2E2AF484C1E17E5C8"
+    },
+    {
+        "file":  "image\\objective-card\\advanced-gunnery.png",
+        "extension":  ".png",
+        "bytes":  394007,
+        "sha256":  "8B34BA80BA7FF33EF69C97F1B4318EA104DC079DFAB07914AD3185623FC40D38"
+    },
+    {
+        "file":  "image\\objective-card\\contested-outpost.png",
+        "extension":  ".png",
+        "bytes":  365135,
+        "sha256":  "D3EDDC28E79ABC469FD41F7AF397CD22D45BB0C99FDD6516AB28A7E9D35F2ED5"
+    },
+    {
+        "file":  "image\\objective-card\\dangerous-territory.png",
+        "extension":  ".png",
+        "bytes":  397229,
+        "sha256":  "DC76DC0413F597BC5F9CC8FD4CA477272AB3CDEDFD8A19C47FCD92DAE292EDC4"
+    },
+    {
+        "file":  "image\\objective-card\\fire-lanes.png",
+        "extension":  ".png",
+        "bytes":  407907,
+        "sha256":  "42438E0FD9B36A5C864DFE59A61680B708C413C1234D9275D37157E1C45C3F41"
+    },
+    {
+        "file":  "image\\objective-card\\fleet-ambush.png",
+        "extension":  ".png",
+        "bytes":  379408,
+        "sha256":  "9F69FAB6CCE5F9B5C105E0EFFC62A77D4B68D03296FDF902E9E7E5EB04796157"
+    },
+    {
+        "file":  "image\\objective-card\\hyperspace-assault.png",
+        "extension":  ".png",
+        "bytes":  396252,
+        "sha256":  "DFD8AFB3496A26F4CB7E93FDB5D1D04EFA5C1C36F47C5DDD2874F30E05245071"
+    },
+    {
+        "file":  "image\\objective-card\\intel-sweep.png",
+        "extension":  ".png",
+        "bytes":  438285,
+        "sha256":  "F5F773229F7F9ED573AF630762A704E445F3F20F94724BB07C1D05D806E8CFE5"
+    },
+    {
+        "file":  "image\\objective-card\\minefields.png",
+        "extension":  ".png",
+        "bytes":  411328,
+        "sha256":  "B8A240C8C296E877B25A85B2133B79D14A212820DA4F44877962457D140E4739"
+    },
+    {
+        "file":  "image\\objective-card\\most-wanted.png",
+        "extension":  ".png",
+        "bytes":  371912,
+        "sha256":  "FB2C6D0B0B5006A76D217523F2303977C855843831F16871852AC3E1ACFF97B3"
+    },
+    {
+        "file":  "image\\objective-card\\objective-back.png",
+        "extension":  ".png",
+        "bytes":  606637,
+        "sha256":  "E7E9A9643E3488D55B49CC6D1C63592CE88617487E1ABB4F0E47558E734DD3AC"
+    },
+    {
+        "file":  "image\\objective-card\\opening-salvo.png",
+        "extension":  ".png",
+        "bytes":  397909,
+        "sha256":  "E0C04E0A4F3741FA8645317F221D505DCE0D5BED859526035C7B106F887D9A66"
+    },
+    {
+        "file":  "image\\objective-card\\precision-strike.png",
+        "extension":  ".png",
+        "bytes":  372938,
+        "sha256":  "B970743C3F459FFCC650F3C129F3479471F4AD752FC724F916E95B4A35DF15CF"
+    },
+    {
+        "file":  "image\\objective-card\\superior-positions.png",
+        "extension":  ".png",
+        "bytes":  372737,
+        "sha256":  "3FF4CD641ED68B6017750B95B8970E5F6A836F92616B5F4A09052FABE9C050DB"
+    },
+    {
+        "file":  "image\\reference-card\\commands.png",
+        "extension":  ".png",
+        "bytes":  404374,
+        "sha256":  "3E5D612D89A3CFD922182857D1DB5917A8B31CCA1F54D5987A34A78D1D95BB67"
+    },
+    {
+        "file":  "image\\reference-card\\defense-tokens.png",
+        "extension":  ".png",
+        "bytes":  405282,
+        "sha256":  "4B49196343C795F225485F6D54C6E839BB096E73410A529A1F69BA20FB09AD6D"
+    },
+    {
+        "file":  "image\\reference-card\\reference-back.png",
+        "extension":  ".png",
+        "bytes":  493071,
+        "sha256":  "F5E628537C42F065107547E0D08DF7FD69F5559BA70078F5C072A1E36E57D6DA"
+    },
+    {
+        "file":  "image\\ship\\galactic-empire\\gozanti-class-carriers.png",
+        "extension":  ".png",
+        "bytes":  2243,
+        "sha256":  "3777BF14A80A3253B8C9AD780BE9B430DB69F0097D0AFABAFCEB5256EB41942C"
+    },
+    {
+        "file":  "image\\ship\\galactic-empire\\imperial-class-star-destroyer-v2.png",
+        "extension":  ".png",
+        "bytes":  6338,
+        "sha256":  "AF0238ADA3197F52366A1DC193B97995D8ED5217C75867E97F1C70FE63CF5B49"
+    },
+    {
+        "file":  "image\\ship\\galactic-empire\\imperial-class-star-destroyer.png",
+        "extension":  ".png",
+        "bytes":  6241,
+        "sha256":  "7D6826573092BBC01AA60730F821AD5B6E674055085E14840E92F44E633FE6EE"
+    },
+    {
+        "file":  "image\\ship\\galactic-empire\\interdictor.png",
+        "extension":  ".png",
+        "bytes":  4510,
+        "sha256":  "ED39FDF133A02CB9D0CCF0011A60952790DBCD98BA5F4E2E259781BBD40DABD4"
+    },
+    {
+        "file":  "image\\ship\\galactic-empire\\victory-class-star-destroyer.png",
+        "extension":  ".png",
+        "bytes":  4762,
+        "sha256":  "75D4B3106817037206757309E194A4BA0264914A7C273E5F747EDCABDB32D5EA"
+    },
+    {
+        "file":  "image\\ship\\rebel-alliance\\assault-frigate-mark-ii.png",
+        "extension":  ".png",
+        "bytes":  4099,
+        "sha256":  "EAA57C4B7CDACE9277B373663DACBA30637627B9259A4AEA6C045E9CB6B39290"
+    },
+    {
+        "file":  "image\\ship\\rebel-alliance\\cr90-corvette.png",
+        "extension":  ".png",
+        "bytes":  2255,
+        "sha256":  "2B6B2E7862A4BDF872093B64C9422177F7FDF4944B08D1D5E4054F38074805EE"
+    },
+    {
+        "file":  "image\\ship\\rebel-alliance\\mc30c-frigate.png",
+        "extension":  ".png",
+        "bytes":  1843,
+        "sha256":  "ABC96A598AFE5500E3711A87A46A68184CF8439A4A7E0769AF9BB8040C97D8F7"
+    },
+    {
+        "file":  "image\\ship\\rebel-alliance\\mc75-cruiser.png",
+        "extension":  ".png",
+        "bytes":  3823,
+        "sha256":  "FDA9700BE5E68ACED364EED7C14E15481EE49A3598F60E43F8B1B3FAA8A78060"
+    },
+    {
+        "file":  "image\\ship\\rebel-alliance\\mc80-home-one-cruiser.png",
+        "extension":  ".png",
+        "bytes":  3916,
+        "sha256":  "92DDDA55BD063EE663B8C60F49288B6CA7F6BE645F7EFDE9CAD9E2AA29960723"
+    },
+    {
+        "file":  "image\\ship\\rebel-alliance\\mc80-liberty-cruiser.png",
+        "extension":  ".png",
+        "bytes":  4546,
+        "sha256":  "4E20D038A8ED8CB3A2E0BBF45923FCB235B93DEC5C9A550C3734A51216A4B532"
+    },
+    {
+        "file":  "image\\ship\\rebel-alliance\\nebulon-b-frigate.png",
+        "extension":  ".png",
+        "bytes":  1784,
+        "sha256":  "202C9953647C492C2F1F05406B833B2BFE794C9065DEF29D84CD4BCAC4596A7C"
+    },
+    {
+        "file":  "image\\ship-card\\galactic-empire\\arquitens-class-command-cruiser.png",
+        "extension":  ".png",
+        "bytes":  72434,
+        "sha256":  "C4CA8923E8A0254782CE791C70AECB4D0D9EE5C4F0D1149A94993911BBD9545D"
+    },
+    {
+        "file":  "image\\ship-card\\galactic-empire\\arquitens-class-light-cruiser.png",
+        "extension":  ".png",
+        "bytes":  70689,
+        "sha256":  "C2DFB9B86286B3CB3E8C22DDBF14B4380C6A49B9E7393C91ABE55B9B85543FB3"
+    },
+    {
+        "file":  "image\\ship-card\\galactic-empire\\galactic-empire-back.png",
+        "extension":  ".png",
+        "bytes":  996423,
+        "sha256":  "F12C5522B0EFA9C0BA6BF8B1FB2D29E4E1295B9B7506CFE3A23AE59698387C43"
+    },
+    {
+        "file":  "image\\ship-card\\galactic-empire\\gladiator-i-class-star-destroyer.png",
+        "extension":  ".png",
+        "bytes":  754152,
+        "sha256":  "86790B5AFDA858B6DD395A9942440C355B6C780BA2F8A3ACD335ABA9E6F55183"
+    },
+    {
+        "file":  "image\\ship-card\\galactic-empire\\gladiator-ii-class-star-destroyer.png",
+        "extension":  ".png",
+        "bytes":  751619,
+        "sha256":  "3DAB641507B0FCC89EAB3CA86852790E41A8596C8B6F98A1B9A703AC6281DC66"
+    },
+    {
+        "file":  "image\\ship-card\\galactic-empire\\gozanti-class-assault-carriers.png",
+        "extension":  ".png",
+        "bytes":  762986,
+        "sha256":  "10FD6B320B3003D9892AE1F3A5E23C24EB1D301ACB7605EE2AD3A3819CC09016"
+    },
+    {
+        "file":  "image\\ship-card\\galactic-empire\\gozanti-class-cruisers.png",
+        "extension":  ".png",
+        "bytes":  798757,
+        "sha256":  "9EF18F6AACB9DA2EFCF54B05BD9DC55E0D1B32CE76DE55F6490E064F00E79F0D"
+    },
+    {
+        "file":  "image\\ship-card\\galactic-empire\\imperial-i-class-star-destroyer.png",
+        "extension":  ".png",
+        "bytes":  750427,
+        "sha256":  "1FB1649EC28BD7322C1849FF23EBB8DF508683FC14AB19E32A1B87BBF379C7DF"
+    },
+    {
+        "file":  "image\\ship-card\\galactic-empire\\imperial-ii-class-star-destroyer.png",
+        "extension":  ".png",
+        "bytes":  828784,
+        "sha256":  "710BFFA6D001A96225FE2D8C5548477750AD7B8A0B3E7A3C45F7E99F05A0F497"
+    },
+    {
+        "file":  "image\\ship-card\\galactic-empire\\imperial-star-destroyer-cymoon-1-refit.png",
+        "extension":  ".png",
+        "bytes":  751548,
+        "sha256":  "A55AAD6539CF561288E388DCF4313E8F689CB2ABB0EFC7D018E67D42EB2CC081"
+    },
+    {
+        "file":  "image\\ship-card\\galactic-empire\\imperial-star-destroyer-kuat-refit.png",
+        "extension":  ".png",
+        "bytes":  779118,
+        "sha256":  "B98155E18FA83592B2A64106D87EB8BE2FA7E16B8437F3AFDFD36EFC0133A0B1"
+    },
+    {
+        "file":  "image\\ship-card\\galactic-empire\\interdictor-combat-refit.png",
+        "extension":  ".png",
+        "bytes":  763272,
+        "sha256":  "ED1041A0C1126E6D03E30DC2A2DB6DE41C6C25F72DA96E023CBC3300BE59821D"
+    },
+    {
+        "file":  "image\\ship-card\\galactic-empire\\interdictor-suppression-refit.png",
+        "extension":  ".png",
+        "bytes":  782512,
+        "sha256":  "9EEE45EED741178A5CD8664DABEE642E66C6386F9AB000A3FEDD073A2DD03C39"
+    },
+    {
+        "file":  "image\\ship-card\\galactic-empire\\quasar-fire-i-class-cruiser-carrier.png",
+        "extension":  ".png",
+        "bytes":  69189,
+        "sha256":  "BACD214FC0311800047096AF56D4B9D8937FB49325DCB3E84AFF8B65980B5201"
+    },
+    {
+        "file":  "image\\ship-card\\galactic-empire\\quasar-fire-ii-class-cruiser-carrier.png",
+        "extension":  ".png",
+        "bytes":  68739,
+        "sha256":  "B85965C878FA245C7DD3DDD2AADD6EB7B691CCC2E231CD4836392BF17C9E9E78"
+    },
+    {
+        "file":  "image\\ship-card\\galactic-empire\\raider-i-class-corvette.png",
+        "extension":  ".png",
+        "bytes":  66820,
+        "sha256":  "FA8F8AA8C867801B1D03AE78AF4F0BDA124D93B60870F91DC94AFC8C24DC88E3"
+    },
+    {
+        "file":  "image\\ship-card\\galactic-empire\\raider-ii-class-corvette.png",
+        "extension":  ".png",
+        "bytes":  60564,
+        "sha256":  "2ECBB42868DAC8D3F956D1F0A417ACEB2ACCFC1D7EFD85B69F941AEE0CC5F7A3"
+    },
+    {
+        "file":  "image\\ship-card\\galactic-empire\\victory-i-class-star-destroyer.png",
+        "extension":  ".png",
+        "bytes":  746202,
+        "sha256":  "9DCFB608BBDF6A84068BFE9C216BCB5466370EAF55B9D3243BAD76CF7A31D760"
+    },
+    {
+        "file":  "image\\ship-card\\galactic-empire\\victory-ii-class-star-destroyer.png",
+        "extension":  ".png",
+        "bytes":  763927,
+        "sha256":  "3179E4BD7989BBE3D247AE912AAB46C3A9EAFD834DBDB8174BB5BB354EE1B623"
+    },
+    {
+        "file":  "image\\ship-card\\rebel-alliance\\assault-frigate-mark-ii-a.png",
+        "extension":  ".png",
+        "bytes":  756475,
+        "sha256":  "C06920FE864D4B55A522850767159991022445813007CA25DA569252A0B511E7"
+    },
+    {
+        "file":  "image\\ship-card\\rebel-alliance\\assault-frigate-mark-ii-b.png",
+        "extension":  ".png",
+        "bytes":  794103,
+        "sha256":  "517DF139F3A66D37BC29999D6DAA3DDEEB20567B21B7B60EDCE0FF1453175E38"
+    },
+    {
+        "file":  "image\\ship-card\\rebel-alliance\\cr90-corvette-a.png",
+        "extension":  ".png",
+        "bytes":  745970,
+        "sha256":  "DCFC44513D3EF5470F8DABB4B213BCC6096B2A6F793D085BFB6B8F8C16722F83"
+    },
+    {
+        "file":  "image\\ship-card\\rebel-alliance\\cr90-corvette-b.png",
+        "extension":  ".png",
+        "bytes":  760998,
+        "sha256":  "401C2AE628B0F06668D9AB9C0456BEDB8B13A8279CAE47C55A8E5E148777F9AD"
+    },
+    {
+        "file":  "image\\ship-card\\rebel-alliance\\gr-75-combat-retrofits.png",
+        "extension":  ".png",
+        "bytes":  70112,
+        "sha256":  "2EF56646D863BB20653B09B7DBDBD3604F18BF4B78902A74B9D714DA07B32EDB"
+    },
+    {
+        "file":  "image\\ship-card\\rebel-alliance\\gr-75-medium-transports.png",
+        "extension":  ".png",
+        "bytes":  72785,
+        "sha256":  "BC5CC0117B0BFC4C03B69FC2D6C6143235455BA72496217ACA7333030F4E9C87"
+    },
+    {
+        "file":  "image\\ship-card\\rebel-alliance\\hammerhead-scout-corvette.png",
+        "extension":  ".png",
+        "bytes":  64303,
+        "sha256":  "EDF3A222E0A37FDAE1344CD76AB388CA6149DFFC04D2B1A51440819D9B8E7844"
+    },
+    {
+        "file":  "image\\ship-card\\rebel-alliance\\hammerhead-torpedo-corvette.png",
+        "extension":  ".png",
+        "bytes":  63392,
+        "sha256":  "730271A12906C8527F9C0BDCEEDD5E91E23CC29C89D39CF3B397FCCF9FA7F7BA"
+    },
+    {
+        "file":  "image\\ship-card\\rebel-alliance\\mc30c-scout-frigate.png",
+        "extension":  ".png",
+        "bytes":  777106,
+        "sha256":  "9EEB5ECF00300D9A53FB9915BFEE3046B2B196600F7D0F88C2C2797651C70DA0"
+    },
+    {
+        "file":  "image\\ship-card\\rebel-alliance\\mc30c-torpedo-frigate.png",
+        "extension":  ".png",
+        "bytes":  727306,
+        "sha256":  "F18CD3F4D101BE3ECF8E11CBBBF2016932061DA95EA15EFCB25AF8BCD7C29901"
+    },
+    {
+        "file":  "image\\ship-card\\rebel-alliance\\mc75-armored-cruiser.png",
+        "extension":  ".png",
+        "bytes":  748576,
+        "sha256":  "1BD731558C38EAF51AA7155F62AAFAA7EEBB89EE86AE76CA8C0BE74E3A87725A"
+    },
+    {
+        "file":  "image\\ship-card\\rebel-alliance\\mc75-ordnance-cruiser.png",
+        "extension":  ".png",
+        "bytes":  717862,
+        "sha256":  "142412C60E2DAB1657FEF89147E55829C6BF81E73CBC8EA444FACE68E18CD468"
+    },
+    {
+        "file":  "image\\ship-card\\rebel-alliance\\mc80-assault-cruiser.png",
+        "extension":  ".png",
+        "bytes":  779240,
+        "sha256":  "DD51A92D19602960E7C75F4453BEB8E077CE560DA535BE79D16C2C16B8964778"
+    },
+    {
+        "file":  "image\\ship-card\\rebel-alliance\\mc80-battle-cruiser.png",
+        "extension":  ".png",
+        "bytes":  769457,
+        "sha256":  "1DD0DBE4E36EBCCEF4973A329897203F731E0C0388C161E7163F2017C21A1D30"
+    },
+    {
+        "file":  "image\\ship-card\\rebel-alliance\\mc80-command-cruiser.png",
+        "extension":  ".png",
+        "bytes":  752537,
+        "sha256":  "6BC85686C2524DBF71E42B9C0BD4E4663AF026579E597F236E06BB11F11DAB6B"
+    },
+    {
+        "file":  "image\\ship-card\\rebel-alliance\\mc80-star-cruiser.png",
+        "extension":  ".png",
+        "bytes":  730841,
+        "sha256":  "C8692431E546CBB46BE75C4C11AFCA0E45F07E1E6BA7CAF23BDDE84C0FE7B8B3"
+    },
+    {
+        "file":  "image\\ship-card\\rebel-alliance\\modified-pelta-class-assault-ship.png",
+        "extension":  ".png",
+        "bytes":  62149,
+        "sha256":  "CC7F345439EF159265F4F9E7B6B134A0B96B9D533DD7FC6F76BB372960882C1B"
+    },
+    {
+        "file":  "image\\ship-card\\rebel-alliance\\modified-pelta-class-command-ship.png",
+        "extension":  ".png",
+        "bytes":  43295,
+        "sha256":  "3C67ED37B321F6C936453315007E99DF2548F2EEDB08206FC667E41E0ED92E4D"
+    },
+    {
+        "file":  "image\\ship-card\\rebel-alliance\\nebulon-b-escort-frigate.png",
+        "extension":  ".png",
+        "bytes":  740349,
+        "sha256":  "A4D912AD35B671D03A1401B305D3DD6B226BC8A7DC8DED86CA6F30592A451D8D"
+    },
+    {
+        "file":  "image\\ship-card\\rebel-alliance\\nebulon-b-support-refit.png",
+        "extension":  ".png",
+        "bytes":  730332,
+        "sha256":  "F64611E4CBEF87EF3E89295C00892391311EBCB443C3C5401B5404696D7B7E20"
+    },
+    {
+        "file":  "image\\ship-card\\rebel-alliance\\rebel-alliance-back.png",
+        "extension":  ".png",
+        "bytes":  877235,
+        "sha256":  "2E07E18C9066F3536828FDDAC4FBCFA37467B7A2DA19855B127FC5BCE0781480"
+    },
+    {
+        "file":  "image\\squadron\\galactic-empire\\mandalorian-gauntlet-fighter.png",
+        "extension":  ".png",
+        "bytes":  32870,
+        "sha256":  "B7454DD0BEB7CC097660006114DDD8F5E2FAE40D630627232679D34449D1E4BB"
+    },
+    {
+        "file":  "image\\squadron\\galactic-empire\\tie-fighter-squadron.png",
+        "extension":  ".png",
+        "bytes":  31988,
+        "sha256":  "3F5FD36C20ED5C9ED8E73EEFB154902D472FC8DE79A08A9F2EBEFA0CEE84F49F"
+    },
+    {
+        "file":  "image\\squadron\\rebel-alliance\\x-wing-squadron.png",
+        "extension":  ".png",
+        "bytes":  31821,
+        "sha256":  "72171670D02829E7B4655B9DCC0CD48BD5D1FC5C214A86A39B07C58525DD9D6E"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\aggressor-assault-fighter.png",
+        "extension":  ".png",
+        "bytes":  480158,
+        "sha256":  "8F3A78ABB19EE21CBE9C7EBEFD1EE79CB911C7225A2AC97B8E0EB4EC6FE82830"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\black-squadron.png",
+        "extension":  ".png",
+        "bytes":  59756,
+        "sha256":  "FC211A5E866208DE4B3498266F4083873F3E91B8E8822A965AB3E52C7AD5E78C"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\boba-fett.png",
+        "extension":  ".png",
+        "bytes":  519648,
+        "sha256":  "3A4385EC65FD17B81FF87298B8B3FB473B9DCCF725A5AA7BFA96813E1F766299"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\bossk.png",
+        "extension":  ".png",
+        "bytes":  500262,
+        "sha256":  "7C03C0B76C343505FCAC2055E07E83961768D14923885A8DE14F0562D5CE91BD"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\captain-jonus.png",
+        "extension":  ".png",
+        "bytes":  54199,
+        "sha256":  "E01EBF3256C436ACA769192D0F0ADEF75612FAE977B25E24C42DF07D01D9D911"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\ciena-ree.png",
+        "extension":  ".png",
+        "bytes":  60126,
+        "sha256":  "A5D7CF6076DD564D076A392D0D4D13323F6CC9FA690DC9B6B4F5FBFCE1369F54"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\colonel-jendon.png",
+        "extension":  ".png",
+        "bytes":  518032,
+        "sha256":  "AA50A49317ED60EDFB5604062E91E96A6BBE70CB88F0F9DD4D159266A86E475B"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\darth-vader.png",
+        "extension":  ".png",
+        "bytes":  42196,
+        "sha256":  "60305FA51D8B7D66FE64819DEBCF4FF61B17784E9F3B649E0CC62CDBF90E7C18"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\dengar.png",
+        "extension":  ".png",
+        "bytes":  496519,
+        "sha256":  "FD2A4DE00D51D5DF2FFAAC0027034D9381DEA1E146B4B21BDFF3CB5C07549F86"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\firespray-31.png",
+        "extension":  ".png",
+        "bytes":  480583,
+        "sha256":  "C55C3547B164D9F805FAE8FCD0AA0D3B24A0E58B22FAAC58FE8BE0F21D259690"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\galactic-empire-back.png",
+        "extension":  ".png",
+        "bytes":  665015,
+        "sha256":  "17A4626FC2F6B23A487A6705503A1D760D7D1924C2DE72418544BE537F4B443F"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\gamma-squadron.png",
+        "extension":  ".png",
+        "bytes":  51900,
+        "sha256":  "DB969CA96BA43D93E596A101A89CBE4BF75269CED4F2B5D7420A4F554120EA50"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\gar-saxon.png",
+        "extension":  ".png",
+        "bytes":  486185,
+        "sha256":  "FE036C64ECDA827A213C3C0B3F659C28C618D9770BD41FF9E560925002F33FF5"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\howlrunner.png",
+        "extension":  ".png",
+        "bytes":  496429,
+        "sha256":  "C51CA1B2E522C809B5F32EC41D45D58D75AE86FFF4A9574FFEFBEF75EB3E8A24"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\ig-88.png",
+        "extension":  ".png",
+        "bytes":  517064,
+        "sha256":  "456B189526F4F8AF48D170B523EDB3F177047F249A4B1B02A6AB44CEE171B87C"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\jumpmaster-5000.png",
+        "extension":  ".png",
+        "bytes":  479504,
+        "sha256":  "A440AFC418DF11B2837107A5A6D2FC0C5B0744D27BE48663BC1DCCAC05EE176B"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\lambda-class-shuttle.png",
+        "extension":  ".png",
+        "bytes":  470295,
+        "sha256":  "48FBD9DF5CF5F42DAAAF758C2C8FE0EFCB705F30A93FF3A55F12EFB7E6049F4F"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\maarek-stele.png",
+        "extension":  ".png",
+        "bytes":  529618,
+        "sha256":  "66D3A4F0CF3CE84940428C00F3FC7CA2EE4A7A6AFD65B9BBEF5E4705BD872E2A"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\major-rhymer.png",
+        "extension":  ".png",
+        "bytes":  44702,
+        "sha256":  "09A625DD845DE3375FDF41FE89BB5ED58FDF5E2389887F72A4277A6A167D10B5"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\mandalorian-gauntlet-fighter.png",
+        "extension":  ".png",
+        "bytes":  479052,
+        "sha256":  "CFA42F1FA645305215A422FF5991E489367455B4A674C5FF075DB6764036F503"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\mauler-mithel.png",
+        "extension":  ".png",
+        "bytes":  46260,
+        "sha256":  "0102B12CFB3795B4FA2C84F58299B250F2A1A368BB1CAADBB6A61D4E81CF9848"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\morna-kee.png",
+        "extension":  ".png",
+        "bytes":  519807,
+        "sha256":  "AED541345C0D6CA1D8534494C709B2A0B3E9884AB1E9F8D43E2039057EEE4ED1"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\saber-squadron.png",
+        "extension":  ".png",
+        "bytes":  50451,
+        "sha256":  "48DFD87D0B568E00CDB1627954FDAE437110A1C9C360DEE77EE0831BFBE5EE22"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\soontir-fel.png",
+        "extension":  ".png",
+        "bytes":  44672,
+        "sha256":  "413A55859DCB1B44584C37EE9DB36699BDCA17DFE3E92463246ACF3F94E05D60"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\tempest-squadron.png",
+        "extension":  ".png",
+        "bytes":  62565,
+        "sha256":  "1EB6B03BF432E21396EEB761FAC38BE53F01A48980CB3865F83499E350A1235C"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\tie-advanced-squadron.png",
+        "extension":  ".png",
+        "bytes":  37532,
+        "sha256":  "65AA93E0E3E356B71A3530A7027AB43ADE1ACF13C24685F29B122B78605B669B"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\tie-bomber-squadron.png",
+        "extension":  ".png",
+        "bytes":  41561,
+        "sha256":  "3C04093923A30798370A73608FC340981ED44F2C5421E6453172C27110BC23AB"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\tie-defender-squadron.png",
+        "extension":  ".png",
+        "bytes":  516906,
+        "sha256":  "89B7285EE2EAB78FE98BDC2C1B89C3E34855AA315E6ADA0596B6C523063D87A5"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\tie-fighter-squadron.png",
+        "extension":  ".png",
+        "bytes":  520160,
+        "sha256":  "05C8B43FAD6F98526CC8CB2443116753512198A2304412C25F9F6751E5B63CC0"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\tie-interceptor-squadron.png",
+        "extension":  ".png",
+        "bytes":  44238,
+        "sha256":  "C5D3A64899FF1248F12BC371B66ECB95486DFD7E242407DCA3D83F7A11A0A957"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\tie-phantom-squadron.png",
+        "extension":  ".png",
+        "bytes":  455177,
+        "sha256":  "79CCBC244704C1FDF1BE9183C278301FE373DF69BA56014E47C2173D10F7177C"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\valen-rudor.png",
+        "extension":  ".png",
+        "bytes":  46368,
+        "sha256":  "3FD03B899E443A0190983E3E2208879C06B61A0182963DA31AEB3FA33E023981"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\vt-49-decimator.png",
+        "extension":  ".png",
+        "bytes":  481016,
+        "sha256":  "CE335DD261F4C5790FA8B6BE24E55FCCE3EC93F410292A0FC5CA288509EA2920"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\whisper.png",
+        "extension":  ".png",
+        "bytes":  528528,
+        "sha256":  "EF6642A0E0632DE06013EA6910BFE3BCA02ED1251DC2F513B9414381AD7CDB00"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\yv-666.png",
+        "extension":  ".png",
+        "bytes":  500432,
+        "sha256":  "3D9FA99E147635B014534BA7BC683CAC85F856F3740AFAC652EA75CF98FAF704"
+    },
+    {
+        "file":  "image\\squadron-card\\galactic-empire\\zertik-strom.png",
+        "extension":  ".png",
+        "bytes":  58898,
+        "sha256":  "EAA0DDFB8171D1CD9B70B621EA2A3E8F0F62B96DFA1D83860BF542ED462733BE"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\a-wing-squadron.png",
+        "extension":  ".png",
+        "bytes":  50298,
+        "sha256":  "2E654FA5CB1F1E1DAFB76D74201ECF5BCDB0E275FFBAD2E46188E32E04E1FC33"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\b-wing-squadron.png",
+        "extension":  ".png",
+        "bytes":  43409,
+        "sha256":  "E37F31BAD19429A69BA7A3258FDBF446EDF23504028DF3656B59DFD1F9DFE2E2"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\biggs-darklighter.png",
+        "extension":  ".png",
+        "bytes":  63276,
+        "sha256":  "B316E20DE23E2E4EE67EFDB25C2A9F2B30BF30681469169953ACA939CEBBB605"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\corran-horn.png",
+        "extension":  ".png",
+        "bytes":  72617,
+        "sha256":  "42E861A96F1B7B05D193BB889DB569BE668E6176752A78E1912A32E587E5E607"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\dagger-squadron.png",
+        "extension":  ".png",
+        "bytes":  75548,
+        "sha256":  "A859A729E9C27443384410B5094C1393A16588662C6FA45236443F09452CBF0E"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\dash-rendar.png",
+        "extension":  ".png",
+        "bytes":  503037,
+        "sha256":  "21B5C04336AFBE37324B597E64DDDE25055B60CD61AE6497060C0598651A7375"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\dutch-vander.png",
+        "extension":  ".png",
+        "bytes":  47489,
+        "sha256":  "D454AB3AE98B0899B37AF62E4611F16B4F96FC74B244FFB266272991044AFBD5"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\e-wing-squadron.png",
+        "extension":  ".png",
+        "bytes":  58286,
+        "sha256":  "5E97248D181009B13A397CE67C21B1B67D32B1721FC3D8B5D435DD9F2F49F7DE"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\gold-squadron.png",
+        "extension":  ".png",
+        "bytes":  57144,
+        "sha256":  "A73504E8912F4307E33AA4EEC5627D5664354E7FF25BB41F57B6D2BEF3453E24"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\green-squadron.png",
+        "extension":  ".png",
+        "bytes":  81806,
+        "sha256":  "681F0CBECA0B16B32A9D9E660CC1785BA3E8B4F684755EA4F1CE298397C6652C"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\han-solo.png",
+        "extension":  ".png",
+        "bytes":  512235,
+        "sha256":  "A82BC5C5B2FC9A8D9F9631059DE9462B5877C0A02576AA80D381C67641E0E114"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\hera-syndulla.png",
+        "extension":  ".png",
+        "bytes":  51919,
+        "sha256":  "4040521C6E5A1937D279041DF6293BC8FB85B3590FEAC8D80BE270F10DD74E1F"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\hwk-290.png",
+        "extension":  ".png",
+        "bytes":  508900,
+        "sha256":  "4479161F508CAFC9126F24F350E6E5F10E93891DA38388A0F4CF80D3740187D7"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\jan-ors.png",
+        "extension":  ".png",
+        "bytes":  526089,
+        "sha256":  "ACF9FD075DD1194B1385E20856751003A8EF6939E0C4328E31574376CEAB575B"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\ketsu-onyo.png",
+        "extension":  ".png",
+        "bytes":  76049,
+        "sha256":  "A839A7A17188AE2020FCC3F5D21C2E69425FEB95DFEEB18A6B21AD54C8307DDB"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\keyan-farlander.png",
+        "extension":  ".png",
+        "bytes":  49460,
+        "sha256":  "F7FB49231275D22F177F4D15317B14BD4ABFE37EDE18509D2F1DD5A14C732629"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\lancer-class-pursuit-craft.png",
+        "extension":  ".png",
+        "bytes":  56795,
+        "sha256":  "A50E2AF38BB591F1D899F2C6E1D631CD2ABDDB69C156C3DB1CE8365CD6315C31"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\lieutenant-blount.png",
+        "extension":  ".png",
+        "bytes":  75617,
+        "sha256":  "8DBC275AE8CE7790A380E5F8F5977474136F2ED24048B77A2DC85FD0C1AEF8EB"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\luke-skywalker.png",
+        "extension":  ".png",
+        "bytes":  508607,
+        "sha256":  "F2DD702FD0DB7556E15E8CCFA05DF6A802E50059CFE4F588525C97D47C893FD2"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\norra-wexley.png",
+        "extension":  ".png",
+        "bytes":  59966,
+        "sha256":  "9280E4A9EA64FA5FB114AC011305BA7E6264E496039826F5B6E6843EFFADBDF0"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\nym.png",
+        "extension":  ".png",
+        "bytes":  514186,
+        "sha256":  "6364AFBB31394608C0852AD67AF7C0956B4750C419F091417D284E9E5FEAE6D8"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\rebel-alliance-back.png",
+        "extension":  ".png",
+        "bytes":  580430,
+        "sha256":  "9C641CA0DB762F7FE4C76A101EA831697E367B523527C50875F76040640B163F"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\rogue-squadron.png",
+        "extension":  ".png",
+        "bytes":  52323,
+        "sha256":  "0057CC664431B075715732D190C1F647C1B1B90354748BB3E2358622C533DE30"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\scurrg-h-6-bomber.png",
+        "extension":  ".png",
+        "bytes":  501865,
+        "sha256":  "8860A0F3BAABB3066E7050F2ADB9DBBA12855F5633DF0D65D796AFD356DE5249"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\shara-bey.png",
+        "extension":  ".png",
+        "bytes":  57232,
+        "sha256":  "025AB92E6C32A4048933C486DD431EF096F5252F4CC256F603236B5A45F051FE"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\ten-numb.png",
+        "extension":  ".png",
+        "bytes":  63040,
+        "sha256":  "561F55B525A74F59AF3BEB6BA5C31CD6551BB20DEF279C92931A61D1C9C8CC6F"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\tycho-celchu.png",
+        "extension":  ".png",
+        "bytes":  54231,
+        "sha256":  "B2C7AC56402DD6E015F5789BFDF79DFE41550EF95E60A9B48ACFDCCD71508A8D"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\vcx-100-freighter.png",
+        "extension":  ".png",
+        "bytes":  55178,
+        "sha256":  "6303FBEA43D49652872254CDFCA8163331351BB96739E89724F3864C036AD852"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\wedge-antilles.png",
+        "extension":  ".png",
+        "bytes":  48408,
+        "sha256":  "B2979C367888EB20F888DE09EC853BC3F55C82F77EF453D5DB6B1B3D8E7D19F5"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\x-wing-squadron.png",
+        "extension":  ".png",
+        "bytes":  468566,
+        "sha256":  "05C936F227AFC8CA3343E6779C4074DC5C2D089650BF31BF2D003AA01F67A0C1"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\y-wing-squadron.png",
+        "extension":  ".png",
+        "bytes":  46282,
+        "sha256":  "541792F401D59B40D8EC1D2FD0D18AC159BFAB910B5755AC2535DAD1EF4C6247"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\yt-1300.png",
+        "extension":  ".png",
+        "bytes":  541985,
+        "sha256":  "D236C772817BF3E60C9C2C2B8ED2F54BE6D6E7E10E439C3C84AB7AE239B3FECB"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\yt-2400.png",
+        "extension":  ".png",
+        "bytes":  470843,
+        "sha256":  "705F9755B775EF3A3EF0495DCF0774797A7B16902F4F78D6C9D186654D9134A2"
+    },
+    {
+        "file":  "image\\squadron-card\\rebel-alliance\\z-95-headhunter-squadron.png",
+        "extension":  ".png",
+        "bytes":  50459,
+        "sha256":  "EDAC24485A95280643A2B89020F6E45F61E321485FB07E243B4FDFDF8B734132"
+    },
+    {
+        "file":  "image\\upgrade-card\\commander\\admiral-ackbar.png",
+        "extension":  ".png",
+        "bytes":  246459,
+        "sha256":  "A96C3FF5A73A720432286F3B656D28EE7EE403A504B5A22320DC37F92350F8A0"
+    },
+    {
+        "file":  "image\\upgrade-card\\commander\\admiral-konstantine.png",
+        "extension":  ".png",
+        "bytes":  243009,
+        "sha256":  "55012BA5BF31A0AF9C6C1450C846295173BF62F859E0FE9C66E1E74BF37A37B0"
+    },
+    {
+        "file":  "image\\upgrade-card\\commander\\admiral-motti.png",
+        "extension":  ".png",
+        "bytes":  32446,
+        "sha256":  "CFE95E4EF869502A202665E313159636515954A9137E5CDA43F01332E515C4ED"
+    },
+    {
+        "file":  "image\\upgrade-card\\commander\\admiral-ozzel.png",
+        "extension":  ".png",
+        "bytes":  28921,
+        "sha256":  "1DC6AC1F50C318B01B1E3FD1AF3EDA644DDE8653BA647E289E591BD607DF5DD9"
+    },
+    {
+        "file":  "image\\upgrade-card\\commander\\admiral-raddus.png",
+        "extension":  ".png",
+        "bytes":  244393,
+        "sha256":  "1DD703BEB2A615F09FEE0B395ECCAFFFAA788AF41A7297180D3240BB94F3343D"
+    },
+    {
+        "file":  "image\\upgrade-card\\commander\\admiral-screed.png",
+        "extension":  ".png",
+        "bytes":  247848,
+        "sha256":  "AA9C766E0D949F47D2C193BA94BEEAAF8AAC745F6DF9BED20A13A15C5966CA67"
+    },
+    {
+        "file":  "image\\upgrade-card\\commander\\admiral-sloane.png",
+        "extension":  ".png",
+        "bytes":  33915,
+        "sha256":  "88051C7A5A7B9A150BE1B78EEF8DE7BAF56A66B44CCA0E4A4EA122A84816984E"
+    },
+    {
+        "file":  "image\\upgrade-card\\commander\\commander-back.png",
+        "extension":  ".png",
+        "bytes":  287715,
+        "sha256":  "45FF20708A05C923AEDFF1F1A48340753C218CDA2709A2EABB1608B0A86A50D6"
+    },
+    {
+        "file":  "image\\upgrade-card\\commander\\commander-sato.png",
+        "extension":  ".png",
+        "bytes":  35109,
+        "sha256":  "A32AD547EE90A51569D972C0E7D627D7B7F1682311D27860F87B6ACAAAF5BB82"
+    },
+    {
+        "file":  "image\\upgrade-card\\commander\\darth-vader.png",
+        "extension":  ".png",
+        "bytes":  243460,
+        "sha256":  "5AF294EFC853BD4CFE8FFD04B9329E87FD22202C36E87D20F5835A2169CD8C23"
+    },
+    {
+        "file":  "image\\upgrade-card\\commander\\garm-bel-iblis.png",
+        "extension":  ".png",
+        "bytes":  221836,
+        "sha256":  "14095ED13FD12AB554DE3244A7D222611C5F0023D49C91C4F81497CAD1979A62"
+    },
+    {
+        "file":  "image\\upgrade-card\\commander\\general-cracken.png",
+        "extension":  ".png",
+        "bytes":  31008,
+        "sha256":  "E301381B58994A85A6EF01447B4CEC30F678AF789BEF370C1667BD0B20A392D7"
+    },
+    {
+        "file":  "image\\upgrade-card\\commander\\general-dodonna.png",
+        "extension":  ".png",
+        "bytes":  243115,
+        "sha256":  "0A3549505E4C186189047B26B9C1B3C40127E4DF5103BDC86CB0508510DBC44F"
+    },
+    {
+        "file":  "image\\upgrade-card\\commander\\general-madine.png",
+        "extension":  ".png",
+        "bytes":  234094,
+        "sha256":  "AB53604124D624C8EFCF7B7E5A324B1152198B6849498F5336293E1F1F0B8112"
+    },
+    {
+        "file":  "image\\upgrade-card\\commander\\general-rieekan.png",
+        "extension":  ".png",
+        "bytes":  233518,
+        "sha256":  "0E88F0EA4F5A48F2EB225D45DDB7186A04BD44697C469B36AC4F92D02195BA2D"
+    },
+    {
+        "file":  "image\\upgrade-card\\commander\\general-tagge.png",
+        "extension":  ".png",
+        "bytes":  247471,
+        "sha256":  "1BDC3D8F69F2E4CD0FCFF9151047328B03F3902E3ABFB34A2226225A2726FEAC"
+    },
+    {
+        "file":  "image\\upgrade-card\\commander\\grand-admiral-thrawn.png",
+        "extension":  ".png",
+        "bytes":  257840,
+        "sha256":  "9E117F991D0B35F3A2E5606333E3B101F379F7F5FC8C7DED2934DD7AB1126320"
+    },
+    {
+        "file":  "image\\upgrade-card\\commander\\grand-moff-tarkin.png",
+        "extension":  ".png",
+        "bytes":  226151,
+        "sha256":  "8687CC76CF33A604CB3E63D0409CAD1AF9B55A0B45E839FC9C786414EDDB830C"
+    },
+    {
+        "file":  "image\\upgrade-card\\commander\\leia-organa.png",
+        "extension":  ".png",
+        "bytes":  33380,
+        "sha256":  "200E5662C7EADA83391BC85168234C57D27575F5AADAB7ECEECC178623EBD47D"
+    },
+    {
+        "file":  "image\\upgrade-card\\commander\\moff-jerjerrod.png",
+        "extension":  ".png",
+        "bytes":  31218,
+        "sha256":  "37E945EA7C946DD2A8BD62D53592AFCE7BDEB7ED9FAD039705FE01805141FE5B"
+    },
+    {
+        "file":  "image\\upgrade-card\\commander\\mon-mothma.png",
+        "extension":  ".png",
+        "bytes":  29832,
+        "sha256":  "371BFDAE431CC99D66C4151640073AA7F69F571932346C10650B305D8E4F5796"
+    },
+    {
+        "file":  "image\\upgrade-card\\defensive-retrofit\\advanced-projectors.png",
+        "extension":  ".png",
+        "bytes":  250278,
+        "sha256":  "E135E27D60DB5AD77A39BF0B31BCED0E3F04016F567DA5F175D6BD46AF3E2BDC"
+    },
+    {
+        "file":  "image\\upgrade-card\\defensive-retrofit\\cluster-bombs.png",
+        "extension":  ".png",
+        "bytes":  264638,
+        "sha256":  "688E472B13A2DBF17B044461BC48EE521A4B660418B6566BF98ADAB2A6757BAF"
+    },
+    {
+        "file":  "image\\upgrade-card\\defensive-retrofit\\defensive-retrofit-back.png",
+        "extension":  ".png",
+        "bytes":  284592,
+        "sha256":  "46138FCFA49AB45B2519F5D904377082497D4A3278673678534339C511FEE6A5"
+    },
+    {
+        "file":  "image\\upgrade-card\\defensive-retrofit\\early-warning-system.png",
+        "extension":  ".png",
+        "bytes":  252569,
+        "sha256":  "D023A81B20E394441C10D7249D3A87DE0DBD92728B88AFED3944CA7943030BD6"
+    },
+    {
+        "file":  "image\\upgrade-card\\defensive-retrofit\\electronic-countermeasures.png",
+        "extension":  ".png",
+        "bytes":  231190,
+        "sha256":  "03AAD1893F11320309B0A2A4082854F19EF4050A2AAD529016729393AFE044A5"
+    },
+    {
+        "file":  "image\\upgrade-card\\defensive-retrofit\\redundant-shields.png",
+        "extension":  ".png",
+        "bytes":  222583,
+        "sha256":  "373C792F6C57FBCCC6372A1279812EA72BC6E2C6F2A9262984AB38DDE25F8D90"
+    },
+    {
+        "file":  "image\\upgrade-card\\defensive-retrofit\\reinforced-blast-doors.png",
+        "extension":  ".png",
+        "bytes":  32464,
+        "sha256":  "FB398771A81B5919A5AF369517F6FE9A01F26E9C299F619CCC24DCB329733922"
+    },
+    {
+        "file":  "image\\upgrade-card\\experimental-retrofit\\experimental-retrofit-back.png",
+        "extension":  ".png",
+        "bytes":  290700,
+        "sha256":  "5BE25AA719C1CA0A0EB2A70EEFDFAB0F33D087E0C028B5A6D36A9CB30414634B"
+    },
+    {
+        "file":  "image\\upgrade-card\\experimental-retrofit\\g-8-experimental-projector.png",
+        "extension":  ".png",
+        "bytes":  255530,
+        "sha256":  "5D0E32FFA9E5246A8A37B936918E417620005AF2C9BAE47048C6A4D8C598204A"
+    },
+    {
+        "file":  "image\\upgrade-card\\experimental-retrofit\\g7-x-grav-well-projector.png",
+        "extension":  ".png",
+        "bytes":  245306,
+        "sha256":  "5908E4C7CCF261A3FC9A24733C277A6AED5011464136070D7EAD7E6F41842174"
+    },
+    {
+        "file":  "image\\upgrade-card\\experimental-retrofit\\grav-shift-reroute.png",
+        "extension":  ".png",
+        "bytes":  261106,
+        "sha256":  "7ED2E56A672076905E18D481D16C24A3DBA2F2B4A4EE2A453A9C82D0489B2AC9"
+    },
+    {
+        "file":  "image\\upgrade-card\\experimental-retrofit\\targeting-scrambler.png",
+        "extension":  ".png",
+        "bytes":  255747,
+        "sha256":  "32267CF81DC880E27F192B5236529786FD52123645DC48A07FCF7D89B13AC7BA"
+    },
+    {
+        "file":  "image\\upgrade-card\\fleet-command\\all-fighters-follow-me.png",
+        "extension":  ".png",
+        "bytes":  30859,
+        "sha256":  "461B186BA14922CCA10E4368805DE340B35F2A2CC04BD2D098EB3287AABAA387"
+    },
+    {
+        "file":  "image\\upgrade-card\\fleet-command\\entrapment-formation.png",
+        "extension":  ".png",
+        "bytes":  243269,
+        "sha256":  "00F66542C1BE3FE74CF0ED77C0B6DDB268996C0AA4A2909FD3A7B2B7F1696067"
+    },
+    {
+        "file":  "image\\upgrade-card\\fleet-command\\fleet-command-back.png",
+        "extension":  ".png",
+        "bytes":  285118,
+        "sha256":  "A41E3584A9B92D7B2FE7F90C4E8C257CD16B9AE801D24B2251E990BF92D80BCD"
+    },
+    {
+        "file":  "image\\upgrade-card\\fleet-command\\intensify-firepower.png",
+        "extension":  ".png",
+        "bytes":  254826,
+        "sha256":  "5A0D014D3F2977AEF0301BA90948E022F890940B39CC5C6C63694733D90E4A18"
+    },
+    {
+        "file":  "image\\upgrade-card\\fleet-command\\shields-to-maximum.png",
+        "extension":  ".png",
+        "bytes":  257979,
+        "sha256":  "DA7FC23106402D68FEA18BA8DC7D5E16AD8F6F46A6588F42D24823E903C7F89A"
+    },
+    {
+        "file":  "image\\upgrade-card\\fleet-support\\bomber-command-center.png",
+        "extension":  ".png",
+        "bytes":  241343,
+        "sha256":  "F3FD74C1F47C076F13FE8963D76FA19600AE1BA3393ED3A15DDBD7460DF2BE3A"
+    },
+    {
+        "file":  "image\\upgrade-card\\fleet-support\\comms-net.png",
+        "extension":  ".png",
+        "bytes":  250501,
+        "sha256":  "8798E0BE7068B590FC9322C44E61DD19BC9DB0F8A00E9D27329974FB79BF4B27"
+    },
+    {
+        "file":  "image\\upgrade-card\\fleet-support\\fleet-support-back.png",
+        "extension":  ".png",
+        "bytes":  292119,
+        "sha256":  "17F266320045664C4FBA614C47A192A66F6BC98DDFAAAD0FB2DD95735B522133"
+    },
+    {
+        "file":  "image\\upgrade-card\\fleet-support\\jamming-field.png",
+        "extension":  ".png",
+        "bytes":  231347,
+        "sha256":  "63068C7EE78B189A4E695E07EB1A721719817FF095DE3BD2A1D1A735463A6CB6"
+    },
+    {
+        "file":  "image\\upgrade-card\\fleet-support\\repair-crews.png",
+        "extension":  ".png",
+        "bytes":  35933,
+        "sha256":  "0FE4FF0CE196FDD27ECE3E2D72AC60DB6D8D1D3DE9C7528192CCB2CEF6F1E9B8"
+    },
+    {
+        "file":  "image\\upgrade-card\\fleet-support\\slicer-tools.png",
+        "extension":  ".png",
+        "bytes":  244044,
+        "sha256":  "323A7F6C7D02EF4E4C9D76E1E73FFD6451EF41FDC5A9C4451756106C0D64C18D"
+    },
+    {
+        "file":  "image\\upgrade-card\\ion-cannons\\heavy-ion-emplacements.png",
+        "extension":  ".png",
+        "bytes":  221864,
+        "sha256":  "976E1121AFFF9409BD08D3F5269800EDF9749404A05E861E107CC1190275E5C0"
+    },
+    {
+        "file":  "image\\upgrade-card\\ion-cannons\\high-capacity-ion-turbines.png",
+        "extension":  ".png",
+        "bytes":  227580,
+        "sha256":  "237696ECE042432B91BE9DCE59177867D98BE98361702F5D09EBB28371AFFF98"
+    },
+    {
+        "file":  "image\\upgrade-card\\ion-cannons\\ion-cannon-batteries.png",
+        "extension":  ".png",
+        "bytes":  34273,
+        "sha256":  "C385246D1BFCA47FF49EF921971DB578138BB5460EFCAECAC8F7C06CD5CD7C5B"
+    },
+    {
+        "file":  "image\\upgrade-card\\ion-cannons\\ion-cannons-back.png",
+        "extension":  ".png",
+        "bytes":  284094,
+        "sha256":  "8DA8A911FD6EF4A9CB6B493D49D60BE76034AA73E6392D289BA0F0E837560955"
+    },
+    {
+        "file":  "image\\upgrade-card\\ion-cannons\\leading-shots.png",
+        "extension":  ".png",
+        "bytes":  235293,
+        "sha256":  "C0834AB89538D204F298DE25633A7E624D5F5042BE23113C16A2BDDEEB83CA1C"
+    },
+    {
+        "file":  "image\\upgrade-card\\ion-cannons\\ms-1-ion-cannons.png",
+        "extension":  ".png",
+        "bytes":  229119,
+        "sha256":  "5257025042BC70E9B24DC9A4628C4A7145705CC86E02D63EABDA9862EE9F3D96"
+    },
+    {
+        "file":  "image\\upgrade-card\\ion-cannons\\nk-7-ion-cannons.png",
+        "extension":  ".png",
+        "bytes":  244596,
+        "sha256":  "6544E1114692343B1136C5691C070D1243B9068B51AF329794A0DEFB849E43AB"
+    },
+    {
+        "file":  "image\\upgrade-card\\ion-cannons\\overload-pulse.png",
+        "extension":  ".png",
+        "bytes":  228395,
+        "sha256":  "0C6731DAA8F4731ED1BCF473FA3330218B3112C1B3A58ECD7156DEC6F7D37233"
+    },
+    {
+        "file":  "image\\upgrade-card\\ion-cannons\\sw-7-ion-batteries.png",
+        "extension":  ".png",
+        "bytes":  245910,
+        "sha256":  "BF648F7E58C4BF07B09437A09EE3A613D85EC6A154FEF8D2A10E31150C92337F"
+    },
+    {
+        "file":  "image\\upgrade-card\\offensive-retrofit\\boosted-comms.png",
+        "extension":  ".png",
+        "bytes":  238040,
+        "sha256":  "E21BC11D9FF47E9E499372758B159F7108D8C036ABA6CC81D7486D8A704465C8"
+    },
+    {
+        "file":  "image\\upgrade-card\\offensive-retrofit\\disposable-capacitors.png",
+        "extension":  ".png",
+        "bytes":  31408,
+        "sha256":  "F50A62A66C13728DC8AC3D1290CE81136F97676D7CB236528E4B09FE7D8CB7BE"
+    },
+    {
+        "file":  "image\\upgrade-card\\offensive-retrofit\\expanded-hangar-bay.png",
+        "extension":  ".png",
+        "bytes":  243977,
+        "sha256":  "A1DAF4B9EE0CD3D6C78D9A15A99BF30066473F61B5B006FCAE432298FD078647"
+    },
+    {
+        "file":  "image\\upgrade-card\\offensive-retrofit\\hardened-bulkheads.png",
+        "extension":  ".png",
+        "bytes":  259252,
+        "sha256":  "0E1AEB2B3988C97BAA92F0860BE3328E832C585ADC614F7DE9F94CBF908E26B6"
+    },
+    {
+        "file":  "image\\upgrade-card\\offensive-retrofit\\offensive-retrofit-back.png",
+        "extension":  ".png",
+        "bytes":  285603,
+        "sha256":  "8199B72BF65D12E2C217DDC381FAD698C17D23BA88E28347887787031FE1C912"
+    },
+    {
+        "file":  "image\\upgrade-card\\offensive-retrofit\\phylon-q7-tractor-beams.png",
+        "extension":  ".png",
+        "bytes":  258680,
+        "sha256":  "FD316CD18BB737725540A0939473E1F2FBF6BC990357F116B1ED70B1F468D339"
+    },
+    {
+        "file":  "image\\upgrade-card\\offensive-retrofit\\point-defense-reroute.png",
+        "extension":  ".png",
+        "bytes":  244922,
+        "sha256":  "B9D1FDB61B93F55B7F0B339D720AEDCA7CDC03725B3D61623E0545F04E8A0A51"
+    },
+    {
+        "file":  "image\\upgrade-card\\offensive-retrofit\\quad-laser-turrets.png",
+        "extension":  ".png",
+        "bytes":  230440,
+        "sha256":  "95EE7C5DE34A5095B7670A61A61C2C8BADDCCACE7204752060C9EA0381B4C325"
+    },
+    {
+        "file":  "image\\upgrade-card\\offensive-retrofit\\rapid-launch-bays.png",
+        "extension":  ".png",
+        "bytes":  42433,
+        "sha256":  "5F5751253C85D4BEEE40D4FCC6A530204CA3E3EC95147F30787B3061753723CF"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\adar-tallon.png",
+        "extension":  ".png",
+        "bytes":  243500,
+        "sha256":  "41058C5B3091BC689ECCF5D38BAB69DF9BDD7F499B0371C1CB2DF2214844CA43"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\admiral-chiraneau.png",
+        "extension":  ".png",
+        "bytes":  244553,
+        "sha256":  "3FC9E329C6DCCCEE0E62F62388F35ED3D373C732F96D76DA4FDD276D0B968402"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\admiral-montferrat.png",
+        "extension":  ".png",
+        "bytes":  34218,
+        "sha256":  "8D5BF3AB473D5F05E59B3476D63276801AFC9A3F414B9CBA75470F5FA9604F68"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\admiral-titus.png",
+        "extension":  ".png",
+        "bytes":  233636,
+        "sha256":  "B9E652F81D8F0F3C05B1DCD5371D9470DFD3A7DAFB5E04F7D0228B90E23C8774"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\agent-kallus.png",
+        "extension":  ".png",
+        "bytes":  231634,
+        "sha256":  "2640C00295E236F67F4F3296F6F5502ABCCFBA7A6C525844879F827D4EC2A505"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\ahsoka-tano.png",
+        "extension":  ".png",
+        "bytes":  34739,
+        "sha256":  "2C5AF4E9D52D9B417E71059844A3A705BC8EA3E4245F59D0208124E91DF38225"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\bail-organa.png",
+        "extension":  ".png",
+        "bytes":  254722,
+        "sha256":  "6E9BBBF6C379FBC24652B10FB83608EAE07CDFD645D75BC4622DF1D8A939F1BE"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\captain-brunson.png",
+        "extension":  ".png",
+        "bytes":  251612,
+        "sha256":  "ED6E4A30A872F124D84DA66655A9274F46EB0B530009569CEFB3B5A263C48CD9"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\captain-needa.png",
+        "extension":  ".png",
+        "bytes":  229634,
+        "sha256":  "03EFF9A97580581FC1790E54665DA6DC3462DAEFBE6ACA86CD9FA549BF3BF06B"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\chart-officer.png",
+        "extension":  ".png",
+        "bytes":  245310,
+        "sha256":  "DE5ACD2DF551CF4C259A07BE82C1CCA7E112B0A52BCF064D6D3049ACA1A3047D"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\commandant-aresko.png",
+        "extension":  ".png",
+        "bytes":  251322,
+        "sha256":  "637BF38261F72311F3FC59A6EF073D0D4A4A0C4F5B23C7327A59BB863443B81F"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\damage-control-officer.png",
+        "extension":  ".png",
+        "bytes":  35014,
+        "sha256":  "7ABB8A17CA5F5B3718FE9A1A024794360410C58E9836BB5F6399C681A965585D"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\defense-liaison.png",
+        "extension":  ".png",
+        "bytes":  249194,
+        "sha256":  "34B0982784FF64B72ED082DBC6A6D8BF6674EDB72E60DF7B12AA04D8DF16B60C"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\director-isard.png",
+        "extension":  ".png",
+        "bytes":  29913,
+        "sha256":  "C4443DDDD1321BC2F7C46BD1CF35DAC234494098988A236C5CA7175E8A5BD654"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\engineering-captain.png",
+        "extension":  ".png",
+        "bytes":  236822,
+        "sha256":  "327A465860FFD0CC89C5E919CD9E3C1F5B15D7D4C249C14CB366A340A2BC92B8"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\flight-commander.png",
+        "extension":  ".png",
+        "bytes":  242816,
+        "sha256":  "62AB9EB7EC720F2E43662F5D5A1F3BCB5683540574D99318C3513D80C0861471"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\general-draven.png",
+        "extension":  ".png",
+        "bytes":  243552,
+        "sha256":  "E90987FDA24B72382E9D84D55C5667CF893F33554B5446F093ED7AEDD092DCD5"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\governor-pryce.png",
+        "extension":  ".png",
+        "bytes":  250201,
+        "sha256":  "8B55BAE95F4EC155282EDC12E2BBD7A769AF10A7B178314FDB624EE411B4DD2D"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\hondo-ohnaka.png",
+        "extension":  ".png",
+        "bytes":  35261,
+        "sha256":  "762E6580B203520F93098B25C3C7EC4FDE0511D0C9D580610682DBEEBD7330DB"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\instructor-goran.png",
+        "extension":  ".png",
+        "bytes":  227459,
+        "sha256":  "1E73D24383347DD23C3BC0F72419BD1CBDF8C7364E82660C13BB972798CA7273"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\intel-officer.png",
+        "extension":  ".png",
+        "bytes":  247319,
+        "sha256":  "2D4855F68FE675E6192817EAB672DD17CDEBD7377E9330C2FA4E5D37A85527C1"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\lando-calrissian.png",
+        "extension":  ".png",
+        "bytes":  249779,
+        "sha256":  "15662435E4F55062C933F47F8918218AB4BF2746637ED7ABCA97EE935D334BAA"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\leia-organa.png",
+        "extension":  ".png",
+        "bytes":  251430,
+        "sha256":  "DD23096A070C3E2FA1724348947A6C7FE920261D24A938A11E8370A11F6A652E"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\major-derlin.png",
+        "extension":  ".png",
+        "bytes":  33691,
+        "sha256":  "4F33C3973FFB7F90747EA7CAC4E059DBF76D2E3CAE019AC1894AB495AF77ACD6"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\minister-tua.png",
+        "extension":  ".png",
+        "bytes":  33341,
+        "sha256":  "A18ED08249CCCD6D8AFFA1A325666C793307FF6D372E38A6394937C5EDA3CC0C"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\navigation-officer.png",
+        "extension":  ".png",
+        "bytes":  241826,
+        "sha256":  "08530F505975AD10ED2C9B5EAFEA90329B69FB3B33569A039F893BA161A7EEB4"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\officer-back.png",
+        "extension":  ".png",
+        "bytes":  284032,
+        "sha256":  "0A176DCF5796428384FF9F7751202562A8852521001970C6D0593410D1218A25"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\raymus-antilles.png",
+        "extension":  ".png",
+        "bytes":  32751,
+        "sha256":  "3CED31CDAAB963DB200BA1C853847029F6E7533DCCE08F6548A618A18E5120D2"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\skilled-first-officer.png",
+        "extension":  ".png",
+        "bytes":  224036,
+        "sha256":  "40564E053C0FA07407AA9469FED13281E1A3D7D41A1778CD4B667F0CA34812AC"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\strategic-adviser.png",
+        "extension":  ".png",
+        "bytes":  245545,
+        "sha256":  "A22BE4B8C709A0461028DC9AFD649787D231250FA705F781A89840914D2486E2"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\support-officer.png",
+        "extension":  ".png",
+        "bytes":  248214,
+        "sha256":  "F090CDC5C4A58413E9F0F1722FD7B3ECF456733314FA131ECAF5824AF648FB7D"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\tactical-expert.png",
+        "extension":  ".png",
+        "bytes":  223136,
+        "sha256":  "62E528BCF4BAFAE6B4ED66DC22626B1158B76D327C42344A0CFB2237FF0513AA"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\taskmaster-grint.png",
+        "extension":  ".png",
+        "bytes":  250039,
+        "sha256":  "9E65E77BD1C3965C97286DEE1A186C8B00FE9F60D61A2FCB0D65A1360EFC953A"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\the-grand-inquisitor.png",
+        "extension":  ".png",
+        "bytes":  31429,
+        "sha256":  "7F8211E0DB7F4EB54533EAB293BEE604ECF20A9875311380611CF557D75E2ACA"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\toryn-farr.png",
+        "extension":  ".png",
+        "bytes":  31860,
+        "sha256":  "1BF4C6F8C187568BAAEE44E8B960A46CD6A936CA27E503D3A3CE5111AEA8AB1B"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\veteran-captain.png",
+        "extension":  ".png",
+        "bytes":  245104,
+        "sha256":  "D63D74F6308EF10B4B8AC7C0C533830F10EAF6AB8BAA91BF6E93852E79BD4108"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\walex-blissex.png",
+        "extension":  ".png",
+        "bytes":  242548,
+        "sha256":  "5D9504D91A12F75D49E0ECE28C3CF6855CDF97E3BD02C1F0129AB2AEC46912D3"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\weapons-liaison.png",
+        "extension":  ".png",
+        "bytes":  245008,
+        "sha256":  "0604BAE217DE9936067B8604F1666D487DE503904EF603B0AE7FC32442604CA6"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\wing-commander.png",
+        "extension":  ".png",
+        "bytes":  244154,
+        "sha256":  "8BF78714734696C674D34235622CFF43A9666C040AE7A4D39809E742BD7A698A"
+    },
+    {
+        "file":  "image\\upgrade-card\\officer\\wulff-yularen.png",
+        "extension":  ".png",
+        "bytes":  239318,
+        "sha256":  "013D48DF2B51E5E3D6386D986197FD43004D83B5CA798BBFCD6E64E424DDB18A"
+    },
+    {
+        "file":  "image\\upgrade-card\\ordnance\\assault-concussion-missiles.png",
+        "extension":  ".png",
+        "bytes":  246709,
+        "sha256":  "3EB502F41B204269BC02FD7E4A58D9F0ED1AC114D2834FB8C285D020400941A1"
+    },
+    {
+        "file":  "image\\upgrade-card\\ordnance\\assault-proton-torpedoes.png",
+        "extension":  ".png",
+        "bytes":  229465,
+        "sha256":  "6ED8E6DF91E41341B0F799D93967E10D0549AF4AAC11D0F317B972229245E833"
+    },
+    {
+        "file":  "image\\upgrade-card\\ordnance\\expanded-launchers.png",
+        "extension":  ".png",
+        "bytes":  253163,
+        "sha256":  "F5B08385B8B08C5688C77190580FE250048D803CED3936A3DE258F34C713F8C6"
+    },
+    {
+        "file":  "image\\upgrade-card\\ordnance\\external-racks.png",
+        "extension":  ".png",
+        "bytes":  33311,
+        "sha256":  "4A2961CE13657E715A6A52344DCEF827F6974FAF97BBD71B32B7BA7386CFD144"
+    },
+    {
+        "file":  "image\\upgrade-card\\ordnance\\flechette-torpedoes.png",
+        "extension":  ".png",
+        "bytes":  38912,
+        "sha256":  "78AC93D8A86A5DFAB902FEAED9523A5FECB173D70E84287CE8474DA1903089B2"
+    },
+    {
+        "file":  "image\\upgrade-card\\ordnance\\ordnance-back.png",
+        "extension":  ".png",
+        "bytes":  288574,
+        "sha256":  "A329A301C9C32025D266FC8A76CEF4A6E5D13178AA7E951DAB11541FA528A368"
+    },
+    {
+        "file":  "image\\upgrade-card\\ordnance\\ordnance-pods.png",
+        "extension":  ".png",
+        "bytes":  244661,
+        "sha256":  "E3672166E2DA77132BF1B2470F282900377D325A75DE8049FF8BD83F34C1C9DA"
+    },
+    {
+        "file":  "image\\upgrade-card\\ordnance\\rapid-reload.png",
+        "extension":  ".png",
+        "bytes":  228997,
+        "sha256":  "615B13D03F77D3D4D7A74530478894408D18B16A1AADA210F14006C541073EC5"
+    },
+    {
+        "file":  "image\\upgrade-card\\ordnance\\wide-area-barrage.png",
+        "extension":  ".png",
+        "bytes":  260165,
+        "sha256":  "12220473912CCA76D2F920FB9DF13D2DDB2C7769ACAA41CC05F8829332771A53"
+    },
+    {
+        "file":  "image\\upgrade-card\\support-team\\engine-techs.png",
+        "extension":  ".png",
+        "bytes":  241410,
+        "sha256":  "84213B4EEDD61D288B56F1DC092A7F7A962663546A0F36FFE71918775424EC97"
+    },
+    {
+        "file":  "image\\upgrade-card\\support-team\\engineering-team.png",
+        "extension":  ".png",
+        "bytes":  239797,
+        "sha256":  "009CBEE92068B03A4887683CE84E541DD5EEED2CE86EFE46E3AB1A6A8EBF9F49"
+    },
+    {
+        "file":  "image\\upgrade-card\\support-team\\fighter-coordination-team.png",
+        "extension":  ".png",
+        "bytes":  238560,
+        "sha256":  "ADF04A75C5FD842A9A91FB20E91516A81C435A6817A435CC948CF193B13B243D"
+    },
+    {
+        "file":  "image\\upgrade-card\\support-team\\medical-team.png",
+        "extension":  ".png",
+        "bytes":  236215,
+        "sha256":  "2F788E50DD59EC0858AA553C475A9CCF731B0DD35DC1FAA987001AC8B3FBB84E"
+    },
+    {
+        "file":  "image\\upgrade-card\\support-team\\nav-team.png",
+        "extension":  ".png",
+        "bytes":  234614,
+        "sha256":  "6315452DE0FE54E0F3202A9BDDE8AC59A99D75F707673E54AB28F1BE49AD65B2"
+    },
+    {
+        "file":  "image\\upgrade-card\\support-team\\projection-experts.png",
+        "extension":  ".png",
+        "bytes":  240279,
+        "sha256":  "9FA05B71B1D1ED0AA226F39F7750FE6E22941F824DB5007088413E1F5175AF2F"
+    },
+    {
+        "file":  "image\\upgrade-card\\support-team\\support-team-back.png",
+        "extension":  ".png",
+        "bytes":  279919,
+        "sha256":  "8D639EA8275E07225450498A98A72F817594C52BA232F1B3FAA83F419459315C"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\admonition.png",
+        "extension":  ".png",
+        "bytes":  232763,
+        "sha256":  "ADEF1A5CFE517987F3FE6CDAEF3F3F60A286425F1F42A2DC16D746AB0C27C2BC"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\aspiration.png",
+        "extension":  ".png",
+        "bytes":  252137,
+        "sha256":  "DB3CBEEE7AF33C9F6AD505EBEE66E56CE75F282465D5DF127DFC6ECEEBF60DEA"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\avenger.png",
+        "extension":  ".png",
+        "bytes":  225347,
+        "sha256":  "CED9DE6C4F8E1BB2118700764A81B317C45BFED5CF9EE07FF61A45E846EA6976"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\bright-hope.png",
+        "extension":  ".png",
+        "bytes":  30748,
+        "sha256":  "B66852E821E14E89CBE9AD6FD698B979D7ABB4A20B8E225C5C511F3CF37B6807"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\centicore.png",
+        "extension":  ".png",
+        "bytes":  34881,
+        "sha256":  "21F2C125B01C8F8D702647D7993DA2038E61E3437A065AC0777C1EC750ED6B11"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\chimaera.png",
+        "extension":  ".png",
+        "bytes":  256630,
+        "sha256":  "1EF2567182BDE9ECCD4999B7D07A8F91F1715CB1A4B128944FB6F6161C43DADA"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\corrupter.png",
+        "extension":  ".png",
+        "bytes":  33862,
+        "sha256":  "17B83D9DDA0FE9D2828D6FA68D86DFA2747C29513D6200F859B690CA531E6ECA"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\defiance.png",
+        "extension":  ".png",
+        "bytes":  243400,
+        "sha256":  "E5868CBDFCE66FCF3E6C84149FC5D3BD36D2A1E74D14E57D2721CA2906A0D2D3"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\demolisher.png",
+        "extension":  ".png",
+        "bytes":  249093,
+        "sha256":  "2710709C9E743D3487F48B31603DE0D966EA1C7D66C114FAE17083B04550C694"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\devastator.png",
+        "extension":  ".png",
+        "bytes":  243119,
+        "sha256":  "AA7B7D17AFF25314B8BA8B91535A2F4D300FD4D17340AFCB02F4334694762EFC"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\dodonnas-pride.png",
+        "extension":  ".png",
+        "bytes":  240149,
+        "sha256":  "9035D67E4093F57355A34DFF12AB3C963262C6D6FD26B1111D3F7E52C2D133D1"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\dominator.png",
+        "extension":  ".png",
+        "bytes":  229414,
+        "sha256":  "C374AADEB18E3D6F0CD2A83F4BDD3D28F4ACCAEA28C441A8B017CACCD6F19952"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\endeavor.png",
+        "extension":  ".png",
+        "bytes":  231334,
+        "sha256":  "F33A6AE1448B0649C4C05FE399B4CAE8913D8D24986746C5C0D7706CBAA64FB7"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\foresight.png",
+        "extension":  ".png",
+        "bytes":  239481,
+        "sha256":  "7043EF7B42496144DC065C552396A6EE4F1426689CF55C0B6E2BB700748AF76B"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\gallant-haven.png",
+        "extension":  ".png",
+        "bytes":  230122,
+        "sha256":  "59BDFF7A21ED0C3B0FFD64715C8AE08939EEAF84E98BD6B7EC446C89D13C6ACD"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\garels-honor.png",
+        "extension":  ".png",
+        "bytes":  31662,
+        "sha256":  "99CFBCCF0208FE9692D86F93093A3A85249BCA8FE510FDD9BD14B887E6377B8C"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\hand-of-justice.png",
+        "extension":  ".png",
+        "bytes":  30034,
+        "sha256":  "ED2210B53BC42B2DBCEA8E6B98E40B744A0923875936BCC37884847B61E7121C"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\home-one.png",
+        "extension":  ".png",
+        "bytes":  253046,
+        "sha256":  "4826A32CE0FC1B7B3959E3E2A39533724B63AF402F7E0171CD022B66FADEA734"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\impetuous.png",
+        "extension":  ".png",
+        "bytes":  31885,
+        "sha256":  "55DC236F176CAA10DDDCC2DA1B4C9920E537CD95C7A7560A5CF14E45D6FBE070"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\independence.png",
+        "extension":  ".png",
+        "bytes":  237635,
+        "sha256":  "2C5D12B9C7E63D5B1A800AC29EB0CB9C13BEA5D66FC35CEBEDF923A92E933E02"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\insidious.png",
+        "extension":  ".png",
+        "bytes":  241609,
+        "sha256":  "88E34B8669BF959C933751A85FA9434AEB7C29EAF8E34565EDC1CC4C45829902"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\instigator.png",
+        "extension":  ".png",
+        "bytes":  31073,
+        "sha256":  "A6B41143D4A7F3115CE1E0218768300A7F0730FC104BE37813EEB4744BAD934E"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\interdictor.png",
+        "extension":  ".png",
+        "bytes":  228744,
+        "sha256":  "11A6418D9F8D015B50051AB0C1A89ECE9619061566E024D43EA8488C275F15F9"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\jainas-light.png",
+        "extension":  ".png",
+        "bytes":  33615,
+        "sha256":  "69C1FD83815BF8E6C27C28C63506A736D9BAFEC60A571804CC08200CF8114D92"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\liberty.png",
+        "extension":  ".png",
+        "bytes":  236414,
+        "sha256":  "DE168E8078F185250CF80E9FE08D825387291893913D3D732258BF21E01ADFBB"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\mon-calamari-exodus-fleet.png",
+        "extension":  ".png",
+        "bytes":  239280,
+        "sha256":  "C7D5226CB3FA53B4F10CDEFEAD0922F1354F0165EE73AE85E8A8B06036448754"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\mon-karren.png",
+        "extension":  ".png",
+        "bytes":  244005,
+        "sha256":  "FDA40703901376E1199FD2610BF0797BF642102E774F182121FD456F8EDAFD8E"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\paragon.png",
+        "extension":  ".png",
+        "bytes":  233657,
+        "sha256":  "CD5689BCE827CE03A72EBE9EE1A001B2132879769FB1CA75A6D4B929500ADAFE"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\phoenix-home.png",
+        "extension":  ".png",
+        "bytes":  33412,
+        "sha256":  "68A4D8B89C86BF1DDF638D99A452E4927B5B8FCD59A6B44325D2598B65D9B9F9"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\profundity.png",
+        "extension":  ".png",
+        "bytes":  251124,
+        "sha256":  "DE3236B3ACF4E3B6C1E3E60B76A7CD5CCC30935F8A632C24A9202413900A6FD8"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\pursuant.png",
+        "extension":  ".png",
+        "bytes":  30357,
+        "sha256":  "1812AEEE4C83C99D2F8FE438B88A091DACCB62C50785EEFD9C539E7CB9A597FB"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\quantum-storm.png",
+        "extension":  ".png",
+        "bytes":  30083,
+        "sha256":  "83615BB2DF70AF14E48C2643DF9EA5BD78B874122DBF03DF5D078880456D2437"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\redemption.png",
+        "extension":  ".png",
+        "bytes":  241027,
+        "sha256":  "83B3BE953C06A38CA63E22A7CA733DC948352C0ED860F8FB82177237D3FECF5E"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\relentless.png",
+        "extension":  ".png",
+        "bytes":  230664,
+        "sha256":  "60D5ED4F9D40131DFE3E89F08C6B563F1D39C029045B6C94EEACF2C8BBB0F725"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\salvation.png",
+        "extension":  ".png",
+        "bytes":  245055,
+        "sha256":  "B2F3666BD9C02FE88BF269C4F95A0DC9A8D14B7C6B38981B301EBD81C3523634"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\seventh-fleet-star-destroyer.png",
+        "extension":  ".png",
+        "bytes":  250115,
+        "sha256":  "8BE91EC7D6D3E89EBD53BD39F7BA79ED08FF4687AB26E238990A7AE6DA514215"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\sovereign.png",
+        "extension":  ".png",
+        "bytes":  237646,
+        "sha256":  "EF54066B3465CD729626788D0DB801AF46351792397360C5A707016E6B7747FB"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\squall.png",
+        "extension":  ".png",
+        "bytes":  35274,
+        "sha256":  "2092A339CBDD942FEFFE087C2D16EE878AAE9721183EFF51CBF6CF35F5DD1FD7"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\stronghold.png",
+        "extension":  ".png",
+        "bytes":  28608,
+        "sha256":  "32EE944A1D48D327679711C7F655D7B75FFF644D9215EB4562DB4005E26B7EA3"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\suppressor.png",
+        "extension":  ".png",
+        "bytes":  245528,
+        "sha256":  "CAAB84C8903564D6C5B05CBF0D6CBAE5C44639D1019D5C9AE114C2273118935C"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\tantive-iv.png",
+        "extension":  ".png",
+        "bytes":  31560,
+        "sha256":  "5D5F5762C99D55B91463B94184E158A01DD4D17A7CE17AD3C05264B8B0EBDE2F"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\task-force-antilles.png",
+        "extension":  ".png",
+        "bytes":  32076,
+        "sha256":  "5D0B34921224F61205BE00AD464467F54574C37A5F39B84B39DC8AB0AF22C227"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\task-force-organa.png",
+        "extension":  ".png",
+        "bytes":  32780,
+        "sha256":  "96D7AFDD9B14EBF9C049AB0F935A33E73BE15D11AE46E482D652FE763B0CB4D5"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\title-back.png",
+        "extension":  ".png",
+        "bytes":  285944,
+        "sha256":  "C6B6B048C0C4B7EEB98CD59223650D9A6A44E51135E0C12CC9ED7BC641C15845"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\vector.png",
+        "extension":  ".png",
+        "bytes":  228270,
+        "sha256":  "5C09003E5765E51FCC31CF3CBB6106F52E3273239AD9B519D7EB4B11ED9D273B"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\warlord.png",
+        "extension":  ".png",
+        "bytes":  29915,
+        "sha256":  "A8DBD0DF9F02B1DBF44F19D0090427D82F531780B0B149123EAC3C434B197461"
+    },
+    {
+        "file":  "image\\upgrade-card\\title\\yavaris.png",
+        "extension":  ".png",
+        "bytes":  241572,
+        "sha256":  "3468AC1D98F72E49DC53671ADA799D601EAE9184A17D9906B867773849CDB0E3"
+    },
+    {
+        "file":  "image\\upgrade-card\\turbolasers\\dual-turbolaser-turrets.png",
+        "extension":  ".png",
+        "bytes":  32472,
+        "sha256":  "CB15A5077CA1C24B52541EC27B16AEAF27308933A2CB6E646E96EC49B814694B"
+    },
+    {
+        "file":  "image\\upgrade-card\\turbolasers\\enhanced-armament.png",
+        "extension":  ".png",
+        "bytes":  254247,
+        "sha256":  "372DBDEE35F5EC09CD4CD254A8F285CFF49B625C50F719FEA4FC3120BAA050BF"
+    },
+    {
+        "file":  "image\\upgrade-card\\turbolasers\\h9-turbolasers.png",
+        "extension":  ".png",
+        "bytes":  247568,
+        "sha256":  "6DEB7EE0B3E7240D91DCEE492868A3C7951D4F4830E18497F6C4FBD6E2BC3342"
+    },
+    {
+        "file":  "image\\upgrade-card\\turbolasers\\heavy-turbolaser-turrets.png",
+        "extension":  ".png",
+        "bytes":  234455,
+        "sha256":  "F5540179CA705F0A65A09E41A0FBE966D8F4B37B7ECD32588901A25C4B117E12"
+    },
+    {
+        "file":  "image\\upgrade-card\\turbolasers\\quad-battery-turrets.png",
+        "extension":  ".png",
+        "bytes":  46956,
+        "sha256":  "4C60A03260292C559671688577B8A58A70B0C06FF8C3E40C0D89EAE510F38A59"
+    },
+    {
+        "file":  "image\\upgrade-card\\turbolasers\\quad-turbolaser-cannons.png",
+        "extension":  ".png",
+        "bytes":  237028,
+        "sha256":  "DBBE617E55B16D0F37410F7870FBB526D298EEFCAAAE40F724E77BD1B026F55A"
+    },
+    {
+        "file":  "image\\upgrade-card\\turbolasers\\slaved-turrets.png",
+        "extension":  ".png",
+        "bytes":  238235,
+        "sha256":  "622DCA377330B2B927218164E237D99EFF87E891CD1AEDA5732324E043313B18"
+    },
+    {
+        "file":  "image\\upgrade-card\\turbolasers\\spinal-armament.png",
+        "extension":  ".png",
+        "bytes":  225971,
+        "sha256":  "823CFEBCF3389F96507C00A76A91369DE9B70EAD59839CC7CDA08F428CE0FABD"
+    },
+    {
+        "file":  "image\\upgrade-card\\turbolasers\\turbolaser-back.png",
+        "extension":  ".png",
+        "bytes":  283990,
+        "sha256":  "ED8EE18C85DD6D95532BF59EBAC8277928B127CC98F3C263BC193C7CDEE3F76D"
+    },
+    {
+        "file":  "image\\upgrade-card\\turbolasers\\turbolaser-reroute-circuits.png",
+        "extension":  ".png",
+        "bytes":  247319,
+        "sha256":  "2050287D2859D8F292C2ED073BD3573EC4D3CD4F73DEC0B9131A546912DC2C83"
+    },
+    {
+        "file":  "image\\upgrade-card\\turbolasers\\xi7-turbolasers.png",
+        "extension":  ".png",
+        "bytes":  233990,
+        "sha256":  "BD22DF8C93BD2BCCD78F1C0D2DF904B93543D52F5A96D7C403912F882B043DFA"
+    },
+    {
+        "file":  "image\\upgrade-card\\turbolasers\\xx-9-turbolasers.png",
+        "extension":  ".png",
+        "bytes":  238526,
+        "sha256":  "7FAC45D9E1C2CC140E5F5355DA65956994B27FE76F2B8E554961E93591285C2F"
+    },
+    {
+        "file":  "image\\upgrade-card\\weapons-team\\caitken-and-shollan.png",
+        "extension":  ".png",
+        "bytes":  258086,
+        "sha256":  "246CF923D301DC83F1AFC5791F614403B2D1729E79B655A914DC32CDBEA6B2B8"
+    },
+    {
+        "file":  "image\\upgrade-card\\weapons-team\\fire-control-team.png",
+        "extension":  ".png",
+        "bytes":  245319,
+        "sha256":  "590951BF99E0F6EF81649645EBE0C591A216E4208F2467D3D20A574CB170AEED"
+    },
+    {
+        "file":  "image\\upgrade-card\\weapons-team\\flight-controllers.png",
+        "extension":  ".png",
+        "bytes":  51542,
+        "sha256":  "BA4D7CC809A627B8159016F82B481E2ADA3AD1505D79A8045CD4528C6DD8A18D"
+    },
+    {
+        "file":  "image\\upgrade-card\\weapons-team\\gunnery-team.png",
+        "extension":  ".png",
+        "bytes":  242464,
+        "sha256":  "F5AD03218C913047AAE09220F9A445CF95D6FF452AFA56F46BC6DF19811E1AC4"
+    },
+    {
+        "file":  "image\\upgrade-card\\weapons-team\\ordnance-experts.png",
+        "extension":  ".png",
+        "bytes":  247489,
+        "sha256":  "2AE7F029A03EBAC095C48EA8543E53D3B9A929AF3F8567405347160D7AF8FFB5"
+    },
+    {
+        "file":  "image\\upgrade-card\\weapons-team\\ruthless-strategists.png",
+        "extension":  ".png",
+        "bytes":  234144,
+        "sha256":  "84A503E8580755F953F209D5B925C15E7AAC95A2B716F987B91BE3B6A5BBD2FF"
+    },
+    {
+        "file":  "image\\upgrade-card\\weapons-team\\sensor-team.png",
+        "extension":  ".png",
+        "bytes":  238167,
+        "sha256":  "BC5C35EB29B4F6724A2192FEFBC923C4FB6DCABFA4EF75BBEBDE0C2425A52068"
+    },
+    {
+        "file":  "image\\upgrade-card\\weapons-team\\veteran-gunners.png",
+        "extension":  ".png",
+        "bytes":  240768,
+        "sha256":  "999610F96140F0750409E144B325D518EC3DB7EC695E81EB7F583BCEFA657BA4"
+    },
+    {
+        "file":  "image\\upgrade-card\\weapons-team\\weapons-team-back.png",
+        "extension":  ".png",
+        "bytes":  286801,
+        "sha256":  "AE93B41576B0576B116578215E5F0E096BC17065D8A9EFD76780EC35B009038F"
+    },
+    {
+        "file":  "image\\upgrade-card\\weapons-team-and-offensive-retrofit\\boarding-engineers.png",
+        "extension":  ".png",
+        "bytes":  36321,
+        "sha256":  "90EBF7B7D7FD8109E56B6FE1B936D0BE89202E6AF6A3D85A12DC99BAC4C1683A"
+    },
+    {
+        "file":  "image\\upgrade-card\\weapons-team-and-offensive-retrofit\\boarding-troopers.png",
+        "extension":  ".png",
+        "bytes":  35297,
+        "sha256":  "B3160E10CBC41775BC620EE8626C774A4C2CFB82C4D8B8A61B3FF33D0CD9B8F3"
+    },
+    {
+        "file":  "image\\upgrade-card\\weapons-team-and-offensive-retrofit\\cham-syndulla.png",
+        "extension":  ".png",
+        "bytes":  34667,
+        "sha256":  "5535B41D4E45901967F7FE3433583A3C16EDE5C28C55E5E6D2357BDAA90FF98C"
+    },
+    {
+        "file":  "image\\upgrade-card\\weapons-team-and-offensive-retrofit\\darth-vader.png",
+        "extension":  ".png",
+        "bytes":  243371,
+        "sha256":  "51EB016B2697CA67EB3FEC47BD79FDCFC6CFFF91E984D2E08435DDDF903E9BF3"
+    },
+    {
+        "file":  "image\\upgrade-card\\weapons-team-and-offensive-retrofit\\jyn-erso.png",
+        "extension":  ".png",
+        "bytes":  257955,
+        "sha256":  "15D76E994E3490D77C720C2B84523C2D822076D854DBD037952BC418F22CE0A4"
+    },
+    {
+        "file":  "image\\upgrade-card\\weapons-team-and-offensive-retrofit\\weapons-team-and-offensive-retrofit-back.png",
+        "extension":  ".png",
+        "bytes":  277706,
+        "sha256":  "BCA7AC79083785EA5CA71B57B61F2F6278CBF519B035D974E456986C994EEE29"
+    },
+    {
+        "file":  "image\\upgrade-slot\\commander.png",
+        "extension":  ".png",
+        "bytes":  58784,
+        "sha256":  "02C3AD3810221C7B32DCAC5128574487FA5A267846D5AA9543B340E4CCA33385"
+    },
+    {
+        "file":  "image\\upgrade-slot\\defensive-retrofit.png",
+        "extension":  ".png",
+        "bytes":  62552,
+        "sha256":  "E4922C59162B8B855AD955CCEB9614D7E27D2344E9456615E0020F6A8F3DE0F6"
+    },
+    {
+        "file":  "image\\upgrade-slot\\experimental-retrofit.png",
+        "extension":  ".png",
+        "bytes":  75870,
+        "sha256":  "68CA791046848EFE918712F14C11F244E547CCDB3AFC59A7CEABBB70919DBB1C"
+    },
+    {
+        "file":  "image\\upgrade-slot\\fleet-command.png",
+        "extension":  ".png",
+        "bytes":  62505,
+        "sha256":  "597723EB47530633BFAB8785506D378E21A8422D9ED57DA0CC6ED02FEFC004D6"
+    },
+    {
+        "file":  "image\\upgrade-slot\\fleet-support.png",
+        "extension":  ".png",
+        "bytes":  63351,
+        "sha256":  "340266301EBCE1D135E42EFE00A57AAAA277AC9DC8379E0DF8B85E1054A5E486"
+    },
+    {
+        "file":  "image\\upgrade-slot\\ion-cannons.png",
+        "extension":  ".png",
+        "bytes":  59160,
+        "sha256":  "D3F73B02E12637F03EC4453E7A82CECB16658F477D50AF960A4C88E236F89913"
+    },
+    {
+        "file":  "image\\upgrade-slot\\offensive-retrofit.png",
+        "extension":  ".png",
+        "bytes":  59135,
+        "sha256":  "71E02D2C610B70BD422D3EB6914B7657059900A2566F12E68A59394FF36C0ACE"
+    },
+    {
+        "file":  "image\\upgrade-slot\\officer.png",
+        "extension":  ".png",
+        "bytes":  57532,
+        "sha256":  "B7FC1E3647AE78B921A3FD13481EB45B6AC84E304370757A58EC1C5019379026"
+    },
+    {
+        "file":  "image\\upgrade-slot\\ordnance.png",
+        "extension":  ".png",
+        "bytes":  58842,
+        "sha256":  "B71021BBDFC473981669472DF83F9A5BC5A1E42201C2311E4925F0AF1BA824C6"
+    },
+    {
+        "file":  "image\\upgrade-slot\\support-team.png",
+        "extension":  ".png",
+        "bytes":  60212,
+        "sha256":  "5A9E95BD470EABB64BD8C643FF51828C90CA6AF1EBFE62786ED19AF1437BE8CC"
+    },
+    {
+        "file":  "image\\upgrade-slot\\title.png",
+        "extension":  ".png",
+        "bytes":  64431,
+        "sha256":  "652B7CA493C126B17E10E453F2F5ED84694985754D5D23547A1978187ED963B4"
+    },
+    {
+        "file":  "image\\upgrade-slot\\turbolasers.png",
+        "extension":  ".png",
+        "bytes":  59006,
+        "sha256":  "08D1C0F4142F27E9AB8832F1D4601545C1B86C3969A599AA327856C47A71A46A"
+    },
+    {
+        "file":  "image\\upgrade-slot\\weapons-team-and-offensive-retrofit.png",
+        "extension":  ".png",
+        "bytes":  95958,
+        "sha256":  "26F2A2841FB13003B2A09429AC38E20772FA75CF12877529E2542F55EA8EFB1D"
+    },
+    {
+        "file":  "image\\upgrade-slot\\weapons-team.png",
+        "extension":  ".png",
+        "bytes":  63021,
+        "sha256":  "A0353C500A84895DB4DB839450759BF73048178C01D7F86E1C6FF5B14D18F134"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "speed":  4,
+        "hull":  7,
+        "__comment":  "dice array is [red, blue, black] counts",
+        "squadron-attack":  [
+                                1,
+                                2,
+                                0
+                            ],
+        "attack":  [
+                       0,
+                       2,
+                       0
+                   ],
+        "squadron-image":  "squadron/galactic-empire/mandalorian-gauntlet-fighter.png",
+        "name":  "Fenn Rau",
+        "subname":  "Mandalorian Gauntlet Fighter",
+        "unique":  true,
+        "faction":  "Rebel Alliance",
+        "text":  "After your activation, if you were activated by a [Squadron] command, choose up to 2 non-unique squadrons at distance 1 of you. The chosen squadrons may activate as if they were activated by that [Squadron] command.",
+        "keywords":  [
+                         "Assault",
+                         "Escort"
+                     ],
+        "defense-tokens":  [
+                               "Brace"
+                           ],
+        "points":  24,
+        "stable-id":  "squadron:rebel-alliance:fenn-rau:mandalorian-gauntlet-fighter",
+        "data-version":  "2025.01-final",
+        "supplement":  "Rapid Reinforcements II",
+        "supplement-revision":  "2.1",
+        "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
+        "image-status":  "card-image-not-packaged"
+    }
+]

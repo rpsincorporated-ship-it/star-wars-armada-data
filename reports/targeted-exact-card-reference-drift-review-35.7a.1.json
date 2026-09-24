@@ -1,0 +1,582 @@
+[
+    {
+        "ordinal":  30,
+        "family":  "squadron",
+        "identity":  "Darth Vader",
+        "production_faction":  "Galactic Empire",
+        "file":  "data\\squadron-card\\galactic-empire\\darth-vader-tie-defender.json",
+        "record":  1,
+        "stable_id":  "squadron:galactic-empire:darth-vader:tie-defender-squadron",
+        "historical_reference":  "squadron/galactic-empire/tie-defender-squadron.png",
+        "historical_classification":  "INTENTIONAL_SHARED_GENERIC_IMAGE",
+        "live_reference":  "",
+        "live_image_status":  "card-image-not-packaged",
+        "canonical_image_property_exists":  false,
+        "image_status_property_exists":  true,
+        "all_image_related_properties":  {
+                                             "squadron-image":  "squadron/galactic-empire/tie-defender-squadron.png",
+                                             "image-status":  "card-image-not-packaged"
+                                         },
+        "alternate_image_related_fields":  [
+                                               {
+                                                   "property":  "squadron-image",
+                                                   "value":  "squadron/galactic-empire/tie-defender-squadron.png"
+                                               },
+                                               {
+                                                   "property":  "image-status",
+                                                   "value":  "card-image-not-packaged"
+                                               }
+                                           ],
+        "expected_exact_reference":  "squadron-card/galactic-empire/darth-vader-tie-defender.png",
+        "expected_exact_local_exists":  false,
+        "expected_exact_local_path":  null,
+        "exact_filename_local_matches":  [
+
+                                         ],
+        "exact_filename_local_match_count":  0,
+        "related_production_records":  [
+                                           {
+                                               "relation":  "SAME_DISPLAY_IDENTITY",
+                                               "identity":  "Darth Vader",
+                                               "faction":  "Galactic Empire",
+                                               "file":  "data\\squadron-card\\galactic-empire\\darth-vader.json",
+                                               "record":  1,
+                                               "image":  "squadron-card/galactic-empire/darth-vader.png",
+                                               "image_status":  "",
+                                               "stable_id":  ""
+                                           },
+                                           {
+                                               "relation":  "SAME_DISPLAY_IDENTITY",
+                                               "identity":  "Darth Vader",
+                                               "faction":  "Galactic Empire",
+                                               "file":  "data\\squadron-card\\galactic-empire\\darth-vader-tie-defender.json",
+                                               "record":  1,
+                                               "image":  "",
+                                               "image_status":  "card-image-not-packaged",
+                                               "stable_id":  "squadron:galactic-empire:darth-vader:tie-defender-squadron"
+                                           }
+                                       ],
+        "related_production_record_count":  2,
+        "classification":  "NOT_PACKAGED_POLICY_APPLIES",
+        "evidence_sufficient_for_classification":  true,
+        "policy_protected":  true,
+        "repair_candidate":  false,
+        "repair_required":  false,
+        "production_repair_authorized":  false,
+        "restore_historical_generic_reference_authorized":  false,
+        "image_packaging_authorized":  false,
+        "image_copy_authorized":  false,
+        "image_move_authorized":  false,
+        "image_redistribution_authorized":  false,
+        "reason":  "The exact live production record has image-status \u0027card-image-not-packaged\u0027. The blank canonical image reference is therefore policy-significant and must not be automatically repaired or replaced by the historical generic reference."
+    },
+    {
+        "ordinal":  43,
+        "family":  "squadron",
+        "identity":  "Hondo Ohnaka",
+        "production_faction":  "Galactic Empire",
+        "file":  "data\\squadron-card\\galactic-empire\\hondo-ohnaka.json",
+        "record":  1,
+        "stable_id":  "",
+        "historical_reference":  "squadron/galactic-empire/firespray-31.png",
+        "historical_classification":  "INTENTIONAL_SHARED_GENERIC_IMAGE",
+        "live_reference":  "",
+        "live_image_status":  "",
+        "canonical_image_property_exists":  false,
+        "image_status_property_exists":  false,
+        "all_image_related_properties":  {
+                                             "squadron-image":  "squadron/galactic-empire/firespray-31.png"
+                                         },
+        "alternate_image_related_fields":  [
+                                               {
+                                                   "property":  "squadron-image",
+                                                   "value":  "squadron/galactic-empire/firespray-31.png"
+                                               }
+                                           ],
+        "expected_exact_reference":  "squadron-card/galactic-empire/hondo-ohnaka.png",
+        "expected_exact_local_exists":  false,
+        "expected_exact_local_path":  null,
+        "exact_filename_local_matches":  [
+                                             "image\\upgrade-card\\officer\\hondo-ohnaka.png"
+                                         ],
+        "exact_filename_local_match_count":  1,
+        "related_production_records":  [
+                                           {
+                                               "relation":  "SAME_DISPLAY_IDENTITY",
+                                               "identity":  "Hondo Ohnaka",
+                                               "faction":  "Galactic Empire",
+                                               "file":  "data\\squadron-card\\galactic-empire\\hondo-ohnaka.json",
+                                               "record":  1,
+                                               "image":  "",
+                                               "image_status":  "",
+                                               "stable_id":  ""
+                                           }
+                                       ],
+        "related_production_record_count":  1,
+        "classification":  "ALTERNATE_IMAGE_FIELD_IN_USE_REQUIRES_SCHEMA_REVIEW",
+        "evidence_sufficient_for_classification":  false,
+        "policy_protected":  false,
+        "repair_candidate":  false,
+        "repair_required":  false,
+        "production_repair_authorized":  false,
+        "restore_historical_generic_reference_authorized":  false,
+        "image_packaging_authorized":  false,
+        "image_copy_authorized":  false,
+        "image_move_authorized":  false,
+        "image_redistribution_authorized":  false,
+        "reason":  "The canonical image reference is blank, but one or more other image/card/art-related fields contain values. Schema semantics must be established before treating the canonical image field as missing."
+    },
+    {
+        "ordinal":  46,
+        "family":  "squadron",
+        "identity":  "IG-88B",
+        "production_faction":  "Galactic Empire",
+        "file":  "data\\squadron-card\\galactic-empire\\ig-88b.json",
+        "record":  1,
+        "stable_id":  "",
+        "historical_reference":  "squadron/galactic-empire/aggressor-assault-fighter.png",
+        "historical_classification":  "INTENTIONAL_SHARED_GENERIC_IMAGE",
+        "live_reference":  "",
+        "live_image_status":  "",
+        "canonical_image_property_exists":  false,
+        "image_status_property_exists":  false,
+        "all_image_related_properties":  {
+                                             "squadron-image":  "squadron/galactic-empire/aggressor-assault-fighter.png"
+                                         },
+        "alternate_image_related_fields":  [
+                                               {
+                                                   "property":  "squadron-image",
+                                                   "value":  "squadron/galactic-empire/aggressor-assault-fighter.png"
+                                               }
+                                           ],
+        "expected_exact_reference":  "squadron-card/galactic-empire/ig-88b.png",
+        "expected_exact_local_exists":  false,
+        "expected_exact_local_path":  null,
+        "exact_filename_local_matches":  [
+
+                                         ],
+        "exact_filename_local_match_count":  0,
+        "related_production_records":  [
+                                           {
+                                               "relation":  "SAME_DISPLAY_IDENTITY",
+                                               "identity":  "IG-88B",
+                                               "faction":  "Galactic Empire",
+                                               "file":  "data\\squadron-card\\galactic-empire\\ig-88b.json",
+                                               "record":  1,
+                                               "image":  "",
+                                               "image_status":  "",
+                                               "stable_id":  ""
+                                           }
+                                       ],
+        "related_production_record_count":  1,
+        "classification":  "ALTERNATE_IMAGE_FIELD_IN_USE_REQUIRES_SCHEMA_REVIEW",
+        "evidence_sufficient_for_classification":  false,
+        "policy_protected":  false,
+        "repair_candidate":  false,
+        "repair_required":  false,
+        "production_repair_authorized":  false,
+        "restore_historical_generic_reference_authorized":  false,
+        "image_packaging_authorized":  false,
+        "image_copy_authorized":  false,
+        "image_move_authorized":  false,
+        "image_redistribution_authorized":  false,
+        "reason":  "The canonical image reference is blank, but one or more other image/card/art-related fields contain values. Schema semantics must be established before treating the canonical image field as missing."
+    },
+    {
+        "ordinal":  49,
+        "family":  "squadron",
+        "identity":  "Kanan Jarrus",
+        "production_faction":  "Rebel Alliance",
+        "file":  "data\\squadron-card\\rebel-alliance\\kanan-jarrus.json",
+        "record":  1,
+        "stable_id":  "",
+        "historical_reference":  "squadron/rebel-alliance/hwk-290.png",
+        "historical_classification":  "INTENTIONAL_SHARED_GENERIC_IMAGE",
+        "live_reference":  "",
+        "live_image_status":  "",
+        "canonical_image_property_exists":  false,
+        "image_status_property_exists":  false,
+        "all_image_related_properties":  {
+                                             "squadron-image":  "squadron/rebel-alliance/hwk-290.png"
+                                         },
+        "alternate_image_related_fields":  [
+                                               {
+                                                   "property":  "squadron-image",
+                                                   "value":  "squadron/rebel-alliance/hwk-290.png"
+                                               }
+                                           ],
+        "expected_exact_reference":  "squadron-card/rebel-alliance/kanan-jarrus.png",
+        "expected_exact_local_exists":  false,
+        "expected_exact_local_path":  null,
+        "exact_filename_local_matches":  [
+
+                                         ],
+        "exact_filename_local_match_count":  0,
+        "related_production_records":  [
+                                           {
+                                               "relation":  "SAME_DISPLAY_IDENTITY",
+                                               "identity":  "Kanan Jarrus",
+                                               "faction":  "Rebel Alliance",
+                                               "file":  "data\\squadron-card\\rebel-alliance\\kanan-jarrus.json",
+                                               "record":  1,
+                                               "image":  "",
+                                               "image_status":  "",
+                                               "stable_id":  ""
+                                           }
+                                       ],
+        "related_production_record_count":  1,
+        "classification":  "ALTERNATE_IMAGE_FIELD_IN_USE_REQUIRES_SCHEMA_REVIEW",
+        "evidence_sufficient_for_classification":  false,
+        "policy_protected":  false,
+        "repair_candidate":  false,
+        "repair_required":  false,
+        "production_repair_authorized":  false,
+        "restore_historical_generic_reference_authorized":  false,
+        "image_packaging_authorized":  false,
+        "image_copy_authorized":  false,
+        "image_move_authorized":  false,
+        "image_redistribution_authorized":  false,
+        "reason":  "The canonical image reference is blank, but one or more other image/card/art-related fields contain values. Schema semantics must be established before treating the canonical image field as missing."
+    },
+    {
+        "ordinal":  54,
+        "family":  "squadron",
+        "identity":  "Lando Calrissian",
+        "production_faction":  "Rebel Alliance",
+        "file":  "data\\squadron-card\\rebel-alliance\\lando-calrissian.json",
+        "record":  1,
+        "stable_id":  "",
+        "historical_reference":  "squadron/rebel-alliance/yt-1300.png",
+        "historical_classification":  "INTENTIONAL_SHARED_GENERIC_IMAGE",
+        "live_reference":  "",
+        "live_image_status":  "",
+        "canonical_image_property_exists":  false,
+        "image_status_property_exists":  false,
+        "all_image_related_properties":  {
+                                             "squadron-image":  "squadron/rebel-alliance/yt-1300.png"
+                                         },
+        "alternate_image_related_fields":  [
+                                               {
+                                                   "property":  "squadron-image",
+                                                   "value":  "squadron/rebel-alliance/yt-1300.png"
+                                               }
+                                           ],
+        "expected_exact_reference":  "squadron-card/rebel-alliance/lando-calrissian.png",
+        "expected_exact_local_exists":  false,
+        "expected_exact_local_path":  null,
+        "exact_filename_local_matches":  [
+                                             "image\\upgrade-card\\officer\\lando-calrissian.png"
+                                         ],
+        "exact_filename_local_match_count":  1,
+        "related_production_records":  [
+                                           {
+                                               "relation":  "SAME_DISPLAY_IDENTITY",
+                                               "identity":  "Lando Calrissian",
+                                               "faction":  "Rebel Alliance",
+                                               "file":  "data\\squadron-card\\rebel-alliance\\lando-calrissian.json",
+                                               "record":  1,
+                                               "image":  "",
+                                               "image_status":  "",
+                                               "stable_id":  ""
+                                           }
+                                       ],
+        "related_production_record_count":  1,
+        "classification":  "ALTERNATE_IMAGE_FIELD_IN_USE_REQUIRES_SCHEMA_REVIEW",
+        "evidence_sufficient_for_classification":  false,
+        "policy_protected":  false,
+        "repair_candidate":  false,
+        "repair_required":  false,
+        "production_repair_authorized":  false,
+        "restore_historical_generic_reference_authorized":  false,
+        "image_packaging_authorized":  false,
+        "image_copy_authorized":  false,
+        "image_move_authorized":  false,
+        "image_redistribution_authorized":  false,
+        "reason":  "The canonical image reference is blank, but one or more other image/card/art-related fields contain values. Schema semantics must be established before treating the canonical image field as missing."
+    },
+    {
+        "ordinal":  58,
+        "family":  "squadron",
+        "identity":  "Malee Hurra",
+        "production_faction":  "Rebel Alliance",
+        "file":  "data\\squadron-card\\rebel-alliance\\malee-hurra.json",
+        "record":  1,
+        "stable_id":  "",
+        "historical_reference":  "squadron/rebel-alliance/scurrg-h-6-bomber.png",
+        "historical_classification":  "INTENTIONAL_SHARED_GENERIC_IMAGE",
+        "live_reference":  "",
+        "live_image_status":  "",
+        "canonical_image_property_exists":  false,
+        "image_status_property_exists":  false,
+        "all_image_related_properties":  {
+                                             "squadron-image":  "squadron/rebel-alliance/scurrg-h-6-bomber.png"
+                                         },
+        "alternate_image_related_fields":  [
+                                               {
+                                                   "property":  "squadron-image",
+                                                   "value":  "squadron/rebel-alliance/scurrg-h-6-bomber.png"
+                                               }
+                                           ],
+        "expected_exact_reference":  "squadron-card/rebel-alliance/malee-hurra.png",
+        "expected_exact_local_exists":  false,
+        "expected_exact_local_path":  null,
+        "exact_filename_local_matches":  [
+
+                                         ],
+        "exact_filename_local_match_count":  0,
+        "related_production_records":  [
+                                           {
+                                               "relation":  "SAME_DISPLAY_IDENTITY",
+                                               "identity":  "Malee Hurra",
+                                               "faction":  "Rebel Alliance",
+                                               "file":  "data\\squadron-card\\rebel-alliance\\malee-hurra.json",
+                                               "record":  1,
+                                               "image":  "",
+                                               "image_status":  "",
+                                               "stable_id":  ""
+                                           }
+                                       ],
+        "related_production_record_count":  1,
+        "classification":  "ALTERNATE_IMAGE_FIELD_IN_USE_REQUIRES_SCHEMA_REVIEW",
+        "evidence_sufficient_for_classification":  false,
+        "policy_protected":  false,
+        "repair_candidate":  false,
+        "repair_required":  false,
+        "production_repair_authorized":  false,
+        "restore_historical_generic_reference_authorized":  false,
+        "image_packaging_authorized":  false,
+        "image_copy_authorized":  false,
+        "image_move_authorized":  false,
+        "image_redistribution_authorized":  false,
+        "reason":  "The canonical image reference is blank, but one or more other image/card/art-related fields contain values. Schema semantics must be established before treating the canonical image field as missing."
+    },
+    {
+        "ordinal":  59,
+        "family":  "squadron",
+        "identity":  "Mart Mattin",
+        "production_faction":  "Rebel Alliance",
+        "file":  "data\\squadron-card\\rebel-alliance\\mart-mattin.json",
+        "record":  1,
+        "stable_id":  "",
+        "historical_reference":  "squadron/rebel-alliance/yt-2400.png",
+        "historical_classification":  "INTENTIONAL_SHARED_GENERIC_IMAGE",
+        "live_reference":  "",
+        "live_image_status":  "",
+        "canonical_image_property_exists":  false,
+        "image_status_property_exists":  false,
+        "all_image_related_properties":  {
+                                             "squadron-image":  "squadron/rebel-alliance/yt-2400.png"
+                                         },
+        "alternate_image_related_fields":  [
+                                               {
+                                                   "property":  "squadron-image",
+                                                   "value":  "squadron/rebel-alliance/yt-2400.png"
+                                               }
+                                           ],
+        "expected_exact_reference":  "squadron-card/rebel-alliance/mart-mattin.png",
+        "expected_exact_local_exists":  false,
+        "expected_exact_local_path":  null,
+        "exact_filename_local_matches":  [
+
+                                         ],
+        "exact_filename_local_match_count":  0,
+        "related_production_records":  [
+                                           {
+                                               "relation":  "SAME_DISPLAY_IDENTITY",
+                                               "identity":  "Mart Mattin",
+                                               "faction":  "Rebel Alliance",
+                                               "file":  "data\\squadron-card\\rebel-alliance\\mart-mattin.json",
+                                               "record":  1,
+                                               "image":  "",
+                                               "image_status":  "",
+                                               "stable_id":  ""
+                                           }
+                                       ],
+        "related_production_record_count":  1,
+        "classification":  "ALTERNATE_IMAGE_FIELD_IN_USE_REQUIRES_SCHEMA_REVIEW",
+        "evidence_sufficient_for_classification":  false,
+        "policy_protected":  false,
+        "repair_candidate":  false,
+        "repair_required":  false,
+        "production_repair_authorized":  false,
+        "restore_historical_generic_reference_authorized":  false,
+        "image_packaging_authorized":  false,
+        "image_copy_authorized":  false,
+        "image_move_authorized":  false,
+        "image_redistribution_authorized":  false,
+        "reason":  "The canonical image reference is blank, but one or more other image/card/art-related fields contain values. Schema semantics must be established before treating the canonical image field as missing."
+    },
+    {
+        "ordinal":  60,
+        "family":  "squadron",
+        "identity":  "Moralo Eval",
+        "production_faction":  "Galactic Empire",
+        "file":  "data\\squadron-card\\galactic-empire\\moralo-eval.json",
+        "record":  1,
+        "stable_id":  "",
+        "historical_reference":  "squadron/galactic-empire/yv-666.png",
+        "historical_classification":  "INTENTIONAL_SHARED_GENERIC_IMAGE",
+        "live_reference":  "",
+        "live_image_status":  "",
+        "canonical_image_property_exists":  false,
+        "image_status_property_exists":  false,
+        "all_image_related_properties":  {
+                                             "squadron-image":  "squadron/galactic-empire/yv-666.png"
+                                         },
+        "alternate_image_related_fields":  [
+                                               {
+                                                   "property":  "squadron-image",
+                                                   "value":  "squadron/galactic-empire/yv-666.png"
+                                               }
+                                           ],
+        "expected_exact_reference":  "squadron-card/galactic-empire/moralo-eval.png",
+        "expected_exact_local_exists":  false,
+        "expected_exact_local_path":  null,
+        "exact_filename_local_matches":  [
+
+                                         ],
+        "exact_filename_local_match_count":  0,
+        "related_production_records":  [
+                                           {
+                                               "relation":  "SAME_DISPLAY_IDENTITY",
+                                               "identity":  "Moralo Eval",
+                                               "faction":  "Galactic Empire",
+                                               "file":  "data\\squadron-card\\galactic-empire\\moralo-eval.json",
+                                               "record":  1,
+                                               "image":  "",
+                                               "image_status":  "",
+                                               "stable_id":  ""
+                                           }
+                                       ],
+        "related_production_record_count":  1,
+        "classification":  "ALTERNATE_IMAGE_FIELD_IN_USE_REQUIRES_SCHEMA_REVIEW",
+        "evidence_sufficient_for_classification":  false,
+        "policy_protected":  false,
+        "repair_candidate":  false,
+        "repair_required":  false,
+        "production_repair_authorized":  false,
+        "restore_historical_generic_reference_authorized":  false,
+        "image_packaging_authorized":  false,
+        "image_copy_authorized":  false,
+        "image_move_authorized":  false,
+        "image_redistribution_authorized":  false,
+        "reason":  "The canonical image reference is blank, but one or more other image/card/art-related fields contain values. Schema semantics must be established before treating the canonical image field as missing."
+    },
+    {
+        "ordinal":  68,
+        "family":  "squadron",
+        "identity":  "Tel Trevura",
+        "production_faction":  "Galactic Empire",
+        "file":  "data\\squadron-card\\galactic-empire\\tel-trevura.json",
+        "record":  1,
+        "stable_id":  "",
+        "historical_reference":  "squadron/galactic-empire/jumpmaster-5000.png",
+        "historical_classification":  "INTENTIONAL_SHARED_GENERIC_IMAGE",
+        "live_reference":  "",
+        "live_image_status":  "",
+        "canonical_image_property_exists":  false,
+        "image_status_property_exists":  false,
+        "all_image_related_properties":  {
+                                             "squadron-image":  "squadron/galactic-empire/jumpmaster-5000.png"
+                                         },
+        "alternate_image_related_fields":  [
+                                               {
+                                                   "property":  "squadron-image",
+                                                   "value":  "squadron/galactic-empire/jumpmaster-5000.png"
+                                               }
+                                           ],
+        "expected_exact_reference":  "squadron-card/galactic-empire/tel-trevura.png",
+        "expected_exact_local_exists":  false,
+        "expected_exact_local_path":  null,
+        "exact_filename_local_matches":  [
+
+                                         ],
+        "exact_filename_local_match_count":  0,
+        "related_production_records":  [
+                                           {
+                                               "relation":  "SAME_DISPLAY_IDENTITY",
+                                               "identity":  "Tel Trevura",
+                                               "faction":  "Galactic Empire",
+                                               "file":  "data\\squadron-card\\galactic-empire\\tel-trevura.json",
+                                               "record":  1,
+                                               "image":  "",
+                                               "image_status":  "",
+                                               "stable_id":  ""
+                                           }
+                                       ],
+        "related_production_record_count":  1,
+        "classification":  "ALTERNATE_IMAGE_FIELD_IN_USE_REQUIRES_SCHEMA_REVIEW",
+        "evidence_sufficient_for_classification":  false,
+        "policy_protected":  false,
+        "repair_candidate":  false,
+        "repair_required":  false,
+        "production_repair_authorized":  false,
+        "restore_historical_generic_reference_authorized":  false,
+        "image_packaging_authorized":  false,
+        "image_copy_authorized":  false,
+        "image_move_authorized":  false,
+        "image_redistribution_authorized":  false,
+        "reason":  "The canonical image reference is blank, but one or more other image/card/art-related fields contain values. Schema semantics must be established before treating the canonical image field as missing."
+    },
+    {
+        "ordinal":  79,
+        "family":  "squadron",
+        "identity":  "Vult Skerris",
+        "production_faction":  "Galactic Empire",
+        "file":  "data\\squadron-card\\galactic-empire\\vult-skerris.json",
+        "record":  1,
+        "stable_id":  "squadron:galactic-empire:vult-skerris:tie-interceptor-squadron",
+        "historical_reference":  "squadron/galactic-empire/tie-interceptor-squadron.png",
+        "historical_classification":  "INTENTIONAL_SHARED_GENERIC_IMAGE",
+        "live_reference":  "",
+        "live_image_status":  "card-image-not-packaged",
+        "canonical_image_property_exists":  false,
+        "image_status_property_exists":  true,
+        "all_image_related_properties":  {
+                                             "squadron-image":  "squadron/galactic-empire/tie-interceptor-squadron.png",
+                                             "image-status":  "card-image-not-packaged"
+                                         },
+        "alternate_image_related_fields":  [
+                                               {
+                                                   "property":  "squadron-image",
+                                                   "value":  "squadron/galactic-empire/tie-interceptor-squadron.png"
+                                               },
+                                               {
+                                                   "property":  "image-status",
+                                                   "value":  "card-image-not-packaged"
+                                               }
+                                           ],
+        "expected_exact_reference":  "squadron-card/galactic-empire/vult-skerris.png",
+        "expected_exact_local_exists":  false,
+        "expected_exact_local_path":  null,
+        "exact_filename_local_matches":  [
+
+                                         ],
+        "exact_filename_local_match_count":  0,
+        "related_production_records":  [
+                                           {
+                                               "relation":  "SAME_DISPLAY_IDENTITY",
+                                               "identity":  "Vult Skerris",
+                                               "faction":  "Galactic Empire",
+                                               "file":  "data\\squadron-card\\galactic-empire\\vult-skerris.json",
+                                               "record":  1,
+                                               "image":  "",
+                                               "image_status":  "card-image-not-packaged",
+                                               "stable_id":  "squadron:galactic-empire:vult-skerris:tie-interceptor-squadron"
+                                           }
+                                       ],
+        "related_production_record_count":  1,
+        "classification":  "NOT_PACKAGED_POLICY_APPLIES",
+        "evidence_sufficient_for_classification":  true,
+        "policy_protected":  true,
+        "repair_candidate":  false,
+        "repair_required":  false,
+        "production_repair_authorized":  false,
+        "restore_historical_generic_reference_authorized":  false,
+        "image_packaging_authorized":  false,
+        "image_copy_authorized":  false,
+        "image_move_authorized":  false,
+        "image_redistribution_authorized":  false,
+        "reason":  "The exact live production record has image-status \u0027card-image-not-packaged\u0027. The blank canonical image reference is therefore policy-significant and must not be automatically repaired or replaced by the historical generic reference."
+    }
+]

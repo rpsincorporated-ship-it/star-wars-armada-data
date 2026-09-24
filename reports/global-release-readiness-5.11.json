@@ -1,0 +1,47 @@
+﻿{
+    "milestone":  "5.11",
+    "status":  "PASS-GLOBAL-READINESS-GATE",
+    "baseline":  "2025.01-final",
+    "production_json_count":  191,
+    "production_json_changed_in_resume_run":  0,
+    "rr1_venator_legality":  "Galactic Empire",
+    "rr1_providence_legality":  "Rebel Alliance",
+    "rr1_providence_points":  95,
+    "rr1_providence_max_speed":  2,
+    "errata_candidates_total":  117,
+    "errata_already_resolved":  1,
+    "errata_direct_review_remaining":  116,
+    "legacy_ship_squadron_review_remaining":  128,
+    "campaign_records_source_gated":  19,
+    "blockers":  [
+                     {
+                         "priority":  1,
+                         "area":  "Official Errata 5.5 direct upgrade review",
+                         "state":  "OPEN",
+                         "count":  116,
+                         "next":  "Resolve actual Errata 5.5 entries against repository records and patch only proven discrepancies."
+                     },
+                     {
+                         "priority":  2,
+                         "area":  "Legacy Rebel/Imperial final-value crosscheck",
+                         "state":  "OPEN",
+                         "count":  128,
+                         "next":  "Verify final January 2025 numeric/structural values and patch only proven discrepancies."
+                     },
+                     {
+                         "priority":  3,
+                         "area":  "Campaign objective exact text",
+                         "state":  "SOURCE-GATED",
+                         "count":  19,
+                         "next":  "Use authorized user-supplied exact text/scans/PDFs with existing campaign installer."
+                     },
+                     {
+                         "priority":  4,
+                         "area":  "Final repository release gate",
+                         "state":  "WAITING",
+                         "count":  null,
+                         "next":  "Run schema, duplicate, stable-ID, manifest, provenance, verifier and documentation checks."
+                     }
+                 ],
+    "next_major_execution":  "Direct official Errata 5.5 mapping and legacy final-value factual correction pass"
+}

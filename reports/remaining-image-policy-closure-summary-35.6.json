@@ -1,0 +1,23 @@
+{
+    "milestone":  "35.6",
+    "title":  "Remaining Image Evidence and Policy Closure",
+    "input_policy_records":  2,
+    "production_records_verified":  2,
+    "local_candidate_images_verified":  2,
+    "category_path_review_required":  1,
+    "packaging_policy_unresolved":  1,
+    "policy_closed_no_production_repair":  0,
+    "general_draven_classification":  "CATEGORY_PATH_REVIEW_REQUIRED",
+    "governor_pryce_classification":  "PACKAGING_POLICY_REMAINS_UNRESOLVED",
+    "production_repairs_authorized":  0,
+    "image_packaging_authorized":  0,
+    "image_copy_authorized":  0,
+    "image_move_authorized":  0,
+    "image_redistribution_authorized":  0,
+    "production_files_protected":  191,
+    "production_modified":  false,
+    "milestone_status":  "REMAINING_IMAGE_POLICY_EVIDENCE_RECONCILED",
+    "release_certification":  "NOT_YET_GRANTED",
+    "unresolved_records":  2,
+    "next":  "Milestone 35.6a - Draven Category Provenance and Not-Packaged Policy Resolution"
+}

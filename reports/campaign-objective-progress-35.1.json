@@ -1,0 +1,34 @@
+[
+    {
+        "title":  "Asteroids",
+        "status":  "PENDING_FIELD_LEVEL_VERIFICATION"
+    },
+    {
+        "title":  "Independent Station",
+        "status":  "PENDING_FIELD_LEVEL_VERIFICATION"
+    },
+    {
+        "title":  "Base Defense: Armed Station",
+        "status":  "PENDING_FIELD_LEVEL_VERIFICATION"
+    },
+    {
+        "title":  "Base Defense: Fighter Wing",
+        "status":  "PENDING_FIELD_LEVEL_VERIFICATION"
+    },
+    {
+        "title":  "Base Defense: Ion Cannon",
+        "status":  "PENDING_FIELD_LEVEL_VERIFICATION"
+    },
+    {
+        "title":  "Holonet Override",
+        "status":  "PENDING_FIELD_LEVEL_VERIFICATION"
+    },
+    {
+        "title":  "Prototype Recovery",
+        "status":  "PENDING_FIELD_LEVEL_VERIFICATION"
+    },
+    {
+        "title":  "Volatile Cargo",
+        "status":  "PENDING_FIELD_LEVEL_VERIFICATION"
+    }
+]

@@ -1,0 +1,731 @@
+[
+    {
+        "identity":  "Darth Vader",
+        "occurrence_count":  3,
+        "card_families":  [
+                              "squadron",
+                              "upgrade"
+                          ],
+        "classification":  "CROSS_TYPE_IDENTITY",
+        "occurrences":  [
+                            {
+                                "file":  "data\\squadron-card\\galactic-empire\\darth-vader.json",
+                                "record":  1,
+                                "full_record":  {
+                                                    "name":  "Darth Vader",
+                                                    "subname":  "TIE Advanced Squadron",
+                                                    "unique":  true,
+                                                    "faction":  "Galactic Empire",
+                                                    "speed":  4,
+                                                    "hull":  5,
+                                                    "__comment":  "dice array is [red, blue, black] counts",
+                                                    "squadron-attack":  [
+                                                                            0,
+                                                                            3,
+                                                                            1
+                                                                        ],
+                                                    "attack":  [
+                                                                   0,
+                                                                   0,
+                                                                   1
+                                                               ],
+                                                    "text":  "While attacking, each of your [Critical Hit] icons adds 1 damage to the damage total.",
+                                                    "keywords":  [
+                                                                     "Escort"
+                                                                 ],
+                                                    "defense-tokens":  [
+                                                                           "Brace",
+                                                                           "Brace"
+                                                                       ],
+                                                    "points":  21,
+                                                    "squadron-image":  "squadron/galactic-empire/tie-advanced-squadron.png",
+                                                    "image":  "squadron-card/galactic-empire/darth-vader.png"
+                                                }
+                            },
+                            {
+                                "file":  "data\\squadron-card\\galactic-empire\\darth-vader-tie-defender.json",
+                                "record":  1,
+                                "full_record":  {
+                                                    "name":  "Darth Vader",
+                                                    "subname":  "TIE Defender Squadron",
+                                                    "faction":  "Galactic Empire",
+                                                    "speed":  5,
+                                                    "hull":  6,
+                                                    "__comment":  "dice array is [red, blue, black] counts",
+                                                    "squadron-attack":  [
+                                                                            1,
+                                                                            1,
+                                                                            2
+                                                                        ],
+                                                    "attack":  [
+                                                                   2,
+                                                                   0,
+                                                                   0
+                                                               ],
+                                                    "keywords":  [
+                                                                     "Adept 2",
+                                                                     "Bomber",
+                                                                     "Rogue"
+                                                                 ],
+                                                    "points":  25,
+                                                    "squadron-image":  "squadron/galactic-empire/tie-defender-squadron.png",
+                                                    "unique":  true,
+                                                    "text":  "While attacking a unique squadron, each of your [Critical Hit] icons adds 1 damage to the damage total.",
+                                                    "defense-tokens":  [
+                                                                           "Brace",
+                                                                           "Evade"
+                                                                       ],
+                                                    "stable-id":  "squadron:galactic-empire:darth-vader:tie-defender-squadron",
+                                                    "data-version":  "2025.01-final",
+                                                    "supplement":  "Rapid Reinforcements I",
+                                                    "supplement-revision":  "2.0",
+                                                    "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
+                                                    "image-status":  "card-image-not-packaged"
+                                                }
+                            },
+                            {
+                                "file":  "data\\upgrade-card\\weapons-team-and-offensive-retrofit.json",
+                                "record":  4,
+                                "full_record":  {
+                                                    "name":  "Darth Vader",
+                                                    "unique":  true,
+                                                    "text":  "When you reveal a command, you may discard a [Squadron] dial or token and this card to choose 1 enemy ship at close range. Choose and discard 1 non-[Commander] upgrade card equipped to that ship.",
+                                                    "faction":  "Galactic Empire",
+                                                    "slots":  [
+                                                                  "Weapons Team",
+                                                                  "Offensive Retrofit"
+                                                              ],
+                                                    "points":  3,
+                                                    "image":  "upgrade-card/weapons-team-and-offensive-retrofit/darth-vader.png"
+                                                }
+                            }
+                        ]
+    },
+    {
+        "identity":  "Ahsoka Tano",
+        "occurrence_count":  2,
+        "card_families":  [
+                              "squadron",
+                              "upgrade"
+                          ],
+        "classification":  "CROSS_TYPE_IDENTITY",
+        "occurrences":  [
+                            {
+                                "file":  "data\\squadron-card\\galactic-republic\\ahsoka-tano.json",
+                                "record":  1,
+                                "full_record":  {
+                                                    "name":  "Ahsoka Tano",
+                                                    "subname":  "Delta-7 Aethersprite Squadron",
+                                                    "faction":  "Galactic Republic",
+                                                    "unique":  true,
+                                                    "speed":  4,
+                                                    "hull":  4,
+                                                    "__comment":  "dice array is [red, blue, black] counts",
+                                                    "squadron-attack":  [
+                                                                            0,
+                                                                            3,
+                                                                            1
+                                                                        ],
+                                                    "attack":  [
+                                                                   0,
+                                                                   1,
+                                                                   0
+                                                               ],
+                                                    "keywords":  [
+                                                                     "Adept 1",
+                                                                     "Counter 2",
+                                                                     "Grit"
+                                                                 ],
+                                                    "defense-tokens":  [
+                                                                           "Brace",
+                                                                           "Scatter"
+                                                                       ],
+                                                    "text":  "After you move, you may choose another friendly squadron at distance 1. That squadron performs an attack against an enemy squadron at distance 1 with an anti-squadron armament of 2 blue dice.",
+                                                    "points":  23,
+                                                    "source":  {
+                                                                   "product":  "Republic Fighter Squadrons Expansion Pack",
+                                                                   "product-code":  "SWM36",
+                                                                   "publisher":  "Fantasy Flight Games",
+                                                                   "rules-baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                                                   "verification":  "BSData Galactic Republic catalogue rev. 14 (22/01/2025 errata changes added)",
+                                                                   "data-version":  "2025.01-final"
+                                                               },
+                                                    "id":  "swarmada:official:galactic-republic:squadron:ahsoka-tano",
+                                                    "data-version":  "2025.01-final",
+                                                    "legality":  {
+                                                                     "ruleset":  "official-amg-final-2025",
+                                                                     "status":  "legal",
+                                                                     "official":  true,
+                                                                     "faction":  "Galactic Republic",
+                                                                     "productOrigin":  "SWM36",
+                                                                     "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                                                     "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
+                                                                 }
+                                                }
+                            },
+                            {
+                                "file":  "data\\upgrade-card\\officer.json",
+                                "record":  6,
+                                "full_record":  {
+                                                    "name":  "Ahsoka Tano",
+                                                    "unique":  true,
+                                                    "text":  "Squadron: Each of up to 3 non-unique squadrons that you activate gain Snipe 1 for each die in their anti-squadron armament, to a maximum of Snipe 3, until the end of its activation.",
+                                                    "faction":  "Galactic Republic",
+                                                    "slots":  [
+                                                                  "Officer"
+                                                              ],
+                                                    "points":  6,
+                                                    "source":  {
+                                                                   "product":  "Venator-class Star Destroyer Expansion Pack",
+                                                                   "product-code":  "SWM41",
+                                                                   "publisher":  "Fantasy Flight Games",
+                                                                   "rules-baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                                                   "verification":  "AMG SWM41 product listing; AMG Errata 5.5; Slicer Tools official ruleset; Star Wars Armada community references",
+                                                                   "data-version":  "2025.01-final"
+                                                               },
+                                                    "id":  "swarmada:official:galactic-republic:upgrade:officer:ahsoka-tano",
+                                                    "data-version":  "2025.01-final",
+                                                    "legality":  {
+                                                                     "ruleset":  "official-amg-final-2025",
+                                                                     "status":  "legal",
+                                                                     "official":  true,
+                                                                     "faction":  "Galactic Republic",
+                                                                     "productOrigin":  "SWM41",
+                                                                     "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                                                     "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
+                                                                 }
+                                                }
+                            }
+                        ]
+    },
+    {
+        "identity":  "Anakin Skywalker",
+        "occurrence_count":  3,
+        "card_families":  [
+                              "squadron",
+                              "upgrade"
+                          ],
+        "classification":  "CROSS_TYPE_IDENTITY",
+        "occurrences":  [
+                            {
+                                "file":  "data\\squadron-card\\galactic-republic\\anakin-skywalker-btl-b-y-wing.json",
+                                "record":  1,
+                                "full_record":  {
+                                                    "name":  "Anakin Skywalker",
+                                                    "subname":  "BTL-B Y-wing Squadron",
+                                                    "faction":  "Galactic Republic",
+                                                    "unique":  true,
+                                                    "speed":  3,
+                                                    "hull":  6,
+                                                    "__comment":  "dice array is [red, blue, black] counts",
+                                                    "squadron-attack":  [
+                                                                            0,
+                                                                            3,
+                                                                            0
+                                                                        ],
+                                                    "attack":  [
+                                                                   1,
+                                                                   1,
+                                                                   0
+                                                               ],
+                                                    "keywords":  [
+                                                                     "Adept 2",
+                                                                     "Bomber",
+                                                                     "Heavy"
+                                                                 ],
+                                                    "defense-tokens":  [
+                                                                           "Brace",
+                                                                           "Brace"
+                                                                       ],
+                                                    "text":  "During your activation, you may spend 1 defense token to ignore engagement until the end of your activation.",
+                                                    "points":  18,
+                                                    "source":  {
+                                                                   "product":  "Republic Fighter Squadrons Expansion Pack",
+                                                                   "product-code":  "SWM36",
+                                                                   "publisher":  "Fantasy Flight Games",
+                                                                   "rules-baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                                                   "verification":  "BSData Galactic Republic catalogue rev. 14 (22/01/2025 errata changes added)",
+                                                                   "data-version":  "2025.01-final"
+                                                               },
+                                                    "id":  "swarmada:official:galactic-republic:squadron:anakin-skywalker",
+                                                    "data-version":  "2025.01-final",
+                                                    "legality":  {
+                                                                     "ruleset":  "official-amg-final-2025",
+                                                                     "status":  "legal",
+                                                                     "official":  true,
+                                                                     "faction":  "Galactic Republic",
+                                                                     "productOrigin":  "SWM36",
+                                                                     "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                                                     "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
+                                                                 }
+                                                }
+                            },
+                            {
+                                "file":  "data\\squadron-card\\galactic-republic\\anakin-skywalker-delta-7.json",
+                                "record":  1,
+                                "full_record":  {
+                                                    "name":  "Anakin Skywalker",
+                                                    "subname":  "Delta-7 Aethersprite Squadron",
+                                                    "faction":  "Galactic Republic",
+                                                    "speed":  4,
+                                                    "hull":  4,
+                                                    "__comment":  "dice array is [red, blue, black] counts",
+                                                    "squadron-attack":  [
+                                                                            0,
+                                                                            2,
+                                                                            2
+                                                                        ],
+                                                    "attack":  [
+                                                                   0,
+                                                                   0,
+                                                                   1
+                                                               ],
+                                                    "keywords":  [
+                                                                     "Adept 2",
+                                                                     "Counter 2",
+                                                                     "Dodge 1"
+                                                                 ],
+                                                    "points":  24,
+                                                    "source":  {
+                                                                   "product":  "Republic Fighter Squadrons Expansion Pack",
+                                                                   "product-code":  "SWM36",
+                                                                   "publisher":  "Fantasy Flight Games",
+                                                                   "rules-baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                                                   "verification":  "BSData Galactic Republic catalogue rev. 14 (22/01/2025 errata changes added)",
+                                                                   "data-version":  "2025.01-final"
+                                                               },
+                                                    "legality":  {
+                                                                     "ruleset":  "official-amg-final-2025",
+                                                                     "status":  "legal",
+                                                                     "official":  true,
+                                                                     "faction":  "Galactic Republic",
+                                                                     "productOrigin":  "SWM36",
+                                                                     "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                                                     "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
+                                                                 },
+                                                    "unique":  true,
+                                                    "text":  "While attacking a squadron during your activation, at the end of the Resolve Damage step, you may choose up to 2 enemy squadrons at distance 1 of the defender. If the defender was damaged, the chosen squadrons suffer 1 damage.",
+                                                    "defense-tokens":  [
+                                                                           "Brace",
+                                                                           "Scatter"
+                                                                       ],
+                                                    "stable-id":  "squadron:galactic-republic:anakin-skywalker:delta-7-aethersprite-squadron",
+                                                    "data-version":  "2025.01-final",
+                                                    "supplement":  "Rapid Reinforcements I",
+                                                    "supplement-revision":  "2.0",
+                                                    "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
+                                                    "image-status":  "card-image-not-packaged"
+                                                }
+                            },
+                            {
+                                "file":  "data\\upgrade-card\\commander.json",
+                                "record":  16,
+                                "full_record":  {
+                                                    "name":  "Anakin Skywalker",
+                                                    "unique":  true,
+                                                    "text":  "While a friendly ship is attacking a ship, if the defender is at distance 1-5 of at least 2 other friendly ships, 1 other friendly ship at distance 1-5 of the defender may spend 1 defense token. If it does, the attacker may reroll up to 3 dice.",
+                                                    "faction":  "Galactic Republic",
+                                                    "slots":  [
+                                                                  "Commander"
+                                                              ],
+                                                    "points":  27,
+                                                    "stable-id":  "upgrade:commander:galactic-republic:anakin-skywalker",
+                                                    "data-version":  "2025.01-final",
+                                                    "supplement":  "Rapid Reinforcements II",
+                                                    "supplement-revision":  "2.1",
+                                                    "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
+                                                    "image-status":  "card-image-not-packaged"
+                                                }
+                            }
+                        ]
+    },
+    {
+        "identity":  "Luminara Unduli",
+        "occurrence_count":  2,
+        "card_families":  [
+                              "squadron",
+                              "upgrade"
+                          ],
+        "classification":  "CROSS_TYPE_IDENTITY",
+        "occurrences":  [
+                            {
+                                "file":  "data\\squadron-card\\galactic-republic\\luminara-unduli.json",
+                                "record":  1,
+                                "full_record":  {
+                                                    "name":  "Luminara Unduli",
+                                                    "subname":  "Delta-7 Aethersprite Squadron",
+                                                    "faction":  "Galactic Republic",
+                                                    "unique":  true,
+                                                    "speed":  4,
+                                                    "hull":  4,
+                                                    "__comment":  "dice array is [red, blue, black] counts",
+                                                    "squadron-attack":  [
+                                                                            0,
+                                                                            3,
+                                                                            1
+                                                                        ],
+                                                    "attack":  [
+                                                                   0,
+                                                                   1,
+                                                                   0
+                                                               ],
+                                                    "keywords":  [
+                                                                     "Adept 1",
+                                                                     "Counter 2"
+                                                                 ],
+                                                    "defense-tokens":  [
+                                                                           "Brace",
+                                                                           "Scatter"
+                                                                       ],
+                                                    "text":  "While an enemy squadron at distance 1 is attacking a non-unique friendly squadron, the attack is treated as obstructed.",
+                                                    "points":  23,
+                                                    "source":  {
+                                                                   "product":  "Republic Fighter Squadrons Expansion Pack",
+                                                                   "product-code":  "SWM36",
+                                                                   "publisher":  "Fantasy Flight Games",
+                                                                   "rules-baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                                                   "verification":  "BSData Galactic Republic catalogue rev. 14 (22/01/2025 errata changes added)",
+                                                                   "data-version":  "2025.01-final"
+                                                               },
+                                                    "id":  "swarmada:official:galactic-republic:squadron:luminara-unduli",
+                                                    "data-version":  "2025.01-final",
+                                                    "legality":  {
+                                                                     "ruleset":  "official-amg-final-2025",
+                                                                     "status":  "legal",
+                                                                     "official":  true,
+                                                                     "faction":  "Galactic Republic",
+                                                                     "productOrigin":  "SWM36",
+                                                                     "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                                                     "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
+                                                                 }
+                                                }
+                            },
+                            {
+                                "file":  "data\\upgrade-card\\commander.json",
+                                "record":  5,
+                                "full_record":  {
+                                                    "name":  "Luminara Unduli",
+                                                    "unique":  true,
+                                                    "text":  "While a friendly ship or unique squadron is defending, after the Spend Defense Tokens step, if it spent fewer than 2 defense tokens, it may either ready 1 of its defense tokens it did not spend, or choose another friendly ship at distance 1-5 and ready 1 of that ship\u0027s defense tokens.",
+                                                    "faction":  "Galactic Republic",
+                                                    "slots":  [
+                                                                  "Commander"
+                                                              ],
+                                                    "points":  25,
+                                                    "source":  {
+                                                                   "product":  "Venator-class Star Destroyer Expansion Pack",
+                                                                   "product-code":  "SWM41",
+                                                                   "publisher":  "Fantasy Flight Games",
+                                                                   "rules-baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                                                   "verification":  "AMG SWM41 product listing; AMG Errata 5.5; Slicer Tools official ruleset; Star Wars Armada community references",
+                                                                   "data-version":  "2025.01-final"
+                                                               },
+                                                    "id":  "swarmada:official:galactic-republic:upgrade:commander:luminara-unduli",
+                                                    "data-version":  "2025.01-final",
+                                                    "legality":  {
+                                                                     "ruleset":  "official-amg-final-2025",
+                                                                     "status":  "legal",
+                                                                     "official":  true,
+                                                                     "faction":  "Galactic Republic",
+                                                                     "productOrigin":  "SWM41",
+                                                                     "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                                                     "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
+                                                                 }
+                                                }
+                            }
+                        ]
+    },
+    {
+        "identity":  "Plo Koon",
+        "occurrence_count":  2,
+        "card_families":  [
+                              "squadron",
+                              "upgrade"
+                          ],
+        "classification":  "CROSS_TYPE_IDENTITY",
+        "occurrences":  [
+                            {
+                                "file":  "data\\squadron-card\\galactic-republic\\plo-koon.json",
+                                "record":  1,
+                                "full_record":  {
+                                                    "name":  "Plo Koon",
+                                                    "subname":  "Delta-7 Aethersprite Squadron",
+                                                    "faction":  "Galactic Republic",
+                                                    "unique":  true,
+                                                    "speed":  4,
+                                                    "hull":  4,
+                                                    "__comment":  "dice array is [red, blue, black] counts",
+                                                    "squadron-attack":  [
+                                                                            0,
+                                                                            3,
+                                                                            1
+                                                                        ],
+                                                    "attack":  [
+                                                                   0,
+                                                                   1,
+                                                                   0
+                                                               ],
+                                                    "keywords":  [
+                                                                     "Adept 2",
+                                                                     "Counter 2"
+                                                                 ],
+                                                    "defense-tokens":  [
+                                                                           "Brace",
+                                                                           "Scatter"
+                                                                       ],
+                                                    "text":  "Non-unique friendly squadrons without Counter at distance 1 gain Counter 1.",
+                                                    "points":  24,
+                                                    "source":  {
+                                                                   "product":  "Republic Fighter Squadrons Expansion Pack",
+                                                                   "product-code":  "SWM36",
+                                                                   "publisher":  "Fantasy Flight Games",
+                                                                   "rules-baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                                                   "verification":  "BSData Galactic Republic catalogue rev. 14 (22/01/2025 errata changes added)",
+                                                                   "data-version":  "2025.01-final"
+                                                               },
+                                                    "id":  "swarmada:official:galactic-republic:squadron:plo-koon",
+                                                    "data-version":  "2025.01-final",
+                                                    "legality":  {
+                                                                     "ruleset":  "official-amg-final-2025",
+                                                                     "status":  "legal",
+                                                                     "official":  true,
+                                                                     "faction":  "Galactic Republic",
+                                                                     "productOrigin":  "SWM36",
+                                                                     "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                                                     "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
+                                                                 }
+                                                }
+                            },
+                            {
+                                "file":  "data\\upgrade-card\\commander.json",
+                                "record":  6,
+                                "full_record":  {
+                                                    "name":  "Plo Koon",
+                                                    "unique":  true,
+                                                    "text":  "While a friendly squadron is attacking a ship at distance 1-3 of a friendly ship, the attacker may add 1 blue die set to an accuracy icon to its attack pool. That die cannot be rerolled or changed. Friendly squadrons without Adept gain Grit while they are at distance 1 of a friendly squadron with Adept.",
+                                                    "faction":  "Galactic Republic",
+                                                    "slots":  [
+                                                                  "Commander"
+                                                              ],
+                                                    "points":  26,
+                                                    "source":  {
+                                                                   "product":  "Venator-class Star Destroyer Expansion Pack",
+                                                                   "product-code":  "SWM41",
+                                                                   "publisher":  "Fantasy Flight Games",
+                                                                   "rules-baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                                                   "verification":  "AMG SWM41 product listing; AMG Errata 5.5; Slicer Tools official ruleset; Star Wars Armada community references",
+                                                                   "data-version":  "2025.01-final"
+                                                               },
+                                                    "id":  "swarmada:official:galactic-republic:upgrade:commander:plo-koon",
+                                                    "data-version":  "2025.01-final",
+                                                    "legality":  {
+                                                                     "ruleset":  "official-amg-final-2025",
+                                                                     "status":  "legal",
+                                                                     "official":  true,
+                                                                     "faction":  "Galactic Republic",
+                                                                     "productOrigin":  "SWM41",
+                                                                     "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                                                     "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
+                                                                 }
+                                                }
+                            }
+                        ]
+    },
+    {
+        "identity":  "General Grievous",
+        "occurrence_count":  2,
+        "card_families":  [
+                              "squadron",
+                              "upgrade"
+                          ],
+        "classification":  "CROSS_TYPE_IDENTITY",
+        "occurrences":  [
+                            {
+                                "file":  "data\\squadron-card\\separatist-alliance\\general-grievous-belbullab-22.json",
+                                "record":  1,
+                                "full_record":  {
+                                                    "name":  "General Grievous",
+                                                    "faction":  "Separatist Alliance",
+                                                    "unique":  true,
+                                                    "type":  "Belbullab-22 Squadron",
+                                                    "speed":  4,
+                                                    "hull":  5,
+                                                    "squadron-attack":  [
+                                                                            0,
+                                                                            4,
+                                                                            0
+                                                                        ],
+                                                    "battery-attack":  [
+                                                                           0,
+                                                                           0,
+                                                                           1
+                                                                       ],
+                                                    "keywords":  [
+                                                                     "Relay 2",
+                                                                     "Screen"
+                                                                 ],
+                                                    "defense-tokens":  [
+                                                                           "Brace",
+                                                                           "Brace"
+                                                                       ],
+                                                    "points":  22,
+                                                    "ability":  "While attacking a ship or squadron with no readied defense tokens, critical icons can contribute additional damage under this squadron\u0027s effect.",
+                                                    "source":  {
+                                                                   "product":  "Separatist Fighter Squadrons Expansion Pack",
+                                                                   "product-code":  "SWM37",
+                                                                   "publisher":  "Fantasy Flight Games",
+                                                                   "rules-baseline":  "AMG final Armada update, January 2025",
+                                                                   "verification":  "AMG SWM37 product listing; FFG Swarm the Opposition preview; final AMG January 2025 point update; Slicer Tools official ruleset; Armada community cross-checks",
+                                                                   "data-version":  "2025.01-final"
+                                                               },
+                                                    "id":  "swarmada:official:separatist-alliance:squadron:general-grievous",
+                                                    "data-version":  "2025.01-final",
+                                                    "legality":  {
+                                                                     "status":  "official-final",
+                                                                     "faction":  "Separatist Alliance",
+                                                                     "rules_baseline":  "AMG final Armada update, January 2025",
+                                                                     "data_version":  "2025.01-final",
+                                                                     "product_origin":  "SWM37"
+                                                                 }
+                                                }
+                            },
+                            {
+                                "file":  "data\\upgrade-card\\commander.json",
+                                "record":  11,
+                                "full_record":  {
+                                                    "name":  "General Grievous",
+                                                    "unique":  true,
+                                                    "faction":  "Separatist Alliance",
+                                                    "slots":  [
+                                                                  "Commander"
+                                                              ],
+                                                    "points":  20,
+                                                    "text":  "When a friendly ship or squadron is destroyed, a nearby friendly ship or unique squadron can recover or ready a defense token under the card\u0027s conditions.",
+                                                    "source":  {
+                                                                   "product":  "Invisible Hand Expansion Pack",
+                                                                   "product-code":  "SWM42",
+                                                                   "publisher":  "Fantasy Flight Games",
+                                                                   "rules-baseline":  "AMG final Armada update, January 2025",
+                                                                   "verification":  "Atomic Mass Games SWM42 product listing; Slicer Tools official ruleset; final AMG January 2025 points cross-check",
+                                                                   "data-version":  "2025.01-final"
+                                                               },
+                                                    "id":  "swarmada:official:separatist-alliance:upgrade:commander:general-grievous",
+                                                    "data-version":  "2025.01-final",
+                                                    "legality":  {
+                                                                     "status":  "official-final",
+                                                                     "faction":  "Separatist Alliance",
+                                                                     "rules_baseline":  "AMG final Armada update, January 2025",
+                                                                     "data_version":  "2025.01-final",
+                                                                     "product_origin":  "SWM42"
+                                                                 }
+                                                }
+                            }
+                        ]
+    },
+    {
+        "identity":  "Wat Tambor",
+        "occurrence_count":  2,
+        "card_families":  [
+                              "squadron",
+                              "upgrade"
+                          ],
+        "classification":  "CROSS_TYPE_IDENTITY",
+        "occurrences":  [
+                            {
+                                "file":  "data\\squadron-card\\separatist-alliance\\wat-tambor-squadron.json",
+                                "record":  1,
+                                "full_record":  {
+                                                    "faction":  "Separatist Alliance",
+                                                    "type":  "Belbullab-22 Squadron",
+                                                    "speed":  4,
+                                                    "hull":  5,
+                                                    "squadron-attack":  [
+                                                                            0,
+                                                                            2,
+                                                                            0
+                                                                        ],
+                                                    "battery-attack":  [
+                                                                           0,
+                                                                           1,
+                                                                           0
+                                                                       ],
+                                                    "source":  {
+                                                                   "product":  "Separatist Fighter Squadrons Expansion Pack",
+                                                                   "product-code":  "SWM37",
+                                                                   "publisher":  "Fantasy Flight Games",
+                                                                   "rules-baseline":  "AMG final Armada update, January 2025",
+                                                                   "verification":  "AMG SWM37 product listing; FFG Swarm the Opposition preview; final AMG January 2025 point update; Slicer Tools official ruleset; Armada community cross-checks",
+                                                                   "data-version":  "2025.01-final"
+                                                               },
+                                                    "legality":  {
+                                                                     "status":  "official-final",
+                                                                     "faction":  "Separatist Alliance",
+                                                                     "rules_baseline":  "AMG final Armada update, January 2025",
+                                                                     "data_version":  "2025.01-final",
+                                                                     "product_origin":  "SWM37"
+                                                                 },
+                                                    "name":  "Wat Tambor",
+                                                    "subname":  "Belbullab-22 Starfighter Squadron",
+                                                    "unique":  true,
+                                                    "attack":  [
+                                                                   0,
+                                                                   0,
+                                                                   1
+                                                               ],
+                                                    "text":  "",
+                                                    "keywords":  [
+                                                                     "Escort",
+                                                                     "Relay 1",
+                                                                     "Screen"
+                                                                 ],
+                                                    "defense-tokens":  [
+                                                                           "Brace",
+                                                                           "Evade"
+                                                                       ],
+                                                    "points":  18,
+                                                    "stable-id":  "squadron:separatist-alliance:wat-tambor:belbullab-22-starfighter-squadron",
+                                                    "data-version":  "2025.01-final",
+                                                    "supplement":  "Rapid Reinforcements II",
+                                                    "supplement-revision":  "2.1",
+                                                    "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
+                                                    "image-status":  "card-image-not-packaged"
+                                                }
+                            },
+                            {
+                                "file":  "data\\upgrade-card\\officer.json",
+                                "record":  11,
+                                "full_record":  {
+                                                    "name":  "Wat Tambor",
+                                                    "unique":  true,
+                                                    "faction":  "Separatist Alliance",
+                                                    "slots":  [
+                                                                  "Officer"
+                                                              ],
+                                                    "points":  9,
+                                                    "points-history":  {
+                                                                           "printed":  5,
+                                                                           "current":  9
+                                                                       },
+                                                    "text":  "During a Repair command, shields may be spent from this ship or a nearby friendly ship to gain additional engineering points.",
+                                                    "source":  {
+                                                                   "product":  "Separatist Alliance Fleet Starter",
+                                                                   "product-code":  "SWM35",
+                                                                   "publisher":  "Fantasy Flight Games",
+                                                                   "rules-baseline":  "AMG final Armada update, January 2025",
+                                                                   "verification":  "AMG/FFG SWM35 product data; final official errata/points; Slicer Tools; Armada community references",
+                                                                   "data-version":  "2025.01-final"
+                                                               },
+                                                    "id":  "swarmada:official:separatist-alliance:upgrade:officer:wat-tambor",
+                                                    "data-version":  "2025.01-final",
+                                                    "legality":  {
+                                                                     "status":  "official-final",
+                                                                     "faction":  "Separatist Alliance",
+                                                                     "rules_baseline":  "AMG final Armada update, January 2025",
+                                                                     "data_version":  "2025.01-final",
+                                                                     "product_origin":  "SWM35"
+                                                                 }
+                                                }
+                            }
+                        ]
+    }
+]

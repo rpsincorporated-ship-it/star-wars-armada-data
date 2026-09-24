@@ -1,0 +1,20 @@
+﻿[
+    {
+        "name":  "Onager-class Star Destroyer",
+        "local_points":  110,
+        "candidate_final_points":  120,
+        "official_name_mention":  false,
+        "target_numeric_token_near_name":  false,
+        "old_numeric_token_near_name":  false,
+        "classification":  "OFFICIAL-TEXT-NOT-SUFFICIENT"
+    },
+    {
+        "name":  "Onager-class Testbed",
+        "local_points":  96,
+        "candidate_final_points":  116,
+        "official_name_mention":  false,
+        "target_numeric_token_near_name":  false,
+        "old_numeric_token_near_name":  false,
+        "classification":  "OFFICIAL-TEXT-NOT-SUFFICIENT"
+    }
+]

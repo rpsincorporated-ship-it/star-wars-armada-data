@@ -1,0 +1,19 @@
+{
+    "milestone":  "35.5",
+    "title":  "Verified Image Reference Repair Review",
+    "input_candidates":  38,
+    "exact_identity_and_variant_verified":  38,
+    "variant_specific_path_repair_candidates":  14,
+    "already_correct_references":  22,
+    "card_image_not_packaged_policy_review":  2,
+    "later_repair_authorization_queue":  14,
+    "no_change_records":  22,
+    "policy_gated_records":  2,
+    "cross_faction_repair_candidates":  0,
+    "production_repairs_authorized":  0,
+    "image_redistribution_authorized":  0,
+    "production_modified":  false,
+    "milestone_status":  "VERIFIED_REFERENCE_REVIEW_ACCEPTED",
+    "release_certification":  "NOT_YET_GRANTED",
+    "next":  "Milestone 35.5a - Variant-Specific Image Reference Repair Authorization"
+}

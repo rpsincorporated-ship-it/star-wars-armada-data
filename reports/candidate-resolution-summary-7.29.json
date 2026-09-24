@@ -1,0 +1,9 @@
+﻿{
+    "milestone":  "7.29",
+    "status":  "PASS-CANDIDATE-CLASSIFICATION-REPAIRED",
+    "candidates":  6,
+    "name_collision_holds":  2,
+    "official_confirmation_candidates":  4,
+    "production_writes":  0,
+    "note":  "Community evidence alone never authorizes a point rewrite."
+}

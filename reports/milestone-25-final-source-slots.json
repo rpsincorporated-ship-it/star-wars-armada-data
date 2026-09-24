@@ -1,0 +1,138 @@
+﻿[
+    {
+        "sequence":  6,
+        "campaign":  "Corellian Conflict",
+        "product_code":  "SWM25",
+        "title":  "Asteroids",
+        "identity_key":  "SWM25|06|Asteroids",
+        "accepted_extensions":  [
+                                    ".png",
+                                    ".jpg",
+                                    ".jpeg",
+                                    ".pdf",
+                                    ".webp"
+                                ],
+        "accepted_authority":  "User-provided scan/photo of owned physical card OR official FFG/AMG artifact",
+        "requirement":  "Card title and all rules text must be legible",
+        "production_write_allowed":  false
+    },
+    {
+        "sequence":  7,
+        "campaign":  "Corellian Conflict",
+        "product_code":  "SWM25",
+        "title":  "Independent Station",
+        "identity_key":  "SWM25|07|Independent Station",
+        "accepted_extensions":  [
+                                    ".png",
+                                    ".jpg",
+                                    ".jpeg",
+                                    ".pdf",
+                                    ".webp"
+                                ],
+        "accepted_authority":  "User-provided scan/photo of owned physical card OR official FFG/AMG artifact",
+        "requirement":  "Card title and all rules text must be legible",
+        "production_write_allowed":  false
+    },
+    {
+        "sequence":  9,
+        "campaign":  "Rebellion in the Rim",
+        "product_code":  "SWM31",
+        "title":  "Base Defense: Armed Station",
+        "identity_key":  "SWM31|09|Base Defense: Armed Station",
+        "accepted_extensions":  [
+                                    ".png",
+                                    ".jpg",
+                                    ".jpeg",
+                                    ".pdf",
+                                    ".webp"
+                                ],
+        "accepted_authority":  "User-provided scan/photo of owned physical card OR official FFG/AMG artifact",
+        "requirement":  "Card title and all rules text must be legible",
+        "production_write_allowed":  false
+    },
+    {
+        "sequence":  10,
+        "campaign":  "Rebellion in the Rim",
+        "product_code":  "SWM31",
+        "title":  "Base Defense: Fighter Wing",
+        "identity_key":  "SWM31|10|Base Defense: Fighter Wing",
+        "accepted_extensions":  [
+                                    ".png",
+                                    ".jpg",
+                                    ".jpeg",
+                                    ".pdf",
+                                    ".webp"
+                                ],
+        "accepted_authority":  "User-provided scan/photo of owned physical card OR official FFG/AMG artifact",
+        "requirement":  "Card title and all rules text must be legible",
+        "production_write_allowed":  false
+    },
+    {
+        "sequence":  11,
+        "campaign":  "Rebellion in the Rim",
+        "product_code":  "SWM31",
+        "title":  "Base Defense: Ion Cannon",
+        "identity_key":  "SWM31|11|Base Defense: Ion Cannon",
+        "accepted_extensions":  [
+                                    ".png",
+                                    ".jpg",
+                                    ".jpeg",
+                                    ".pdf",
+                                    ".webp"
+                                ],
+        "accepted_authority":  "User-provided scan/photo of owned physical card OR official FFG/AMG artifact",
+        "requirement":  "Card title and all rules text must be legible",
+        "production_write_allowed":  false
+    },
+    {
+        "sequence":  14,
+        "campaign":  "Rebellion in the Rim",
+        "product_code":  "SWM31",
+        "title":  "Holonet Override",
+        "identity_key":  "SWM31|14|Holonet Override",
+        "accepted_extensions":  [
+                                    ".png",
+                                    ".jpg",
+                                    ".jpeg",
+                                    ".pdf",
+                                    ".webp"
+                                ],
+        "accepted_authority":  "User-provided scan/photo of owned physical card OR official FFG/AMG artifact",
+        "requirement":  "Card title and all rules text must be legible",
+        "production_write_allowed":  false
+    },
+    {
+        "sequence":  16,
+        "campaign":  "Rebellion in the Rim",
+        "product_code":  "SWM31",
+        "title":  "Prototype Recovery",
+        "identity_key":  "SWM31|16|Prototype Recovery",
+        "accepted_extensions":  [
+                                    ".png",
+                                    ".jpg",
+                                    ".jpeg",
+                                    ".pdf",
+                                    ".webp"
+                                ],
+        "accepted_authority":  "User-provided scan/photo of owned physical card OR official FFG/AMG artifact",
+        "requirement":  "Card title and all rules text must be legible",
+        "production_write_allowed":  false
+    },
+    {
+        "sequence":  19,
+        "campaign":  "Rebellion in the Rim",
+        "product_code":  "SWM31",
+        "title":  "Volatile Cargo",
+        "identity_key":  "SWM31|19|Volatile Cargo",
+        "accepted_extensions":  [
+                                    ".png",
+                                    ".jpg",
+                                    ".jpeg",
+                                    ".pdf",
+                                    ".webp"
+                                ],
+        "accepted_authority":  "User-provided scan/photo of owned physical card OR official FFG/AMG artifact",
+        "requirement":  "Card title and all rules text must be legible",
+        "production_write_allowed":  false
+    }
+]

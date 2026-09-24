@@ -1,0 +1,13 @@
+﻿{
+    "milestone":  "18",
+    "revision":  "v4",
+    "status":  "PASS-MILESTONE-18-OFFICIAL-CAMPAIGN-SOURCE-ACQUISITION-COMPLETE",
+    "official_sources_registered":  10,
+    "official_sources_acquired":  10,
+    "campaign_sources_present":  10,
+    "campaign_sources_remaining":  9,
+    "production_files_changed":  0,
+    "evidence_bundle":  "C:\\Development\\Armada_Database\\armada-milestone-18-official-campaign-evidence-v4.zip",
+    "evidence_bundle_sha256":  "F4659324DC0793F931DA9C094844A0D9CDF527C86812B6D849E207529F3F444F",
+    "next_gate":  "NINE-REMAINING-CAMPAIGN-SOURCE-ARTIFACTS"
+}

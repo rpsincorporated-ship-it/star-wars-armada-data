@@ -1,0 +1,21 @@
+﻿{
+    "milestone":  "3.3a",
+    "supersedes":  "3.3",
+    "status":  "PASS",
+    "supplement":  "Rapid Reinforcements II",
+    "official_document":  "Rapid Reinforcements v2.3 [01/10/25]",
+    "total_cards":  8,
+    "commanders":  2,
+    "officers":  2,
+    "squadrons":  4,
+    "new_rr2_identities":  8,
+    "production_card_data_modified":  false,
+    "correction":  {
+                       "card":  "General Draven",
+                       "from":  "Officer",
+                       "to":  "Commander",
+                       "faction":  "Rebel Alliance",
+                       "points":  20
+                   },
+    "next_milestone":  "3.4b RRII eight-card production installation"
+}

@@ -1,0 +1,10 @@
+﻿{
+    "milestone":  "13",
+    "status":  "PASS-MILESTONE-13-ONAGER-SOURCE-LOCALIZATION-READY",
+    "page_count":  34,
+    "contact_sheets":  3,
+    "production_files_changed":  0,
+    "bundle":  "C:\\Development\\Armada_Database\\armada-milestone-13-onager-source-localization.zip",
+    "bundle_sha256":  "EB36183A7252618F086384FE86CBBD2D7CE27604D4C05175AC40AD946BFE8473",
+    "next_gate":  "DIRECT-VISUAL-LOCALIZATION-AND-POINT-CONFIRMATION"
+}

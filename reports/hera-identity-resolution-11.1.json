@@ -1,0 +1,18 @@
+﻿{
+    "status":  "RESOLVED-IDENTITY-COLLISION-NO-WRITE",
+    "records":  [
+                    {
+                        "path":  "data\\squadron-card\\rebel-alliance\\hera-syndulla-x-wing.json",
+                        "index":  0,
+                        "points":  23,
+                        "type":  ""
+                    },
+                    {
+                        "path":  "data\\squadron-card\\rebel-alliance\\hera-syndulla.json",
+                        "index":  0,
+                        "points":  28,
+                        "type":  ""
+                    }
+                ],
+    "conclusion":  "28-point legacy Hera and 23-point Rapid Reinforcements I Hera are distinct squadron identities; no 28-\u003e23 correction is authorized."
+}

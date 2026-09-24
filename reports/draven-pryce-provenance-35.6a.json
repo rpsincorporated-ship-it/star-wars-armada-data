@@ -1,0 +1,49 @@
+[
+    {
+        "ordinal":  86,
+        "identity":  "General Draven",
+        "production_matches":  [
+                                   {
+                                       "identity":  "General Draven",
+                                       "file":  "data\\upgrade-card\\commander.json",
+                                       "record":  15
+                                   }
+                               ],
+        "production_provenance":  "PRODUCTION_COMMANDER_ONLY",
+        "production_file":  "data\\upgrade-card\\commander.json",
+        "production_record":  15,
+        "image_status":  "card-image-not-packaged",
+        "candidate":  "image/upgrade-card/officer/general-draven.png",
+        "candidate_directory_category":  "officer",
+        "exact_local_image_matches":  1,
+        "classification":  "COMMANDER_PRODUCTION_PROVENANCE_ESTABLISHED_IMAGE_PATH_NONAUTHORITATIVE",
+        "reason":  "General Draven occurs in commander production and not officer production. The local candidate resides under an officer image directory, but repository image-directory placement alone is not sufficient evidence to override production category provenance.",
+        "repair_needed":  false,
+        "production_repair_authorized":  false,
+        "image_packaging_authorized":  false,
+        "image_redistribution_authorized":  false
+    },
+    {
+        "ordinal":  87,
+        "identity":  "Governor Pryce",
+        "production_matches":  [
+                                   {
+                                       "identity":  "Governor Pryce",
+                                       "file":  "data\\upgrade-card\\officer.json",
+                                       "record":  18
+                                   }
+                               ],
+        "production_file":  "data\\upgrade-card\\officer.json",
+        "production_record":  18,
+        "image_status":  "card-image-not-packaged",
+        "candidate":  "image/upgrade-card/officer/governor-pryce.png",
+        "candidate_directory_category":  "officer",
+        "exact_local_image_matches":  1,
+        "classification":  "NOT_PACKAGED_POLICY_REMAINS_IN_FORCE",
+        "reason":  "Governor Pryce remains an officer production record with explicit image-status=card-image-not-packaged. A verified local image does not establish packaging or redistribution authorization.",
+        "repair_needed":  false,
+        "production_repair_authorized":  false,
+        "image_packaging_authorized":  false,
+        "image_redistribution_authorized":  false
+    }
+]

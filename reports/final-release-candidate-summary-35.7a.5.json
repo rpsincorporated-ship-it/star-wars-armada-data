@@ -1,0 +1,21 @@
+﻿{
+    "milestone":  "35.7a.5",
+    "title":  "Final Consistency and Release-Candidate Package",
+    "source_milestone":  "35.7a.4",
+    "production_files_audited":  191,
+    "production_records_parsed":  365,
+    "json_parse_failures":  0,
+    "card_image_not_packaged_records":  24,
+    "squadron_policy_closure_records_verified":  8,
+    "production_json_modified":  false,
+    "exact_card_images_packaged":  0,
+    "release_candidate_directory":  "temporary reports\\\\.stage-release-candidate-m35-7a-5 removed after ZIP creation",
+    "release_candidate_zip":  "reports\\armada-database-2025.01-final-release-candidate-m35-7a-5.zip",
+    "release_candidate_zip_bytes":  91123733,
+    "npm_available":  false,
+    "local_eslint_available":  false,
+    "historical_npm_eslint_gate":  "BLOCKED_DEPENDENCY_UNAVAILABLE",
+    "release_certification":  "CONDITIONALLY_GRANTED_WITH_NPM_ESLINT_GATE_BLOCKED",
+    "milestone_status":  "FINAL_CONSISTENCY_PASSED_RELEASE_CANDIDATE_BUILT",
+    "next":  "Install npm dependencies and run npm test if strict historical ESLint certification is required."
+}

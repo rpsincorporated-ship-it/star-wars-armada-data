@@ -1,0 +1,102 @@
+[
+    {
+        "identity":  "General Draven",
+        "category":  "commander",
+        "file":  "data\\upgrade-card\\commander.json",
+        "record":  15,
+        "faction":  "Rebel Alliance",
+        "slots":  "Commander",
+        "stable_id":  "upgrade:commander:rebel-alliance:general-draven",
+        "image_status":  "card-image-not-packaged",
+        "production_image_reference":  "",
+        "total_production_identity_matches":  1,
+        "expected_category_identity_matches":  1,
+        "exact_local_filename_matches":  1,
+        "local_image_paths":  [
+                                  "image\\upgrade-card\\officer\\general-draven.png"
+                              ],
+        "classification":  "NOT_PACKAGED_POLICY_REMAINS_IN_FORCE",
+        "reason":  "Production explicitly declares image-status=card-image-not-packaged. One or more local filename matches exist, but local file presence does not establish packaging or redistribution rights. Prior Milestone 35.6a established commander production provenance and established that the officer image-directory placement is non-authoritative.",
+        "repair_needed":  false,
+        "production_repair_authorized":  false,
+        "image_packaging_authorized":  false,
+        "image_copy_authorized":  false,
+        "image_move_authorized":  false,
+        "image_redistribution_authorized":  false
+    },
+    {
+        "identity":  "Anakin Skywalker",
+        "category":  "commander",
+        "file":  "data\\upgrade-card\\commander.json",
+        "record":  16,
+        "faction":  "Galactic Republic",
+        "slots":  "Commander",
+        "stable_id":  "upgrade:commander:galactic-republic:anakin-skywalker",
+        "image_status":  "card-image-not-packaged",
+        "production_image_reference":  "",
+        "total_production_identity_matches":  3,
+        "expected_category_identity_matches":  1,
+        "exact_local_filename_matches":  0,
+        "local_image_paths":  [
+
+                              ],
+        "classification":  "NOT_PACKAGED_POLICY_REMAINS_IN_FORCE",
+        "reason":  "Production explicitly declares image-status=card-image-not-packaged. No exact local filename match was found by this milestone. The production category and slot evidence remain authoritative for database classification.",
+        "repair_needed":  false,
+        "production_repair_authorized":  false,
+        "image_packaging_authorized":  false,
+        "image_copy_authorized":  false,
+        "image_move_authorized":  false,
+        "image_redistribution_authorized":  false
+    },
+    {
+        "identity":  "Governor Pryce",
+        "category":  "officer",
+        "file":  "data\\upgrade-card\\officer.json",
+        "record":  18,
+        "faction":  "Galactic Empire",
+        "slots":  "Officer",
+        "stable_id":  "upgrade:officer:galactic-empire:governor-pryce",
+        "image_status":  "card-image-not-packaged",
+        "production_image_reference":  "",
+        "total_production_identity_matches":  1,
+        "expected_category_identity_matches":  1,
+        "exact_local_filename_matches":  1,
+        "local_image_paths":  [
+                                  "image\\upgrade-card\\officer\\governor-pryce.png"
+                              ],
+        "classification":  "NOT_PACKAGED_POLICY_REMAINS_IN_FORCE",
+        "reason":  "Production explicitly declares image-status=card-image-not-packaged. One or more local filename matches exist, but local file presence does not establish packaging or redistribution rights. The production category and slot evidence remain authoritative for database classification.",
+        "repair_needed":  false,
+        "production_repair_authorized":  false,
+        "image_packaging_authorized":  false,
+        "image_copy_authorized":  false,
+        "image_move_authorized":  false,
+        "image_redistribution_authorized":  false
+    },
+    {
+        "identity":  "Asajj Ventress",
+        "category":  "officer",
+        "file":  "data\\upgrade-card\\officer.json",
+        "record":  19,
+        "faction":  "Separatist Alliance",
+        "slots":  "Officer",
+        "stable_id":  "upgrade:officer:separatist-alliance:asajj-ventress",
+        "image_status":  "card-image-not-packaged",
+        "production_image_reference":  "",
+        "total_production_identity_matches":  1,
+        "expected_category_identity_matches":  1,
+        "exact_local_filename_matches":  0,
+        "local_image_paths":  [
+
+                              ],
+        "classification":  "NOT_PACKAGED_POLICY_REMAINS_IN_FORCE",
+        "reason":  "Production explicitly declares image-status=card-image-not-packaged. No exact local filename match was found by this milestone. The production category and slot evidence remain authoritative for database classification.",
+        "repair_needed":  false,
+        "production_repair_authorized":  false,
+        "image_packaging_authorized":  false,
+        "image_copy_authorized":  false,
+        "image_move_authorized":  false,
+        "image_redistribution_authorized":  false
+    }
+]

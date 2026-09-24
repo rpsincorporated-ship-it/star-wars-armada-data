@@ -1,0 +1,21 @@
+{
+    "milestone":  "34",
+    "allowed_defect_types":  [
+                                 "INCORRECT_VALUE",
+                                 "SOURCE_CONFLICT",
+                                 "UNVERIFIED",
+                                 "MISSING_RECORD",
+                                 "QUESTIONABLE_EXTRA_RECORD",
+                                 "IMAGE_REFERENCE_PATH_ERROR",
+                                 "IMAGE_AVAILABLE_BUT_MISSING",
+                                 "IMAGE_REFERENCE_BROKEN",
+                                 "WRONG_IMAGE_VARIANT",
+                                 "WRONG_IMAGE_FACTION",
+                                 "PROVENANCE_DEFECT"
+                             ],
+    "defects":  [
+
+                ],
+    "rule":  "A defect may be added only when evidence identifies the production record, field, current value, source-supported result, and source.",
+    "production_repair_authorized":  false
+}

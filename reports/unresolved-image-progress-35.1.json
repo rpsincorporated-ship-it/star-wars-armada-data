@@ -1,0 +1,46 @@
+[
+    {
+        "card":  "Venator II-class Star Destroyer",
+        "status":  "PENDING_EXACT_IMAGE_EVIDENCE"
+    },
+    {
+        "card":  "Providence-class Carrier",
+        "status":  "PENDING_EXACT_IMAGE_EVIDENCE"
+    },
+    {
+        "card":  "Vult Skerris",
+        "status":  "PHYSICAL_CARD_EXISTENCE_VERIFIED_EXACT_IMAGE_PENDING"
+    },
+    {
+        "card":  "Anakin Skywalker",
+        "family":  "squadron",
+        "status":  "PENDING_EXACT_IMAGE_EVIDENCE"
+    },
+    {
+        "card":  "Matchstick",
+        "status":  "PHYSICAL_CARD_EXISTENCE_VERIFIED_EXACT_IMAGE_PENDING"
+    },
+    {
+        "card":  "Fenn Rau",
+        "status":  "PHYSICAL_CARD_EXISTENCE_VERIFIED_EXACT_IMAGE_PENDING"
+    },
+    {
+        "card":  "Jango Fett",
+        "status":  "PENDING_EXACT_IMAGE_EVIDENCE"
+    },
+    {
+        "card":  "Wat Tambor",
+        "family":  "squadron",
+        "status":  "PENDING_EXACT_IMAGE_EVIDENCE"
+    },
+    {
+        "card":  "Anakin Skywalker",
+        "family":  "upgrade",
+        "status":  "PENDING_EXACT_IMAGE_EVIDENCE"
+    },
+    {
+        "card":  "Asajj Ventress",
+        "family":  "upgrade",
+        "status":  "PENDING_EXACT_IMAGE_EVIDENCE"
+    }
+]

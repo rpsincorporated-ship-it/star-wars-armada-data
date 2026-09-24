@@ -1,0 +1,19 @@
+﻿{
+    "milestone":  "3.3",
+    "corrected_by":  "3.3a",
+    "status":  "PASS",
+    "supplement":  "Rapid Reinforcements II",
+    "official_document":  "Rapid Reinforcements v2.3 [01/10/25]",
+    "total_cards":  8,
+    "upgrades":  4,
+    "commanders":  2,
+    "officers":  2,
+    "squadrons":  4,
+    "revision_2_1_cards":  7,
+    "revision_2_0_cards":  1,
+    "revision_2_0_exception":  "Governor Pryce",
+    "new_rr2_identities":  8,
+    "existing_exact_identities":  0,
+    "production_card_data_modified":  false,
+    "correction_notice":  "General Draven is a Rebel Commander, not an Officer. Corrected by Milestone 3.3a."
+}

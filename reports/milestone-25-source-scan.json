@@ -1,0 +1,96 @@
+﻿{
+    "scan_time_utc":  "2026-09-09T00:31:51.9820520Z",
+    "slots":  8,
+    "ready":  0,
+    "missing":  8,
+    "records":  [
+                    {
+                        "sequence":  6,
+                        "product_code":  "SWM25",
+                        "title":  "Asteroids",
+                        "identity_key":  "SWM25|06|Asteroids",
+                        "artifact_count":  0,
+                        "ready":  false,
+                        "artifacts":  [
+
+                                      ]
+                    },
+                    {
+                        "sequence":  7,
+                        "product_code":  "SWM25",
+                        "title":  "Independent Station",
+                        "identity_key":  "SWM25|07|Independent Station",
+                        "artifact_count":  0,
+                        "ready":  false,
+                        "artifacts":  [
+
+                                      ]
+                    },
+                    {
+                        "sequence":  9,
+                        "product_code":  "SWM31",
+                        "title":  "Base Defense: Armed Station",
+                        "identity_key":  "SWM31|09|Base Defense: Armed Station",
+                        "artifact_count":  0,
+                        "ready":  false,
+                        "artifacts":  [
+
+                                      ]
+                    },
+                    {
+                        "sequence":  10,
+                        "product_code":  "SWM31",
+                        "title":  "Base Defense: Fighter Wing",
+                        "identity_key":  "SWM31|10|Base Defense: Fighter Wing",
+                        "artifact_count":  0,
+                        "ready":  false,
+                        "artifacts":  [
+
+                                      ]
+                    },
+                    {
+                        "sequence":  11,
+                        "product_code":  "SWM31",
+                        "title":  "Base Defense: Ion Cannon",
+                        "identity_key":  "SWM31|11|Base Defense: Ion Cannon",
+                        "artifact_count":  0,
+                        "ready":  false,
+                        "artifacts":  [
+
+                                      ]
+                    },
+                    {
+                        "sequence":  14,
+                        "product_code":  "SWM31",
+                        "title":  "Holonet Override",
+                        "identity_key":  "SWM31|14|Holonet Override",
+                        "artifact_count":  0,
+                        "ready":  false,
+                        "artifacts":  [
+
+                                      ]
+                    },
+                    {
+                        "sequence":  16,
+                        "product_code":  "SWM31",
+                        "title":  "Prototype Recovery",
+                        "identity_key":  "SWM31|16|Prototype Recovery",
+                        "artifact_count":  0,
+                        "ready":  false,
+                        "artifacts":  [
+
+                                      ]
+                    },
+                    {
+                        "sequence":  19,
+                        "product_code":  "SWM31",
+                        "title":  "Volatile Cargo",
+                        "identity_key":  "SWM31|19|Volatile Cargo",
+                        "artifact_count":  0,
+                        "ready":  false,
+                        "artifacts":  [
+
+                                      ]
+                    }
+                ]
+}

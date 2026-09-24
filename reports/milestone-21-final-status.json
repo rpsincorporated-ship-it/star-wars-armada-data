@@ -1,0 +1,13 @@
+﻿{
+    "milestone":  "21",
+    "status":  "PASS-MILESTONE-21-NEBULA-AUTHORITATIVE-EVIDENCE-COMPLETE",
+    "objective_records":  46,
+    "direct_card_source_gates":  8,
+    "official_errata_corroborated_partial_gates":  1,
+    "total_campaign_records_not_yet_ingested":  9,
+    "nebula_outskirts_disposition":  "OFFICIAL-ERRATA-CORROBORATED-FULL-CARD-SOURCE-STILL-REQUIRED",
+    "production_files_changed":  0,
+    "evidence_bundle":  "C:\\Development\\Armada_Database\\armada-milestone-21-nebula-authoritative-evidence.zip",
+    "evidence_bundle_sha256":  "9A07A8037C10B1194192B7427D61B293F0AEFAEA571D58A609F10A84C97DC04A",
+    "next_action":  "AUTHORITATIVE-FULL-CARD-RECOVERY-FOR-REMAINING-NINE"
+}

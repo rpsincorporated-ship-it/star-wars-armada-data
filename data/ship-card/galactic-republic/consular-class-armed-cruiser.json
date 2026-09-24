@@ -1,0 +1,85 @@
+[
+    {
+        "name":  "Consular-class Armed Cruiser",
+        "size":  "small",
+        "faction":  "Galactic Republic",
+        "hull":  4,
+        "__comment":  "dice array is [red, blue, black] counts",
+        "squadron-attack":  [
+                                0,
+                                2,
+                                0
+                            ],
+        "command":  1,
+        "squadron":  1,
+        "engineering":  2,
+        "attack":  {
+                       "front":  [
+                                     0,
+                                     2,
+                                     1
+                                 ],
+                       "right":  [
+                                     0,
+                                     1,
+                                     1
+                                 ],
+                       "left":  [
+                                    0,
+                                    1,
+                                    1
+                                ],
+                       "rear":  [
+                                    0,
+                                    1,
+                                    0
+                                ]
+                   },
+        "shield":  {
+                       "front":  2,
+                       "right":  2,
+                       "left":  2,
+                       "rear":  1
+                   },
+        "defense-tokens":  [
+                               "Evade",
+                               "Redirect",
+                               "Contain"
+                           ],
+        "max-speed":  4,
+        "slots":  [
+                      "Officer",
+                      "Support Team",
+                      "Defensive Retrofit",
+                      "Ordnance"
+                  ],
+        "points":  37,
+        "keywords":  [
+                         "Senate",
+                         "Comms"
+                     ],
+        "source":  {
+                       "product":  "Galactic Republic Fleet Starter",
+                       "product-code":  "SWM34",
+                       "publisher":  "Fantasy Flight Games",
+                       "rules-baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                       "verification":  "BSData Galactic Republic catalogue rev. 14 (22/01/2025 errata changes added)",
+                       "data-version":  "2025.01-final"
+                   },
+        "points-history":  {
+                               "printed":  37,
+                               "current":  37
+                           },
+        "id":  "swarmada:official:galactic-republic:ship:consular-class-armed-cruiser",
+        "data-version":  "2025.01-final",
+        "legality":  {
+                         "ruleset":  "official-amg-final-2025",
+                         "status":  "legal",
+                         "official":  true,
+                         "faction":  "Galactic Republic",
+                         "productOrigin":  "SWM34",
+                         "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                         "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
+                     }
+    }
+]

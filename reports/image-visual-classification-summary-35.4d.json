@@ -1,0 +1,20 @@
+{
+    "milestone":  "35.4d",
+    "title":  "Visual Evidence Classification",
+    "input_candidates":  87,
+    "visually_classified":  87,
+    "unverified":  0,
+    "verified_same_card":  40,
+    "intentional_shared_generic_image":  44,
+    "wrong_faction_image":  2,
+    "not_the_same_card":  1,
+    "blocked_candidates":  3,
+    "candidates_eligible_for_35_5_review":  40,
+    "cross_faction_repairs_authorized":  0,
+    "production_repairs_authorized":  0,
+    "image_redistribution_authorized":  0,
+    "production_modified":  false,
+    "milestone_status":  "VISUAL_CLASSIFICATION_ACCEPTED",
+    "release_certification":  "NOT_YET_GRANTED",
+    "next":  "Milestone 35.5 - Verified Image Reference Repair Review"
+}

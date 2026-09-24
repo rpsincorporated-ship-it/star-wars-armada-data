@@ -1,0 +1,8 @@
+﻿{
+    "milestone":  "7.11",
+    "status":  "PASS-BSDATA-POINT-EVIDENCE-NORMALIZED",
+    "raw_evidence_rows":  799,
+    "unique_normalized_names":  467,
+    "ambiguous_point_names":  26,
+    "production_writes":  0
+}

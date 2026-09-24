@@ -1,0 +1,84 @@
+﻿{
+    "milestone":  "26",
+    "title":  "Online Campaign Objective Recovery",
+    "status":  "completed-with-source-gates",
+    "live_objective_store":  "data\\objective-card.json",
+    "baseline_objective_records":  47,
+    "target_records":  8,
+    "online_source_recovered":  7,
+    "exact_source_pending":  1,
+    "production_records_added":  0,
+    "production_records_preserved":  3,
+    "recovery":  [
+                     {
+                         "title":  "Asteroids",
+                         "campaign":  "The Corellian Conflict",
+                         "category":  "Campaign Objective",
+                         "source_status":  "recovered",
+                         "exact_text_status":  "verified-online",
+                         "production_record_present":  false
+                     },
+                     {
+                         "title":  "Independent Station",
+                         "campaign":  "The Corellian Conflict",
+                         "category":  "Campaign Objective",
+                         "source_status":  "recovered",
+                         "exact_text_status":  "verified-online",
+                         "production_record_present":  false
+                     },
+                     {
+                         "title":  "Base Defense: Armed Station",
+                         "campaign":  "Rebellion in the Rim",
+                         "category":  "Campaign Objective",
+                         "source_status":  "recovered",
+                         "exact_text_status":  "verified-online",
+                         "production_record_present":  true
+                     },
+                     {
+                         "title":  "Base Defense: Fighter Wing",
+                         "campaign":  "Rebellion in the Rim",
+                         "category":  "Campaign Objective",
+                         "source_status":  "recovered",
+                         "exact_text_status":  "verified-online",
+                         "production_record_present":  true
+                     },
+                     {
+                         "title":  "Base Defense: Ion Cannon",
+                         "campaign":  "Rebellion in the Rim",
+                         "category":  "Campaign Objective",
+                         "source_status":  "recovered",
+                         "exact_text_status":  "verified-online",
+                         "production_record_present":  true
+                     },
+                     {
+                         "title":  "Prototype Recovery",
+                         "campaign":  "Rebellion in the Rim",
+                         "category":  "Campaign Objective",
+                         "source_status":  "recovered",
+                         "exact_text_status":  "verified-online",
+                         "production_record_present":  false
+                     },
+                     {
+                         "title":  "Volatile Cargo",
+                         "campaign":  "Rebellion in the Rim",
+                         "category":  "Campaign Objective",
+                         "source_status":  "recovered",
+                         "exact_text_status":  "verified-online",
+                         "production_record_present":  false
+                     },
+                     {
+                         "title":  "Holonet Override",
+                         "campaign":  "Rebellion in the Rim",
+                         "category":  "Campaign Objective",
+                         "source_status":  "partial",
+                         "exact_text_status":  "SOURCE_PENDING",
+                         "production_record_present":  false
+                     }
+                 ],
+    "policy":  {
+                   "fabricate_missing_card_text":  false,
+                   "overwrite_verified_production_text_with_paraphrase":  false,
+                   "require_complete_seven_field_record_for_insert":  true
+               },
+    "next_milestone":  "Resolve remaining exact-text source gates and install missing campaign objective records"
+}

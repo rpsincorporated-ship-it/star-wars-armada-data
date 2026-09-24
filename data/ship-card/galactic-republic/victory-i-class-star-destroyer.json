@@ -1,0 +1,79 @@
+[
+    {
+        "name":  "Victory I-class Star Destroyer",
+        "size":  "medium",
+        "faction":  "Galactic Republic",
+        "hull":  8,
+        "__comment":  "dice array is [red, blue, black] counts",
+        "squadron-attack":  [
+                                0,
+                                1,
+                                0
+                            ],
+        "command":  3,
+        "squadron":  3,
+        "engineering":  4,
+        "attack":  {
+                       "front":  [
+                                     3,
+                                     0,
+                                     3
+                                 ],
+                       "right":  [
+                                     2,
+                                     0,
+                                     1
+                                 ],
+                       "left":  [
+                                    2,
+                                    0,
+                                    1
+                                ],
+                       "rear":  [
+                                    2,
+                                    0,
+                                    0
+                                ]
+                   },
+        "shield":  {
+                       "front":  3,
+                       "right":  3,
+                       "left":  3,
+                       "rear":  1
+                   },
+        "defense-tokens":  [
+                               "Brace",
+                               "Redirect",
+                               "Salvo"
+                           ],
+        "speed-chart":  {
+                            "1":  [
+                                      "|"
+                                  ],
+                            "2":  [
+                                      "-",
+                                      "|"
+                                  ]
+                        },
+        "slots":  [
+                      "Officer",
+                      "Weapons Team",
+                      "Support Team",
+                      "Offensive Retrofit",
+                      "Ordnance",
+                      "Ordnance",
+                      "Weapons Team \u0026 Offensive Retrofit"
+                  ],
+        "points":  73,
+        "ship-image":  "ship/galactic-empire/victory-class-star-destroyer.png",
+        "traits":  [
+                       "Clone"
+                   ],
+        "stable-id":  "ship:galactic-republic:victory-i-class-star-destroyer",
+        "data-version":  "2025.01-final",
+        "supplement":  "Rapid Reinforcements I",
+        "supplement-revision":  "2.0",
+        "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
+        "image-status":  "card-image-not-packaged"
+    }
+]

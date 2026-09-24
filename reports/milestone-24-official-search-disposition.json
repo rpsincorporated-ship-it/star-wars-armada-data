@@ -1,0 +1,9 @@
+﻿{
+    "milestone":  "24",
+    "official_full_card_sources_recovered":  0,
+    "remaining_gated_cards":  8,
+    "official_search_disposition":  "NO-COMPLETE-FFG-AMG-CARD-IMAGE-RECOVERED-FOR-REMAINING-EIGHT",
+    "production_ingestion_authorized":  0,
+    "community_corroboration_only":  "available for several cards but not accepted as production authority",
+    "identity_rule":  "product-code + physical-card-sequence + title"
+}

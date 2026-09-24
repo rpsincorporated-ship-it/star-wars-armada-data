@@ -1,0 +1,82 @@
+[
+    {
+        "name":  "Recusant-class Support Destroyer",
+        "faction":  "Separatist Alliance",
+        "size":  "large",
+        "hull":  8,
+        "command":  3,
+        "squadron":  3,
+        "engineering":  3,
+        "max-speed":  3,
+        "defense-tokens":  [
+                               "Evade",
+                               "Brace",
+                               "Redirect",
+                               "Salvo"
+                           ],
+        "shield":  {
+                       "front":  3,
+                       "right":  3,
+                       "left":  3,
+                       "rear":  2
+                   },
+        "battery":  {
+                        "front":  {
+                                      "red":  3,
+                                      "blue":  2,
+                                      "black":  1
+                                  },
+                        "right":  {
+                                      "red":  3,
+                                      "blue":  1,
+                                      "black":  0
+                                  },
+                        "left":  {
+                                     "red":  3,
+                                     "blue":  1,
+                                     "black":  0
+                                 },
+                        "rear":  {
+                                     "red":  1,
+                                     "blue":  1,
+                                     "black":  0
+                                 }
+                    },
+        "anti-squadron":  {
+                              "red":  1,
+                              "blue":  0,
+                              "black":  0
+                          },
+        "slots":  [
+                      "Commander",
+                      "Title",
+                      "Officer",
+                      "Weapons Team",
+                      "Offensive Retrofit",
+                      "Offensive Retrofit",
+                      "Turbolasers",
+                      "Weapons Team \u0026 Offensive Retrofit"
+                  ],
+        "traits":  [
+                       "Droid"
+                   ],
+        "points":  90,
+        "source":  {
+                       "product":  "Recusant-class Destroyer Expansion Pack",
+                       "product-code":  "SWM43",
+                       "publisher":  "Fantasy Flight Games",
+                       "rules-baseline":  "AMG final Armada update, January 2025",
+                       "verification":  "Atomic Mass Games SWM43 product page; FFG Heart of the Swarm; Slicer Tools official ruleset; final AMG January 2025 cross-check",
+                       "data-version":  "2025.01-final"
+                   },
+        "id":  "swarmada:official:separatist-alliance:ship:recusant-class-support-destroyer",
+        "data-version":  "2025.01-final",
+        "legality":  {
+                         "status":  "official-final",
+                         "faction":  "Separatist Alliance",
+                         "rules_baseline":  "AMG final Armada update, January 2025",
+                         "data_version":  "2025.01-final",
+                         "product_origin":  "SWM43"
+                     }
+    }
+]

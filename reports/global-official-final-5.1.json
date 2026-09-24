@@ -1,0 +1,133 @@
+﻿{
+    "milestone":  "5.1",
+    "status":  "PASS-PREFLIGHT",
+    "scope":  "global official-final errata and points audit preflight",
+    "baseline":  {
+                     "label":  "2025.01-final",
+                     "cutoff_date":  "2025-01-21",
+                     "post_cutoff_rulings_allowed":  false
+                 },
+    "sources":  [
+                    {
+                        "id":  "amg-final-update-2025-01-21",
+                        "authority":  "primary",
+                        "url":  "https://www.atomicmassgames.com/transmission/organized-play-updates-including-a-long-awaited-update/",
+                        "purpose":  "Declares the January 21 2025 Armada release the final update."
+                    },
+                    {
+                        "id":  "amg-armada-rules",
+                        "authority":  "primary",
+                        "url":  "https://www.atomicmassgames.com/swarmadadocs/",
+                        "purpose":  "Official Armada rules page; identifies Errata Reference as complete/current and hosts Rapid Reinforcements."
+                    },
+                    {
+                        "id":  "amg-errata-5.5",
+                        "authority":  "primary",
+                        "url":  "https://cdn.svc.asmodee.net/production-amgcom/uploads/2025/01/SWM_Errata_5.5.pdf",
+                        "purpose":  "Final official errata reference used by project baseline."
+                    },
+                    {
+                        "id":  "amg-rapid-reinforcements-2.3",
+                        "authority":  "primary",
+                        "url":  "https://cdn.svc.asmodee.net/production-amgcom/uploads/2025/01/SWM_RapidReinforcements_2.3.pdf",
+                        "purpose":  "Final Rapid Reinforcements I+II print-and-play baseline."
+                    }
+                ],
+    "production_json_files":  191,
+    "inventory":  {
+                      "ship_files":  66,
+                      "squadron_files":  107,
+                      "upgrade_files":  15,
+                      "objective_records":  36
+                  },
+    "release_manifests":  [
+                              {
+                                  "name":  "Republic",
+                                  "path":  "metadata\\releases\\galactic-republic-2025.01-final.json",
+                                  "status":  "complete-product-origin"
+                              },
+                              {
+                                  "name":  "Separatist",
+                                  "path":  "metadata\\releases\\separatist-alliance-2025.01-final.json",
+                                  "status":  "frozen-product-origin"
+                              },
+                              {
+                                  "name":  "Rapid Reinforcements I",
+                                  "path":  "metadata\\releases\\rapid-reinforcements-i-2025.01-final.json",
+                                  "status":  "complete-supplement"
+                              },
+                              {
+                                  "name":  "Rapid Reinforcements II",
+                                  "path":  "metadata\\releases\\rapid-reinforcements-ii-2025.01-final.json",
+                                  "status":  "complete-supplement"
+                              }
+                          ],
+    "workstreams":  [
+                        {
+                            "id":  "legacy-rebel",
+                            "scope":  "Rebel Alliance physical-product ships, squadrons, upgrades",
+                            "priority":  1,
+                            "state":  "pending-record-level-audit"
+                        },
+                        {
+                            "id":  "legacy-imperial",
+                            "scope":  "Galactic Empire physical-product ships, squadrons, upgrades",
+                            "priority":  1,
+                            "state":  "pending-record-level-audit"
+                        },
+                        {
+                            "id":  "shared-upgrades",
+                            "scope":  "Shared/neutral upgrade files and final errata/points",
+                            "priority":  1,
+                            "state":  "pending-record-level-audit"
+                        },
+                        {
+                            "id":  "objectives-standard",
+                            "scope":  "Existing 36 standard-play objectives",
+                            "priority":  2,
+                            "state":  "pending-record-level-audit"
+                        },
+                        {
+                            "id":  "republic-frozen",
+                            "scope":  "Republic frozen product-origin release",
+                            "priority":  2,
+                            "state":  "reverify-against-global-errata"
+                        },
+                        {
+                            "id":  "separatist-frozen",
+                            "scope":  "Separatist frozen product-origin release",
+                            "priority":  2,
+                            "state":  "reverify-against-global-errata"
+                        },
+                        {
+                            "id":  "rr1",
+                            "scope":  "Rapid Reinforcements I eight-card supplement",
+                            "priority":  1,
+                            "state":  "reverify"
+                        },
+                        {
+                            "id":  "rr2",
+                            "scope":  "Rapid Reinforcements II eight-card supplement",
+                            "priority":  1,
+                            "state":  "reverify"
+                        },
+                        {
+                            "id":  "campaign",
+                            "scope":  "Campaign objectives",
+                            "priority":  3,
+                            "state":  "blocked-only-on-authorized-exact-text"
+                        }
+                    ],
+    "rr1_rebel_providence":  {
+                                 "path":  "data\\ship-card\\rebel-alliance\\providence-class-carrier.json",
+                                 "name":  "Providence-class Carrier",
+                                 "points":  95,
+                                 "speed":  null,
+                                 "navigation":  null,
+                                 "verification_state":  "REQUIRES-OFFICIAL-CARD-VISUAL-CROSSCHECK",
+                                 "reason":  "Record exists and 95-point/max-speed-2 identity is corroborated, but maneuver/yaw chart must be independently checked against the official RR 2.3 card visual before global freeze."
+                             },
+    "campaign_exact_text_gate":  "isolated-and-still-blocked",
+    "production_card_data_modified":  false,
+    "next_action":  "Milestone 5.2: build record-level legacy Rebel/Imperial/shared-upgrade audit inventory and map every candidate to final official errata/points evidence."
+}

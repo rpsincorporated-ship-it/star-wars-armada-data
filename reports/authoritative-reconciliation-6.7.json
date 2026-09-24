@@ -1,0 +1,10 @@
+﻿{
+    "milestone":  "6.7",
+    "status":  "PASS-AUTHORITATIVE-RECONCILIATION-PARTIAL",
+    "queue_rows":  244,
+    "evidence_rows":  0,
+    "resolved_unique_rows":  0,
+    "open_rows":  244,
+    "confirmed_corrections":  0,
+    "production_writes":  0
+}

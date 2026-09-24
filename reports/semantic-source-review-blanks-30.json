@@ -1,0 +1,1100 @@
+[
+    {
+        "file":  "data\\squadron-card\\galactic-empire\\aggressor-assault-fighter.json",
+        "record":  1,
+        "identity":  "Aggressor Assault Fighter",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "Aggressor Assault Fighter",
+                            "subname":  "",
+                            "faction":  "Galactic Empire",
+                            "speed":  3,
+                            "hull":  5,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    4,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           0,
+                                           0,
+                                           1
+                                       ],
+                            "keywords":  [
+                                             "Counter 1",
+                                             "Rogue"
+                                         ],
+                            "points":  16,
+                            "squadron-image":  "squadron/galactic-empire/aggressor-assault-fighter.png",
+                            "image":  "squadron-card/galactic-empire/aggressor-assault-fighter.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\galactic-empire\\firespray-31.json",
+        "record":  1,
+        "identity":  "Firespray-31",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "Firespray-31",
+                            "subname":  "",
+                            "faction":  "Galactic Empire",
+                            "speed":  3,
+                            "hull":  6,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    3,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           0,
+                                           2,
+                                           0
+                                       ],
+                            "keywords":  [
+                                             "Bomber",
+                                             "Rogue"
+                                         ],
+                            "points":  18,
+                            "squadron-image":  "squadron/galactic-empire/firespray-31.png",
+                            "image":  "squadron-card/galactic-empire/firespray-31.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\galactic-empire\\jumpmaster-5000.json",
+        "record":  1,
+        "identity":  "JumpMaster 5000",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "JumpMaster 5000",
+                            "subname":  "",
+                            "faction":  "Galactic Empire",
+                            "speed":  4,
+                            "hull":  4,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    2,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           0,
+                                           1,
+                                           0
+                                       ],
+                            "keywords":  [
+                                             "Intel",
+                                             "Swarm"
+                                         ],
+                            "points":  12,
+                            "squadron-image":  "squadron/galactic-empire/jumpmaster-5000.png",
+                            "image":  "squadron-card/galactic-empire/jumpmaster-5000.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\galactic-empire\\lambda-class-shuttle.json",
+        "record":  1,
+        "identity":  "Lambda-class Shuttle",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "Lambda-class Shuttle",
+                            "subname":  "",
+                            "faction":  "Galactic Empire",
+                            "speed":  3,
+                            "hull":  6,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    0,
+                                                    2
+                                                ],
+                            "attack":  [
+                                           0,
+                                           1,
+                                           0
+                                       ],
+                            "keywords":  [
+                                             "Heavy",
+                                             "Relay 2",
+                                             "Strategic"
+                                         ],
+                            "points":  15,
+                            "squadron-image":  "squadron/galactic-empire/lambda-class-shuttle.png",
+                            "image":  "squadron-card/galactic-empire/lambda-class-shuttle.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\galactic-empire\\mandalorian-gauntlet-fighter.json",
+        "record":  1,
+        "identity":  "Mandalorian Gauntlet Fighter",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "Mandalorian Gauntlet Fighter",
+                            "subname":  "",
+                            "faction":  "Galactic Empire",
+                            "speed":  4,
+                            "hull":  7,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    1,
+                                                    2,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           0,
+                                           2,
+                                           0
+                                       ],
+                            "text":  "",
+                            "keywords":  [
+                                             "Assault",
+                                             "Rogue"
+                                         ],
+                            "defense-tokens":  [
+
+                                               ],
+                            "points":  20,
+                            "squadron-image":  "squadron/galactic-empire/mandalorian-gauntlet-fighter.png",
+                            "image":  "squadron-card/galactic-empire/mandalorian-gauntlet-fighter.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\galactic-empire\\mandalorian-gauntlet-fighter.json",
+        "record":  1,
+        "identity":  "Mandalorian Gauntlet Fighter",
+        "blank_field":  "text",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "Mandalorian Gauntlet Fighter",
+                            "subname":  "",
+                            "faction":  "Galactic Empire",
+                            "speed":  4,
+                            "hull":  7,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    1,
+                                                    2,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           0,
+                                           2,
+                                           0
+                                       ],
+                            "text":  "",
+                            "keywords":  [
+                                             "Assault",
+                                             "Rogue"
+                                         ],
+                            "defense-tokens":  [
+
+                                               ],
+                            "points":  20,
+                            "squadron-image":  "squadron/galactic-empire/mandalorian-gauntlet-fighter.png",
+                            "image":  "squadron-card/galactic-empire/mandalorian-gauntlet-fighter.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\galactic-empire\\tie-advanced-squadron.json",
+        "record":  1,
+        "identity":  "TIE Advanced Squadron",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "TIE Advanced Squadron",
+                            "subname":  "",
+                            "faction":  "Galactic Empire",
+                            "speed":  4,
+                            "hull":  5,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    3,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           0,
+                                           0,
+                                           1
+                                       ],
+                            "keywords":  [
+                                             "Escort"
+                                         ],
+                            "points":  12,
+                            "squadron-image":  "squadron/galactic-empire/tie-advanced-squadron.png",
+                            "image":  "squadron-card/galactic-empire/tie-advanced-squadron.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\galactic-empire\\tie-bomber-squadron.json",
+        "record":  1,
+        "identity":  "TIE Bomber Squadron",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "TIE Bomber Squadron",
+                            "subname":  "",
+                            "faction":  "Galactic Empire",
+                            "speed":  4,
+                            "hull":  5,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    0,
+                                                    1
+                                                ],
+                            "attack":  [
+                                           0,
+                                           0,
+                                           1
+                                       ],
+                            "keywords":  [
+                                             "Bomber",
+                                             "Heavy"
+                                         ],
+                            "points":  9,
+                            "squadron-image":  "squadron/galactic-empire/tie-bomber-squadron.png",
+                            "image":  "squadron-card/galactic-empire/tie-bomber-squadron.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\galactic-empire\\tie-defender-squadron.json",
+        "record":  1,
+        "identity":  "TIE Defender Squadron",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "TIE Defender Squadron",
+                            "subname":  "",
+                            "faction":  "Galactic Empire",
+                            "speed":  5,
+                            "hull":  6,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    2,
+                                                    2
+                                                ],
+                            "attack":  [
+                                           0,
+                                           1,
+                                           0
+                                       ],
+                            "keywords":  [
+                                             "Bomber"
+                                         ],
+                            "points":  16,
+                            "squadron-image":  "squadron/galactic-empire/tie-defender-squadron.png",
+                            "image":  "squadron-card/galactic-empire/tie-defender-squadron.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\galactic-empire\\tie-fighter-squadron.json",
+        "record":  1,
+        "identity":  "TIE Fighter Squadron",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "TIE Fighter Squadron",
+                            "subname":  "",
+                            "faction":  "Galactic Empire",
+                            "speed":  4,
+                            "hull":  3,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    3,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           0,
+                                           1,
+                                           0
+                                       ],
+                            "keywords":  [
+                                             "Swarm"
+                                         ],
+                            "points":  8,
+                            "squadron-image":  "squadron/galactic-empire/tie-fighter-squadron.png",
+                            "image":  "squadron-card/galactic-empire/tie-fighter-squadron.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\galactic-empire\\tie-interceptor-squadron.json",
+        "record":  1,
+        "identity":  "TIE Interceptor Squadron",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "TIE Interceptor Squadron",
+                            "subname":  "",
+                            "faction":  "Galactic Empire",
+                            "speed":  5,
+                            "hull":  3,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    4,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           0,
+                                           1,
+                                           0
+                                       ],
+                            "keywords":  [
+                                             "Counter 2",
+                                             "Swarm"
+                                         ],
+                            "points":  11,
+                            "squadron-image":  "squadron/galactic-empire/tie-interceptor-squadron.png",
+                            "image":  "squadron-card/galactic-empire/tie-interceptor-squadron.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\galactic-empire\\tie-phantom-squadron.json",
+        "record":  1,
+        "identity":  "TIE Phantom Squadron",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "TIE Phantom Squadron",
+                            "subname":  "",
+                            "faction":  "Galactic Empire",
+                            "speed":  4,
+                            "hull":  4,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    4,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           2,
+                                           0,
+                                           0
+                                       ],
+                            "keywords":  [
+                                             "Cloak"
+                                         ],
+                            "points":  14,
+                            "squadron-image":  "squadron/galactic-empire/tie-phantom-squadron.png",
+                            "image":  "squadron-card/galactic-empire/tie-phantom-squadron.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\galactic-empire\\vt-49-decimator.json",
+        "record":  1,
+        "identity":  "VT-49 Decimator",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "VT-49 Decimator",
+                            "subname":  "",
+                            "faction":  "Galactic Empire",
+                            "speed":  3,
+                            "hull":  8,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    0,
+                                                    3
+                                                ],
+                            "attack":  [
+                                           0,
+                                           3,
+                                           0
+                                       ],
+                            "keywords":  [
+                                             "Counter 1",
+                                             "Heavy",
+                                             "Rogue"
+                                         ],
+                            "points":  27,
+                            "squadron-image":  "squadron/galactic-empire/vt-49-decimator.png",
+                            "image":  "squadron-card/galactic-empire/vt-49-decimator.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\galactic-empire\\yv-666.json",
+        "record":  1,
+        "identity":  "YV-666",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "YV-666",
+                            "subname":  "",
+                            "faction":  "Galactic Empire",
+                            "speed":  2,
+                            "hull":  7,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    2,
+                                                    2
+                                                ],
+                            "attack":  [
+                                           0,
+                                           1,
+                                           0
+                                       ],
+                            "keywords":  [
+                                             "Grit",
+                                             "Heavy",
+                                             "Rogue"
+                                         ],
+                            "points":  15,
+                            "squadron-image":  "squadron/galactic-empire/yv-666.png",
+                            "image":  "squadron-card/galactic-empire/yv-666.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\galactic-republic\\arc-170-squadron.json",
+        "record":  1,
+        "identity":  "ARC-170 Squadron",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "ARC-170 Squadron",
+                            "subname":  "",
+                            "faction":  "Galactic Republic",
+                            "speed":  2,
+                            "hull":  7,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    1,
+                                                    2,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           0,
+                                           2,
+                                           0
+                                       ],
+                            "keywords":  [
+                                             "Bomber",
+                                             "Counter 1"
+                                         ],
+                            "points":  15,
+                            "source":  {
+                                           "product":  "Republic Fighter Squadrons Expansion Pack",
+                                           "product-code":  "SWM36",
+                                           "publisher":  "Fantasy Flight Games",
+                                           "rules-baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                           "verification":  "BSData Galactic Republic catalogue rev. 14 (22/01/2025 errata changes added)",
+                                           "data-version":  "2025.01-final"
+                                       },
+                            "id":  "swarmada:official:galactic-republic:squadron:arc-170-squadron",
+                            "data-version":  "2025.01-final",
+                            "legality":  {
+                                             "ruleset":  "official-amg-final-2025",
+                                             "status":  "legal",
+                                             "official":  true,
+                                             "faction":  "Galactic Republic",
+                                             "productOrigin":  "SWM36",
+                                             "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                             "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
+                                         }
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\galactic-republic\\btl-b-y-wing-squadron.json",
+        "record":  1,
+        "identity":  "BTL-B Y-wing Squadron",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "BTL-B Y-wing Squadron",
+                            "subname":  "",
+                            "faction":  "Galactic Republic",
+                            "speed":  3,
+                            "hull":  6,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    1,
+                                                    1
+                                                ],
+                            "attack":  [
+                                           0,
+                                           0,
+                                           1
+                                       ],
+                            "keywords":  [
+                                             "Bomber",
+                                             "Heavy"
+                                         ],
+                            "points":  10,
+                            "source":  {
+                                           "product":  "Republic Fighter Squadrons Expansion Pack",
+                                           "product-code":  "SWM36",
+                                           "publisher":  "Fantasy Flight Games",
+                                           "rules-baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                           "verification":  "BSData Galactic Republic catalogue rev. 14 (22/01/2025 errata changes added)",
+                                           "data-version":  "2025.01-final"
+                                       },
+                            "id":  "swarmada:official:galactic-republic:squadron:btl-b-y-wing-squadron",
+                            "data-version":  "2025.01-final",
+                            "legality":  {
+                                             "ruleset":  "official-amg-final-2025",
+                                             "status":  "legal",
+                                             "official":  true,
+                                             "faction":  "Galactic Republic",
+                                             "productOrigin":  "SWM36",
+                                             "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                             "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
+                                         }
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\galactic-republic\\delta-7-aethersprite-squadron.json",
+        "record":  1,
+        "identity":  "Delta-7 Aethersprite Squadron",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "Delta-7 Aethersprite Squadron",
+                            "subname":  "",
+                            "faction":  "Galactic Republic",
+                            "speed":  4,
+                            "hull":  4,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    3,
+                                                    1
+                                                ],
+                            "attack":  [
+                                           0,
+                                           1,
+                                           0
+                                       ],
+                            "keywords":  [
+                                             "Adept 1",
+                                             "Counter 2",
+                                             "Dodge 1"
+                                         ],
+                            "points":  17,
+                            "source":  {
+                                           "product":  "Republic Fighter Squadrons Expansion Pack",
+                                           "product-code":  "SWM36",
+                                           "publisher":  "Fantasy Flight Games",
+                                           "rules-baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                           "verification":  "BSData Galactic Republic catalogue rev. 14 (22/01/2025 errata changes added)",
+                                           "data-version":  "2025.01-final"
+                                       },
+                            "id":  "swarmada:official:galactic-republic:squadron:delta-7-aethersprite-squadron",
+                            "data-version":  "2025.01-final",
+                            "legality":  {
+                                             "ruleset":  "official-amg-final-2025",
+                                             "status":  "legal",
+                                             "official":  true,
+                                             "faction":  "Galactic Republic",
+                                             "productOrigin":  "SWM36",
+                                             "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                             "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
+                                         }
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\galactic-republic\\v-19-torrent-squadron.json",
+        "record":  1,
+        "identity":  "V-19 Torrent Squadron",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "V-19 Torrent Squadron",
+                            "subname":  "",
+                            "faction":  "Galactic Republic",
+                            "speed":  3,
+                            "hull":  5,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    1,
+                                                    2,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           0,
+                                           0,
+                                           1
+                                       ],
+                            "keywords":  [
+                                             "Escort",
+                                             "Swarm"
+                                         ],
+                            "points":  12,
+                            "source":  {
+                                           "product":  "Galactic Republic Fleet Starter",
+                                           "product-code":  "SWM34",
+                                           "publisher":  "Fantasy Flight Games",
+                                           "rules-baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                           "verification":  "BSData Galactic Republic catalogue rev. 14 (22/01/2025 errata changes added)",
+                                           "data-version":  "2025.01-final"
+                                       },
+                            "id":  "swarmada:official:galactic-republic:squadron:v-19-torrent-squadron",
+                            "data-version":  "2025.01-final",
+                            "legality":  {
+                                             "ruleset":  "official-amg-final-2025",
+                                             "status":  "legal",
+                                             "official":  true,
+                                             "faction":  "Galactic Republic",
+                                             "productOrigin":  "SWM34",
+                                             "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                             "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
+                                         }
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\rebel-alliance\\a-wing-squadron.json",
+        "record":  1,
+        "identity":  "A-wing Squadron",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "A-wing Squadron",
+                            "subname":  "",
+                            "faction":  "Rebel Alliance",
+                            "speed":  5,
+                            "hull":  4,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    3,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           0,
+                                           0,
+                                           1
+                                       ],
+                            "keywords":  [
+                                             "Counter 2"
+                                         ],
+                            "points":  11,
+                            "squadron-image":  "squadron/rebel-alliance/a-wing-squadron.png",
+                            "image":  "squadron-card/rebel-alliance/a-wing-squadron.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\rebel-alliance\\b-wing-squadron.json",
+        "record":  1,
+        "identity":  "B-wing Squadron",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "B-wing Squadron",
+                            "subname":  "",
+                            "faction":  "Rebel Alliance",
+                            "speed":  2,
+                            "hull":  5,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    3,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           0,
+                                           1,
+                                           1
+                                       ],
+                            "keywords":  [
+                                             "Bomber"
+                                         ],
+                            "points":  14,
+                            "squadron-image":  "squadron/rebel-alliance/b-wing-squadron.png",
+                            "image":  "squadron-card/rebel-alliance/b-wing-squadron.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\rebel-alliance\\e-wing-squadron.json",
+        "record":  1,
+        "identity":  "E-wing Squadron",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "E-wing Squadron",
+                            "subname":  "",
+                            "faction":  "Rebel Alliance",
+                            "speed":  4,
+                            "hull":  5,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    4,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           1,
+                                           0,
+                                           0
+                                       ],
+                            "keywords":  [
+                                             "Bomber",
+                                             "Snipe 3"
+                                         ],
+                            "points":  15,
+                            "squadron-image":  "squadron/rebel-alliance/e-wing-squadron.png",
+                            "image":  "squadron-card/rebel-alliance/e-wing-squadron.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\rebel-alliance\\hwk-290.json",
+        "record":  1,
+        "identity":  "HWK-290",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "HWK-290",
+                            "subname":  "",
+                            "faction":  "Rebel Alliance",
+                            "speed":  3,
+                            "hull":  4,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    2,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           0,
+                                           1,
+                                           0
+                                       ],
+                            "keywords":  [
+                                             "Counter 2",
+                                             "Intel"
+                                         ],
+                            "points":  12,
+                            "squadron-image":  "squadron/rebel-alliance/hwk-290.png",
+                            "image":  "squadron-card/rebel-alliance/hwk-290.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\rebel-alliance\\lancer-class-pursuit-craft.json",
+        "record":  1,
+        "identity":  "Lancer-class Pursuit Craft",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "Lancer-class Pursuit Craft",
+                            "subname":  "",
+                            "faction":  "Rebel Alliance",
+                            "speed":  4,
+                            "hull":  4,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    3,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           0,
+                                           0,
+                                           1
+                                       ],
+                            "keywords":  [
+                                             "Bomber",
+                                             "Grit",
+                                             "Rogue"
+                                         ],
+                            "points":  15,
+                            "squadron-image":  "squadron/rebel-alliance/lancer-class-pursuit-craft.png",
+                            "image":  "squadron-card/rebel-alliance/lancer-class-pursuit-craft.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\rebel-alliance\\scurrg-h-6-bomber.json",
+        "record":  1,
+        "identity":  "Scurrg H-6 Bomber",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "Scurrg H-6 Bomber",
+                            "subname":  "",
+                            "faction":  "Rebel Alliance",
+                            "speed":  3,
+                            "hull":  6,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    2,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           0,
+                                           1,
+                                           1
+                                       ],
+                            "keywords":  [
+                                             "Bomber",
+                                             "Grit",
+                                             "Heavy"
+                                         ],
+                            "points":  16,
+                            "squadron-image":  "squadron/rebel-alliance/scurrg-h-6-bomber.png",
+                            "image":  "squadron-card/rebel-alliance/scurrg-h-6-bomber.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\rebel-alliance\\vcx-100-freighter.json",
+        "record":  1,
+        "identity":  "VCX-100 Freighter",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "VCX-100 Freighter",
+                            "subname":  "",
+                            "faction":  "Rebel Alliance",
+                            "speed":  3,
+                            "hull":  8,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    3,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           0,
+                                           1,
+                                           0
+                                       ],
+                            "keywords":  [
+                                             "Heavy",
+                                             "Relay 1",
+                                             "Strategic"
+                                         ],
+                            "points":  15,
+                            "squadron-image":  "squadron/rebel-alliance/vcx-100-freighter.png",
+                            "image":  "squadron-card/rebel-alliance/vcx-100-freighter.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\rebel-alliance\\x-wing-squadron.json",
+        "record":  1,
+        "identity":  "X-wing Squadron",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "X-wing Squadron",
+                            "subname":  "",
+                            "faction":  "Rebel Alliance",
+                            "speed":  3,
+                            "hull":  5,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    4,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           1,
+                                           0,
+                                           0
+                                       ],
+                            "keywords":  [
+                                             "Bomber",
+                                             "Escort"
+                                         ],
+                            "points":  13,
+                            "squadron-image":  "squadron/rebel-alliance/x-wing-squadron.png",
+                            "image":  "squadron-card/rebel-alliance/x-wing-squadron.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\rebel-alliance\\yt-1300.json",
+        "record":  1,
+        "identity":  "YT-1300",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "YT-1300",
+                            "subname":  "",
+                            "faction":  "Rebel Alliance",
+                            "speed":  2,
+                            "hull":  7,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    3,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           0,
+                                           1,
+                                           0
+                                       ],
+                            "keywords":  [
+                                             "Counter 1",
+                                             "Escort"
+                                         ],
+                            "points":  13,
+                            "squadron-image":  "squadron/rebel-alliance/yt-1300.png",
+                            "image":  "squadron-card/rebel-alliance/yt-1300.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\rebel-alliance\\yt-2400.json",
+        "record":  1,
+        "identity":  "YT-2400",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "YT-2400",
+                            "subname":  "",
+                            "faction":  "Rebel Alliance",
+                            "speed":  4,
+                            "hull":  6,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    4,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           0,
+                                           0,
+                                           1
+                                       ],
+                            "keywords":  [
+                                             "Rogue"
+                                         ],
+                            "points":  16,
+                            "squadron-image":  "squadron/rebel-alliance/yt-2400.png",
+                            "image":  "squadron-card/rebel-alliance/yt-2400.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\rebel-alliance\\y-wing-squadron.json",
+        "record":  1,
+        "identity":  "Y-wing Squadron",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "Y-wing Squadron",
+                            "subname":  "",
+                            "faction":  "Rebel Alliance",
+                            "speed":  3,
+                            "hull":  6,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    0,
+                                                    2,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           0,
+                                           0,
+                                           1
+                                       ],
+                            "keywords":  [
+                                             "Bomber",
+                                             "Heavy"
+                                         ],
+                            "points":  10,
+                            "squadron-image":  "squadron/rebel-alliance/y-wing-squadron.png",
+                            "image":  "squadron-card/rebel-alliance/y-wing-squadron.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\rebel-alliance\\z-95-headhunter-squadron.json",
+        "record":  1,
+        "identity":  "Z-95 Headhunter Squadron",
+        "blank_field":  "subname",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "name":  "Z-95 Headhunter Squadron",
+                            "subname":  "",
+                            "faction":  "Rebel Alliance",
+                            "speed":  3,
+                            "hull":  3,
+                            "__comment":  "dice array is [red, blue, black] counts",
+                            "squadron-attack":  [
+                                                    3,
+                                                    0,
+                                                    0
+                                                ],
+                            "attack":  [
+                                           1,
+                                           0,
+                                           0
+                                       ],
+                            "keywords":  [
+                                             "Swarm"
+                                         ],
+                            "points":  7,
+                            "squadron-image":  "squadron/rebel-alliance/z-95-headhunter-squadron.png",
+                            "image":  "squadron-card/rebel-alliance/z-95-headhunter-squadron.png"
+                        }
+    },
+    {
+        "file":  "data\\squadron-card\\separatist-alliance\\wat-tambor-squadron.json",
+        "record":  1,
+        "identity":  "Wat Tambor",
+        "blank_field":  "text",
+        "blank_type":  "blank-string",
+        "full_record":  {
+                            "faction":  "Separatist Alliance",
+                            "type":  "Belbullab-22 Squadron",
+                            "speed":  4,
+                            "hull":  5,
+                            "squadron-attack":  [
+                                                    0,
+                                                    2,
+                                                    0
+                                                ],
+                            "battery-attack":  [
+                                                   0,
+                                                   1,
+                                                   0
+                                               ],
+                            "source":  {
+                                           "product":  "Separatist Fighter Squadrons Expansion Pack",
+                                           "product-code":  "SWM37",
+                                           "publisher":  "Fantasy Flight Games",
+                                           "rules-baseline":  "AMG final Armada update, January 2025",
+                                           "verification":  "AMG SWM37 product listing; FFG Swarm the Opposition preview; final AMG January 2025 point update; Slicer Tools official ruleset; Armada community cross-checks",
+                                           "data-version":  "2025.01-final"
+                                       },
+                            "legality":  {
+                                             "status":  "official-final",
+                                             "faction":  "Separatist Alliance",
+                                             "rules_baseline":  "AMG final Armada update, January 2025",
+                                             "data_version":  "2025.01-final",
+                                             "product_origin":  "SWM37"
+                                         },
+                            "name":  "Wat Tambor",
+                            "subname":  "Belbullab-22 Starfighter Squadron",
+                            "unique":  true,
+                            "attack":  [
+                                           0,
+                                           0,
+                                           1
+                                       ],
+                            "text":  "",
+                            "keywords":  [
+                                             "Escort",
+                                             "Relay 1",
+                                             "Screen"
+                                         ],
+                            "defense-tokens":  [
+                                                   "Brace",
+                                                   "Evade"
+                                               ],
+                            "points":  18,
+                            "stable-id":  "squadron:separatist-alliance:wat-tambor:belbullab-22-starfighter-squadron",
+                            "data-version":  "2025.01-final",
+                            "supplement":  "Rapid Reinforcements II",
+                            "supplement-revision":  "2.1",
+                            "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
+                            "image-status":  "card-image-not-packaged"
+                        }
+    }
+]

@@ -1,0 +1,9 @@
+﻿{
+    "milestone":  "12",
+    "status":  "PASS-MILESTONE-12-ONAGER-VISUAL-EVIDENCE-READY",
+    "rendered_pages":  4,
+    "bundle":  "C:\\Development\\Armada_Database\\armada-milestone-12-onager-visual-evidence.zip",
+    "bundle_sha256":  "E7F5333149E459A107C705738E29CFB7465B0C8C08CD5F2FD5EFA66C8D8D10C6",
+    "production_files_changed":  0,
+    "next_gate":  "DIRECT-VISUAL-CONFIRMATION"
+}

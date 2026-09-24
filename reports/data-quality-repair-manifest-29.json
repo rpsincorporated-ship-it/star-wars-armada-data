@@ -1,0 +1,370 @@
+{
+    "milestone":  "29",
+    "mode":  "READ_ONLY_CLASSIFICATION",
+    "blank_fields":  {
+                         "total":  112,
+                         "expected_optional":  81,
+                         "source_review":  31,
+                         "critical":  0,
+                         "actionable":  [
+                                            {
+                                                "file":  "data\\squadron-card\\galactic-empire\\aggressor-assault-fighter.json",
+                                                "record":  1,
+                                                "identity":  "Aggressor Assault Fighter",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\galactic-empire\\firespray-31.json",
+                                                "record":  1,
+                                                "identity":  "Firespray-31",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\galactic-empire\\jumpmaster-5000.json",
+                                                "record":  1,
+                                                "identity":  "JumpMaster 5000",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\galactic-empire\\lambda-class-shuttle.json",
+                                                "record":  1,
+                                                "identity":  "Lambda-class Shuttle",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\galactic-empire\\mandalorian-gauntlet-fighter.json",
+                                                "record":  1,
+                                                "identity":  "Mandalorian Gauntlet Fighter",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\galactic-empire\\mandalorian-gauntlet-fighter.json",
+                                                "record":  1,
+                                                "identity":  "Mandalorian Gauntlet Fighter",
+                                                "field":  "text",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\galactic-empire\\tie-advanced-squadron.json",
+                                                "record":  1,
+                                                "identity":  "TIE Advanced Squadron",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\galactic-empire\\tie-bomber-squadron.json",
+                                                "record":  1,
+                                                "identity":  "TIE Bomber Squadron",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\galactic-empire\\tie-defender-squadron.json",
+                                                "record":  1,
+                                                "identity":  "TIE Defender Squadron",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\galactic-empire\\tie-fighter-squadron.json",
+                                                "record":  1,
+                                                "identity":  "TIE Fighter Squadron",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\galactic-empire\\tie-interceptor-squadron.json",
+                                                "record":  1,
+                                                "identity":  "TIE Interceptor Squadron",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\galactic-empire\\tie-phantom-squadron.json",
+                                                "record":  1,
+                                                "identity":  "TIE Phantom Squadron",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\galactic-empire\\vt-49-decimator.json",
+                                                "record":  1,
+                                                "identity":  "VT-49 Decimator",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\galactic-empire\\yv-666.json",
+                                                "record":  1,
+                                                "identity":  "YV-666",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\galactic-republic\\arc-170-squadron.json",
+                                                "record":  1,
+                                                "identity":  "ARC-170 Squadron",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\galactic-republic\\btl-b-y-wing-squadron.json",
+                                                "record":  1,
+                                                "identity":  "BTL-B Y-wing Squadron",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\galactic-republic\\delta-7-aethersprite-squadron.json",
+                                                "record":  1,
+                                                "identity":  "Delta-7 Aethersprite Squadron",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\galactic-republic\\v-19-torrent-squadron.json",
+                                                "record":  1,
+                                                "identity":  "V-19 Torrent Squadron",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\rebel-alliance\\a-wing-squadron.json",
+                                                "record":  1,
+                                                "identity":  "A-wing Squadron",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\rebel-alliance\\b-wing-squadron.json",
+                                                "record":  1,
+                                                "identity":  "B-wing Squadron",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\rebel-alliance\\e-wing-squadron.json",
+                                                "record":  1,
+                                                "identity":  "E-wing Squadron",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\rebel-alliance\\hwk-290.json",
+                                                "record":  1,
+                                                "identity":  "HWK-290",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\rebel-alliance\\lancer-class-pursuit-craft.json",
+                                                "record":  1,
+                                                "identity":  "Lancer-class Pursuit Craft",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\rebel-alliance\\scurrg-h-6-bomber.json",
+                                                "record":  1,
+                                                "identity":  "Scurrg H-6 Bomber",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\rebel-alliance\\vcx-100-freighter.json",
+                                                "record":  1,
+                                                "identity":  "VCX-100 Freighter",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\rebel-alliance\\x-wing-squadron.json",
+                                                "record":  1,
+                                                "identity":  "X-wing Squadron",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\rebel-alliance\\yt-1300.json",
+                                                "record":  1,
+                                                "identity":  "YT-1300",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\rebel-alliance\\yt-2400.json",
+                                                "record":  1,
+                                                "identity":  "YT-2400",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\rebel-alliance\\y-wing-squadron.json",
+                                                "record":  1,
+                                                "identity":  "Y-wing Squadron",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\rebel-alliance\\z-95-headhunter-squadron.json",
+                                                "record":  1,
+                                                "identity":  "Z-95 Headhunter Squadron",
+                                                "field":  "subname",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            },
+                                            {
+                                                "file":  "data\\squadron-card\\separatist-alliance\\wat-tambor-squadron.json",
+                                                "record":  1,
+                                                "identity":  "Wat Tambor",
+                                                "field":  "text",
+                                                "value_type":  "blank-string",
+                                                "classification":  "SOURCE_REVIEW",
+                                                "reason":  "No safe global rule establishes that this blank is intentional."
+                                            }
+                                        ]
+                     },
+    "cross_catalog":  {
+                          "total":  12,
+                          "likely_legitimate_variants":  5,
+                          "duplicate_review":  7,
+                          "actionable":  [
+                                             {
+                                                 "identity":  "Darth Vader",
+                                                 "files":  [
+                                                               "data\\squadron-card\\galactic-empire\\darth-vader.json",
+                                                               "data\\squadron-card\\galactic-empire\\darth-vader-tie-defender.json",
+                                                               "data\\upgrade-card\\weapons-team-and-offensive-retrofit.json"
+                                                           ],
+                                                 "file_count":  3,
+                                                 "classification":  "REVIEW_DUPLICATE",
+                                                 "reason":  "Identity occurs in multiple production files and requires semantic review."
+                                             },
+                                             {
+                                                 "identity":  "Ahsoka Tano",
+                                                 "files":  [
+                                                               "data\\squadron-card\\galactic-republic\\ahsoka-tano.json",
+                                                               "data\\upgrade-card\\officer.json"
+                                                           ],
+                                                 "file_count":  2,
+                                                 "classification":  "REVIEW_DUPLICATE",
+                                                 "reason":  "Identity occurs in multiple production files and requires semantic review."
+                                             },
+                                             {
+                                                 "identity":  "Anakin Skywalker",
+                                                 "files":  [
+                                                               "data\\squadron-card\\galactic-republic\\anakin-skywalker-btl-b-y-wing.json",
+                                                               "data\\squadron-card\\galactic-republic\\anakin-skywalker-delta-7.json",
+                                                               "data\\upgrade-card\\commander.json"
+                                                           ],
+                                                 "file_count":  3,
+                                                 "classification":  "REVIEW_DUPLICATE",
+                                                 "reason":  "Identity occurs in multiple production files and requires semantic review."
+                                             },
+                                             {
+                                                 "identity":  "Luminara Unduli",
+                                                 "files":  [
+                                                               "data\\squadron-card\\galactic-republic\\luminara-unduli.json",
+                                                               "data\\upgrade-card\\commander.json"
+                                                           ],
+                                                 "file_count":  2,
+                                                 "classification":  "REVIEW_DUPLICATE",
+                                                 "reason":  "Identity occurs in multiple production files and requires semantic review."
+                                             },
+                                             {
+                                                 "identity":  "Plo Koon",
+                                                 "files":  [
+                                                               "data\\squadron-card\\galactic-republic\\plo-koon.json",
+                                                               "data\\upgrade-card\\commander.json"
+                                                           ],
+                                                 "file_count":  2,
+                                                 "classification":  "REVIEW_DUPLICATE",
+                                                 "reason":  "Identity occurs in multiple production files and requires semantic review."
+                                             },
+                                             {
+                                                 "identity":  "General Grievous",
+                                                 "files":  [
+                                                               "data\\squadron-card\\separatist-alliance\\general-grievous-belbullab-22.json",
+                                                               "data\\upgrade-card\\commander.json"
+                                                           ],
+                                                 "file_count":  2,
+                                                 "classification":  "REVIEW_DUPLICATE",
+                                                 "reason":  "Identity occurs in multiple production files and requires semantic review."
+                                             },
+                                             {
+                                                 "identity":  "Wat Tambor",
+                                                 "files":  [
+                                                               "data\\squadron-card\\separatist-alliance\\wat-tambor-squadron.json",
+                                                               "data\\upgrade-card\\officer.json"
+                                                           ],
+                                                 "file_count":  2,
+                                                 "classification":  "REVIEW_DUPLICATE",
+                                                 "reason":  "Identity occurs in multiple production files and requires semantic review."
+                                             }
+                                         ]
+                      }
+}

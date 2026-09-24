@@ -1,0 +1,14 @@
+﻿{
+    "milestone":  "9",
+    "status":  "PASS-MILESTONE-9-RELEASE-CANDIDATE-COMPLETE",
+    "baseline":  "2025.01-final",
+    "release_candidate_files":  191,
+    "release_candidate_records":  349,
+    "release_zip":  "armada-database-2025.01-final-release-candidate.zip",
+    "release_zip_sha256":  "2E46EE98A39D0F79534BA6D746C1A2F082AC0698A2C57058FB5629BC5FE07BE8",
+    "official_point_confirmations_open":  4,
+    "campaign_exact_text_open":  19,
+    "text_sensitive_errata_open":  4,
+    "unsupported_production_writes":  0,
+    "production_files_changed":  0
+}

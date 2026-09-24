@@ -1,0 +1,82 @@
+[
+    {
+        "name":  "Munificent-class Star Frigate",
+        "size":  "medium",
+        "faction":  "Separatist Alliance",
+        "hull":  7,
+        "__comment":  "dice arrays are [red, blue, black] counts",
+        "squadron-attack":  [
+                                0,
+                                1,
+                                1
+                            ],
+        "command":  2,
+        "squadron":  2,
+        "engineering":  4,
+        "attack":  {
+                       "front":  [
+                                     3,
+                                     2,
+                                     0
+                                 ],
+                       "right":  [
+                                     2,
+                                     1,
+                                     0
+                                 ],
+                       "left":  [
+                                    2,
+                                    1,
+                                    0
+                                ],
+                       "rear":  [
+                                    1,
+                                    1,
+                                    0
+                                ]
+                   },
+        "shield":  {
+                       "front":  4,
+                       "right":  3,
+                       "left":  3,
+                       "rear":  2
+                   },
+        "defense-tokens":  [
+                               "Brace",
+                               "Redirect",
+                               "Salvo"
+                           ],
+        "max-speed":  2,
+        "slots":  [
+                      "Commander",
+                      "Officer",
+                      "Support Team",
+                      "Defensive Retrofit",
+                      "Ion Cannons",
+                      "Turbolasers"
+                  ],
+        "points":  73,
+        "keywords":  [
+                         "Droid",
+                         "Bombard",
+                         "Transport"
+                     ],
+        "source":  {
+                       "product":  "Separatist Alliance Fleet Starter",
+                       "product-code":  "SWM35",
+                       "publisher":  "Fantasy Flight Games",
+                       "rules-baseline":  "AMG final Armada update, January 2025",
+                       "verification":  "AMG/FFG SWM35 product data; final official errata/points; Slicer Tools; Armada community references",
+                       "data-version":  "2025.01-final"
+                   },
+        "id":  "swarmada:official:separatist-alliance:ship:munificent-class-star-frigate",
+        "data-version":  "2025.01-final",
+        "legality":  {
+                         "status":  "official-final",
+                         "faction":  "Separatist Alliance",
+                         "rules_baseline":  "AMG final Armada update, January 2025",
+                         "data_version":  "2025.01-final",
+                         "product_origin":  "SWM35"
+                     }
+    }
+]

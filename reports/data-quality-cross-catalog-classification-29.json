@@ -1,0 +1,124 @@
+[
+    {
+        "identity":  "Gozanti-class Cruisers",
+        "files":  [
+                      "data\\ship-card\\galactic-empire\\gozanti-class-cruisers.json",
+                      "data\\ship-card\\separatist-alliance\\gozanti-class-cruisers.json"
+                  ],
+        "file_count":  2,
+        "classification":  "LIKELY_LEGITIMATE_VARIANT",
+        "reason":  "Identity occurs only among ship records; faction-specific ship variants may legitimately share an identity."
+    },
+    {
+        "identity":  "Venator II-class Star Destroyer",
+        "files":  [
+                      "data\\ship-card\\galactic-empire\\venator-ii-class-star-destroyer.json",
+                      "data\\ship-card\\galactic-republic\\venator-ii-class-star-destroyer.json"
+                  ],
+        "file_count":  2,
+        "classification":  "LIKELY_LEGITIMATE_VARIANT",
+        "reason":  "Identity occurs only among ship records; faction-specific ship variants may legitimately share an identity."
+    },
+    {
+        "identity":  "Victory I-class Star Destroyer",
+        "files":  [
+                      "data\\ship-card\\galactic-empire\\victory-i-class-star-destroyer.json",
+                      "data\\ship-card\\galactic-republic\\victory-i-class-star-destroyer.json"
+                  ],
+        "file_count":  2,
+        "classification":  "LIKELY_LEGITIMATE_VARIANT",
+        "reason":  "Identity occurs only among ship records; faction-specific ship variants may legitimately share an identity."
+    },
+    {
+        "identity":  "Providence-class Carrier",
+        "files":  [
+                      "data\\ship-card\\rebel-alliance\\providence-class-carrier.json",
+                      "data\\ship-card\\separatist-alliance\\providence-class-carrier.json"
+                  ],
+        "file_count":  2,
+        "classification":  "LIKELY_LEGITIMATE_VARIANT",
+        "reason":  "Identity occurs only among ship records; faction-specific ship variants may legitimately share an identity."
+    },
+    {
+        "identity":  "Darth Vader",
+        "files":  [
+                      "data\\squadron-card\\galactic-empire\\darth-vader.json",
+                      "data\\squadron-card\\galactic-empire\\darth-vader-tie-defender.json",
+                      "data\\upgrade-card\\weapons-team-and-offensive-retrofit.json"
+                  ],
+        "file_count":  3,
+        "classification":  "REVIEW_DUPLICATE",
+        "reason":  "Identity occurs in multiple production files and requires semantic review."
+    },
+    {
+        "identity":  "Ahsoka Tano",
+        "files":  [
+                      "data\\squadron-card\\galactic-republic\\ahsoka-tano.json",
+                      "data\\upgrade-card\\officer.json"
+                  ],
+        "file_count":  2,
+        "classification":  "REVIEW_DUPLICATE",
+        "reason":  "Identity occurs in multiple production files and requires semantic review."
+    },
+    {
+        "identity":  "Anakin Skywalker",
+        "files":  [
+                      "data\\squadron-card\\galactic-republic\\anakin-skywalker-btl-b-y-wing.json",
+                      "data\\squadron-card\\galactic-republic\\anakin-skywalker-delta-7.json",
+                      "data\\upgrade-card\\commander.json"
+                  ],
+        "file_count":  3,
+        "classification":  "REVIEW_DUPLICATE",
+        "reason":  "Identity occurs in multiple production files and requires semantic review."
+    },
+    {
+        "identity":  "Luminara Unduli",
+        "files":  [
+                      "data\\squadron-card\\galactic-republic\\luminara-unduli.json",
+                      "data\\upgrade-card\\commander.json"
+                  ],
+        "file_count":  2,
+        "classification":  "REVIEW_DUPLICATE",
+        "reason":  "Identity occurs in multiple production files and requires semantic review."
+    },
+    {
+        "identity":  "Plo Koon",
+        "files":  [
+                      "data\\squadron-card\\galactic-republic\\plo-koon.json",
+                      "data\\upgrade-card\\commander.json"
+                  ],
+        "file_count":  2,
+        "classification":  "REVIEW_DUPLICATE",
+        "reason":  "Identity occurs in multiple production files and requires semantic review."
+    },
+    {
+        "identity":  "Hera Syndulla",
+        "files":  [
+                      "data\\squadron-card\\rebel-alliance\\hera-syndulla.json",
+                      "data\\squadron-card\\rebel-alliance\\hera-syndulla-x-wing.json"
+                  ],
+        "file_count":  2,
+        "classification":  "LIKELY_LEGITIMATE_VARIANT",
+        "reason":  "Identity occurs only among squadron records; faction or platform variants may legitimately share an identity."
+    },
+    {
+        "identity":  "General Grievous",
+        "files":  [
+                      "data\\squadron-card\\separatist-alliance\\general-grievous-belbullab-22.json",
+                      "data\\upgrade-card\\commander.json"
+                  ],
+        "file_count":  2,
+        "classification":  "REVIEW_DUPLICATE",
+        "reason":  "Identity occurs in multiple production files and requires semantic review."
+    },
+    {
+        "identity":  "Wat Tambor",
+        "files":  [
+                      "data\\squadron-card\\separatist-alliance\\wat-tambor-squadron.json",
+                      "data\\upgrade-card\\officer.json"
+                  ],
+        "file_count":  2,
+        "classification":  "REVIEW_DUPLICATE",
+        "reason":  "Identity occurs in multiple production files and requires semantic review."
+    }
+]

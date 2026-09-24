@@ -1,0 +1,268 @@
+[
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "Aggressor Assault Fighter",
+        "file":  "data\\squadron-card\\galactic-empire\\aggressor-assault-fighter.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "Firespray-31",
+        "file":  "data\\squadron-card\\galactic-empire\\firespray-31.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "JumpMaster 5000",
+        "file":  "data\\squadron-card\\galactic-empire\\jumpmaster-5000.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "Lambda-class Shuttle",
+        "file":  "data\\squadron-card\\galactic-empire\\lambda-class-shuttle.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "Mandalorian Gauntlet Fighter",
+        "file":  "data\\squadron-card\\galactic-empire\\mandalorian-gauntlet-fighter.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "Mandalorian Gauntlet Fighter",
+        "file":  "data\\squadron-card\\galactic-empire\\mandalorian-gauntlet-fighter.json",
+        "field":  "text",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "TIE Advanced Squadron",
+        "file":  "data\\squadron-card\\galactic-empire\\tie-advanced-squadron.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "TIE Bomber Squadron",
+        "file":  "data\\squadron-card\\galactic-empire\\tie-bomber-squadron.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "TIE Defender Squadron",
+        "file":  "data\\squadron-card\\galactic-empire\\tie-defender-squadron.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "TIE Fighter Squadron",
+        "file":  "data\\squadron-card\\galactic-empire\\tie-fighter-squadron.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "TIE Interceptor Squadron",
+        "file":  "data\\squadron-card\\galactic-empire\\tie-interceptor-squadron.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "TIE Phantom Squadron",
+        "file":  "data\\squadron-card\\galactic-empire\\tie-phantom-squadron.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "VT-49 Decimator",
+        "file":  "data\\squadron-card\\galactic-empire\\vt-49-decimator.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "YV-666",
+        "file":  "data\\squadron-card\\galactic-empire\\yv-666.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "ARC-170 Squadron",
+        "file":  "data\\squadron-card\\galactic-republic\\arc-170-squadron.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "BTL-B Y-wing Squadron",
+        "file":  "data\\squadron-card\\galactic-republic\\btl-b-y-wing-squadron.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "Delta-7 Aethersprite Squadron",
+        "file":  "data\\squadron-card\\galactic-republic\\delta-7-aethersprite-squadron.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "V-19 Torrent Squadron",
+        "file":  "data\\squadron-card\\galactic-republic\\v-19-torrent-squadron.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "A-wing Squadron",
+        "file":  "data\\squadron-card\\rebel-alliance\\a-wing-squadron.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "B-wing Squadron",
+        "file":  "data\\squadron-card\\rebel-alliance\\b-wing-squadron.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "E-wing Squadron",
+        "file":  "data\\squadron-card\\rebel-alliance\\e-wing-squadron.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "HWK-290",
+        "file":  "data\\squadron-card\\rebel-alliance\\hwk-290.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "Lancer-class Pursuit Craft",
+        "file":  "data\\squadron-card\\rebel-alliance\\lancer-class-pursuit-craft.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "Scurrg H-6 Bomber",
+        "file":  "data\\squadron-card\\rebel-alliance\\scurrg-h-6-bomber.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "VCX-100 Freighter",
+        "file":  "data\\squadron-card\\rebel-alliance\\vcx-100-freighter.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "X-wing Squadron",
+        "file":  "data\\squadron-card\\rebel-alliance\\x-wing-squadron.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "YT-1300",
+        "file":  "data\\squadron-card\\rebel-alliance\\yt-1300.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "YT-2400",
+        "file":  "data\\squadron-card\\rebel-alliance\\yt-2400.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "Y-wing Squadron",
+        "file":  "data\\squadron-card\\rebel-alliance\\y-wing-squadron.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "Z-95 Headhunter Squadron",
+        "file":  "data\\squadron-card\\rebel-alliance\\z-95-headhunter-squadron.json",
+        "field":  "subname",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "BLANK_FIELD",
+        "identity":  "Wat Tambor",
+        "file":  "data\\squadron-card\\separatist-alliance\\wat-tambor-squadron.json",
+        "field":  "text",
+        "required_action":  "Determine whether the blank value is intentional or missing from the production record."
+    },
+    {
+        "type":  "DUPLICATE_IDENTITY",
+        "identity":  "Darth Vader",
+        "file":  "",
+        "field":  "",
+        "required_action":  "Determine whether same-name records represent legitimate distinct Armada cards or accidental duplication."
+    },
+    {
+        "type":  "DUPLICATE_IDENTITY",
+        "identity":  "Ahsoka Tano",
+        "file":  "",
+        "field":  "",
+        "required_action":  "Determine whether same-name records represent legitimate distinct Armada cards or accidental duplication."
+    },
+    {
+        "type":  "DUPLICATE_IDENTITY",
+        "identity":  "Anakin Skywalker",
+        "file":  "",
+        "field":  "",
+        "required_action":  "Determine whether same-name records represent legitimate distinct Armada cards or accidental duplication."
+    },
+    {
+        "type":  "DUPLICATE_IDENTITY",
+        "identity":  "Luminara Unduli",
+        "file":  "",
+        "field":  "",
+        "required_action":  "Determine whether same-name records represent legitimate distinct Armada cards or accidental duplication."
+    },
+    {
+        "type":  "DUPLICATE_IDENTITY",
+        "identity":  "Plo Koon",
+        "file":  "",
+        "field":  "",
+        "required_action":  "Determine whether same-name records represent legitimate distinct Armada cards or accidental duplication."
+    },
+    {
+        "type":  "DUPLICATE_IDENTITY",
+        "identity":  "General Grievous",
+        "file":  "",
+        "field":  "",
+        "required_action":  "Determine whether same-name records represent legitimate distinct Armada cards or accidental duplication."
+    },
+    {
+        "type":  "DUPLICATE_IDENTITY",
+        "identity":  "Wat Tambor",
+        "file":  "",
+        "field":  "",
+        "required_action":  "Determine whether same-name records represent legitimate distinct Armada cards or accidental duplication."
+    }
+]
