@@ -1,0 +1,24 @@
+﻿{
+    "source":  "Atomic Mass Games SWM Errata 5.5",
+    "source_date":  "2025-01-10",
+    "official_pdf_sha256":  "74B21C1F32DC54384570AE2797D0277906A5D311FF0DB16C27D98640A8083A66",
+    "mappings":  [
+                     {
+                         "name":  "Lambda-class Shuttle",
+                         "page":  19
+                     },
+                     {
+                         "name":  "Major Rhymer",
+                         "page":  20
+                     },
+                     {
+                         "name":  "TIE Bomber Squadron",
+                         "page":  20,
+                         "note":  "Base squadron identity associated with the Major Rhymer TIE Bomber replacement card."
+                     },
+                     {
+                         "name":  "VCX-100 Freighter",
+                         "page":  20
+                     }
+                 ]
+}

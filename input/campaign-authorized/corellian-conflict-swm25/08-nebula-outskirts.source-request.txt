@@ -1,0 +1,15 @@
+﻿Campaign: Corellian Conflict (SWM25)
+Objective: Nebula Outskirts
+
+Provide ONE directly authorized source artifact for this exact physical card:
+- a user-owned scan/photo (PNG/JPG/PDF), OR
+- user-provided exact transcription, OR
+- another directly verified official source artifact.
+
+Do not use community-only text as authority.
+
+Suggested filenames:
+08-nebula-outskirts.png
+08-nebula-outskirts.jpg
+08-nebula-outskirts.pdf
+08-nebula-outskirts.txt

@@ -1,0 +1,49 @@
+﻿{
+    "milestone":  "1.5",
+    "title":  "Galactic Republic Product-Origin Completeness Audit",
+    "status":  "PASS",
+    "generatedAt":  "2026-09-07T12:39:54.7831349-04:00",
+    "rulesBaseline":  "AMG final Armada update: Rules Reference 1.6.0 / Errata 5.5, January 10, 2025",
+    "scope":  {
+                  "includedProducts":  [
+                                           "SWM34",
+                                           "SWM36",
+                                           "SWM40",
+                                           "SWM41"
+                                       ],
+                  "included":  "Unique database designs originating in the four Galactic Republic retail products already installed by Milestones 1.1–1.4.",
+                  "excluded":  "Neutral upgrades from older non-Republic products that are merely legal for Republic fleets. Those belong to a later legality/compatibility audit."
+              },
+    "counts":  {
+                   "expectedDesignRecords":  56,
+                   "validatedDesignRecords":  56,
+                   "ships":  8,
+                   "squadronDesigns":  12,
+                   "upgradeDesigns":  36,
+                   "failures":  0,
+                   "warnings":  0
+               },
+    "productMetadata":  [
+                            "SWM34",
+                            "SWM36",
+                            "SWM40",
+                            "SWM41"
+                        ],
+    "reprintPolicy":  [
+                          {
+                              "name":  "V-19 Torrent Squadron",
+                              "kind":  "squadron",
+                              "recordProductCode":  "SWM34",
+                              "reprintProductCode":  "SWM36",
+                              "physicalCopiesInReprintProduct":  1,
+                              "databasePolicy":  "Do not duplicate the design record; represent SWM36 as product metadata/reprint provenance."
+                          }
+                      ],
+    "failures":  [
+
+                 ],
+    "warnings":  [
+
+                 ],
+    "note":  "Neutral upgrades from older non-Republic products are intentionally outside this product-origin audit and will be handled by a later legality/compatibility milestone."
+}

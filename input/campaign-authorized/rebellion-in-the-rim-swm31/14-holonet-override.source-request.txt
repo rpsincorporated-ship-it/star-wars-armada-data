@@ -1,0 +1,15 @@
+﻿Campaign: Rebellion in the Rim (SWM31)
+Objective: Holonet Override
+
+Provide ONE directly authorized source artifact for this exact physical card:
+- a user-owned scan/photo (PNG/JPG/PDF), OR
+- user-provided exact transcription, OR
+- another directly verified official source artifact.
+
+Do not use community-only text as authority.
+
+Suggested filenames:
+14-holonet-override.png
+14-holonet-override.jpg
+14-holonet-override.pdf
+14-holonet-override.txt

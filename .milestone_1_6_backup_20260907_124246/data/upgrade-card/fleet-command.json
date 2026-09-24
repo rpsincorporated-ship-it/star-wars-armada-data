@@ -1,0 +1,84 @@
+﻿[
+    {
+        "name":  "All Fighters, Follow Me!",
+        "text":  "At the start of the Ship Phase, you may discard this card or spend a [Squadron] token. If you do, until the end of the round, the speed of each squadron that a friendly ship activates is increased by 1, to a maximum of 5, until the end of that squadron\u0027s activation.",
+        "slots":  [
+                      "Fleet Command"
+                  ],
+        "points":  5,
+        "image":  "upgrade-card/fleet-command/all-fighters-follow-me.png"
+    },
+    {
+        "name":  "Entrapment Formation!",
+        "text":  "At the start of the Ship Phase, you may discard this card or spend a [Navigate] token. If you do, until the end of the round, each friendly ship may change its speed by 1 during its Determine Course step.",
+        "slots":  [
+                      "Fleet Command"
+                  ],
+        "points":  5,
+        "image":  "upgrade-card/fleet-command/entrapment-formation.png"
+    },
+    {
+        "name":  "Intensify Firepower!",
+        "text":  "At the start of the Ship Phase, you may discard this card or spend a [Concentrate Fire] token. If you do, until the end of the round, while each friendly ship is attacking a ship, it may change 1 die to a face with 1 [Hit] icon and no other icons.",
+        "slots":  [
+                      "Fleet Command"
+                  ],
+        "points":  6,
+        "image":  "upgrade-card/fleet-command/intensify-firepower.png"
+    },
+    {
+        "name":  "Shields to Maximum!",
+        "text":  "At the start of the Ship Phase, you may discard this card or spend a [Repair] token. If you do, until the end of the round, before a friendly ship reveals a command, it may recover 1 shield.",
+        "slots":  [
+                      "Fleet Command"
+                  ],
+        "points":  6,
+        "image":  "upgrade-card/fleet-command/shields-to-maximum.png"
+    },
+    {
+        "name":  "Take Evasive Action!",
+        "text":  "At the start of the Ship Phase, you may discard this card or spend a [Navigate] token. If you do, until the end of the round, each friendly ship may increase the last yaw value of its current speed by 1 during its Determine Course step.",
+        "slots":  [
+                      "Fleet Command"
+                  ],
+        "points":  6
+    },
+    {
+        "name":  "Hot Landing",
+        "unique":  true,
+        "text":  "At the start of the Squadron Phase, friendly squadrons with Adept gain Grit until the end of the phase. When a friendly squadron with Adept is destroyed, you may choose 1 enemy ship at distance 1-2 of that squadron. If you do, that ship gains 1 raid token of your choice.",
+        "faction":  "Galactic Republic / Separatist",
+        "slots":  [
+                      "Fleet Command"
+                  ],
+        "points":  3,
+        "source":  {
+                       "product":  "Venator-class Star Destroyer Expansion Pack",
+                       "product-code":  "SWM41",
+                       "publisher":  "Fantasy Flight Games",
+                       "rules-baseline":  "AMG 1.6.0 / Errata 5.5 (final Jan. 10, 2025)",
+                       "verification":  "AMG SWM41 product listing; AMG Errata 5.5; Slicer Tools official ruleset; Star Wars Armada community references"
+                   }
+    },
+    {
+        "name":  "Mercy Mission",
+        "unique":  true,
+        "text":  "Before deploying fleets, un-equip this card and choose 1 friendly small ship that is not your flagship. Equip this card to the chosen ship (even if it does not have a Fleet Command icon in its upgrade bar). At the end of the game, if you are within the enemy deployment zone, increase your score by 40 points; if you were destroyed, increase your opponent\u0027s score by 15 points.",
+        "faction":  "Galactic Republic",
+        "slots":  [
+                      "Fleet Command"
+                  ],
+        "points":  5,
+        "source":  {
+                       "product":  "Pelta-class Frigate Expansion Pack",
+                       "product-code":  "SWM40",
+                       "publisher":  "Fantasy Flight Games",
+                       "rules-baseline":  "AMG 1.6.0 / Errata 5.5 (final Jan. 10, 2025)",
+                       "verification":  "AMG/FFG SWM40 product material; final Jan. 2025 official rules state; Slicer Tools official ruleset; Armada community references"
+                   },
+        "points-history":  {
+                               "printed":  0,
+                               "current":  5
+                           }
+    }
+]

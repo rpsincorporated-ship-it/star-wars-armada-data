@@ -1,0 +1,672 @@
+[
+  {
+    "name": "Admonition",
+    "unique": true,
+    "text":
+      "While defending, during the Spend Defense Tokens Step, you may discard a defense token to cancel 1 attack die.",
+    "slots": ["Title"],
+    "ship": "MC30c Frigate",
+    "faction": "Rebel Alliance",
+    "points": 8,
+    "image": "upgrade-card/title/admonition.png"
+  },
+  {
+    "name": "Amity",
+    "unique": true,
+    "restriction": "Mark I only.",
+    "text":
+      "After you deploy, gain 1 [Evade] defense token. When an enemy ship overlaps you, you may deal 1 additional facedown damage card to both ships.",
+    "slots": ["Title"],
+    "ship": "Starhawk-class Battleship",
+    "faction": "Rebel Alliance",
+    "points": 6
+  },
+  {
+    "name": "Annihilator",
+    "unique": true,
+    "text":
+      "While attacking a squadron, you may reroll 1 attack die.",
+    "slots": ["Title"],
+    "ship": "Star Dreadnought",
+    "faction": "Galactic Empire",
+    "points": 8
+  },
+  {
+    "name": "Aspiration",
+    "unique": true,
+    "text":
+      "When you deploy this ship, you may move shields to up to 2 of your hull zones from your other hull zones. If you do, the number of shields in a zone cannot exceed a maximum of \"6\". You cannot recover shields while any zone is greater than its maximum shield value.",
+    "slots": ["Title"],
+    "ship": "MC75 Cruiser",
+    "faction": "Rebel Alliance",
+    "points": 3,
+    "image": "upgrade-card/title/aspiration.png"
+  },
+  {
+    "name": "Avenger",
+    "unique": true,
+    "text":
+      "While attacking, you may exhaust this card. If you do, the defender cannot spend exhausted defense tokens during this attack.",
+    "slots": ["Title"],
+    "ship": "Imperial-class Star Destroyer",
+    "faction": "Galactic Empire",
+    "points": 5,
+    "image": "upgrade-card/title/avenger.png",
+    "errata": [
+      {
+        "version": "original",
+        "text": "While attacking, the defender cannot spend exhausted defense tokens."
+      },
+      {
+        "version": "4.1.2"
+      }
+    ]
+  },
+  {
+    "name": "Bright Hope",
+    "unique": true,
+    "text":
+      "While defending against an attack that does not target your rear hull zone, before you suffer damage reduce the total damage by 1.",
+    "slots": ["Title"],
+    "ship": "GR-75 Transports",
+    "faction": "Rebel Alliance",
+    "points": 2,
+    "image": "upgrade-card/title/bright-hope.png"
+  },
+  {
+    "name": "Cataclysm",
+    "unique": true,
+    "text":
+      "After the start of the Ship Phase, you may spend 1 [Concentrate Fire] token to place your targeting token within your special firing arc within the range specified by one of your [Ignition] keywords.",
+    "slots": ["Title"],
+    "ship": "Onager-class Star Destroyer",
+    "faction": "Galactic Empire",
+    "points": 5
+  },
+  {
+    "name": "Centicore",
+    "unique": true,
+    "text":
+      "When another friendly ship resolves a [Squadron] command, up to 2 of the squadrons it activates can be at close-medium range of you.",
+    "slots": ["Title"],
+    "ship": "Arquitens-class Cruiser",
+    "faction": "Galactic Empire",
+    "points": 3,
+    "image": "upgrade-card/title/centicore.png"
+  },
+  {
+    "name": "Chimaera",
+    "unique": true,
+    "text":
+      "You gain 1 [Fleet Command] icon in your upgrade bar. You cannot equip this card if you have a [Fleet Command] icon in your upgrade bar. At the start of the Command Phase, you may discard 1 [Fleet Command] upgrade card you have equipped and replace it with another [Fleet Command] upgrade card.",
+    "slots": ["Title"],
+    "ship": "Imperial-class Star Destroyer",
+    "faction": "Galactic Empire",
+    "points": 4,
+    "image": "upgrade-card/title/chimaera.png"
+  },
+  {
+    "name": "Concord",
+    "unique": true,
+    "restriction": "Mark I only.",
+    "text":
+      "After you deploy, gain 1 [Salvo] defense token. While defending, if your speed is 0, during your Spend Defense Tokens step, you can spend 1 defense token.",
+    "slots": ["Title"],
+    "ship": "Starhawk-class Battleship",
+    "faction": "Rebel Alliance",
+    "points": 12
+  },
+  {
+    "name": "Corrupter",
+    "unique": true,
+    "text":
+      "[Squadron]: the speed of each squadron with Bomber you activate is increased by 1 until the end of its activation.",
+    "slots": ["Title"],
+    "ship": "Victory-class Star Destroyer",
+    "faction": "Galactic Empire",
+    "points": 5,
+    "image": "upgrade-card/title/corrupter.png"
+  },
+  {
+    "name": "Corvus",
+    "unique": true,
+    "text":
+      "After deploying fleets, you may redeploy this ship within your deployment zone.",
+    "slots": ["Title"],
+    "ship": "Raider-class Corvette",
+    "faction": "Galactic Empire",
+    "points": 2
+  },
+  {
+    "name": "Defiance",
+    "unique": true,
+    "text":
+      "While attacking a ship that has already activated this round, add 1 die of any color to your attack pool.",
+    "slots": ["Title"],
+    "ship": "MC80 Cruiser",
+    "faction": "Rebel Alliance",
+    "points": 5,
+    "image": "upgrade-card/title/defiance.png"
+  },
+  {
+    "name": "Demolisher",
+    "unique": true,
+    "text":
+      "During your activation, you can perform 1 of your attacks after you execute your first maneuver.",
+    "slots": ["Title"],
+    "ship": "Gladiator-class Star Destroyer",
+    "faction": "Galactic Empire",
+    "points": 10,
+    "image": "upgrade-card/title/demolisher.png"
+  },
+  {
+    "name": "Devastator",
+    "unique": true,
+    "text":
+      "Once per round, while attacking from your front hull zone, you may add 1 blue die to your attack pool for each of your discarded defense tokens.",
+    "slots": ["Title"],
+    "ship": "Imperial-class Star Destroyer",
+    "faction": "Galactic Empire",
+    "points": 10,
+    "image": "upgrade-card/title/devastator.png"
+  },
+  {
+    "name": "Dodonna's Pride",
+    "unique": true,
+    "text":
+      "Blue [Critical Hit]: Cancel all attack dice to deal 1 faceup damage card to the defender.",
+    "slots": ["Title"],
+    "ship": "CR90 Corvette",
+    "faction": "Rebel Alliance",
+    "points": 6,
+    "image": "upgrade-card/title/dodonnas-pride.png"
+  },
+  {
+    "name": "Dominator",
+    "unique": true,
+    "text":
+      "While attacking at close-medium range, you may spend up to 2 shields from any of your hull zones to add the same number of blue dice to your attack pool.",
+    "slots": ["Title"],
+    "ship": "Victory-class Star Destroyer",
+    "faction": "Galactic Empire",
+    "points": 12,
+    "image": "upgrade-card/title/dominator.png"
+  },
+  {
+    "name": "Eclipse",
+    "unique": true,
+    "text":
+      "When an enemy ship overlaps you, the enemy ship suffers a faceup damage card instead of a facedown damage card.",
+    "slots": ["Title"],
+    "ship": "Star Dreadnought",
+    "faction": "Galactic Empire",
+    "points": 3
+  },
+  {
+    "name": "Endeavor",
+    "unique": true,
+    "text": "At the start of the first round, gain 1 [Contain] defense token.",
+    "slots": ["Title"],
+    "ship": "MC80 Cruiser",
+    "faction": "Rebel Alliance",
+    "points": 4,
+    "image": "upgrade-card/title/endeavor.png"
+  },
+  {
+    "name": "Executor",
+    "unique": true,
+    "text":
+      "You can be assigned any number of command tokens of any types, instead of a number of command tokens equal to your command value.",
+    "slots": ["Title"],
+    "ship": "Star Dreadnought",
+    "faction": "Galactic Empire",
+    "points": 2
+  },
+  {
+    "name": "Foresight",
+    "unique": true,
+    "text":
+      "When you resolve the [Evade] defense effect, you can affect 1 additional die.\nWhen you resolve the [Redirect] defense effect, you can choose 1 additional adjacent hull zone to suffer damage.",
+    "slots": ["Title"],
+    "ship": "MC30c Frigate",
+    "faction": "Rebel Alliance",
+    "points": 8,
+    "image": "upgrade-card/title/foresight.png"
+  },
+  {
+    "name": "Gallant Haven",
+    "unique": true,
+    "text":
+      "Before a friendly squadron at distance 1 suffers damage from an attack, reduce the total damage by 1, to a minimum of 1.",
+    "slots": ["Title"],
+    "ship": "Assault Frigate Mark II",
+    "faction": "Rebel Alliance",
+    "points": 8,
+    "image": "upgrade-card/title/gallant-haven.png",
+    "errata": [
+      {
+        "version": "original",
+        "text": "Before a friendly squadron at distance 1 suffers damage from an attack, reduce the total damage by 1."
+      },
+      {
+        "version": "4.1.2"
+      }
+    ]
+  },
+  {
+    "name": "Garel's Honor",
+    "unique": true,
+    "text":
+      "When you overlap an enemy ship, the enemy ship suffers a faceup damage card instead of a facedown damage card.",
+    "slots": ["Title"],
+    "ship": "Hammerhead Corvette",
+    "faction": "Rebel Alliance",
+    "points": 4,
+    "image": "upgrade-card/title/garels-honor.png"
+  },
+  {
+    "name": "Hand of Justice",
+    "unique": true,
+    "text":
+      "Before you reveal a command, you may exhaust this card to choose another friendly ship at distance 1-5 and ready 1 of its defense tokens.",
+    "slots": ["Title"],
+    "ship": "Arquitens-class Cruiser",
+    "faction": "Galactic Empire",
+    "points": 4,
+    "image": "upgrade-card/title/hand-of-justice.png"
+  },
+  {
+    "name": "Harrow",
+    "unique": true,
+    "text":
+      "You gain 1 additional [Support Team] icon in your upgrade bar. When you execute a speed-1 maneuver, during your Determine Course step, you may change your first yaw value to \"II\" until the end of your activation.",
+    "slots": ["Title"],
+    "ship": "Victory-class Star Destroyer",
+    "faction": "Galactic Empire",
+    "points": 3
+  },
+  {
+    "name": "Home One",
+    "unique": true,
+    "text":
+      "While another friendly ship at distance 1-5 is attacking, it may change 1 die to a face with an [Accuracy] icon.",
+    "slots": ["Title"],
+    "ship": "MC80 Cruiser",
+    "faction": "Rebel Alliance",
+    "points": 7,
+    "image": "upgrade-card/title/home-one.png"
+  },
+  {
+    "name": "Impetuous",
+    "unique": true,
+    "text":
+      "At the end of your Attack Step, choose 1 of your hull zones. You may perform an attack against 1 enemy squadron from that hull zone, even if you have already attacked from that zone this round.",
+    "slots": ["Title"],
+    "ship": "Raider-class Corvette",
+    "faction": "Galactic Empire",
+    "points": 4,
+    "image": "upgrade-card/title/impetuous.png"
+  },
+  {
+    "name": "Independence",
+    "unique": true,
+    "text":
+      "[Squadron]: Each squadron you activate may increase its speed to 4 until the end of its activation. Squadrons that change speed in this way cannot attack this activation.",
+    "slots": ["Title"],
+    "ship": "MC80 Cruiser",
+    "faction": "Rebel Alliance",
+    "points": 8,
+    "image": "upgrade-card/title/independence.png"
+  },
+  {
+    "name": "Insidious",
+    "unique": true,
+    "text":
+      "The black dice in your battery armament can be used at medium range. This effect applies only while attacking the rear hull zone of a ship.",
+    "slots": ["Title"],
+    "ship": "Gladiator-class Star Destroyer",
+    "faction": "Galactic Empire",
+    "points": 3,
+    "image": "upgrade-card/title/insidious.png"
+  },
+  {
+    "name": "Instigator",
+    "unique": true,
+    "text":
+      "Enemy squadrons at distance 1 are treated as if they are engaged by 2 additional squadrons, even if they are not currently engaged.",
+    "slots": ["Title"],
+    "ship": "Raider-class Corvette",
+    "faction": "Galactic Empire",
+    "points": 4,
+    "image": "upgrade-card/title/instigator.png"
+  },
+  {
+    "name": "Interdictor",
+    "unique": true,
+    "text":
+      "When a ship activates, you may exhaust this card to ready 1 other upgrade card equipped to this ship.",
+    "slots": ["Title"],
+    "ship": "Interdictor",
+    "faction": "Galactic Empire",
+    "points": 3,
+    "image": "upgrade-card/title/interdictor.png"
+  },
+  {
+    "name": "Jaina's Light",
+    "unique": true,
+    "text":
+      "You can ignore the effects of overlapping obstacles.\nYour attacks cannot be obstructed.",
+    "slots": ["Title"],
+    "ship": "CR90 Corvette",
+    "faction": "Rebel Alliance",
+    "points": 2,
+    "image": "upgrade-card/title/jainas-light.png"
+  },
+  {
+    "name": "Liberator",
+    "unique": true,
+    "text":
+      "You gain 1 additional [Fleet Command] icon in you upgrade bar. You cannot equip this card if you have a [Fleet Command] icon in your upgrade bar. You cannot spend a command token to resolve a [Fleet Command] card's effect.",
+    "slots": ["Title"],
+    "ship": "CR90 Corvette",
+    "faction": "Rebel Alliance",
+    "points": 2
+  },
+  {
+    "name": "Liberty",
+    "unique": true,
+    "text": "[Squadron]: If you spent a [Squadron] token, you may activate 1 additional squadron.",
+    "slots": ["Title"],
+    "ship": "MC80 Cruiser",
+    "faction": "Rebel Alliance",
+    "points": 3,
+    "image": "upgrade-card/title/liberty.png"
+  },
+  {
+    "name": "Mon Calamari Exodus Fleet",
+    "unique": true,
+    "restriction": "\"MC\" only.",
+    "text":
+      "[Repair]: You may choose and exhaust another copy of this card on a friendly ship at distance 1-4. If you do, gain 2 additional engineering points.",
+    "slots": ["Title"],
+    "ship": "MC75 Cruiser",
+    "faction": "Rebel Alliance",
+    "points": 5,
+    "image": "upgrade-card/title/mon-calamari-exodus-fleet.png"
+  },
+  {
+    "name": "Mon Karren",
+    "unique": true,
+    "text": "While attacking a ship, the defender cannot spend more than 1 defense token.",
+    "slots": ["Title"],
+    "ship": "MC80 Cruiser",
+    "faction": "Rebel Alliance",
+    "points": 8,
+    "image": "upgrade-card/title/mon-karren.png"
+  },
+  {
+    "name": "Paragon",
+    "unique": true,
+    "text":
+      "While attacking a ship you have already attacked this round, add 1 black die to your attack pool.",
+    "slots": ["Title"],
+    "ship": "Assault Frigate Mark II",
+    "faction": "Rebel Alliance",
+    "points": 5,
+    "image": "upgrade-card/title/paragon.png"
+  },
+  {
+    "name": "Phoenix Home",
+    "unique": true,
+    "text":
+      "You gain 1 additional [Officer] icon in your upgrade bar.\nYou can be assigned up to 4 command tokens instead of a number of command tokens equal to your command value.",
+    "slots": ["Title"],
+    "ship": "Pelta-class Ship",
+    "faction": "Rebel Alliance",
+    "points": 3,
+    "image": "upgrade-card/title/phoenix-home.png"
+  },
+  {
+    "name": "Profundity",
+    "unique": true,
+    "text":
+      "Before deploying fleets, you may set aside 1 small ship with a command value of 1.\nAt the start of any round, you may deploy the set-aside ship at distance 1. You may un-equip up to 1 [Commander] and 1 [Officer] upgrade cards and equip them to it (if able).",
+    "slots": ["Title"],
+    "ship": "MC75 Cruiser",
+    "faction": "Rebel Alliance",
+    "points": 7,
+    "image": "upgrade-card/title/profundity.png"
+  },
+  {
+    "name": "Pursuant",
+    "unique": true,
+    "text":
+      "When you reveal a command other than a [Squadron] command, you may discard this card to resolve a [Squadron]. You treat this command as if you spent a [Squadron] dial.",
+    "slots": ["Title"],
+    "ship": "Quasar Fire-class Cruiser-Carrier",
+    "faction": "Galactic Empire",
+    "points": 2,
+    "image": "upgrade-card/title/pursuant.png"
+  },
+  {
+    "name": "Quantum Storm",
+    "unique": true,
+    "text":
+      "[Navigate]: After you execute a maneuver, you may exhaust this card to execute a 1-speed maneuver with a yaw of \"-\".",
+    "slots": ["Title"],
+    "ship": "GR-75 Transports",
+    "faction": "Rebel Alliance",
+    "points": 1,
+    "image": "upgrade-card/title/quantum-storm.png"
+  },
+  {
+    "name": "Rakehell",
+    "unique": true,
+    "text":
+      "[Navigate]: While executing a 0-speed maneuver, you can resolve clicks of yaw at the speed-0 joint, and are treated as having a yaw value of \"I\" for that maneuver.",
+    "slots": ["Title"],
+    "ship": "Onager-class Star Destroyer",
+    "faction": "Galactic Empire",
+    "points": 4
+  },
+  {
+    "name": "Ravager",
+    "unique": true,
+    "text":
+      "[Concentrate Fire]: Your [Concentrate Fire] tokens can either reroll 1 attack die or add 1 die to your attack pool. If you add a die, that die must be of a color already in your attack pool.",
+    "slots": ["Title"],
+    "ship": "Star Dreadnought",
+    "faction": "Galactic Empire",
+    "points": 4
+  },
+  {
+    "name": "Redemption",
+    "unique": true,
+    "text":
+      "When a friendly ship at distance 1-5 resolves a [Repair] command, it gains 1 additional engineering point.",
+    "slots": ["Title"],
+    "ship": "Nebulon-B Frigate",
+    "faction": "Rebel Alliance",
+    "points": 8,
+    "image": "upgrade-card/title/redemption.png"
+  },
+  {
+    "name": "Relentless",
+    "unique": true,
+    "text":
+      "The total number of command dials that must be assigned to your ship during the Command Phase is reduced by 1.",
+    "slots": ["Title"],
+    "ship": "Imperial-class Star Destroyer",
+    "faction": "Galactic Empire",
+    "points": 3,
+    "image": "upgrade-card/title/relentless.png"
+  },
+  {
+    "name": "Salvation",
+    "unique": true,
+    "text":
+      "While attacking a ship from your front hull zone, your [Critical Hit] icons count as 2 damage instead of 1.",
+    "slots": ["Title"],
+    "ship": "Nebulon-B Frigate",
+    "faction": "Rebel Alliance",
+    "points": 7,
+    "image": "upgrade-card/title/salvation.png"
+  },
+  {
+    "name": "Seventh Fleet Star Destroyer",
+    "restriction": "\"Star Destroyer\" only.",
+    "text":
+      "While defending against an attack that targets your front hull zone, before you suffer damage, you may choose and exhaust a copy of this card on another friendly ship at distance 1-4 to reduce the total damage by 1.",
+    "slots": ["Title"],
+    "faction": "Galactic Empire",
+    "points": 5,
+    "image": "upgrade-card/title/seventh-fleet-star-destroyer.png"
+  },
+  {
+    "name": "Sovereign",
+    "unique": true,
+    "text":
+      "At the start of Ship Phase, you may exhaust this card to discard 1 command token from up to 3 friendly ships at distance 1-5. If you do, each of those ships may gain 1 command token of any type.",
+    "slots": ["Title"],
+    "ship": "Imperial-class Star Destroyer",
+    "faction": "Galactic Empire",
+    "points": 4,
+    "image": "upgrade-card/title/sovereign.png"
+  },
+  {
+    "name": "Squall",
+    "unique": true,
+    "text":
+      "When you activate, you may choose up to 3 unengaged friendly squadrons at close-medium range. Those squadrons may move up to distance 2. If they do, they cannot end their movement engaged.",
+    "slots": ["Title"],
+    "ship": "Quasar Fire-class Cruiser-Carrier",
+    "faction": "Galactic Empire",
+    "points": 3,
+    "image": "upgrade-card/title/squall.png"
+  },
+  {
+    "name": "Stronghold",
+    "unique": true,
+    "text":
+      "While a friendly squadron with Swarm at distance 1-2 is defending, the attack is treated as obstructed.",
+    "slots": ["Title"],
+    "ship": "Quasar Fire-class Cruiser-Carrier",
+    "faction": "Galactic Empire",
+    "points": 5,
+    "image": "upgrade-card/title/stronghold.png"
+  },
+  {
+    "name": "Sunder",
+    "unique": true,
+    "text":
+      "Blue or Black [Critical Hit]: You may discard this card to choose and discard 1 [Offensive Retrofit], [Defensive Retrofit], [Ordnance], [Ion Cannons], or [Turbolasers] upgrade card equipped to the defender.",
+    "slots": ["Title"],
+    "ship": "Onager-class Star Destroyer",
+    "faction": "Galactic Empire",
+    "points": 10
+  },
+  {
+    "name": "Suppressor",
+    "unique": true,
+    "text":
+      "After an enemy ship ends its activation, if it is at distance 1-3, you may choose and exhaust 1 of its defense tokens.",
+    "slots": ["Title"],
+    "ship": "Gozanti-class Cruiser",
+    "faction": "Galactic Empire",
+    "points": 4,
+    "image": "upgrade-card/title/suppressor.png"
+  },
+  {
+    "name": "Tantive IV",
+    "unique": true,
+    "text":
+      "Before you gain a command token, 1 friendly ship at distance 1-5 may gain that token instead.",
+    "slots": ["Title"],
+    "ship": "CR90 Corvette",
+    "faction": "Rebel Alliance",
+    "points": 3,
+    "image": "upgrade-card/title/tantive-iv.png"
+  },
+  {
+    "name": "Task Force Antilles",
+    "text":
+      "When you suffer damage from an attack, you may choose and exhaust a copy of this card on another friendly ship at distance 1-3. If you do, that ship suffers 1 of your damage instead. While this card is exhausted, you cannot spend engineering points.",
+    "slots": ["Title"],
+    "ship": "Hammerhead Corvette",
+    "faction": "Rebel Alliance",
+    "points": 3,
+    "image": "upgrade-card/title/task-force-antilles.png"
+  },
+  {
+    "name": "Task Force Organa",
+    "text":
+      "While attacking, you may choose and exhaust a copy of this card on another friendly ship at distance 1-3 to reroll up to 2 attack dice. While this card is exhausted, you cannot attack ships.",
+    "slots": ["Title"],
+    "ship": "Hammerhead Corvette",
+    "faction": "Rebel Alliance",
+    "points": 1,
+    "image": "upgrade-card/title/task-force-organa.png"
+  },
+  {
+    "name": "Unity",
+    "unique": true,
+    "text":
+      "After you deploy, gain 1 [Redirect] defense token. While attacking a squadron, if the defender is engaged with a friendly squadron without the printed [Heavy] keyword, you may reroll 1 die.",
+    "slots": ["Title"],
+    "ship": "Starhawk-class Battleship",
+    "faction": "Rebel Alliance",
+    "points": 10
+  },
+  {
+    "name": "Vanguard",
+    "unique": true,
+    "text":
+      "You gain 1 additional [Weapons Team] icon in your upgrade bar. At the start of the first round, you may replace 1 of your defense tokens with a [Redirect] defense token.",
+    "slots": ["Title"],
+    "ship": "Nebulon-B Frigate",
+    "faction": "Rebel Alliance",
+    "points": 4
+  },
+  {
+    "name": "Vector",
+    "unique": true,
+    "text":
+      "[Squadron]: The speed of each squadron without Heavy you activate is increased by 1, to a maximum of 5, until the end of its activation.",
+    "slots": ["Title"],
+    "ship": "Gozanti-class Cruiser",
+    "faction": "Galactic Empire",
+    "points": 2,
+    "image": "upgrade-card/title/vector.png"
+  },
+  {
+    "name": "Warlord",
+    "unique": true,
+    "text":
+      "While attacking you may rotate 1 die face with an [Accuracy] icon to a face with a [Hit] icon.",
+    "slots": ["Title"],
+    "ship": "Victory-class Star Destroyer",
+    "faction": "Galactic Empire",
+    "points": 8,
+    "image": "upgrade-card/title/warlord.png"
+  },
+  {
+    "name": "Yavaris",
+    "unique": true,
+    "text":
+      "[Squadron]: Each squadron you activate can attack twice if it does not move during your activation.",
+    "slots": ["Title"],
+    "ship": "Nebulon-B Frigate",
+    "faction": "Rebel Alliance",
+    "points": 5,
+    "image": "upgrade-card/title/yavaris.png",
+    "errata": [
+      {
+        "version": "original",
+        "text": "[Squadron]: Each squadron you activate can attack twice if it does not move."
+      },
+      {
+        "version": "4.1.2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+﻿{
+    "milestone":  "10",
+    "status":  "PASS-MILESTONE-10-OFFICIAL-POINT-TRANSACTION-COMPLETE",
+    "corrected_record":  "Imperial I-class Star Destroyer",
+    "old_points":  112,
+    "new_points":  110,
+    "changed_production_files":  1,
+    "production_json_files":  191,
+    "production_records":  349,
+    "duplicate_ids":  0,
+    "official_point_confirmations_remaining":  3,
+    "campaign_exact_text_remaining":  19,
+    "text_sensitive_errata_remaining":  4,
+    "release_zip":  "armada-database-2025.01-final-release-candidate-m10.zip",
+    "release_zip_sha256":  "ADF676DC48406C41C781A0F2B1FA4417FAE13F7DD4950226FC85CE7DA43CA270"
+}

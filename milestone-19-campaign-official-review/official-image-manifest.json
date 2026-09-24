@@ -1,0 +1,82 @@
+﻿[
+    {
+        "sequence":  1,
+        "campaign":  "Corellian Conflict (SWM25)",
+        "title":  "Hyperlane Raid",
+        "image_file":  "official-images\\01-hyperlane-raid.png",
+        "sha256":  "092E43E17D4ADE21508F0278D69B6DA47B8F4A545895F7BAFE6BEC7D5198A2F3",
+        "authority":  "Fantasy Flight Games official image CDN"
+    },
+    {
+        "sequence":  2,
+        "campaign":  "Corellian Conflict (SWM25)",
+        "title":  "Show of Force",
+        "image_file":  "official-images\\02-show-of-force.png",
+        "sha256":  "1FE7B740D60DC1175D08DF739AE0EF6AAD6C052711D414BA853547A856FA97A9",
+        "authority":  "Fantasy Flight Games official image CDN"
+    },
+    {
+        "sequence":  3,
+        "campaign":  "Corellian Conflict (SWM25)",
+        "title":  "Base Defense: Armed Station",
+        "image_file":  "official-images\\03-base-defense-armed-station.png",
+        "sha256":  "38ED6B944F5C422D180D0E9889495A7279AC6B20D2C1CD45F8F76A17D7F7FF3C",
+        "authority":  "Fantasy Flight Games official image CDN"
+    },
+    {
+        "sequence":  4,
+        "campaign":  "Corellian Conflict (SWM25)",
+        "title":  "Base Defense: Fighter Wing",
+        "image_file":  "official-images\\04-base-defense-fighter-wing.png",
+        "sha256":  "27A3AE2D06E43BA899B7097C99DA813EDBF0931052BD1E15DCB2DEC0CC921ED5",
+        "authority":  "Fantasy Flight Games official image CDN"
+    },
+    {
+        "sequence":  5,
+        "campaign":  "Corellian Conflict (SWM25)",
+        "title":  "Base Defense: Ion Cannon",
+        "image_file":  "official-images\\05-base-defense-ion-cannon.png",
+        "sha256":  "1250591078D1BBE44DAC73C2E99F48A06527BF1E14F56209C834CFD46C2B7D52",
+        "authority":  "Fantasy Flight Games official image CDN"
+    },
+    {
+        "sequence":  12,
+        "campaign":  "Rebellion in the Rim (SWM31)",
+        "title":  "Double Agent",
+        "image_file":  "official-images\\12-double-agent.png",
+        "sha256":  "7EEC2D6119DC1D151C698573BEE74DDA2E57633E880B3CA3DFE31FE949584061",
+        "authority":  "Fantasy Flight Games official image CDN"
+    },
+    {
+        "sequence":  13,
+        "campaign":  "Rebellion in the Rim (SWM31)",
+        "title":  "Hired Scum",
+        "image_file":  "official-images\\13-hired-scum.png",
+        "sha256":  "5616650F5913443A08DEAF8D5DB3F73DAC7F74C6A591885DFBE04496F08FEB67",
+        "authority":  "Fantasy Flight Games official image CDN"
+    },
+    {
+        "sequence":  15,
+        "campaign":  "Rebellion in the Rim (SWM31)",
+        "title":  "Pilot Defection",
+        "image_file":  "official-images\\15-pilot-defection.png",
+        "sha256":  "2A34815D0805C42992B10873A870C4B4FFF2C822E43185B2A02EAB5A7576A939",
+        "authority":  "Fantasy Flight Games official image CDN"
+    },
+    {
+        "sequence":  17,
+        "campaign":  "Rebellion in the Rim (SWM31)",
+        "title":  "Recruit Allies",
+        "image_file":  "official-images\\17-recruit-allies.png",
+        "sha256":  "00715CD6935CA11032F3C87B5D1A404D6F03B46A4689BBD95F4E32C561A87F99",
+        "authority":  "Fantasy Flight Games official image CDN"
+    },
+    {
+        "sequence":  18,
+        "campaign":  "Rebellion in the Rim (SWM31)",
+        "title":  "Steal Supplies",
+        "image_file":  "official-images\\18-steal-supplies.png",
+        "sha256":  "9EB9A215A092404EE11B1D923F8F71E82435998B09F906FE375B60A45A1A23AE",
+        "authority":  "Fantasy Flight Games official image CDN"
+    }
+]

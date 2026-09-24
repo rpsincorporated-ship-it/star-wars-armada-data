@@ -1,0 +1,36 @@
+﻿{
+    "baseline":  "2025.01-final",
+    "official_final_cutoff":  "2025-01-21",
+    "official_sources":  [
+                             "AMG Armada Rules and Organized Play page",
+                             "AMG Errata Reference 5.5 [01/10/2025]",
+                             "AMG Rules Reference 1.6.0 [01/10/2025]",
+                             "AMG Rapid Reinforcements 2.3 [01/10/2025]"
+                         ],
+    "completed":  [
+                      "Republic product-origin normalization and release gate",
+                      "Separatist product-origin normalization and release gate",
+                      "Rapid Reinforcements I installation and structural correction",
+                      "Rapid Reinforcements II installation",
+                      "RR1 cross-faction legality correction",
+                      "Global repository inventory and integrity audit"
+                  ],
+    "source_gated_or_external_review":  [
+                                            {
+                                                "area":  "Campaign objective exact text",
+                                                "count":  19,
+                                                "state":  "SOURCE-GATED"
+                                            },
+                                            {
+                                                "area":  "Upgrade direct card-specific Errata 5.5 comparison",
+                                                "count":  116,
+                                                "state":  "EXTERNAL-SOURCE-REVIEW"
+                                            },
+                                            {
+                                                "area":  "Legacy Rebel/Imperial direct final-value comparison",
+                                                "count":  128,
+                                                "state":  "EXTERNAL-SOURCE-REVIEW"
+                                            }
+                                        ],
+    "policy":  "Backlog items are not silently treated as verified. They remain explicit until authoritative evidence is supplied or independently mapped."
+}

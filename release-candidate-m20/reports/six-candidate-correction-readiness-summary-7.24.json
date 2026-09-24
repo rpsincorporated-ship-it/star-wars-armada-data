@@ -1,0 +1,10 @@
+﻿{
+    "milestone":  "7.24",
+    "status":  "PASS-SIX-CANDIDATE-NO-GUESS-READINESS-MATRIX",
+    "candidates":  6,
+    "text_numeric_candidate_review":  1,
+    "visual_review_required":  3,
+    "image_only_official_evidence_required":  2,
+    "production_writes":  0,
+    "changed_production_files":  0
+}

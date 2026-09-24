@@ -1,0 +1,19 @@
+﻿{
+    "milestone":  "3.4b.1",
+    "status":  "PASS",
+    "purpose":  "resume successful partial 3.4b installation after Wat Tambor dice validator stop",
+    "data_reinstalled":  false,
+    "record_modified":  "Separatist Alliance / Wat Tambor / Belbullab-22 Starfighter Squadron",
+    "field_modified":  "squadron-attack",
+    "corrected_value":  [
+                            0,
+                            2,
+                            0
+                        ],
+    "official_interpretation":  "two blue anti-squadron dice",
+    "records_validated":  8,
+    "stable_ids":  8,
+    "production_install_complete":  true,
+    "protected_files_unchanged":  190,
+    "backup":  "C:\\Development\\Armada_Database\\.milestone_3_4b_1_backup_20260907_190011"
+}

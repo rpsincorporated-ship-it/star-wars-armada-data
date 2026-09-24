@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Advanced Transponder Net",
+    "trait": "Modification",
+    "text":
+      "Friendly [Heavy] squadrons at distance 1-2 prevent engaged squadrons from attacking ships.",
+    "slots": ["Offensive Retrofit"],
+    "points": 5
+  },
+  {
+    "name": "Boosted Comms",
+    "text":
+      "[Squadron]: You can activate friendly squadrons at close-long range (instead of close-medium).",
+    "slots": ["Offensive Retrofit"],
+    "points": 4,
+    "image": "upgrade-card/offensive-retrofit/boosted-comms.png"
+  },
+  {
+    "name": "Disposable Capacitors",
+    "restriction": "Small or medium ship only.",
+    "text":
+      "When you activate, you may discard this card. If you do, the blue dice in your battery armament can be used while attacking ships at close-long range until the end of the round.",
+    "slots": ["Offensive Retrofit"],
+    "points": 3,
+    "image": "upgrade-card/offensive-retrofit/disposable-capacitors.png"
+  },
+  {
+    "name": "Expanded Hangar Bay",
+    "text": "Your squadron value is increased by 1.",
+    "slots": ["Offensive Retrofit"],
+    "points": 5,
+    "image": "upgrade-card/offensive-retrofit/expanded-hangar-bay.png"
+  },
+  {
+    "name": "Flag Bridge",
+    "trait": "Modification",
+    "restriction": ["Small or medium ship only.", "Flagship only."],
+    "text": "You gain 1 [Fleet Command] icon in you upgrade bar. You cannot spend a command token to resolve a [Fleet Command] card's effect.",
+    "slots": ["Offensive Retrofit"],
+    "points": 0
+  },
+  {
+    "name": "Hardened Bulkheads",
+    "restriction": "Large ship only.",
+    "text":
+      "When you overlap a ship of a smaller size class (or are overlapped by a ship of a smaller size class), deal 1 fewer facedown damage card to your ship.",
+    "slots": ["Offensive Retrofit"],
+    "points": 5,
+    "image": "upgrade-card/offensive-retrofit/hardened-bulkheads.png"
+  },
+  {
+    "name": "Phylon Q7 Tractor Beams",
+    "trait": "Modification",
+    "text":
+      "When you activate, you may exhaust this card to choose 1 enemy ship of your size class or smaller at distance 1-5. That ship must spend a Icon Command Navigate token or reduce its speed by 1 to a minimum of 1.",
+    "slots": ["Offensive Retrofit"],
+    "points": 6,
+    "image": "upgrade-card/offensive-retrofit/phylon-q7-tractor-beams.png"
+  },
+  {
+    "name": "Point-Defense Reroute",
+    "text": "While attacking a squadron at close range, you may reroll your [Critical Hit] icons.",
+    "slots": ["Offensive Retrofit"],
+    "points": 5,
+    "image": "upgrade-card/offensive-retrofit/point-defense-reroute.png"
+  },
+  {
+    "name": "Proximity Mines",
+    "text": "Before deploying fleets, you may discard this card to place a number of proximity mine tokens equal to half your engineering value, rounded down. You may place these mines anywhere in the play area beyond distance 5 of enemy ships (and distance 1 of each other).",
+    "slots": ["Offensive Retrofit"],
+    "points": 4
+  },
+  {
+    "name": "Quad Laser Turrets",
+    "text": "While defending at distance 1, if the attacker is a squadron, you have Counter 1.",
+    "slots": ["Offensive Retrofit"],
+    "points": 5,
+    "image": "upgrade-card/offensive-retrofit/quad-laser-turrets.png"
+  },
+  {
+    "name": "Rapid Launch Bays",
+    "text":
+      "Before deploying fleets, you may set aside a number of friendly squadrons up to your squadron value next to your ship card.\n[Squadron]: For each squadron you would activate with this command, you may instead place 1 of your set-aside squadrons within distance 1. It cannot move this activation.",
+    "slots": ["Offensive Retrofit"],
+    "points": 6,
+    "image": "upgrade-card/offensive-retrofit/rapid-launch-bays.png"
+  },
+  {
+    "name": "Reserve Hangar Deck",
+    "text": "When a non-unique squadron with [Swarm] at distance 1-5 is destroyed, you may discard this card. If you do, you may set that squadron's hull points to \"2\" and place that squadron unengaged at distance 1 with its activation slider toggled to the activated side.",
+    "slots": ["Offensive Retrofit"],
+    "points": 3
+  }
+]

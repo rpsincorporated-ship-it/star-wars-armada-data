@@ -1,0 +1,10 @@
+﻿{
+    "milestone":  "7.8",
+    "status":  "PASS-CROSS-SOURCE-AUTHORITATIVE-RECONCILIATION",
+    "queue_total":  244,
+    "errata_mentions":  4,
+    "rr23_mentions":  0,
+    "any_official_source_mentions":  4,
+    "no_direct_official_change_mentions":  240,
+    "production_writes":  0
+}

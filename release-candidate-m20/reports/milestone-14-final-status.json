@@ -1,0 +1,13 @@
+﻿{
+    "milestone":  "14",
+    "status":  "PASS-MILESTONE-14-FINAL-ONAGER-TRANSACTION-COMPLETE",
+    "official_point_confirmations_remaining":  0,
+    "production_files_changed":  2,
+    "production_json_files":  191,
+    "production_records":  349,
+    "duplicate_ids":  0,
+    "release_zip":  "C:\\Development\\Armada_Database\\armada-database-2025.01-final-release-candidate-m14.zip",
+    "release_zip_sha256":  "9354DF2C424F9CA841C7DB8F2C680BD572AC6D924489D30CED81E4DB4D0177A4",
+    "campaign_exact_text_remaining":  19,
+    "text_sensitive_errata_remaining":  4
+}

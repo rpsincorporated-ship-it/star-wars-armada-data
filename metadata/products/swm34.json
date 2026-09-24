@@ -1,0 +1,24 @@
+{
+  "code": "SWM34",
+  "name": "Galactic Republic Fleet Starter",
+  "faction": "Galactic Republic",
+  "contents": {
+    "ship-card-variants": 4,
+    "ship-card-physical-count": 6,
+    "squadron-cards": 2,
+    "upgrade-cards": 20
+  },
+  "database-records-added": {
+    "ships": 4,
+    "squadrons": 2,
+    "unique-upgrade-designs": 16
+  },
+  "notes": "Duplicate physical copies are represented once per unique card design, following the upstream database convention.",
+  "verification": {
+    "product": "Galactic Republic Fleet Starter",
+    "product-code": "SWM34",
+    "publisher": "Fantasy Flight Games",
+    "rules-baseline": "AMG 1.6.0",
+    "verification": "BSData Galactic Republic catalogue rev. 14 (22/01/2025 errata changes added)"
+  }
+}

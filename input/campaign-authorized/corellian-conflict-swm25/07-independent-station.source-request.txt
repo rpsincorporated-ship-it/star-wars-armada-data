@@ -1,0 +1,15 @@
+﻿Campaign: Corellian Conflict (SWM25)
+Objective: Independent Station
+
+Provide ONE directly authorized source artifact for this exact physical card:
+- a user-owned scan/photo (PNG/JPG/PDF), OR
+- user-provided exact transcription, OR
+- another directly verified official source artifact.
+
+Do not use community-only text as authority.
+
+Suggested filenames:
+07-independent-station.png
+07-independent-station.jpg
+07-independent-station.pdf
+07-independent-station.txt

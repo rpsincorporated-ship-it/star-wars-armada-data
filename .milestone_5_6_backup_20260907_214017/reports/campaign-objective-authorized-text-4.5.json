@@ -1,0 +1,46 @@
+﻿{
+    "milestone":  "4.5",
+    "status":  "PASS-TEMPLATE-READY",
+    "scope":  "authorized/source-supplied campaign-objective text ingestion preflight",
+    "input_path":  "C:\\Users\\paule\\Downloads\\armada-card-database-milestone-4.5-campaign-objective-authorized-text-ingestion-preflight\\input\\campaign-objective-authorized-text-input-4.5.json",
+    "identity_validation":  {
+                                "expected_records":  19,
+                                "matched_records":  19,
+                                "stable_ids_unique":  19,
+                                "swm25_records":  8,
+                                "swm31_records":  11
+                            },
+    "text_readiness":  {
+                           "authorized_records":  0,
+                           "unauthorized_records":  19,
+                           "records_with_any_text":  0,
+                           "complete":  false
+                       },
+    "official_final_errata_flags":  [
+                                        {
+                                            "title":  "Hyperlane Raid",
+                                            "product_sku":  "SWM25",
+                                            "field":  "end-of-game",
+                                            "status":  "official-errata-present",
+                                            "source_ids":  [
+                                                               "ffg-faq-5.1.1",
+                                                               "amg-errata-5.5"
+                                                           ],
+                                            "full_text_packaged":  false
+                                        },
+                                        {
+                                            "title":  "Nebula Outskirts",
+                                            "product_sku":  "SWM25",
+                                            "field":  "special-rule",
+                                            "status":  "official-errata-present",
+                                            "source_ids":  [
+                                                               "ffg-faq-5.1.1",
+                                                               "amg-errata-5.5"
+                                                           ],
+                                            "full_text_packaged":  false
+                                        }
+                                    ],
+    "production_install_authorized":  false,
+    "production_card_data_modified":  false,
+    "next_action":  "Populate the 4.5 input JSON with authorized exact text, set authorized_text_confirmed=true for all 19 records, then rerun Milestone 4.5."
+}

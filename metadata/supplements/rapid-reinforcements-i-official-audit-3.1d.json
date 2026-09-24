@@ -1,0 +1,80 @@
+{
+  "milestone": "3.1d",
+  "supplement": "Rapid Reinforcements I",
+  "document": "Rapid Reinforcements v2.3",
+  "document_date": "2025-01-10",
+  "status": "corrected-chassis-aware-inventory-audit",
+  "install_card_data": false,
+  "expected_total_designs": 8,
+  "identity_rule": {
+    "squadron": "faction + name + subname/chassis",
+    "ship": "faction + ship-card name"
+  },
+  "records": [
+    {
+      "name": "Darth Vader",
+      "kind": "squadron",
+      "faction": "Galactic Empire",
+      "subname": "TIE Defender Squadron",
+      "points": 25,
+      "rr_card_revision": "2.0"
+    },
+    {
+      "name": "Hera Syndulla",
+      "kind": "squadron",
+      "faction": "Rebel Alliance",
+      "subname": "X-wing Squadron",
+      "points": 23,
+      "rr_card_revision": "2.0"
+    },
+    {
+      "name": "Anakin Skywalker",
+      "kind": "squadron",
+      "faction": "Galactic Republic",
+      "subname": "Delta-7 Aethersprite Squadron",
+      "points": 24,
+      "rr_card_revision": "2.0"
+    },
+    {
+      "name": "Jango Fett",
+      "kind": "squadron",
+      "faction": "Separatist Alliance",
+      "subname": "Modified Firespray-31",
+      "points": 22,
+      "rr_card_revision": "2.0"
+    },
+    {
+      "name": "Venator II-class Star Destroyer",
+      "kind": "ship",
+      "faction": "Galactic Empire",
+      "points": 100,
+      "rr_card_revision": "2.0"
+    },
+    {
+      "name": "Providence-class Carrier",
+      "kind": "ship",
+      "faction": "Rebel Alliance",
+      "points": 95,
+      "rr_card_revision": "2.0"
+    },
+    {
+      "name": "Victory I-class Star Destroyer",
+      "kind": "ship",
+      "faction": "Galactic Republic",
+      "points": 73,
+      "rr_card_revision": "2.0"
+    },
+    {
+      "name": "Gozanti-class Cruisers",
+      "kind": "ship",
+      "faction": "Separatist Alliance",
+      "points": 24,
+      "rr_card_revision": "2.0"
+    }
+  ],
+  "correction": {
+    "supersedes": "Milestone 3.1c faction+name-only classification",
+    "reason": "Darth Vader, Hera Syndulla, and Anakin Skywalker already exist by name in their factions on different squadron chassis. Armada squadron identity must include subname/chassis.",
+    "expected_result": "all 8 RR1 cards are distinct RR1 identities"
+  }
+}

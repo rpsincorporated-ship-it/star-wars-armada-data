@@ -1,0 +1,16 @@
+﻿{
+    "milestone":  "8.7",
+    "status":  "PASS-MILESTONE-8-RELEASE-AUDIT-COMPLETE",
+    "baseline":  "2025.01-final",
+    "production_json_files":  191,
+    "production_records_scanned":  349,
+    "parse_failures":  0,
+    "duplicate_ids":  0,
+    "unsupported_production_writes":  0,
+    "official_point_confirmations_open":  4,
+    "campaign_exact_text_open":  19,
+    "text_sensitive_errata_open":  4,
+    "release_classification":  "AUDIT-COMPLETE-WITH-SOURCE-GATED-BACKLOG",
+    "safe_structured_database_state":  true,
+    "fully_source_resolved":  false
+}

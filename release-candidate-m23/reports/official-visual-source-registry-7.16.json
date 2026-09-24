@@ -1,0 +1,19 @@
+﻿{
+    "milestone":  "7.16",
+    "status":  "PASS-OFFICIAL-VISUAL-SOURCES-LOCKED",
+    "sources":  [
+                    {
+                        "id":  "AMG-ERRATA-5.5",
+                        "path":  "input\\official\\SWM_Errata_5.5.pdf",
+                        "sha256":  "74B21C1F32DC54384570AE2797D0277906A5D311FF0DB16C27D98640A8083A66",
+                        "authority":  "OFFICIAL"
+                    },
+                    {
+                        "id":  "AMG-RULES-REFERENCE-1.6.0",
+                        "path":  "input\\official\\SWM_Rules_Reference_Guide_1.6.0_web.pdf",
+                        "sha256":  "C48EE9E97676AEC77E998B58D36FE88E3024740A7206060352F64531C472E7FB",
+                        "authority":  "OFFICIAL"
+                    }
+                ],
+    "production_writes":  0
+}

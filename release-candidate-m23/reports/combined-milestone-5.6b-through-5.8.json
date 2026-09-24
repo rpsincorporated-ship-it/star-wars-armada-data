@@ -1,0 +1,11 @@
+﻿{
+    "milestone":  "5.6b-through-5.8-recovery-v2",
+    "status":  "PASS-COMBINED-MILESTONE",
+    "recovery_source":  ".combined_5_6b_5_8_backup_20260907_220217",
+    "venator_legality":  "Galactic Empire",
+    "providence_legality":  "Rebel Alliance",
+    "providence_points":  95,
+    "providence_max_speed":  2,
+    "errata_worklist_count":  1,
+    "next_major_execution":  "Official Errata 5.5 reconciliation"
+}

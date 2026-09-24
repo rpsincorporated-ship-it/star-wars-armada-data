@@ -1,0 +1,86 @@
+﻿{
+    "milestone":  "5.3",
+    "status":  "PASS-EVIDENCE-MAP-READY",
+    "baseline":  {
+                     "label":  "2025.01-final",
+                     "cutoff":  "2025-01-21",
+                     "post_cutoff_allowed":  false
+                 },
+    "audit_identities":  244,
+    "sources":  [
+                    {
+                        "id":  "amg-final-update",
+                        "kind":  "official-web",
+                        "date":  "2025-01-21",
+                        "url":  "https://www.atomicmassgames.com/transmission/organized-play-updates-including-a-long-awaited-update/",
+                        "role":  "Declares final Armada update: revised tournament regulations, updated rules, and errata."
+                    },
+                    {
+                        "id":  "amg-rules-page",
+                        "kind":  "official-web",
+                        "date":  null,
+                        "url":  "https://www.atomicmassgames.com/swarmadadocs/",
+                        "role":  "Official rules hub; describes Errata Reference as complete/current and hosts Rapid Reinforcements."
+                    },
+                    {
+                        "id":  "amg-rules-reference-1.6.0",
+                        "kind":  "official-pdf",
+                        "date":  "2025-01-10",
+                        "url":  "https://cdn.svc.asmodee.net/production-amgcom/uploads/2025/01/SWM_Rules_Reference_Guide_1.6.0_web.pdf",
+                        "role":  "Definitive rules reference; contains Errata and FAQ section."
+                    },
+                    {
+                        "id":  "amg-errata-5.5",
+                        "kind":  "official-pdf",
+                        "date":  "2025-01-10",
+                        "url":  "https://cdn.svc.asmodee.net/production-amgcom/uploads/2025/01/SWM_Errata_5.5.pdf",
+                        "role":  "Primary card/component errata mapping source."
+                    },
+                    {
+                        "id":  "amg-rapid-reinforcements-2.3",
+                        "kind":  "official-pdf",
+                        "date":  "2025-01-10",
+                        "url":  "https://cdn.svc.asmodee.net/production-amgcom/uploads/2025/01/SWM_RapidReinforcements_2.3.pdf",
+                        "role":  "Primary RR I/II card baseline including RR1 Rebel Providence visual."
+                    }
+                ],
+    "classification_contract":  [
+                                    {
+                                        "id":  "ALREADY-CURRENT",
+                                        "meaning":  "Official evidence matches current production data; no correction."
+                                    },
+                                    {
+                                        "id":  "CONFIRMED-NUMERIC-CORRECTION",
+                                        "meaning":  "Official evidence establishes a non-text numeric/structural correction such as points."
+                                    },
+                                    {
+                                        "id":  "CONFIRMED-STRUCTURAL-CORRECTION",
+                                        "meaning":  "Official evidence establishes a non-prose structural correction."
+                                    },
+                                    {
+                                        "id":  "TEXT-SENSITIVE-SOURCE-GATED",
+                                        "meaning":  "Correction requires exact protected card wording; do not reconstruct from public web text."
+                                    },
+                                    {
+                                        "id":  "NEEDS-FURTHER-VERIFICATION",
+                                        "meaning":  "Evidence is incomplete, ambiguous, or identity mapping is uncertain."
+                                    },
+                                    {
+                                        "id":  "OUTSIDE-2025.01-FINAL",
+                                        "meaning":  "Evidence is post-cutoff or otherwise outside frozen baseline."
+                                    }
+                                ],
+    "evidence_input":  "input\\official-evidence-map-input-5.3.json",
+    "evidence_rows":  244,
+    "reviewed_rows":  0,
+    "confirmed_corrections":  0,
+    "providence_visual_gate":  {
+                                   "audit_id":  "ship:rebel-alliance:data-ship-card-rebel-alliance-providence-class-carrier-json:1",
+                                   "source_id":  "amg-rapid-reinforcements-2.3",
+                                   "required_check":  "Exact maneuver/yaw chart against official RR 2.3 card visual",
+                                   "state":  "OPEN",
+                                   "production_change_allowed":  false
+                               },
+    "production_card_data_modified":  false,
+    "next_action":  "Populate the evidence map from official documents, then validate exact identity/source locators before producing any correction patch."
+}

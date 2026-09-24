@@ -1,0 +1,65 @@
+﻿[
+    {
+        "sequence":  6,
+        "campaign":  "Corellian Conflict",
+        "title":  "Asteroids",
+        "status":  "DIRECT-CARD-SOURCE-STILL-GATED",
+        "official_errata_corroboration":  false
+    },
+    {
+        "sequence":  7,
+        "campaign":  "Corellian Conflict",
+        "title":  "Independent Station",
+        "status":  "DIRECT-CARD-SOURCE-STILL-GATED",
+        "official_errata_corroboration":  false
+    },
+    {
+        "sequence":  8,
+        "campaign":  "Corellian Conflict",
+        "title":  "Nebula Outskirts",
+        "status":  "OFFICIAL-ERRATA-CORROBORATED-FULL-CARD-SOURCE-STILL-GATED",
+        "official_errata_corroboration":  true
+    },
+    {
+        "sequence":  9,
+        "campaign":  "Rebellion in the Rim",
+        "title":  "Base Defense: Armed Station",
+        "status":  "DIRECT-CARD-SOURCE-STILL-GATED",
+        "official_errata_corroboration":  false
+    },
+    {
+        "sequence":  10,
+        "campaign":  "Rebellion in the Rim",
+        "title":  "Base Defense: Fighter Wing",
+        "status":  "DIRECT-CARD-SOURCE-STILL-GATED",
+        "official_errata_corroboration":  false
+    },
+    {
+        "sequence":  11,
+        "campaign":  "Rebellion in the Rim",
+        "title":  "Base Defense: Ion Cannon",
+        "status":  "DIRECT-CARD-SOURCE-STILL-GATED",
+        "official_errata_corroboration":  false
+    },
+    {
+        "sequence":  14,
+        "campaign":  "Rebellion in the Rim",
+        "title":  "Holonet Override",
+        "status":  "DIRECT-CARD-SOURCE-STILL-GATED",
+        "official_errata_corroboration":  false
+    },
+    {
+        "sequence":  16,
+        "campaign":  "Rebellion in the Rim",
+        "title":  "Prototype Recovery",
+        "status":  "DIRECT-CARD-SOURCE-STILL-GATED",
+        "official_errata_corroboration":  false
+    },
+    {
+        "sequence":  19,
+        "campaign":  "Rebellion in the Rim",
+        "title":  "Volatile Cargo",
+        "status":  "DIRECT-CARD-SOURCE-STILL-GATED",
+        "official_errata_corroboration":  false
+    }
+]

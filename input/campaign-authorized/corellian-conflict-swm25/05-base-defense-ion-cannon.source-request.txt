@@ -1,0 +1,15 @@
+﻿Campaign: Corellian Conflict (SWM25)
+Objective: Base Defense: Ion Cannon
+
+Provide ONE directly authorized source artifact for this exact physical card:
+- a user-owned scan/photo (PNG/JPG/PDF), OR
+- user-provided exact transcription, OR
+- another directly verified official source artifact.
+
+Do not use community-only text as authority.
+
+Suggested filenames:
+05-base-defense-ion-cannon.png
+05-base-defense-ion-cannon.jpg
+05-base-defense-ion-cannon.pdf
+05-base-defense-ion-cannon.txt

@@ -1,0 +1,47 @@
+﻿[
+    {
+        "sequence":  6,
+        "campaign":  "Corellian Conflict",
+        "title":  "Asteroids"
+    },
+    {
+        "sequence":  7,
+        "campaign":  "Corellian Conflict",
+        "title":  "Independent Station"
+    },
+    {
+        "sequence":  8,
+        "campaign":  "Corellian Conflict",
+        "title":  "Nebula Outskirts"
+    },
+    {
+        "sequence":  9,
+        "campaign":  "Rebellion in the Rim",
+        "title":  "Base Defense: Armed Station"
+    },
+    {
+        "sequence":  10,
+        "campaign":  "Rebellion in the Rim",
+        "title":  "Base Defense: Fighter Wing"
+    },
+    {
+        "sequence":  11,
+        "campaign":  "Rebellion in the Rim",
+        "title":  "Base Defense: Ion Cannon"
+    },
+    {
+        "sequence":  14,
+        "campaign":  "Rebellion in the Rim",
+        "title":  "Holonet Override"
+    },
+    {
+        "sequence":  16,
+        "campaign":  "Rebellion in the Rim",
+        "title":  "Prototype Recovery"
+    },
+    {
+        "sequence":  19,
+        "campaign":  "Rebellion in the Rim",
+        "title":  "Volatile Cargo"
+    }
+]

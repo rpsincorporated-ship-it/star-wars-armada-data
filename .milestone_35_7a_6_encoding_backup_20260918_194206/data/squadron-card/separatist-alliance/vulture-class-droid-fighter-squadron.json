@@ -1,0 +1,45 @@
+﻿[
+    {
+        "name":  "Vulture-class Droid Fighter Squadron",
+        "faction":  "Separatist Alliance",
+        "type":  "Vulture-class Droid Fighter Squadron",
+        "speed":  4,
+        "hull":  3,
+        "__comment":  "dice arrays are [red, blue, black] counts",
+        "squadron-attack":  [
+                                0,
+                                1,
+                                2
+                            ],
+        "battery-attack":  [
+                               1,
+                               0,
+                               0
+                           ],
+        "keywords":  [
+                         "AI: Anti-Squadron 1",
+                         "Swarm"
+                     ],
+        "defense-tokens":  [
+
+                           ],
+        "points":  8,
+        "source":  {
+                       "product":  "Separatist Alliance Fleet Starter",
+                       "product-code":  "SWM35",
+                       "publisher":  "Fantasy Flight Games",
+                       "rules-baseline":  "AMG final Armada update, January 2025",
+                       "verification":  "AMG/FFG SWM35 product data; final official errata/points; Slicer Tools; Armada community references",
+                       "data-version":  "2025.01-final"
+                   },
+        "id":  "swarmada:official:separatist-alliance:squadron:vulture-class-droid-fighter-squadron",
+        "data-version":  "2025.01-final",
+        "legality":  {
+                         "status":  "official-final",
+                         "faction":  "Separatist Alliance",
+                         "rules_baseline":  "AMG final Armada update, January 2025",
+                         "data_version":  "2025.01-final",
+                         "product_origin":  "SWM35"
+                     }
+    }
+]

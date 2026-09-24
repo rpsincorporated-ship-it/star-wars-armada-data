@@ -1,0 +1,68 @@
+﻿{
+    "milestone":  "5.5c",
+    "status":  "PASS-CORRECTION-PLAN",
+    "source":  {
+                   "document":  "Rapid Reinforcements v2.3",
+                   "revision":  "2.3",
+                   "date":  "2025-01-10",
+                   "page":  3,
+                   "card":  "Providence-class Carrier",
+                   "publisher":  "Atomic Mass Games"
+               },
+    "supersedes":  [
+                       "5.5 max-speed-2 assertion failure",
+                       "5.5a claim that official visual supports max speed 3"
+                   ],
+    "factual_resolution":  {
+                               "points":  95,
+                               "official_max_speed":  2,
+                               "local_max_speed":  3,
+                               "local_speed_chart_keys":  [
+                                                              "1",
+                                                              "2"
+                                                          ]
+                           },
+    "confirmed_corrections":  [
+                                  {
+                                      "field":  "max-speed",
+                                      "current":  3,
+                                      "proposed":  2,
+                                      "classification":  "CONFIRMED-STRUCTURAL-CORRECTION",
+                                      "evidence":  "Official AMG Rapid Reinforcements v2.3 [01/10/25], PDF page 3 Providence-class Carrier maneuver chart"
+                                  }
+                              ],
+    "metadata_policy_review":  [
+                                   {
+                                       "field":  "legality.faction",
+                                       "current":  "Separatist Alliance",
+                                       "state":  "RR-VARIANT-POLICY-REVIEW",
+                                       "note":  "Cross-faction RR variants inherit original-faction metadata inconsistently; do not patch Providence alone."
+                                   },
+                                   {
+                                       "field":  "points-history.current",
+                                       "current":  102,
+                                       "state":  "RR-VARIANT-POLICY-REVIEW",
+                                       "note":  "Inherited CIS history conflicts with RR1 cost; define supplement-history policy across all RR variants."
+                                   },
+                                   {
+                                       "field":  "source.product-code",
+                                       "current":  "SWM42",
+                                       "state":  "PRESERVE-PENDING-POLICY",
+                                       "note":  "May legitimately represent physical model/product provenance."
+                                   },
+                                   {
+                                       "field":  "unique",
+                                       "current":  true,
+                                       "state":  "REVIEW",
+                                       "note":  "Do not alter without RR ship identity/uniqueness policy."
+                                   },
+                                   {
+                                       "field":  "keywords",
+                                       "current":  "Droid, Comms, Transport",
+                                       "state":  "REVIEW",
+                                       "note":  "Verify separately against RR card/rules; not part of max-speed correction."
+                                   }
+                               ],
+    "next_production_action":  "Patch only max-speed 3 -\u003e 2 transaction-safely; preserve existing speed-chart and metadata until their separate policy/evidence gates are resolved.",
+    "production_card_data_modified":  false
+}

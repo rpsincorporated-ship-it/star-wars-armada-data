@@ -1,0 +1,15 @@
+﻿Campaign: Corellian Conflict (SWM25)
+Objective: Hyperlane Raid
+
+Provide ONE directly authorized source artifact for this exact physical card:
+- a user-owned scan/photo (PNG/JPG/PDF), OR
+- user-provided exact transcription, OR
+- another directly verified official source artifact.
+
+Do not use community-only text as authority.
+
+Suggested filenames:
+01-hyperlane-raid.png
+01-hyperlane-raid.jpg
+01-hyperlane-raid.pdf
+01-hyperlane-raid.txt

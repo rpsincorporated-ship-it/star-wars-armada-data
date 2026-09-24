@@ -1,0 +1,15 @@
+﻿{
+    "sequence":  16,
+    "campaign":  "Rebellion in the Rim",
+    "product_code":  "SWM31",
+    "title":  "Prototype Recovery",
+    "identity_key":  "SWM31|16|Prototype Recovery",
+    "accepted_extensions":  [
+                                ".png",
+                                ".jpg",
+                                ".jpeg",
+                                ".pdf"
+                            ],
+    "authority_requirement":  "Official FFG/AMG card image, official product scan, or user-provided scan/photo of the physical card",
+    "production_write_allowed":  false
+}

@@ -1,0 +1,92 @@
+﻿[
+    {
+        "name":  "Venator II-class Star Destroyer",
+        "size":  "large",
+        "faction":  "Galactic Empire",
+        "hull":  9,
+        "__comment":  "dice array is [red, blue, black] counts",
+        "squadron-attack":  [
+                                0,
+                                1,
+                                1
+                            ],
+        "command":  3,
+        "squadron":  3,
+        "engineering":  4,
+        "attack":  {
+                       "front":  [
+                                     2,
+                                     2,
+                                     2
+                                 ],
+                       "right":  [
+                                     2,
+                                     2,
+                                     0
+                                 ],
+                       "left":  [
+                                    2,
+                                    2,
+                                    0
+                                ],
+                       "rear":  [
+                                    1,
+                                    1,
+                                    1
+                                ]
+                   },
+        "shield":  {
+                       "front":  4,
+                       "right":  3,
+                       "left":  3,
+                       "rear":  2
+                   },
+        "defense-tokens":  [
+                               "Brace",
+                               "Redirect",
+                               "Contain",
+                               "Salvo"
+                           ],
+        "max-speed":  3,
+        "slots":  [
+                      "Officer",
+                      "Weapons Team",
+                      "Defensive Retrofit",
+                      "Ordnance",
+                      "Ordnance",
+                      "Turbolasers"
+                  ],
+        "points":  100,
+        "keywords":  [
+                         "Clone",
+                         "Bombard"
+                     ],
+        "source":  {
+                       "product":  "Venator-class Star Destroyer Expansion Pack",
+                       "product-code":  "SWM41",
+                       "publisher":  "Fantasy Flight Games",
+                       "rules-baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                       "verification":  "AMG SWM41 product listing; AMG Errata 5.5; Slicer Tools official ruleset; Star Wars Armada community references",
+                       "data-version":  "2025.01-final"
+                   },
+        "legality":  {
+                         "ruleset":  "official-amg-final-2025",
+                         "status":  "legal",
+                         "official":  true,
+                         "faction":  "Galactic Republic",
+                         "productOrigin":  "SWM41",
+                         "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                         "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
+                     },
+        "unique":  true,
+        "traits":  [
+                       "Bombard"
+                   ],
+        "stable-id":  "ship:galactic-empire:venator-ii-class-star-destroyer",
+        "data-version":  "2025.01-final",
+        "supplement":  "Rapid Reinforcements I",
+        "supplement-revision":  "2.0",
+        "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
+        "image-status":  "card-image-not-packaged"
+    }
+]

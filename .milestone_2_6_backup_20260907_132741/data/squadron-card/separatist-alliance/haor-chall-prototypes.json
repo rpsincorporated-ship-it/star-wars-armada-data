@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Haor Chall Prototypes",
+    "faction": "Separatist Alliance",
+    "unique": true,
+    "type": "Vulture-class Droid Fighter Squadron",
+    "speed": 4,
+    "hull": 3,
+    "__comment": "Prototype ace; chassis/keyword values follow the official Vulture-class profile.",
+    "squadron-attack": [
+      0,
+      1,
+      2
+    ],
+    "battery-attack": [
+      1,
+      0,
+      0
+    ],
+    "keywords": [
+      "AI: Anti-Squadron 1",
+      "Swarm"
+    ],
+    "defense-tokens": [
+      "Brace",
+      "Scatter"
+    ],
+    "points": 16,
+    "source": {
+      "product": "Separatist Alliance Fleet Starter",
+      "product-code": "SWM35",
+      "publisher": "Fantasy Flight Games",
+      "rules-baseline": "AMG final Armada update / Errata 5.5, January 10, 2025",
+      "verification": "AMG/FFG SWM35 product data; final official errata/points; Slicer Tools; Armada community references"
+    }
+  }
+]

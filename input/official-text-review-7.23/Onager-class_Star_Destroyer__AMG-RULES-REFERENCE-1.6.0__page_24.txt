@@ -1,0 +1,73 @@
+When a flotilla would overlap another ship (or be overlapped by             Demonstration of Force, p.27
+another ship), deal one facedown damage card to the flotilla. Do not        The second bullet under “If the Defending Team Won” should read:
+deal a facedown damage card to the closest ship the flotilla overlapped
+(or that overlapped it) unless that ship is also a flotilla.                “Each of the assaulting and defending team’s players may choose one
+                                                                            reward from any friendly location in the chosen area. If a team has no
+• A flotilla cannot equip a T (commander) upgrade card.”                    friendly location in that area, each of its players may choose one reward
+                                                                            from any friendly base location.”
+CORE SET LEARN TO PLAY
+                                                                            Evacuation, p.27
+Fleet-Building Restrictions, p.22                                           The following paragraph should read:
+This section should include the following bullet point:
+                                                                            “Location: The defending team must choose a location with a friendly
+“A ship cannot equip more than one copy of the same upgrade card.”          base, then selects the “Base Defense” campaign objective recorded for
+                                                                            that location on the team roster.”
+ONAGER-CLASS STAR DESTROYER
+Extreme Range, p.3                                                          CORE SET RULES REFERENCE
+This section should include the following bullet point:                     Attack, p.2
+                                                                            The second sentence of step 6, “Declare Additional Squadron Target,”
+“While defending at extreme range, the standard effect of the D defense
+                                                                            should read:
+token cancels two dice of the defender’s choice.”
+                                                                            “The new defender must be inside the firing arc and at attack range of
+                                                                            the same attacking hull zone, and the attacker must measure line of
+REBELLION IN THE RIM                                                        sight to it as normal.”
+Exogorth Effects, p.5
+The second paragraph of this section should read:                           Attack, p.2
+                                                                            Step 6, “Declare Additional Squadron Target,” should include the
+“At the start of each Squadron Phase, starting with the second player
+                                                                            following bullet point:
+and alternating, each player chooses one exogorth. Each player must
+choose a different exogorth. The chosen exogorth performs an anti-          “Treat each repetition of steps 2 through 6 as a new attack for the
+squadron attack against each squadron at distance 1. While a squadron       purposes of resolving card effects.”
+is defending, the opposing player (or team) resolves each step of that
+attack. An exogorth uses the following rules when it performs attacks:”
+                                                                            Commands, p.4
+                                                                            This entry should include the following bullet point:
+Setup Area, p.8
+This section should include the following paragraph:                        “A ship can resolve a command and choose not to produce its effect.
+                                                                            It still counts as resolving that command, such as for the purpose of
+“During setup, obstacles must be placed within the setup area, beyond       triggering upgrade cards.”
+distance 3 of the player edges of the play area (and deployment zones),
+beyond distance 1 of the non-player edges of the setup area, and beyond
+distance 1 of each other. Unless specified by an objective, players place   Fleet Building, p.6
+the standard six obstacles.”                                                This entry should include the following bullet point:
+
+                                                                            “A ship cannot equip more than one copy of the same upgrade card.”
+Command Ship Upgrade, p.26
+The following paragraphs should read:                                       Line of Sight, p.7
+“Huge Ship: The team may spend one repair yards token and two               The fourth bullet point of this entry should read:
+resource tokens. Then one of this team’s players may choose to remove       “If line of sight or attack range is traced through a hull zone on the
+a number of their ships, squadrons, and upgrade cards from their fleet      defender that is not the defending zone, the attacker does not have line
+and replace those forces with one huge ship worth a number of fleet         of sight and must choose another target.”
+points up to the value of the ships, squadrons, and upgrades that player
+removed.”
+                                                                            Measuring Firing Arc and Range, p.7
+“Large Ships: The team may spend one repair yards token and one             This entry should include the following paragraph:
+resource token. Then up to two of that team’s players may choose to
+remove a number of their ships, squadrons, and upgrade cards from their     “When measuring attack range for a ship, ignore any portion of the
+fleet and each replace those forces with one large ship worth a number      defender that is outside the attacking hull zone’s firing arc, even if that
+of fleet points up to the value of the ships, squadrons, and upgrades       portion is at a closer range.”
+those players removed.”
+                                                                            Measuring Firing Arc and Range, p.7
+Conquest, p.26                                                              This entry should include the following paragraph:
+The following paragraph should read:                                        “If attack range is measured through a hull zone on the defender that is
+“Location: The assaulting team chooses a location with an enemy base.       not the defending hull zone, the attacker does not have line of sight and
+The defending team selects the “Base Defense” campaign objective            must choose another target.”
+recorded for that location on the team roster.”
+
+
+
+
+24
+

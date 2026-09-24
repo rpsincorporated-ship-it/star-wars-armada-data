@@ -1,0 +1,21 @@
+﻿{
+    "audit_id":  "squadron:galactic-empire:data/squadron-card/galactic-empire/hondo-ohnaka.json:1",
+    "name":  "Hondo Ohnaka",
+    "kind":  "squadron",
+    "faction":  "Galactic Empire",
+    "path":  "data\\squadron-card\\galactic-empire\\hondo-ohnaka.json",
+    "record_index":  1,
+    "local_points":  24,
+    "baseline_bsdata_points":  [
+                                   2
+                               ],
+    "current_bsdata_points":  [
+                                  2
+                              ],
+    "official_text_locations":  {
+                                    "source":  "AMG-RULES-REFERENCE-1.6.0",
+                                    "page":  41,
+                                    "text_match":  true
+                                },
+    "production_write_authorized":  false
+}

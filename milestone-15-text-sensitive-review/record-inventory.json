@@ -1,0 +1,85 @@
+﻿[
+    {
+        "name":  "VCX-100 Freighter",
+        "path":  "data\\squadron-card\\rebel-alliance\\vcx-100-freighter.json",
+        "index":  0,
+        "properties":  [
+                           "name",
+                           "subname",
+                           "faction",
+                           "speed",
+                           "hull",
+                           "__comment",
+                           "squadron-attack",
+                           "attack",
+                           "keywords",
+                           "points",
+                           "squadron-image",
+                           "image"
+                       ],
+        "points":  15
+    },
+    {
+        "name":  "Lambda-class Shuttle",
+        "path":  "data\\squadron-card\\galactic-empire\\lambda-class-shuttle.json",
+        "index":  0,
+        "properties":  [
+                           "name",
+                           "subname",
+                           "faction",
+                           "speed",
+                           "hull",
+                           "__comment",
+                           "squadron-attack",
+                           "attack",
+                           "keywords",
+                           "points",
+                           "squadron-image",
+                           "image"
+                       ],
+        "points":  15
+    },
+    {
+        "name":  "Major Rhymer",
+        "path":  "data\\squadron-card\\galactic-empire\\major-rhymer.json",
+        "index":  0,
+        "properties":  [
+                           "name",
+                           "subname",
+                           "unique",
+                           "faction",
+                           "speed",
+                           "hull",
+                           "__comment",
+                           "squadron-attack",
+                           "attack",
+                           "text",
+                           "keywords",
+                           "defense-tokens",
+                           "points",
+                           "squadron-image",
+                           "image"
+                       ],
+        "points":  16
+    },
+    {
+        "name":  "TIE Bomber Squadron",
+        "path":  "data\\squadron-card\\galactic-empire\\tie-bomber-squadron.json",
+        "index":  0,
+        "properties":  [
+                           "name",
+                           "subname",
+                           "faction",
+                           "speed",
+                           "hull",
+                           "__comment",
+                           "squadron-attack",
+                           "attack",
+                           "keywords",
+                           "points",
+                           "squadron-image",
+                           "image"
+                       ],
+        "points":  9
+    }
+]

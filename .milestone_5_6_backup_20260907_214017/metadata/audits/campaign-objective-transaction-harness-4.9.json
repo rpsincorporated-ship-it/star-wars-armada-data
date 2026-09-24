@@ -1,0 +1,20 @@
+﻿{
+    "milestone":  "4.9",
+    "status":  "PASS",
+    "scope":  "campaign-objective staging and installation transaction harness",
+    "baseline_records":  36,
+    "synthetic_campaign_records":  19,
+    "staged_candidate_records":  55,
+    "top_level_array":  true,
+    "disk_reread_records":  55,
+    "rollback_test":  "PASS",
+    "rollback_restored_records":  36,
+    "rollback_byte_identical":  true,
+    "guarded_installer":  "tools\\install_campaign_objective_payload.ps1",
+    "installer_default_mode":  "PREVIEW",
+    "commit_requires_explicit_switch":  true,
+    "exact_text_gate_still_required":  true,
+    "production_install_authorized":  false,
+    "production_card_data_modified":  false,
+    "next_action":  "Complete authorized exact-text payload, canonicalize it, validate it, run installer preview, then authorize a later production commit milestone."
+}

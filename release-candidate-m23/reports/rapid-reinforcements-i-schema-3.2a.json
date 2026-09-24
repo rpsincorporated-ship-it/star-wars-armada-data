@@ -1,0 +1,793 @@
+﻿{
+    "milestone":  "3.2a",
+    "status":  "PASS",
+    "purpose":  "capture exact production JSON schemas before RR1 writes",
+    "rr1_inventory_count":  8,
+    "source_candidates":  [
+                              {
+                                  "label":  "Darth Vader RR1 chassis",
+                                  "kind":  "squadron",
+                                  "source_name":  "TIE Defender Squadron",
+                                  "relative_path":  "data\\squadron-card\\galactic-empire\\tie-defender-squadron.json",
+                                  "faction":  "Galactic Empire",
+                                  "subname":  "",
+                                  "property_names":  [
+                                                         "name",
+                                                         "subname",
+                                                         "faction",
+                                                         "speed",
+                                                         "hull",
+                                                         "__comment",
+                                                         "squadron-attack",
+                                                         "attack",
+                                                         "keywords",
+                                                         "points",
+                                                         "squadron-image",
+                                                         "image"
+                                                     ],
+                                  "record":  {
+                                                 "name":  "TIE Defender Squadron",
+                                                 "subname":  "",
+                                                 "faction":  "Galactic Empire",
+                                                 "speed":  5,
+                                                 "hull":  6,
+                                                 "__comment":  "dice array is [red, blue, black] counts",
+                                                 "squadron-attack":  [
+                                                                         0,
+                                                                         2,
+                                                                         2
+                                                                     ],
+                                                 "attack":  [
+                                                                0,
+                                                                1,
+                                                                0
+                                                            ],
+                                                 "keywords":  [
+                                                                  "Bomber"
+                                                              ],
+                                                 "points":  16,
+                                                 "squadron-image":  "squadron/galactic-empire/tie-defender-squadron.png",
+                                                 "image":  "squadron-card/galactic-empire/tie-defender-squadron.png"
+                                             }
+                              },
+                              {
+                                  "label":  "Hera Syndulla RR1 chassis",
+                                  "kind":  "squadron",
+                                  "source_name":  "X-wing Squadron",
+                                  "relative_path":  "data\\squadron-card\\rebel-alliance\\x-wing-squadron.json",
+                                  "faction":  "Rebel Alliance",
+                                  "subname":  "",
+                                  "property_names":  [
+                                                         "name",
+                                                         "subname",
+                                                         "faction",
+                                                         "speed",
+                                                         "hull",
+                                                         "__comment",
+                                                         "squadron-attack",
+                                                         "attack",
+                                                         "keywords",
+                                                         "points",
+                                                         "squadron-image",
+                                                         "image"
+                                                     ],
+                                  "record":  {
+                                                 "name":  "X-wing Squadron",
+                                                 "subname":  "",
+                                                 "faction":  "Rebel Alliance",
+                                                 "speed":  3,
+                                                 "hull":  5,
+                                                 "__comment":  "dice array is [red, blue, black] counts",
+                                                 "squadron-attack":  [
+                                                                         0,
+                                                                         4,
+                                                                         0
+                                                                     ],
+                                                 "attack":  [
+                                                                1,
+                                                                0,
+                                                                0
+                                                            ],
+                                                 "keywords":  [
+                                                                  "Bomber",
+                                                                  "Escort"
+                                                              ],
+                                                 "points":  13,
+                                                 "squadron-image":  "squadron/rebel-alliance/x-wing-squadron.png",
+                                                 "image":  "squadron-card/rebel-alliance/x-wing-squadron.png"
+                                             }
+                              },
+                              {
+                                  "label":  "Anakin Skywalker RR1 chassis",
+                                  "kind":  "squadron",
+                                  "source_name":  "Delta-7 Aethersprite Squadron",
+                                  "relative_path":  "data\\squadron-card\\galactic-republic\\delta-7-aethersprite-squadron.json",
+                                  "faction":  "Galactic Republic",
+                                  "subname":  "",
+                                  "property_names":  [
+                                                         "name",
+                                                         "subname",
+                                                         "faction",
+                                                         "speed",
+                                                         "hull",
+                                                         "__comment",
+                                                         "squadron-attack",
+                                                         "attack",
+                                                         "keywords",
+                                                         "points",
+                                                         "source",
+                                                         "id",
+                                                         "data-version",
+                                                         "legality"
+                                                     ],
+                                  "record":  {
+                                                 "name":  "Delta-7 Aethersprite Squadron",
+                                                 "subname":  "",
+                                                 "faction":  "Galactic Republic",
+                                                 "speed":  4,
+                                                 "hull":  4,
+                                                 "__comment":  "dice array is [red, blue, black] counts",
+                                                 "squadron-attack":  [
+                                                                         0,
+                                                                         3,
+                                                                         1
+                                                                     ],
+                                                 "attack":  [
+                                                                0,
+                                                                1,
+                                                                0
+                                                            ],
+                                                 "keywords":  [
+                                                                  "Adept 1",
+                                                                  "Counter 2",
+                                                                  "Dodge 1"
+                                                              ],
+                                                 "points":  17,
+                                                 "source":  {
+                                                                "product":  "Republic Fighter Squadrons Expansion Pack",
+                                                                "product-code":  "SWM36",
+                                                                "publisher":  "Fantasy Flight Games",
+                                                                "rules-baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                                                "verification":  "BSData Galactic Republic catalogue rev. 14 (22/01/2025 errata changes added)",
+                                                                "data-version":  "2025.01-final"
+                                                            },
+                                                 "id":  "swarmada:official:galactic-republic:squadron:delta-7-aethersprite-squadron",
+                                                 "data-version":  "2025.01-final",
+                                                 "legality":  {
+                                                                  "ruleset":  "official-amg-final-2025",
+                                                                  "status":  "legal",
+                                                                  "official":  true,
+                                                                  "faction":  "Galactic Republic",
+                                                                  "productOrigin":  "SWM36",
+                                                                  "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                                                  "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
+                                                              }
+                                             }
+                              },
+                              {
+                                  "label":  "Jango Fett RR1 chassis",
+                                  "kind":  "squadron",
+                                  "source_name":  "Firespray-31",
+                                  "relative_path":  "data\\squadron-card\\galactic-empire\\firespray-31.json",
+                                  "faction":  "Galactic Empire",
+                                  "subname":  "",
+                                  "property_names":  [
+                                                         "name",
+                                                         "subname",
+                                                         "faction",
+                                                         "speed",
+                                                         "hull",
+                                                         "__comment",
+                                                         "squadron-attack",
+                                                         "attack",
+                                                         "keywords",
+                                                         "points",
+                                                         "squadron-image",
+                                                         "image"
+                                                     ],
+                                  "record":  {
+                                                 "name":  "Firespray-31",
+                                                 "subname":  "",
+                                                 "faction":  "Galactic Empire",
+                                                 "speed":  3,
+                                                 "hull":  6,
+                                                 "__comment":  "dice array is [red, blue, black] counts",
+                                                 "squadron-attack":  [
+                                                                         0,
+                                                                         3,
+                                                                         0
+                                                                     ],
+                                                 "attack":  [
+                                                                0,
+                                                                2,
+                                                                0
+                                                            ],
+                                                 "keywords":  [
+                                                                  "Bomber",
+                                                                  "Rogue"
+                                                              ],
+                                                 "points":  18,
+                                                 "squadron-image":  "squadron/galactic-empire/firespray-31.png",
+                                                 "image":  "squadron-card/galactic-empire/firespray-31.png"
+                                             }
+                              },
+                              {
+                                  "label":  "Imperial Venator source",
+                                  "kind":  "ship",
+                                  "source_name":  "Venator II-class Star Destroyer",
+                                  "relative_path":  "data\\ship-card\\galactic-republic\\venator-ii-class-star-destroyer.json",
+                                  "faction":  "Galactic Republic",
+                                  "subname":  "",
+                                  "property_names":  [
+                                                         "name",
+                                                         "size",
+                                                         "faction",
+                                                         "hull",
+                                                         "__comment",
+                                                         "squadron-attack",
+                                                         "command",
+                                                         "squadron",
+                                                         "engineering",
+                                                         "attack",
+                                                         "shield",
+                                                         "defense-tokens",
+                                                         "max-speed",
+                                                         "slots",
+                                                         "points",
+                                                         "keywords",
+                                                         "source",
+                                                         "id",
+                                                         "data-version",
+                                                         "legality"
+                                                     ],
+                                  "record":  {
+                                                 "name":  "Venator II-class Star Destroyer",
+                                                 "size":  "large",
+                                                 "faction":  "Galactic Republic",
+                                                 "hull":  9,
+                                                 "__comment":  "dice array is [red, blue, black] counts",
+                                                 "squadron-attack":  [
+                                                                         0,
+                                                                         1,
+                                                                         1
+                                                                     ],
+                                                 "command":  3,
+                                                 "squadron":  5,
+                                                 "engineering":  4,
+                                                 "attack":  {
+                                                                "front":  [
+                                                                              2,
+                                                                              2,
+                                                                              2
+                                                                          ],
+                                                                "right":  [
+                                                                              2,
+                                                                              2,
+                                                                              0
+                                                                          ],
+                                                                "left":  [
+                                                                             2,
+                                                                             2,
+                                                                             0
+                                                                         ],
+                                                                "rear":  [
+                                                                             1,
+                                                                             1,
+                                                                             1
+                                                                         ]
+                                                            },
+                                                 "shield":  {
+                                                                "front":  4,
+                                                                "right":  3,
+                                                                "left":  3,
+                                                                "rear":  2
+                                                            },
+                                                 "defense-tokens":  [
+                                                                        "Brace",
+                                                                        "Redirect",
+                                                                        "Contain",
+                                                                        "Salvo"
+                                                                    ],
+                                                 "max-speed":  3,
+                                                 "slots":  [
+                                                               "Officer",
+                                                               "Weapons Team",
+                                                               "Defensive Retrofit",
+                                                               "Offensive Retrofit",
+                                                               "Ordnance",
+                                                               "Turbolasers",
+                                                               "Weapons Team \u0026 Offensive Retrofit"
+                                                           ],
+                                                 "points":  100,
+                                                 "keywords":  [
+                                                                  "Clone",
+                                                                  "Bombard"
+                                                              ],
+                                                 "source":  {
+                                                                "product":  "Venator-class Star Destroyer Expansion Pack",
+                                                                "product-code":  "SWM41",
+                                                                "publisher":  "Fantasy Flight Games",
+                                                                "rules-baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                                                "verification":  "AMG SWM41 product listing; AMG Errata 5.5; Slicer Tools official ruleset; Star Wars Armada community references",
+                                                                "data-version":  "2025.01-final"
+                                                            },
+                                                 "id":  "swarmada:official:galactic-republic:ship:venator-ii-class-star-destroyer",
+                                                 "data-version":  "2025.01-final",
+                                                 "legality":  {
+                                                                  "ruleset":  "official-amg-final-2025",
+                                                                  "status":  "legal",
+                                                                  "official":  true,
+                                                                  "faction":  "Galactic Republic",
+                                                                  "productOrigin":  "SWM41",
+                                                                  "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                                                  "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
+                                                              }
+                                             }
+                              },
+                              {
+                                  "label":  "Rebel Providence source",
+                                  "kind":  "ship",
+                                  "source_name":  "Providence-class Carrier",
+                                  "relative_path":  "data\\ship-card\\separatist-alliance\\providence-class-carrier.json",
+                                  "faction":  "Separatist Alliance",
+                                  "subname":  "",
+                                  "property_names":  [
+                                                         "name",
+                                                         "size",
+                                                         "faction",
+                                                         "hull",
+                                                         "command",
+                                                         "squadron",
+                                                         "engineering",
+                                                         "max-speed",
+                                                         "defense-tokens",
+                                                         "shield",
+                                                         "slots",
+                                                         "points",
+                                                         "points-history",
+                                                         "keywords",
+                                                         "source",
+                                                         "id",
+                                                         "data-version",
+                                                         "legality"
+                                                     ],
+                                  "record":  {
+                                                 "name":  "Providence-class Carrier",
+                                                 "size":  "large",
+                                                 "faction":  "Separatist Alliance",
+                                                 "hull":  9,
+                                                 "command":  3,
+                                                 "squadron":  4,
+                                                 "engineering":  4,
+                                                 "max-speed":  3,
+                                                 "defense-tokens":  [
+                                                                        "Contain",
+                                                                        "Brace",
+                                                                        "Redirect",
+                                                                        "Salvo"
+                                                                    ],
+                                                 "shield":  {
+                                                                "front":  5,
+                                                                "right":  3,
+                                                                "left":  3,
+                                                                "rear":  2
+                                                            },
+                                                 "slots":  [
+                                                               "Commander",
+                                                               "Title",
+                                                               "Officer",
+                                                               "Defensive Retrofit",
+                                                               "Fleet Command",
+                                                               "Offensive Retrofit",
+                                                               "Ordnance",
+                                                               "Ion Cannons",
+                                                               "Turbolasers"
+                                                           ],
+                                                 "points":  102,
+                                                 "points-history":  {
+                                                                        "printed":  105,
+                                                                        "current":  102
+                                                                    },
+                                                 "keywords":  [
+                                                                  "Droid",
+                                                                  "Comms",
+                                                                  "Transport"
+                                                              ],
+                                                 "source":  {
+                                                                "product":  "Invisible Hand Expansion Pack",
+                                                                "product-code":  "SWM42",
+                                                                "publisher":  "Fantasy Flight Games",
+                                                                "rules-baseline":  "AMG final Armada update, January 2025",
+                                                                "verification":  "Atomic Mass Games SWM42 product listing; Slicer Tools official ruleset; final AMG January 2025 points cross-check",
+                                                                "data-version":  "2025.01-final"
+                                                            },
+                                                 "id":  "swarmada:official:separatist-alliance:ship:providence-class-carrier",
+                                                 "data-version":  "2025.01-final",
+                                                 "legality":  {
+                                                                  "status":  "official-final",
+                                                                  "faction":  "Separatist Alliance",
+                                                                  "rules_baseline":  "AMG final Armada update, January 2025",
+                                                                  "data_version":  "2025.01-final",
+                                                                  "product_origin":  "SWM42"
+                                                              }
+                                             }
+                              },
+                              {
+                                  "label":  "Republic Victory source",
+                                  "kind":  "ship",
+                                  "source_name":  "Victory I-class Star Destroyer",
+                                  "relative_path":  "data\\ship-card\\galactic-empire\\victory-i-class-star-destroyer.json",
+                                  "faction":  "Galactic Empire",
+                                  "subname":  "",
+                                  "property_names":  [
+                                                         "name",
+                                                         "size",
+                                                         "faction",
+                                                         "hull",
+                                                         "__comment",
+                                                         "squadron-attack",
+                                                         "command",
+                                                         "squadron",
+                                                         "engineering",
+                                                         "attack",
+                                                         "shield",
+                                                         "defense-tokens",
+                                                         "speed-chart",
+                                                         "slots",
+                                                         "points",
+                                                         "ship-image",
+                                                         "image"
+                                                     ],
+                                  "record":  {
+                                                 "name":  "Victory I-class Star Destroyer",
+                                                 "size":  "medium",
+                                                 "faction":  "Galactic Empire",
+                                                 "hull":  8,
+                                                 "__comment":  "dice array is [red, blue, black] counts",
+                                                 "squadron-attack":  [
+                                                                         0,
+                                                                         1,
+                                                                         0
+                                                                     ],
+                                                 "command":  3,
+                                                 "squadron":  3,
+                                                 "engineering":  4,
+                                                 "attack":  {
+                                                                "front":  [
+                                                                              3,
+                                                                              0,
+                                                                              3
+                                                                          ],
+                                                                "right":  [
+                                                                              2,
+                                                                              0,
+                                                                              1
+                                                                          ],
+                                                                "left":  [
+                                                                             2,
+                                                                             0,
+                                                                             1
+                                                                         ],
+                                                                "rear":  [
+                                                                             2,
+                                                                             0,
+                                                                             0
+                                                                         ]
+                                                            },
+                                                 "shield":  {
+                                                                "front":  3,
+                                                                "right":  3,
+                                                                "left":  3,
+                                                                "rear":  1
+                                                            },
+                                                 "defense-tokens":  [
+                                                                        "Brace",
+                                                                        "Redirect",
+                                                                        "Redirect"
+                                                                    ],
+                                                 "speed-chart":  {
+                                                                     "1":  [
+                                                                               "|"
+                                                                           ],
+                                                                     "2":  [
+                                                                               "-",
+                                                                               "|"
+                                                                           ]
+                                                                 },
+                                                 "slots":  [
+                                                               "Officer",
+                                                               "Weapons Team",
+                                                               "Offensive Retrofit",
+                                                               "Ordnance",
+                                                               "Turbolasers"
+                                                           ],
+                                                 "points":  73,
+                                                 "ship-image":  "ship/galactic-empire/victory-class-star-destroyer.png",
+                                                 "image":  "ship-card/galactic-empire/victory-i-class-star-destroyer.png"
+                                             }
+                              },
+                              {
+                                  "label":  "Separatist Gozanti source",
+                                  "kind":  "ship",
+                                  "source_name":  "Gozanti-class Cruisers",
+                                  "relative_path":  "data\\ship-card\\galactic-empire\\gozanti-class-cruisers.json",
+                                  "faction":  "Galactic Empire",
+                                  "subname":  "",
+                                  "property_names":  [
+                                                         "name",
+                                                         "size",
+                                                         "faction",
+                                                         "hull",
+                                                         "__comment",
+                                                         "squadron-attack",
+                                                         "command",
+                                                         "squadron",
+                                                         "engineering",
+                                                         "defense-tokens",
+                                                         "attack",
+                                                         "shield",
+                                                         "speed-chart",
+                                                         "slots",
+                                                         "points",
+                                                         "ship-image",
+                                                         "image"
+                                                     ],
+                                  "record":  {
+                                                 "name":  "Gozanti-class Cruisers",
+                                                 "size":  "small",
+                                                 "faction":  "Galactic Empire",
+                                                 "hull":  3,
+                                                 "__comment":  "dice array is [red, blue, black] counts",
+                                                 "squadron-attack":  [
+                                                                         0,
+                                                                         0,
+                                                                         1
+                                                                     ],
+                                                 "command":  1,
+                                                 "squadron":  2,
+                                                 "engineering":  2,
+                                                 "defense-tokens":  [
+                                                                        "Scatter",
+                                                                        "Evade"
+                                                                    ],
+                                                 "attack":  {
+                                                                "front":  [
+                                                                              0,
+                                                                              1,
+                                                                              0
+                                                                          ],
+                                                                "right":  [
+                                                                              0,
+                                                                              1,
+                                                                              0
+                                                                          ],
+                                                                "left":  [
+                                                                             0,
+                                                                             1,
+                                                                             0
+                                                                         ],
+                                                                "rear":  [
+                                                                             0,
+                                                                             0,
+                                                                             0
+                                                                         ]
+                                                            },
+                                                 "shield":  {
+                                                                "front":  1,
+                                                                "right":  1,
+                                                                "left":  1,
+                                                                "rear":  1
+                                                            },
+                                                 "speed-chart":  {
+                                                                     "1":  [
+                                                                               "||"
+                                                                           ],
+                                                                     "2":  [
+                                                                               "|",
+                                                                               "|"
+                                                                           ],
+                                                                     "3":  [
+                                                                               "|",
+                                                                               "|",
+                                                                               "-"
+                                                                           ]
+                                                                 },
+                                                 "slots":  [
+                                                               "Officer",
+                                                               "Fleet Support",
+                                                               "Offensive Retrofit"
+                                                           ],
+                                                 "points":  23,
+                                                 "ship-image":  "ship/galactic-empire/gozanti-class-carriers.png",
+                                                 "image":  "ship-card/galactic-empire/gozanti-class-cruisers.png"
+                                             }
+                              }
+                          ],
+    "same_name_existing_aces":  [
+                                    {
+                                        "name":  "Darth Vader",
+                                        "expected_existing_subname":  "TIE Advanced Squadron",
+                                        "relative_path":  "data\\squadron-card\\galactic-empire\\darth-vader.json",
+                                        "faction":  "Galactic Empire",
+                                        "subname":  "TIE Advanced Squadron",
+                                        "property_names":  [
+                                                               "name",
+                                                               "subname",
+                                                               "unique",
+                                                               "faction",
+                                                               "speed",
+                                                               "hull",
+                                                               "__comment",
+                                                               "squadron-attack",
+                                                               "attack",
+                                                               "text",
+                                                               "keywords",
+                                                               "defense-tokens",
+                                                               "points",
+                                                               "squadron-image",
+                                                               "image"
+                                                           ],
+                                        "record":  {
+                                                       "name":  "Darth Vader",
+                                                       "subname":  "TIE Advanced Squadron",
+                                                       "unique":  true,
+                                                       "faction":  "Galactic Empire",
+                                                       "speed":  4,
+                                                       "hull":  5,
+                                                       "__comment":  "dice array is [red, blue, black] counts",
+                                                       "squadron-attack":  [
+                                                                               0,
+                                                                               3,
+                                                                               1
+                                                                           ],
+                                                       "attack":  [
+                                                                      0,
+                                                                      0,
+                                                                      1
+                                                                  ],
+                                                       "text":  "While attacking, each of your [Critical Hit] icons adds 1 damage to the damage total.",
+                                                       "keywords":  [
+                                                                        "Escort"
+                                                                    ],
+                                                       "defense-tokens":  [
+                                                                              "Brace",
+                                                                              "Brace"
+                                                                          ],
+                                                       "points":  21,
+                                                       "squadron-image":  "squadron/galactic-empire/tie-advanced-squadron.png",
+                                                       "image":  "squadron-card/galactic-empire/darth-vader.png"
+                                                   }
+                                    },
+                                    {
+                                        "name":  "Hera Syndulla",
+                                        "expected_existing_subname":  "Ghost",
+                                        "relative_path":  "data\\squadron-card\\rebel-alliance\\hera-syndulla.json",
+                                        "faction":  "Rebel Alliance",
+                                        "subname":  "Ghost",
+                                        "property_names":  [
+                                                               "name",
+                                                               "subname",
+                                                               "unique",
+                                                               "faction",
+                                                               "speed",
+                                                               "hull",
+                                                               "__comment",
+                                                               "squadron-attack",
+                                                               "attack",
+                                                               "text",
+                                                               "keywords",
+                                                               "defense-tokens",
+                                                               "points",
+                                                               "squadron-image",
+                                                               "image"
+                                                           ],
+                                        "record":  {
+                                                       "name":  "Hera Syndulla",
+                                                       "subname":  "Ghost",
+                                                       "unique":  true,
+                                                       "faction":  "Rebel Alliance",
+                                                       "speed":  3,
+                                                       "hull":  8,
+                                                       "__comment":  "dice array is [red, blue, black] counts",
+                                                       "squadron-attack":  [
+                                                                               0,
+                                                                               2,
+                                                                               2
+                                                                           ],
+                                                       "attack":  [
+                                                                      0,
+                                                                      1,
+                                                                      1
+                                                                  ],
+                                                       "text":  "At the start of the Squadron Phase, choose up to 2 friendly squadrons at distance 1-2. Those squadrons gain Rogue until the end oft the round.",
+                                                       "keywords":  [
+                                                                        "Grit",
+                                                                        "Rogue"
+                                                                    ],
+                                                       "defense-tokens":  [
+                                                                              "Brace"
+                                                                          ],
+                                                       "points":  28,
+                                                       "squadron-image":  "squadron/rebel-alliance/vcx-100-freighter.png",
+                                                       "image":  "squadron-card/rebel-alliance/hera-syndulla.png"
+                                                   }
+                                    },
+                                    {
+                                        "name":  "Anakin Skywalker",
+                                        "expected_existing_subname":  "BTL-B Y-wing Squadron",
+                                        "relative_path":  "data\\squadron-card\\galactic-republic\\anakin-skywalker-btl-b-y-wing.json",
+                                        "faction":  "Galactic Republic",
+                                        "subname":  "BTL-B Y-wing Squadron",
+                                        "property_names":  [
+                                                               "name",
+                                                               "subname",
+                                                               "faction",
+                                                               "unique",
+                                                               "speed",
+                                                               "hull",
+                                                               "__comment",
+                                                               "squadron-attack",
+                                                               "attack",
+                                                               "keywords",
+                                                               "defense-tokens",
+                                                               "text",
+                                                               "points",
+                                                               "source",
+                                                               "id",
+                                                               "data-version",
+                                                               "legality"
+                                                           ],
+                                        "record":  {
+                                                       "name":  "Anakin Skywalker",
+                                                       "subname":  "BTL-B Y-wing Squadron",
+                                                       "faction":  "Galactic Republic",
+                                                       "unique":  true,
+                                                       "speed":  3,
+                                                       "hull":  6,
+                                                       "__comment":  "dice array is [red, blue, black] counts",
+                                                       "squadron-attack":  [
+                                                                               0,
+                                                                               3,
+                                                                               0
+                                                                           ],
+                                                       "attack":  [
+                                                                      1,
+                                                                      1,
+                                                                      0
+                                                                  ],
+                                                       "keywords":  [
+                                                                        "Adept 2",
+                                                                        "Bomber",
+                                                                        "Heavy"
+                                                                    ],
+                                                       "defense-tokens":  [
+                                                                              "Brace",
+                                                                              "Brace"
+                                                                          ],
+                                                       "text":  "During your activation, you may spend 1 defense token to ignore engagement until the end of your activation.",
+                                                       "points":  18,
+                                                       "source":  {
+                                                                      "product":  "Republic Fighter Squadrons Expansion Pack",
+                                                                      "product-code":  "SWM36",
+                                                                      "publisher":  "Fantasy Flight Games",
+                                                                      "rules-baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                                                      "verification":  "BSData Galactic Republic catalogue rev. 14 (22/01/2025 errata changes added)",
+                                                                      "data-version":  "2025.01-final"
+                                                                  },
+                                                       "id":  "swarmada:official:galactic-republic:squadron:anakin-skywalker",
+                                                       "data-version":  "2025.01-final",
+                                                       "legality":  {
+                                                                        "ruleset":  "official-amg-final-2025",
+                                                                        "status":  "legal",
+                                                                        "official":  true,
+                                                                        "faction":  "Galactic Republic",
+                                                                        "productOrigin":  "SWM36",
+                                                                        "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                                                                        "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
+                                                                    }
+                                                   }
+                                    }
+                                ],
+    "production_card_data_modified":  false,
+    "next_milestone":  "3.2b RR1 production installation using captured schemas"
+}

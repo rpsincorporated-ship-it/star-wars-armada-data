@@ -1,0 +1,17 @@
+﻿{
+    "sequence":  6,
+    "campaign":  "Corellian Conflict",
+    "product_code":  "SWM25",
+    "title":  "Asteroids",
+    "identity_key":  "SWM25|06|Asteroids",
+    "accepted_extensions":  [
+                                ".png",
+                                ".jpg",
+                                ".jpeg",
+                                ".pdf",
+                                ".webp"
+                            ],
+    "accepted_authority":  "User-provided scan/photo of owned physical card OR official FFG/AMG artifact",
+    "requirement":  "Card title and all rules text must be legible",
+    "production_write_allowed":  false
+}

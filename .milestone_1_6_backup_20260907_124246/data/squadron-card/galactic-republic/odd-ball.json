@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Odd Ball",
+    "subname": "ARC-170 Squadron",
+    "faction": "Galactic Republic",
+    "unique": true,
+    "speed": 2,
+    "hull": 7,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [
+      0,
+      2,
+      1
+    ],
+    "attack": [
+      0,
+      2,
+      0
+    ],
+    "keywords": [
+      "Bomber",
+      "Counter 1"
+    ],
+    "defense-tokens": [
+      "Brace",
+      "Evade"
+    ],
+    "text": "While attacking, if you moved during this activation, you may reroll up to 2 dice.",
+    "points": 20,
+    "source": {
+      "product": "Republic Fighter Squadrons Expansion Pack",
+      "product-code": "SWM36",
+      "publisher": "Fantasy Flight Games",
+      "rules-baseline": "AMG 1.6.0",
+      "verification": "BSData Galactic Republic catalogue rev. 14 (22/01/2025 errata changes added)"
+    }
+  }
+]

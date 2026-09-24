@@ -1,0 +1,15 @@
+﻿Campaign: Rebellion in the Rim (SWM31)
+Objective: Prototype Recovery
+
+Provide ONE directly authorized source artifact for this exact physical card:
+- a user-owned scan/photo (PNG/JPG/PDF), OR
+- user-provided exact transcription, OR
+- another directly verified official source artifact.
+
+Do not use community-only text as authority.
+
+Suggested filenames:
+16-prototype-recovery.png
+16-prototype-recovery.jpg
+16-prototype-recovery.pdf
+16-prototype-recovery.txt

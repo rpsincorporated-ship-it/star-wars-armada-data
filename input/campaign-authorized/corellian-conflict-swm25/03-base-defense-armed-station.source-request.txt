@@ -1,0 +1,15 @@
+﻿Campaign: Corellian Conflict (SWM25)
+Objective: Base Defense: Armed Station
+
+Provide ONE directly authorized source artifact for this exact physical card:
+- a user-owned scan/photo (PNG/JPG/PDF), OR
+- user-provided exact transcription, OR
+- another directly verified official source artifact.
+
+Do not use community-only text as authority.
+
+Suggested filenames:
+03-base-defense-armed-station.png
+03-base-defense-armed-station.jpg
+03-base-defense-armed-station.pdf
+03-base-defense-armed-station.txt

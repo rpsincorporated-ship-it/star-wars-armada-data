@@ -1,0 +1,45 @@
+﻿[
+    {
+        "name":  "Delta-7 Aethersprite Squadron",
+        "subname":  "",
+        "faction":  "Galactic Republic",
+        "speed":  4,
+        "hull":  4,
+        "__comment":  "dice array is [red, blue, black] counts",
+        "squadron-attack":  [
+                                0,
+                                3,
+                                1
+                            ],
+        "attack":  [
+                       0,
+                       1,
+                       0
+                   ],
+        "keywords":  [
+                         "Adept 1",
+                         "Counter 2",
+                         "Dodge 1"
+                     ],
+        "points":  17,
+        "source":  {
+                       "product":  "Republic Fighter Squadrons Expansion Pack",
+                       "product-code":  "SWM36",
+                       "publisher":  "Fantasy Flight Games",
+                       "rules-baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                       "verification":  "BSData Galactic Republic catalogue rev. 14 (22/01/2025 errata changes added)",
+                       "data-version":  "2025.01-final"
+                   },
+        "id":  "swarmada:official:galactic-republic:squadron:delta-7-aethersprite-squadron",
+        "data-version":  "2025.01-final",
+        "legality":  {
+                         "ruleset":  "official-amg-final-2025",
+                         "status":  "legal",
+                         "official":  true,
+                         "faction":  "Galactic Republic",
+                         "productOrigin":  "SWM36",
+                         "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+                         "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
+                     }
+    }
+]

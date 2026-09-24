@@ -1,0 +1,13 @@
+﻿{
+    "milestone":  "7.10",
+    "status":  "PASS-BSDATA-SNAPSHOT-ACQUIRED",
+    "role":  "COMMUNITY-CORROBORATION-NOT-AUTHORITY",
+    "repository":  "BSData/star-wars-armada",
+    "branch":  "master",
+    "commit_sha":  "47bfca1bddea459678568e5ee820597a433d9b41",
+    "commit_date":  "2026-02-03T21:07:09Z",
+    "archive_path":  "input\\external\\bsdata-star-wars-armada-47bfca1bddea459678568e5ee820597a433d9b41.zip",
+    "archive_sha256":  "C7ECE1402A195592729CD48BC7BF822185F643FD2442AED40DBD252F60046BA6",
+    "catalogue_files":  4,
+    "production_writes":  0
+}

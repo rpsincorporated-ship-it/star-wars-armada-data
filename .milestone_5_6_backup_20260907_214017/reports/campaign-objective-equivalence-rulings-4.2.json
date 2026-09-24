@@ -1,0 +1,68 @@
+﻿{
+    "milestone":  "4.2",
+    "completed_by":  "4.2a",
+    "status":  "PASS",
+    "scope":  "Base Defense product-version equivalence and current rulings audit",
+    "live_objective_store":  "data\\objective-card.json",
+    "live_standard_objective_records":  36,
+    "campaign_inventory":  {
+                               "physical_records_target":  19,
+                               "unique_titles":  16,
+                               "single_product_records":  13,
+                               "base_defense_product_version_records":  6
+                           },
+    "base_defense_pairs":  [
+                               {
+                                   "name":  "Base Defense: Armed Station",
+                                   "equivalent":  false,
+                                   "reason":  "SWM25 and SWM31 use materially different rules wording/timing.",
+                                   "corellian_sku":  "SWM25",
+                                   "ritr_sku":  "SWM31"
+                               },
+                               {
+                                   "name":  "Base Defense: Fighter Wing",
+                                   "equivalent":  false,
+                                   "reason":  "SWM25 and SWM31 use materially different squadron-assignment/end-of-game wording.",
+                                   "corellian_sku":  "SWM25",
+                                   "ritr_sku":  "SWM31"
+                               },
+                               {
+                                   "name":  "Base Defense: Ion Cannon",
+                                   "equivalent":  false,
+                                   "reason":  "SWM31 changes setup/terminology and adds a command-token cost.",
+                                   "corellian_sku":  "SWM25",
+                                   "ritr_sku":  "SWM31"
+                               }
+                           ],
+    "current_rulings_flags":  [
+                                  {
+                                      "name":  "Hyperlane Raid",
+                                      "sku":  "SWM25",
+                                      "classification":  "official-errata-required"
+                                  },
+                                  {
+                                      "name":  "Base Defense: Ion Cannon",
+                                      "sku":  "SWM25",
+                                      "classification":  "official-clarification-required"
+                                  },
+                                  {
+                                      "name":  "Base Defense: Armed Station",
+                                      "sku":  "SWM25",
+                                      "classification":  "official-rulings-required"
+                                  },
+                                  {
+                                      "name":  "Base Defense: Armed Station",
+                                      "sku":  "SWM31",
+                                      "classification":  "official-rulings-required"
+                                  }
+                              ],
+    "identity_policy":  {
+                            "physical_card_identity":  "product SKU + objective title",
+                            "preserve_distinct_base_defense_product_versions":  true,
+                            "production_record_target":  19
+                        },
+    "production_install_authorized":  false,
+    "production_card_data_modified":  false,
+    "powershell51_array_hotfix":  "normalized objective array through @(Read-MilestoneJsonRecords ...)",
+    "next_milestone":  "4.3 campaign-objective production-record construction preflight"
+}

@@ -1,0 +1,47 @@
+﻿[
+    {
+        "name":  "General Grievous",
+        "faction":  "Separatist Alliance",
+        "unique":  true,
+        "type":  "Belbullab-22 Squadron",
+        "speed":  4,
+        "hull":  5,
+        "squadron-attack":  [
+                                0,
+                                4,
+                                0
+                            ],
+        "battery-attack":  [
+                               0,
+                               0,
+                               1
+                           ],
+        "keywords":  [
+                         "Relay 2",
+                         "Screen"
+                     ],
+        "defense-tokens":  [
+                               "Brace",
+                               "Brace"
+                           ],
+        "points":  22,
+        "ability":  "While attacking a ship or squadron with no readied defense tokens, critical icons can contribute additional damage under this squadron\u0027s effect.",
+        "source":  {
+                       "product":  "Separatist Fighter Squadrons Expansion Pack",
+                       "product-code":  "SWM37",
+                       "publisher":  "Fantasy Flight Games",
+                       "rules-baseline":  "AMG final Armada update, January 2025",
+                       "verification":  "AMG SWM37 product listing; FFG Swarm the Opposition preview; final AMG January 2025 point update; Slicer Tools official ruleset; Armada community cross-checks",
+                       "data-version":  "2025.01-final"
+                   },
+        "id":  "swarmada:official:separatist-alliance:squadron:general-grievous",
+        "data-version":  "2025.01-final",
+        "legality":  {
+                         "status":  "official-final",
+                         "faction":  "Separatist Alliance",
+                         "rules_baseline":  "AMG final Armada update, January 2025",
+                         "data_version":  "2025.01-final",
+                         "product_origin":  "SWM37"
+                     }
+    }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "BTL-B Y-wing Squadron",
+    "subname": "",
+    "faction": "Galactic Republic",
+    "speed": 3,
+    "hull": 6,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [
+      0,
+      1,
+      1
+    ],
+    "attack": [
+      0,
+      0,
+      1
+    ],
+    "keywords": [
+      "Bomber",
+      "Heavy"
+    ],
+    "points": 10,
+    "source": {
+      "product": "Republic Fighter Squadrons Expansion Pack",
+      "product-code": "SWM36",
+      "publisher": "Fantasy Flight Games",
+      "rules-baseline": "AMG 1.6.0",
+      "verification": "BSData Galactic Republic catalogue rev. 14 (22/01/2025 errata changes added)"
+    }
+  }
+]

@@ -1,0 +1,633 @@
+﻿{
+    "milestone":  "4.3",
+    "status":  "PASS",
+    "scope":  "campaign-objective production-record construction preflight",
+    "live_objective_store":  "data\\objective-card.json",
+    "live_baseline_records":  36,
+    "live_schema":  {
+                        "property_count":  9,
+                        "properties":  [
+                                           "category",
+                                           "end-of-game",
+                                           "end-of-round",
+                                           "errata",
+                                           "image",
+                                           "points",
+                                           "setup",
+                                           "special-rule",
+                                           "title"
+                                       ],
+                        "shape_count":  4,
+                        "shapes":  [
+                                       {
+                                           "record_count":  1,
+                                           "properties":  [
+                                                              "category",
+                                                              "end-of-game",
+                                                              "end-of-round",
+                                                              "errata",
+                                                              "image",
+                                                              "points",
+                                                              "setup",
+                                                              "special-rule",
+                                                              "title"
+                                                          ]
+                                       },
+                                       {
+                                           "record_count":  2,
+                                           "properties":  [
+                                                              "category",
+                                                              "end-of-game",
+                                                              "end-of-round",
+                                                              "errata",
+                                                              "points",
+                                                              "setup",
+                                                              "special-rule",
+                                                              "title"
+                                                          ]
+                                       },
+                                       {
+                                           "record_count":  11,
+                                           "properties":  [
+                                                              "category",
+                                                              "end-of-game",
+                                                              "end-of-round",
+                                                              "image",
+                                                              "points",
+                                                              "setup",
+                                                              "special-rule",
+                                                              "title"
+                                                          ]
+                                       },
+                                       {
+                                           "record_count":  22,
+                                           "properties":  [
+                                                              "category",
+                                                              "end-of-game",
+                                                              "end-of-round",
+                                                              "points",
+                                                              "setup",
+                                                              "special-rule",
+                                                              "title"
+                                                          ]
+                                       }
+                                   ]
+                    },
+    "construction":  {
+                         "records":  19,
+                         "unique_titles":  16,
+                         "swm25_records":  8,
+                         "swm31_records":  11,
+                         "base_defense_product_version_records":  6,
+                         "unique_stable_ids":  19,
+                         "skeletons":  [
+                                           {
+                                               "stable_id":  "objective:swm25:hyperlane-raid",
+                                               "product":  "The Corellian Conflict",
+                                               "product_sku":  "SWM25",
+                                               "title":  "Hyperlane Raid",
+                                               "category":  "Special Assault",
+                                               "production_fields":  {
+                                                                         "category":  "Special Assault",
+                                                                         "end-of-game":  null,
+                                                                         "end-of-round":  null,
+                                                                         "errata":  null,
+                                                                         "image":  null,
+                                                                         "points":  0,
+                                                                         "setup":  null,
+                                                                         "special-rule":  null,
+                                                                         "title":  "Hyperlane Raid"
+                                                                     },
+                                               "source_required_fields":  [
+                                                                              "setup",
+                                                                              "special-rule",
+                                                                              "end-of-round",
+                                                                              "end-of-game",
+                                                                              "errata"
+                                                                          ],
+                                               "text_status":  "source-verification-required-before-production-write",
+                                               "image_status":  "card-image-not-packaged",
+                                               "ready_for_production":  false
+                                           },
+                                           {
+                                               "stable_id":  "objective:swm25:show-of-force",
+                                               "product":  "The Corellian Conflict",
+                                               "product_sku":  "SWM25",
+                                               "title":  "Show of Force",
+                                               "category":  "Special Assault",
+                                               "production_fields":  {
+                                                                         "category":  "Special Assault",
+                                                                         "end-of-game":  null,
+                                                                         "end-of-round":  null,
+                                                                         "errata":  null,
+                                                                         "image":  null,
+                                                                         "points":  0,
+                                                                         "setup":  null,
+                                                                         "special-rule":  null,
+                                                                         "title":  "Show of Force"
+                                                                     },
+                                               "source_required_fields":  [
+                                                                              "setup",
+                                                                              "special-rule",
+                                                                              "end-of-round",
+                                                                              "end-of-game",
+                                                                              "errata"
+                                                                          ],
+                                               "text_status":  "source-verification-required-before-production-write",
+                                               "image_status":  "card-image-not-packaged",
+                                               "ready_for_production":  false
+                                           },
+                                           {
+                                               "stable_id":  "objective:swm25:base-defense-armed-station",
+                                               "product":  "The Corellian Conflict",
+                                               "product_sku":  "SWM25",
+                                               "title":  "Base Defense: Armed Station",
+                                               "category":  "Base Defense",
+                                               "production_fields":  {
+                                                                         "category":  "Base Defense",
+                                                                         "end-of-game":  null,
+                                                                         "end-of-round":  null,
+                                                                         "errata":  null,
+                                                                         "image":  null,
+                                                                         "points":  0,
+                                                                         "setup":  null,
+                                                                         "special-rule":  null,
+                                                                         "title":  "Base Defense: Armed Station"
+                                                                     },
+                                               "source_required_fields":  [
+                                                                              "setup",
+                                                                              "special-rule",
+                                                                              "end-of-round",
+                                                                              "end-of-game",
+                                                                              "errata"
+                                                                          ],
+                                               "text_status":  "source-verification-required-before-production-write",
+                                               "image_status":  "card-image-not-packaged",
+                                               "ready_for_production":  false
+                                           },
+                                           {
+                                               "stable_id":  "objective:swm25:base-defense-fighter-wing",
+                                               "product":  "The Corellian Conflict",
+                                               "product_sku":  "SWM25",
+                                               "title":  "Base Defense: Fighter Wing",
+                                               "category":  "Base Defense",
+                                               "production_fields":  {
+                                                                         "category":  "Base Defense",
+                                                                         "end-of-game":  null,
+                                                                         "end-of-round":  null,
+                                                                         "errata":  null,
+                                                                         "image":  null,
+                                                                         "points":  0,
+                                                                         "setup":  null,
+                                                                         "special-rule":  null,
+                                                                         "title":  "Base Defense: Fighter Wing"
+                                                                     },
+                                               "source_required_fields":  [
+                                                                              "setup",
+                                                                              "special-rule",
+                                                                              "end-of-round",
+                                                                              "end-of-game",
+                                                                              "errata"
+                                                                          ],
+                                               "text_status":  "source-verification-required-before-production-write",
+                                               "image_status":  "card-image-not-packaged",
+                                               "ready_for_production":  false
+                                           },
+                                           {
+                                               "stable_id":  "objective:swm25:base-defense-ion-cannon",
+                                               "product":  "The Corellian Conflict",
+                                               "product_sku":  "SWM25",
+                                               "title":  "Base Defense: Ion Cannon",
+                                               "category":  "Base Defense",
+                                               "production_fields":  {
+                                                                         "category":  "Base Defense",
+                                                                         "end-of-game":  null,
+                                                                         "end-of-round":  null,
+                                                                         "errata":  null,
+                                                                         "image":  null,
+                                                                         "points":  0,
+                                                                         "setup":  null,
+                                                                         "special-rule":  null,
+                                                                         "title":  "Base Defense: Ion Cannon"
+                                                                     },
+                                               "source_required_fields":  [
+                                                                              "setup",
+                                                                              "special-rule",
+                                                                              "end-of-round",
+                                                                              "end-of-game",
+                                                                              "errata"
+                                                                          ],
+                                               "text_status":  "source-verification-required-before-production-write",
+                                               "image_status":  "card-image-not-packaged",
+                                               "ready_for_production":  false
+                                           },
+                                           {
+                                               "stable_id":  "objective:swm25:asteroids",
+                                               "product":  "The Corellian Conflict",
+                                               "product_sku":  "SWM25",
+                                               "title":  "Asteroids",
+                                               "category":  "Campaign",
+                                               "production_fields":  {
+                                                                         "category":  "Campaign",
+                                                                         "end-of-game":  null,
+                                                                         "end-of-round":  null,
+                                                                         "errata":  null,
+                                                                         "image":  null,
+                                                                         "points":  0,
+                                                                         "setup":  null,
+                                                                         "special-rule":  null,
+                                                                         "title":  "Asteroids"
+                                                                     },
+                                               "source_required_fields":  [
+                                                                              "setup",
+                                                                              "special-rule",
+                                                                              "end-of-round",
+                                                                              "end-of-game",
+                                                                              "errata"
+                                                                          ],
+                                               "text_status":  "source-verification-required-before-production-write",
+                                               "image_status":  "card-image-not-packaged",
+                                               "ready_for_production":  false
+                                           },
+                                           {
+                                               "stable_id":  "objective:swm25:independent-station",
+                                               "product":  "The Corellian Conflict",
+                                               "product_sku":  "SWM25",
+                                               "title":  "Independent Station",
+                                               "category":  "Campaign",
+                                               "production_fields":  {
+                                                                         "category":  "Campaign",
+                                                                         "end-of-game":  null,
+                                                                         "end-of-round":  null,
+                                                                         "errata":  null,
+                                                                         "image":  null,
+                                                                         "points":  0,
+                                                                         "setup":  null,
+                                                                         "special-rule":  null,
+                                                                         "title":  "Independent Station"
+                                                                     },
+                                               "source_required_fields":  [
+                                                                              "setup",
+                                                                              "special-rule",
+                                                                              "end-of-round",
+                                                                              "end-of-game",
+                                                                              "errata"
+                                                                          ],
+                                               "text_status":  "source-verification-required-before-production-write",
+                                               "image_status":  "card-image-not-packaged",
+                                               "ready_for_production":  false
+                                           },
+                                           {
+                                               "stable_id":  "objective:swm25:nebula-outskirts",
+                                               "product":  "The Corellian Conflict",
+                                               "product_sku":  "SWM25",
+                                               "title":  "Nebula Outskirts",
+                                               "category":  "Campaign",
+                                               "production_fields":  {
+                                                                         "category":  "Campaign",
+                                                                         "end-of-game":  null,
+                                                                         "end-of-round":  null,
+                                                                         "errata":  null,
+                                                                         "image":  null,
+                                                                         "points":  0,
+                                                                         "setup":  null,
+                                                                         "special-rule":  null,
+                                                                         "title":  "Nebula Outskirts"
+                                                                     },
+                                               "source_required_fields":  [
+                                                                              "setup",
+                                                                              "special-rule",
+                                                                              "end-of-round",
+                                                                              "end-of-game",
+                                                                              "errata"
+                                                                          ],
+                                               "text_status":  "source-verification-required-before-production-write",
+                                               "image_status":  "card-image-not-packaged",
+                                               "ready_for_production":  false
+                                           },
+                                           {
+                                               "stable_id":  "objective:swm31:base-defense-armed-station",
+                                               "product":  "Rebellion in the Rim",
+                                               "product_sku":  "SWM31",
+                                               "title":  "Base Defense: Armed Station",
+                                               "category":  "Base Defense",
+                                               "production_fields":  {
+                                                                         "category":  "Base Defense",
+                                                                         "end-of-game":  null,
+                                                                         "end-of-round":  null,
+                                                                         "errata":  null,
+                                                                         "image":  null,
+                                                                         "points":  0,
+                                                                         "setup":  null,
+                                                                         "special-rule":  null,
+                                                                         "title":  "Base Defense: Armed Station"
+                                                                     },
+                                               "source_required_fields":  [
+                                                                              "setup",
+                                                                              "special-rule",
+                                                                              "end-of-round",
+                                                                              "end-of-game",
+                                                                              "errata"
+                                                                          ],
+                                               "text_status":  "source-verification-required-before-production-write",
+                                               "image_status":  "card-image-not-packaged",
+                                               "ready_for_production":  false
+                                           },
+                                           {
+                                               "stable_id":  "objective:swm31:base-defense-fighter-wing",
+                                               "product":  "Rebellion in the Rim",
+                                               "product_sku":  "SWM31",
+                                               "title":  "Base Defense: Fighter Wing",
+                                               "category":  "Base Defense",
+                                               "production_fields":  {
+                                                                         "category":  "Base Defense",
+                                                                         "end-of-game":  null,
+                                                                         "end-of-round":  null,
+                                                                         "errata":  null,
+                                                                         "image":  null,
+                                                                         "points":  0,
+                                                                         "setup":  null,
+                                                                         "special-rule":  null,
+                                                                         "title":  "Base Defense: Fighter Wing"
+                                                                     },
+                                               "source_required_fields":  [
+                                                                              "setup",
+                                                                              "special-rule",
+                                                                              "end-of-round",
+                                                                              "end-of-game",
+                                                                              "errata"
+                                                                          ],
+                                               "text_status":  "source-verification-required-before-production-write",
+                                               "image_status":  "card-image-not-packaged",
+                                               "ready_for_production":  false
+                                           },
+                                           {
+                                               "stable_id":  "objective:swm31:base-defense-ion-cannon",
+                                               "product":  "Rebellion in the Rim",
+                                               "product_sku":  "SWM31",
+                                               "title":  "Base Defense: Ion Cannon",
+                                               "category":  "Base Defense",
+                                               "production_fields":  {
+                                                                         "category":  "Base Defense",
+                                                                         "end-of-game":  null,
+                                                                         "end-of-round":  null,
+                                                                         "errata":  null,
+                                                                         "image":  null,
+                                                                         "points":  0,
+                                                                         "setup":  null,
+                                                                         "special-rule":  null,
+                                                                         "title":  "Base Defense: Ion Cannon"
+                                                                     },
+                                               "source_required_fields":  [
+                                                                              "setup",
+                                                                              "special-rule",
+                                                                              "end-of-round",
+                                                                              "end-of-game",
+                                                                              "errata"
+                                                                          ],
+                                               "text_status":  "source-verification-required-before-production-write",
+                                               "image_status":  "card-image-not-packaged",
+                                               "ready_for_production":  false
+                                           },
+                                           {
+                                               "stable_id":  "objective:swm31:double-agent",
+                                               "product":  "Rebellion in the Rim",
+                                               "product_sku":  "SWM31",
+                                               "title":  "Double Agent",
+                                               "category":  "Campaign",
+                                               "production_fields":  {
+                                                                         "category":  "Campaign",
+                                                                         "end-of-game":  null,
+                                                                         "end-of-round":  null,
+                                                                         "errata":  null,
+                                                                         "image":  null,
+                                                                         "points":  0,
+                                                                         "setup":  null,
+                                                                         "special-rule":  null,
+                                                                         "title":  "Double Agent"
+                                                                     },
+                                               "source_required_fields":  [
+                                                                              "setup",
+                                                                              "special-rule",
+                                                                              "end-of-round",
+                                                                              "end-of-game",
+                                                                              "errata"
+                                                                          ],
+                                               "text_status":  "source-verification-required-before-production-write",
+                                               "image_status":  "card-image-not-packaged",
+                                               "ready_for_production":  false
+                                           },
+                                           {
+                                               "stable_id":  "objective:swm31:hired-scum",
+                                               "product":  "Rebellion in the Rim",
+                                               "product_sku":  "SWM31",
+                                               "title":  "Hired Scum",
+                                               "category":  "Campaign",
+                                               "production_fields":  {
+                                                                         "category":  "Campaign",
+                                                                         "end-of-game":  null,
+                                                                         "end-of-round":  null,
+                                                                         "errata":  null,
+                                                                         "image":  null,
+                                                                         "points":  0,
+                                                                         "setup":  null,
+                                                                         "special-rule":  null,
+                                                                         "title":  "Hired Scum"
+                                                                     },
+                                               "source_required_fields":  [
+                                                                              "setup",
+                                                                              "special-rule",
+                                                                              "end-of-round",
+                                                                              "end-of-game",
+                                                                              "errata"
+                                                                          ],
+                                               "text_status":  "source-verification-required-before-production-write",
+                                               "image_status":  "card-image-not-packaged",
+                                               "ready_for_production":  false
+                                           },
+                                           {
+                                               "stable_id":  "objective:swm31:holonet-override",
+                                               "product":  "Rebellion in the Rim",
+                                               "product_sku":  "SWM31",
+                                               "title":  "Holonet Override",
+                                               "category":  "Campaign",
+                                               "production_fields":  {
+                                                                         "category":  "Campaign",
+                                                                         "end-of-game":  null,
+                                                                         "end-of-round":  null,
+                                                                         "errata":  null,
+                                                                         "image":  null,
+                                                                         "points":  0,
+                                                                         "setup":  null,
+                                                                         "special-rule":  null,
+                                                                         "title":  "Holonet Override"
+                                                                     },
+                                               "source_required_fields":  [
+                                                                              "setup",
+                                                                              "special-rule",
+                                                                              "end-of-round",
+                                                                              "end-of-game",
+                                                                              "errata"
+                                                                          ],
+                                               "text_status":  "source-verification-required-before-production-write",
+                                               "image_status":  "card-image-not-packaged",
+                                               "ready_for_production":  false
+                                           },
+                                           {
+                                               "stable_id":  "objective:swm31:pilot-defection",
+                                               "product":  "Rebellion in the Rim",
+                                               "product_sku":  "SWM31",
+                                               "title":  "Pilot Defection",
+                                               "category":  "Campaign",
+                                               "production_fields":  {
+                                                                         "category":  "Campaign",
+                                                                         "end-of-game":  null,
+                                                                         "end-of-round":  null,
+                                                                         "errata":  null,
+                                                                         "image":  null,
+                                                                         "points":  0,
+                                                                         "setup":  null,
+                                                                         "special-rule":  null,
+                                                                         "title":  "Pilot Defection"
+                                                                     },
+                                               "source_required_fields":  [
+                                                                              "setup",
+                                                                              "special-rule",
+                                                                              "end-of-round",
+                                                                              "end-of-game",
+                                                                              "errata"
+                                                                          ],
+                                               "text_status":  "source-verification-required-before-production-write",
+                                               "image_status":  "card-image-not-packaged",
+                                               "ready_for_production":  false
+                                           },
+                                           {
+                                               "stable_id":  "objective:swm31:prototype-recovery",
+                                               "product":  "Rebellion in the Rim",
+                                               "product_sku":  "SWM31",
+                                               "title":  "Prototype Recovery",
+                                               "category":  "Campaign",
+                                               "production_fields":  {
+                                                                         "category":  "Campaign",
+                                                                         "end-of-game":  null,
+                                                                         "end-of-round":  null,
+                                                                         "errata":  null,
+                                                                         "image":  null,
+                                                                         "points":  0,
+                                                                         "setup":  null,
+                                                                         "special-rule":  null,
+                                                                         "title":  "Prototype Recovery"
+                                                                     },
+                                               "source_required_fields":  [
+                                                                              "setup",
+                                                                              "special-rule",
+                                                                              "end-of-round",
+                                                                              "end-of-game",
+                                                                              "errata"
+                                                                          ],
+                                               "text_status":  "source-verification-required-before-production-write",
+                                               "image_status":  "card-image-not-packaged",
+                                               "ready_for_production":  false
+                                           },
+                                           {
+                                               "stable_id":  "objective:swm31:recruit-allies",
+                                               "product":  "Rebellion in the Rim",
+                                               "product_sku":  "SWM31",
+                                               "title":  "Recruit Allies",
+                                               "category":  "Campaign",
+                                               "production_fields":  {
+                                                                         "category":  "Campaign",
+                                                                         "end-of-game":  null,
+                                                                         "end-of-round":  null,
+                                                                         "errata":  null,
+                                                                         "image":  null,
+                                                                         "points":  0,
+                                                                         "setup":  null,
+                                                                         "special-rule":  null,
+                                                                         "title":  "Recruit Allies"
+                                                                     },
+                                               "source_required_fields":  [
+                                                                              "setup",
+                                                                              "special-rule",
+                                                                              "end-of-round",
+                                                                              "end-of-game",
+                                                                              "errata"
+                                                                          ],
+                                               "text_status":  "source-verification-required-before-production-write",
+                                               "image_status":  "card-image-not-packaged",
+                                               "ready_for_production":  false
+                                           },
+                                           {
+                                               "stable_id":  "objective:swm31:steal-supplies",
+                                               "product":  "Rebellion in the Rim",
+                                               "product_sku":  "SWM31",
+                                               "title":  "Steal Supplies",
+                                               "category":  "Campaign",
+                                               "production_fields":  {
+                                                                         "category":  "Campaign",
+                                                                         "end-of-game":  null,
+                                                                         "end-of-round":  null,
+                                                                         "errata":  null,
+                                                                         "image":  null,
+                                                                         "points":  0,
+                                                                         "setup":  null,
+                                                                         "special-rule":  null,
+                                                                         "title":  "Steal Supplies"
+                                                                     },
+                                               "source_required_fields":  [
+                                                                              "setup",
+                                                                              "special-rule",
+                                                                              "end-of-round",
+                                                                              "end-of-game",
+                                                                              "errata"
+                                                                          ],
+                                               "text_status":  "source-verification-required-before-production-write",
+                                               "image_status":  "card-image-not-packaged",
+                                               "ready_for_production":  false
+                                           },
+                                           {
+                                               "stable_id":  "objective:swm31:volatile-cargo",
+                                               "product":  "Rebellion in the Rim",
+                                               "product_sku":  "SWM31",
+                                               "title":  "Volatile Cargo",
+                                               "category":  "Campaign",
+                                               "production_fields":  {
+                                                                         "category":  "Campaign",
+                                                                         "end-of-game":  null,
+                                                                         "end-of-round":  null,
+                                                                         "errata":  null,
+                                                                         "image":  null,
+                                                                         "points":  0,
+                                                                         "setup":  null,
+                                                                         "special-rule":  null,
+                                                                         "title":  "Volatile Cargo"
+                                                                     },
+                                               "source_required_fields":  [
+                                                                              "setup",
+                                                                              "special-rule",
+                                                                              "end-of-round",
+                                                                              "end-of-game",
+                                                                              "errata"
+                                                                          ],
+                                               "text_status":  "source-verification-required-before-production-write",
+                                               "image_status":  "card-image-not-packaged",
+                                               "ready_for_production":  false
+                                           }
+                                       ]
+                     },
+    "source_gate":  {
+                        "text_fields":  [
+                                            "setup",
+                                            "special-rule",
+                                            "end-of-round",
+                                            "end-of-game",
+                                            "errata"
+                                        ],
+                        "official_or_current_source_verification_required":  true,
+                        "guessed_text_forbidden":  true,
+                        "all_records_ready_for_production":  false
+                    },
+    "production_install_authorized":  false,
+    "production_card_data_modified":  false,
+    "next_milestone":  "4.4 official/current campaign-objective text and errata population audit"
+}

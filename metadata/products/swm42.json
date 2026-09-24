@@ -1,0 +1,81 @@
+{
+  "code": "SWM42",
+  "name": "Invisible Hand Expansion Pack",
+  "faction": "Separatist Alliance",
+  "wave": 10,
+  "contents": {
+    "ship-miniatures": 1,
+    "ship-cards": 2,
+    "upgrade-cards": 14,
+    "tokens": 13
+  },
+  "ship-designs": [
+    "Providence-class Carrier",
+    "Providence-class Dreadnought"
+  ],
+  "physical-upgrade-copies": {
+    "General Grievous": 1,
+    "Admiral Trench": 1,
+    "Thermal Shields": 2,
+    "Hot Landing": 1,
+    "Jedi Hostage": 1,
+    "Point Defense Ion Cannons": 2,
+    "B2 Rocket Troopers": 1,
+    "TI-99": 1,
+    "Tikkes": 1,
+    "Invincible": 1,
+    "Invisible Hand": 1,
+    "Lucid Voice": 1
+  },
+  "database-designs": {
+    "ship-designs": 2,
+    "physical-upgrade-cards": 14,
+    "unique-upgrade-designs-in-product": 12,
+    "new-swm42-origin-upgrade-designs": 10,
+    "reprinted-designs": 2
+  },
+  "reprints": [
+    {
+      "name": "Thermal Shields",
+      "represented-by-product": "SWM41",
+      "expected-points": 5
+    },
+    {
+      "name": "Hot Landing",
+      "represented-by-product": "SWM41",
+      "expected-points": 3
+    }
+  ],
+  "final-point-provenance": [
+    {
+      "name": "Providence-class Carrier",
+      "printed": 105,
+      "current": 102
+    },
+    {
+      "name": "Providence-class Dreadnought",
+      "printed": 105,
+      "current": 97
+    },
+    {
+      "name": "Admiral Trench",
+      "printed": 36,
+      "current": 32
+    },
+    {
+      "name": "Point Defense Ion Cannons",
+      "printed": 4,
+      "current": 6
+    },
+    {
+      "name": "Invisible Hand",
+      "printed": 9,
+      "current": 8
+    }
+  ],
+  "rules-baseline": "AMG final Armada update / Errata 5.5, January 2025",
+  "notes": [
+    "Thermal Shields and Hot Landing are validated as existing SWM41-origin designs and are not duplicated.",
+    "Final official AMG point values are stored as active points while printed costs are retained in points-history."
+  ]
+}

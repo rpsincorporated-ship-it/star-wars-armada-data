@@ -1,0 +1,24 @@
+﻿STAR WARS ARMADA DATABASE - MILESTONES 7 AND 8 CHECKPOINT
+Baseline: 2025.01-final
+
+Milestone 7:
+- Official source acquisition/extraction pipeline complete
+- Community corroboration and baseline comparison complete
+- Visual evidence pipeline complete
+- Six-candidate classification repaired
+- Unsupported production writes: 0
+
+Milestone 8:
+- All production JSON parse-validated
+- Stable-ID duplicate audit complete
+- Frozen faction/supplement state preserved
+- Campaign exact-text gate isolated
+- Remaining source-gated work consolidated
+- Production SHA256 manifest generated
+- Release-readiness report generated
+- Final reusable verifier installed
+
+Release classification: AUDIT-COMPLETE-WITH-SOURCE-GATED-BACKLOG
+
+This checkpoint intentionally does not invent or infer official card text/points.
+Open source-gated items remain explicit in reports\milestone-8-consolidated-backlog.json.

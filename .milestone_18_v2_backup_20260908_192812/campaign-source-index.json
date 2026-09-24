@@ -1,0 +1,173 @@
+﻿[
+    {
+        "sequence":  1,
+        "campaign":  "Corellian Conflict (SWM25)",
+        "title":  "Hyperlane Raid",
+        "slug":  "hyperlane-raid",
+        "source_status":  "MISSING",
+        "source_path":  null,
+        "source_sha256":  null
+    },
+    {
+        "sequence":  2,
+        "campaign":  "Corellian Conflict (SWM25)",
+        "title":  "Show of Force",
+        "slug":  "show-of-force",
+        "source_status":  "MISSING",
+        "source_path":  null,
+        "source_sha256":  null
+    },
+    {
+        "sequence":  3,
+        "campaign":  "Corellian Conflict (SWM25)",
+        "title":  "Base Defense: Armed Station",
+        "slug":  "base-defense-armed-station",
+        "source_status":  "MISSING",
+        "source_path":  null,
+        "source_sha256":  null
+    },
+    {
+        "sequence":  4,
+        "campaign":  "Corellian Conflict (SWM25)",
+        "title":  "Base Defense: Fighter Wing",
+        "slug":  "base-defense-fighter-wing",
+        "source_status":  "MISSING",
+        "source_path":  null,
+        "source_sha256":  null
+    },
+    {
+        "sequence":  5,
+        "campaign":  "Corellian Conflict (SWM25)",
+        "title":  "Base Defense: Ion Cannon",
+        "slug":  "base-defense-ion-cannon",
+        "source_status":  "MISSING",
+        "source_path":  null,
+        "source_sha256":  null
+    },
+    {
+        "sequence":  6,
+        "campaign":  "Corellian Conflict (SWM25)",
+        "title":  "Asteroids",
+        "slug":  "asteroids",
+        "source_status":  "MISSING",
+        "source_path":  null,
+        "source_sha256":  null
+    },
+    {
+        "sequence":  7,
+        "campaign":  "Corellian Conflict (SWM25)",
+        "title":  "Independent Station",
+        "slug":  "independent-station",
+        "source_status":  "MISSING",
+        "source_path":  null,
+        "source_sha256":  null
+    },
+    {
+        "sequence":  8,
+        "campaign":  "Corellian Conflict (SWM25)",
+        "title":  "Nebula Outskirts",
+        "slug":  "nebula-outskirts",
+        "source_status":  "MISSING",
+        "source_path":  null,
+        "source_sha256":  null
+    },
+    {
+        "sequence":  9,
+        "campaign":  "Rebellion in the Rim (SWM31)",
+        "title":  "Base Defense: Armed Station",
+        "slug":  "base-defense-armed-station",
+        "source_status":  "MISSING",
+        "source_path":  null,
+        "source_sha256":  null
+    },
+    {
+        "sequence":  10,
+        "campaign":  "Rebellion in the Rim (SWM31)",
+        "title":  "Base Defense: Fighter Wing",
+        "slug":  "base-defense-fighter-wing",
+        "source_status":  "MISSING",
+        "source_path":  null,
+        "source_sha256":  null
+    },
+    {
+        "sequence":  11,
+        "campaign":  "Rebellion in the Rim (SWM31)",
+        "title":  "Base Defense: Ion Cannon",
+        "slug":  "base-defense-ion-cannon",
+        "source_status":  "MISSING",
+        "source_path":  null,
+        "source_sha256":  null
+    },
+    {
+        "sequence":  12,
+        "campaign":  "Rebellion in the Rim (SWM31)",
+        "title":  "Double Agent",
+        "slug":  "double-agent",
+        "source_status":  "MISSING",
+        "source_path":  null,
+        "source_sha256":  null
+    },
+    {
+        "sequence":  13,
+        "campaign":  "Rebellion in the Rim (SWM31)",
+        "title":  "Hired Scum",
+        "slug":  "hired-scum",
+        "source_status":  "MISSING",
+        "source_path":  null,
+        "source_sha256":  null
+    },
+    {
+        "sequence":  14,
+        "campaign":  "Rebellion in the Rim (SWM31)",
+        "title":  "Holonet Override",
+        "slug":  "holonet-override",
+        "source_status":  "MISSING",
+        "source_path":  null,
+        "source_sha256":  null
+    },
+    {
+        "sequence":  15,
+        "campaign":  "Rebellion in the Rim (SWM31)",
+        "title":  "Pilot Defection",
+        "slug":  "pilot-defection",
+        "source_status":  "MISSING",
+        "source_path":  null,
+        "source_sha256":  null
+    },
+    {
+        "sequence":  16,
+        "campaign":  "Rebellion in the Rim (SWM31)",
+        "title":  "Prototype Recovery",
+        "slug":  "prototype-recovery",
+        "source_status":  "MISSING",
+        "source_path":  null,
+        "source_sha256":  null
+    },
+    {
+        "sequence":  17,
+        "campaign":  "Rebellion in the Rim (SWM31)",
+        "title":  "Recruit Allies",
+        "slug":  "recruit-allies",
+        "source_status":  "MISSING",
+        "source_path":  null,
+        "source_sha256":  null
+    },
+    {
+        "sequence":  18,
+        "campaign":  "Rebellion in the Rim (SWM31)",
+        "title":  "Steal Supplies",
+        "slug":  "steal-supplies",
+        "source_status":  "MISSING",
+        "source_path":  null,
+        "source_sha256":  null
+    },
+    {
+        "sequence":  19,
+        "campaign":  "Rebellion in the Rim (SWM31)",
+        "title":  "Volatile Cargo",
+        "slug":  "volatile-cargo",
+        "source_status":  "MISSING",
+        "source_path":  null,
+        "source_sha256":  null
+    }
+]

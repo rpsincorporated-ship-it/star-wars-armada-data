@@ -1,0 +1,51 @@
+{
+  "milestone": "27",
+  "title": "Final Five Campaign Objective Installation",
+  "records": [
+    {
+      "title": "Asteroids",
+      "campaign": "The Corellian Conflict",
+      "setup": "Place obstacles as normal except replace the station with 3 additional asteroid fields. No more than 2 asteroid fields of the same type may be used.",
+      "special-rule": "Asteroid fields have no effect when overlapped by the second player's ships.",
+      "end-of-round": "",
+      "end-of-game": "",
+      "points": 0
+    },
+    {
+      "title": "Independent Station",
+      "campaign": "The Corellian Conflict",
+      "setup": "Place obstacles as normal except for the station. Replace the debris fields with dust fields. The second player places the armed station subject to the objective's placement restrictions.",
+      "special-rule": "The armed station does not provide its normal damage-card or hull recovery benefit. After each Command Phase, it attacks the closest first-player ship in range; if no ship is in range, it attacks eligible first-player squadrons.",
+      "end-of-round": "",
+      "end-of-game": "",
+      "points": 0
+    },
+    {
+      "title": "Holonet Override",
+      "campaign": "Rebellion in the Rim",
+      "setup": "Place obstacles as normal, including the station.",
+      "special-rule": "The station does not provide its normal repair effect. Ships near the station may spend engineering points in increments of 2 to interact with it. The first player can place objective tokens on the station; the second player can remove objective tokens from it and gain victory tokens.",
+      "end-of-round": "",
+      "end-of-game": "The first player scores for objective tokens remaining on the station. Victory tokens gained by the second player also contribute to that player's score.",
+      "points": 10
+    },
+    {
+      "title": "Prototype Recovery",
+      "campaign": "Rebellion in the Rim",
+      "setup": "Before deploying fleets, the second player chooses 1 additional non-unique squadron costing 8-20 points as the prototype and sets it aside. After obstacles are placed, the first player places an objective token at the center of the play area.",
+      "special-rule": "When a ship at distance 1 of the objective token resolves a Squadron command, its owner may attempt to recover the prototype instead of activating squadrons by rolling a blue die. The second player has an easier success condition. On success, deploy the prototype at distance 1 of the token and discard the token. While attacking, the prototype's critical results add to its damage total.",
+      "end-of-round": "",
+      "end-of-game": "If the prototype remains in the play area, its controlling player gains 1 victory token.",
+      "points": 30
+    },
+    {
+      "title": "Volatile Cargo",
+      "campaign": "Rebellion in the Rim",
+      "setup": "Place obstacles normally except do not place the station.",
+      "special-rule": "The second player designates 3 objective ships or squadrons, including at least 1 ship. Objective units can mitigate damage, but destroying them can damage nearby units and award victory tokens to the first player.",
+      "end-of-round": "",
+      "end-of-game": "The second player gains 2 victory tokens for each surviving objective ship or squadron that satisfies the objective's required position near the first player's edge.",
+      "points": 15
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+﻿{
+    "milestone":  "4.1b",
+    "status":  "PASS",
+    "scope":  "campaign objective live-schema and product-version audit",
+    "live_objective_store":  "data\\objective-card.json",
+    "live_objective_records":  36,
+    "schema":  {
+                   "distinct_properties":  [
+                                               "category",
+                                               "end-of-game",
+                                               "end-of-round",
+                                               "errata",
+                                               "image",
+                                               "points",
+                                               "setup",
+                                               "special-rule",
+                                               "title"
+                                           ],
+                   "distinct_record_shapes":  4,
+                   "shapes":  [
+                                  {
+                                      "record_count":  1,
+                                      "properties":  [
+                                                         "category",
+                                                         "end-of-game",
+                                                         "end-of-round",
+                                                         "errata",
+                                                         "image",
+                                                         "points",
+                                                         "setup",
+                                                         "special-rule",
+                                                         "title"
+                                                     ]
+                                  },
+                                  {
+                                      "record_count":  2,
+                                      "properties":  [
+                                                         "category",
+                                                         "end-of-game",
+                                                         "end-of-round",
+                                                         "errata",
+                                                         "points",
+                                                         "setup",
+                                                         "special-rule",
+                                                         "title"
+                                                     ]
+                                  },
+                                  {
+                                      "record_count":  11,
+                                      "properties":  [
+                                                         "category",
+                                                         "end-of-game",
+                                                         "end-of-round",
+                                                         "image",
+                                                         "points",
+                                                         "setup",
+                                                         "special-rule",
+                                                         "title"
+                                                     ]
+                                  },
+                                  {
+                                      "record_count":  22,
+                                      "properties":  [
+                                                         "category",
+                                                         "end-of-game",
+                                                         "end-of-round",
+                                                         "points",
+                                                         "setup",
+                                                         "special-rule",
+                                                         "title"
+                                                     ]
+                                  }
+                              ],
+                   "category_counts":  {
+                                           "Navigation":  12,
+                                           "Assault":  12,
+                                           "Defense":  12
+                                       },
+                   "type_counts":  {
+
+                                   },
+                   "representative_records":  [
+                                                  {
+                                                      "name":  "",
+                                                      "properties":  [
+                                                                         "category",
+                                                                         "end-of-game",
+                                                                         "end-of-round",
+                                                                         "points",
+                                                                         "setup",
+                                                                         "special-rule",
+                                                                         "title"
+                                                                     ],
+                                                      "category":  "Defense",
+                                                      "type":  null,
+                                                      "stable_id":  null
+                                                  },
+                                                  {
+                                                      "name":  "",
+                                                      "properties":  [
+                                                                         "category",
+                                                                         "end-of-game",
+                                                                         "end-of-round",
+                                                                         "image",
+                                                                         "points",
+                                                                         "setup",
+                                                                         "special-rule",
+                                                                         "title"
+                                                                     ],
+                                                      "category":  "Assault",
+                                                      "type":  null,
+                                                      "stable_id":  null
+                                                  },
+                                                  {
+                                                      "name":  "",
+                                                      "properties":  [
+                                                                         "category",
+                                                                         "end-of-game",
+                                                                         "end-of-round",
+                                                                         "points",
+                                                                         "setup",
+                                                                         "special-rule",
+                                                                         "title"
+                                                                     ],
+                                                      "category":  "Defense",
+                                                      "type":  null,
+                                                      "stable_id":  null
+                                                  },
+                                                  {
+                                                      "name":  "",
+                                                      "properties":  [
+                                                                         "category",
+                                                                         "end-of-game",
+                                                                         "end-of-round",
+                                                                         "points",
+                                                                         "setup",
+                                                                         "special-rule",
+                                                                         "title"
+                                                                     ],
+                                                      "category":  "Assault",
+                                                      "type":  null,
+                                                      "stable_id":  null
+                                                  },
+                                                  {
+                                                      "name":  "",
+                                                      "properties":  [
+                                                                         "category",
+                                                                         "end-of-game",
+                                                                         "end-of-round",
+                                                                         "points",
+                                                                         "setup",
+                                                                         "special-rule",
+                                                                         "title"
+                                                                     ],
+                                                      "category":  "Defense",
+                                                      "type":  null,
+                                                      "stable_id":  null
+                                                  },
+                                                  {
+                                                      "name":  "",
+                                                      "properties":  [
+                                                                         "category",
+                                                                         "end-of-game",
+                                                                         "end-of-round",
+                                                                         "points",
+                                                                         "setup",
+                                                                         "special-rule",
+                                                                         "title"
+                                                                     ],
+                                                      "category":  "Assault",
+                                                      "type":  null,
+                                                      "stable_id":  null
+                                                  }
+                                              ]
+               },
+    "campaign_inventory":  {
+                               "physical_cards":  19,
+                               "unique_names":  16,
+                               "single_product_design_candidates":  13,
+                               "cross_product_same_name_pairs":  3,
+                               "all_16_absent_from_production":  true
+                           },
+    "identity_rows":  [
+                          {
+                              "name":  "Asteroids",
+                              "physical_card_count":  1,
+                              "product_skus":  [
+                                                   "SWM25"
+                                               ],
+                              "printed_categories":  [
+                                                         "Campaign Bonus"
+                                                     ],
+                              "candidate_design_identity":  "objective:asteroids",
+                              "disposition":  "single-product-design-candidate"
+                          },
+                          {
+                              "name":  "Base Defense: Armed Station",
+                              "physical_card_count":  2,
+                              "product_skus":  [
+                                                   "SWM25",
+                                                   "SWM30"
+                                               ],
+                              "printed_categories":  [
+                                                         "Base Defense"
+                                                     ],
+                              "candidate_design_identity":  "objective:base-defense-armed-station",
+                              "disposition":  "cross-product-same-name-pair-text-equivalence-required"
+                          },
+                          {
+                              "name":  "Base Defense: Fighter Wing",
+                              "physical_card_count":  2,
+                              "product_skus":  [
+                                                   "SWM25",
+                                                   "SWM30"
+                                               ],
+                              "printed_categories":  [
+                                                         "Base Defense"
+                                                     ],
+                              "candidate_design_identity":  "objective:base-defense-fighter-wing",
+                              "disposition":  "cross-product-same-name-pair-text-equivalence-required"
+                          },
+                          {
+                              "name":  "Base Defense: Ion Cannon",
+                              "physical_card_count":  2,
+                              "product_skus":  [
+                                                   "SWM25",
+                                                   "SWM30"
+                                               ],
+                              "printed_categories":  [
+                                                         "Base Defense"
+                                                     ],
+                              "candidate_design_identity":  "objective:base-defense-ion-cannon",
+                              "disposition":  "cross-product-same-name-pair-text-equivalence-required"
+                          },
+                          {
+                              "name":  "Double Agent",
+                              "physical_card_count":  1,
+                              "product_skus":  [
+                                                   "SWM30"
+                                               ],
+                              "printed_categories":  [
+                                                         "Campaign"
+                                                     ],
+                              "candidate_design_identity":  "objective:double-agent",
+                              "disposition":  "single-product-design-candidate"
+                          },
+                          {
+                              "name":  "Hired Scum",
+                              "physical_card_count":  1,
+                              "product_skus":  [
+                                                   "SWM30"
+                                               ],
+                              "printed_categories":  [
+                                                         "Campaign"
+                                                     ],
+                              "candidate_design_identity":  "objective:hired-scum",
+                              "disposition":  "single-product-design-candidate"
+                          },
+                          {
+                              "name":  "Holonet Override",
+                              "physical_card_count":  1,
+                              "product_skus":  [
+                                                   "SWM30"
+                                               ],
+                              "printed_categories":  [
+                                                         "Campaign"
+                                                     ],
+                              "candidate_design_identity":  "objective:holonet-override",
+                              "disposition":  "single-product-design-candidate"
+                          },
+                          {
+                              "name":  "Hyperlane Raid",
+                              "physical_card_count":  1,
+                              "product_skus":  [
+                                                   "SWM25"
+                                               ],
+                              "printed_categories":  [
+                                                         "Special Assault"
+                                                     ],
+                              "candidate_design_identity":  "objective:hyperlane-raid",
+                              "disposition":  "single-product-design-candidate"
+                          },
+                          {
+                              "name":  "Independent Station",
+                              "physical_card_count":  1,
+                              "product_skus":  [
+                                                   "SWM25"
+                                               ],
+                              "printed_categories":  [
+                                                         "Campaign Bonus"
+                                                     ],
+                              "candidate_design_identity":  "objective:independent-station",
+                              "disposition":  "single-product-design-candidate"
+                          },
+                          {
+                              "name":  "Nebula Outskirts",
+                              "physical_card_count":  1,
+                              "product_skus":  [
+                                                   "SWM25"
+                                               ],
+                              "printed_categories":  [
+                                                         "Campaign Bonus"
+                                                     ],
+                              "candidate_design_identity":  "objective:nebula-outskirts",
+                              "disposition":  "single-product-design-candidate"
+                          },
+                          {
+                              "name":  "Pilot Defection",
+                              "physical_card_count":  1,
+                              "product_skus":  [
+                                                   "SWM30"
+                                               ],
+                              "printed_categories":  [
+                                                         "Campaign"
+                                                     ],
+                              "candidate_design_identity":  "objective:pilot-defection",
+                              "disposition":  "single-product-design-candidate"
+                          },
+                          {
+                              "name":  "Prototype Recovery",
+                              "physical_card_count":  1,
+                              "product_skus":  [
+                                                   "SWM30"
+                                               ],
+                              "printed_categories":  [
+                                                         "Campaign"
+                                                     ],
+                              "candidate_design_identity":  "objective:prototype-recovery",
+                              "disposition":  "single-product-design-candidate"
+                          },
+                          {
+                              "name":  "Recruit Allies",
+                              "physical_card_count":  1,
+                              "product_skus":  [
+                                                   "SWM30"
+                                               ],
+                              "printed_categories":  [
+                                                         "Campaign"
+                                                     ],
+                              "candidate_design_identity":  "objective:recruit-allies",
+                              "disposition":  "single-product-design-candidate"
+                          },
+                          {
+                              "name":  "Show of Force",
+                              "physical_card_count":  1,
+                              "product_skus":  [
+                                                   "SWM25"
+                                               ],
+                              "printed_categories":  [
+                                                         "Special Assault"
+                                                     ],
+                              "candidate_design_identity":  "objective:show-of-force",
+                              "disposition":  "single-product-design-candidate"
+                          },
+                          {
+                              "name":  "Steal Supplies",
+                              "physical_card_count":  1,
+                              "product_skus":  [
+                                                   "SWM30"
+                                               ],
+                              "printed_categories":  [
+                                                         "Campaign"
+                                                     ],
+                              "candidate_design_identity":  "objective:steal-supplies",
+                              "disposition":  "single-product-design-candidate"
+                          },
+                          {
+                              "name":  "Volatile Cargo",
+                              "physical_card_count":  1,
+                              "product_skus":  [
+                                                   "SWM30"
+                                               ],
+                              "printed_categories":  [
+                                                         "Campaign"
+                                                     ],
+                              "candidate_design_identity":  "objective:volatile-cargo",
+                              "disposition":  "single-product-design-candidate"
+                          }
+                      ],
+    "policy":  {
+                   "physical_card_identity":  "product SKU + name",
+                   "candidate_design_identity":  "objective + normalized name",
+                   "repeated_base_defense_rule":  "do not merge until printed/current-text equivalence is verified",
+                   "preserve_product_provenance":  true,
+                   "production_install_authorized":  false
+               },
+    "production_card_data_modified":  false,
+    "next_milestone":  "4.2 Base Defense equivalence and official campaign objective text/errata audit"
+}

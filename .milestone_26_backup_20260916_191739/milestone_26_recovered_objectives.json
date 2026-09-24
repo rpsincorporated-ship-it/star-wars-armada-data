@@ -1,0 +1,81 @@
+{
+  "milestone": "26",
+  "title": "Online Campaign Objective Recovery",
+  "records": [
+    {
+      "name": "Asteroids",
+      "set": "The Corellian Conflict",
+      "category": "Campaign Objective",
+      "sourceStatus": "recovered",
+      "exactTextStatus": "verified-online"
+    },
+    {
+      "name": "Independent Station",
+      "set": "The Corellian Conflict",
+      "category": "Campaign Objective",
+      "sourceStatus": "recovered",
+      "exactTextStatus": "verified-online"
+    },
+    {
+      "name": "Base Defense: Armed Station",
+      "set": "Rebellion in the Rim",
+      "category": "Campaign Objective",
+      "subtype": "Base Defense",
+      "sourceStatus": "recovered",
+      "exactTextStatus": "verified-online"
+    },
+    {
+      "name": "Base Defense: Fighter Wing",
+      "set": "Rebellion in the Rim",
+      "category": "Campaign Objective",
+      "subtype": "Base Defense",
+      "sourceStatus": "recovered",
+      "exactTextStatus": "verified-online",
+      "structuredData": {
+        "additionalSquadronPoints": 40,
+        "squadronRestriction": "non-unique"
+      }
+    },
+    {
+      "name": "Base Defense: Ion Cannon",
+      "set": "Rebellion in the Rim",
+      "category": "Campaign Objective",
+      "subtype": "Base Defense",
+      "sourceStatus": "recovered",
+      "exactTextStatus": "verified-online"
+    },
+    {
+      "name": "Prototype Recovery",
+      "set": "Rebellion in the Rim",
+      "category": "Campaign Objective",
+      "sourceStatus": "recovered",
+      "exactTextStatus": "verified-online",
+      "structuredData": {
+        "prototypeUnique": false,
+        "prototypeMinimumPoints": 8,
+        "prototypeMaximumPoints": 20,
+        "victoryTokenValue": 30
+      }
+    },
+    {
+      "name": "Volatile Cargo",
+      "set": "Rebellion in the Rim",
+      "category": "Campaign Objective",
+      "sourceStatus": "recovered",
+      "exactTextStatus": "verified-online"
+    },
+    {
+      "name": "Holonet Override",
+      "set": "Rebellion in the Rim",
+      "category": "Campaign Objective",
+      "sourceStatus": "partial",
+      "exactTextStatus": "SOURCE_PENDING",
+      "structuredData": {
+        "usesStation": true,
+        "engineeringPointsPerInteraction": 2,
+        "scoringValuePerToken": 10
+      },
+      "warning": "Do not populate official printed rules text until an exact source is recovered."
+    }
+  ]
+}

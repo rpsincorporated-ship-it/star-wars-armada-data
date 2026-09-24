@@ -1,0 +1,14 @@
+{
+  "milestone": "1.6",
+  "dataVersion": "2025.01-final",
+  "rulesetId": "official-amg-final-2025",
+  "rulesBaseline": "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+  "faction": "Galactic Republic",
+  "auditManifest": "metadata/audits/republic-product-origin-1.5.json",
+  "releaseManifest": "metadata/releases/galactic-republic-2025.01-final.json",
+  "notes": [
+    "Normalization is additive: legacy fields are preserved.",
+    "Legality applies to the audited Republic product-origin records only.",
+    "Neutral upgrade compatibility from older products is intentionally outside this milestone."
+  ]
+}

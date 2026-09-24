@@ -1,0 +1,29 @@
+﻿[
+    {
+        "priority":  1,
+        "source":  "Atomic Mass Games Armada Rules \u0026 Organized Play",
+        "role":  "Official document index; identifies Errata Reference as complete/current",
+        "url":  "https://www.atomicmassgames.com/swarmadadocs/",
+        "cutoff":  "2025-01-21"
+    },
+    {
+        "priority":  2,
+        "source":  "AMG Errata Reference 5.5",
+        "role":  "Primary card-specific errata authority",
+        "url":  "https://cdn.svc.asmodee.net/production-amgcom/uploads/2025/01/SWM_Errata_5.5.pdf",
+        "version":  "5.5 [01/10/2025]"
+    },
+    {
+        "priority":  3,
+        "source":  "AMG Rules Reference 1.6.0",
+        "role":  "Final rules/reference authority",
+        "version":  "1.6.0 [01/10/2025]"
+    },
+    {
+        "priority":  4,
+        "source":  "AMG Rapid Reinforcements 2.3",
+        "role":  "Final RR I/II authority",
+        "url":  "https://cdn.svc.asmodee.net/production-amgcom/uploads/2025/01/SWM_RapidReinforcements_2.3.pdf",
+        "version":  "2.3 [01/10/2025]"
+    }
+]

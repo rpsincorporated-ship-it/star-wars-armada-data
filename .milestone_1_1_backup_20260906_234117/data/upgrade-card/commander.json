@@ -1,0 +1,246 @@
+[
+  {
+    "name": "Admiral Ackbar",
+    "unique": true,
+    "text":
+      "Before a friendly ship's Attack Step, it may choose to attack from only its left and right hull zones this round. If it does, it may add 2 red dice to its attack pool while attacking a ship.",
+    "faction": "Rebel Alliance",
+    "slots": ["Commander"],
+    "points": 38,
+    "image": "upgrade-card/commander/admiral-ackbar.png"
+  },
+  {
+    "name": "Admiral Konstantine",
+    "unique": true,
+    "text":
+      "At the start of each Status Phase, for each enemy ship at distance 1-5 of at least 2 friendly medium or large ships, you may increase or decrease that enemy ship's speed by 1 to a minimum of speed 1.",
+    "faction": "Galactic Empire",
+    "slots": ["Commander"],
+    "points": 23,
+    "image": "upgrade-card/commander/admiral-konstantine.png"
+  },
+  {
+    "name": "Admiral Motti",
+    "unique": true,
+    "text":
+      "The hull value of each friendly ship is increased according to its size class:\nSmall ship: 1\nMedium ship: 2\nLarge ship: 3",
+    "faction": "Galactic Empire",
+    "slots": ["Commander"],
+    "points": 24,
+    "image": "upgrade-card/commander/admiral-motti.png"
+  },
+  {
+    "name": "Admiral Ozzel",
+    "unique": true,
+    "text":
+      "When a friendly ship resolves a [Navigate] command, it may change its speed by an additional 1.",
+    "faction": "Galactic Empire",
+    "slots": ["Commander"],
+    "points": 20,
+    "image": "upgrade-card/commander/admiral-ozzel.png"
+  },
+  {
+    "name": "Admiral Piett",
+    "unique": true,
+    "text":
+      "When a friendly ship spends only a command token to resolve a command, you may exhaust this card. If you do, that ship resolves that command as if it had spent a dial of the same type instead.",
+    "faction": "Galactic Empire",
+    "slots": ["Commander"],
+    "points": 22
+  },
+  {
+    "name": "Admiral Raddus",
+    "unique": true,
+    "text": "Before deploying fleets, you may set aside 1 other friendly ship with a command value of 3 or less. At the start of any round, you may deploy that ship at distance 1–2 of you. That ship cannot be deployed overlapping squadrons and cannot be the first ship to activate that round.",
+    "faction": "Rebel Alliance",
+    "slots": ["Commander"],
+    "points": 26,
+    "image": "upgrade-card/commander/admiral-raddus.png",
+    "errata": [
+      {
+        "version": "original",
+        "text": "Before deploying fleets, you may set aside 1 other friendly ship. At the start of any round, you may deploy that ship at distance 1 of a friendly ship. That ship cannot be deployed overlapping squadrons and cannot be the first ship to activate that round."
+      },
+      {
+        "version": "5.1.1"
+      }
+    ]
+  },
+  {
+    "name": "Admiral Screed",
+    "unique": true,
+    "text":
+      "Once per activation, when a friendly ship is attacking, it may spend 1 die to change a die to a face with a [Critical Hit] icon.",
+    "faction": "Galactic Empire",
+    "slots": ["Commander"],
+    "points": 26,
+    "image": "upgrade-card/commander/admiral-screed.png"
+  },
+  {
+    "name": "Admiral Sloane",
+    "unique": true,
+    "text":
+      "While a friendly squadron without Rogue is attacking, it may spend 1 die with an [Accuracy] icon to choose and spend 1 of the defender's defense tokens. While attacking a ship, it may also reroll 1 die with a [Critical Hit] icon.",
+    "faction": "Galactic Empire",
+    "slots": ["Commander"],
+    "points": 24,
+    "image": "upgrade-card/commander/admiral-sloane.png"
+  },
+  {
+    "name": "Commander Sato",
+    "unique": true,
+    "text":
+      "While a friendly ship is attacking a ship at distance 1 of a friendly squadron, before rolling attack dice, the attacker may replace up to 2 dice in its attack pool with an equal number of dice of any color or colors.",
+    "faction": "Rebel Alliance",
+    "slots": ["Commander"],
+    "points": 32,
+    "image": "upgrade-card/commander/commander-sato.png"
+  },
+  {
+    "name": "Darth Vader",
+    "unique": true,
+    "text":
+      "While a friendly ship is attacking a ship, it may spend 1 defense token to reroll any number of dice in its attack pool.",
+    "faction": "Galactic Empire",
+    "slots": ["Commander"],
+    "points": 36,
+    "image": "upgrade-card/commander/darth-vader.png"
+  },
+  {
+    "name": "Emperor Palpatine",
+    "unique": true,
+    "text":
+      "After deploying fleets, place 1 defense token of each type on this card. At the start of each Ship Phase you may discard 1 of those tokens. If you do, until the end of the round, if an enemy ship or squadron spends a matching token during its Spend Defense Tokens step, discard that token.",
+    "faction": "Galactic Empire",
+    "slots": ["Commander"],
+    "points": 35
+  },
+  {
+    "name": "Garm Bel Iblis",
+    "unique": true,
+    "text":
+      "At the start of the first round and the fifth round, each friendly ship may gain a number of command tokens equal to its command value.",
+    "faction": "Rebel Alliance",
+    "slots": ["Commander"],
+    "points": 25,
+    "image": "upgrade-card/commander/garm-bel-iblis.png"
+  },
+  {
+    "name": "General Cracken",
+    "unique": true,
+    "text":
+      "While a friendly small or medium ship is defending against a ship, if the defender is at speed 3 or higher, the attack is treated as obstructed.",
+    "faction": "Rebel Alliance",
+    "slots": ["Commander"],
+    "points": 26,
+    "image": "upgrade-card/commander/general-cracken.png"
+  },
+  {
+    "name": "General Dodonna",
+    "unique": true,
+    "text":
+      "Before an enemy ship is dealt a faceup damage card, look at the top 4 cards of the damage deck, place 1 on top of the deck and discard the others.",
+    "faction": "Rebel Alliance",
+    "slots": ["Commander"],
+    "points": 20,
+    "image": "upgrade-card/commander/general-dodonna.png"
+  },
+  {
+    "name": "General Madine",
+    "unique": true,
+    "text":
+      "When a friendly ship resolves a [Navigate] command, if it spent a [Navigate] dial it may increase 1 additional yaw value by 1. If it spent a [Navigate] token, it may either change its speed or increase 1 yaw value by 1.",
+    "faction": "Rebel Alliance",
+    "slots": ["Commander"],
+    "points": 30,
+    "image": "upgrade-card/commander/general-madine.png"
+  },
+  {
+    "name": "General Rieekan",
+    "unique": true,
+    "text":
+      "Once per round, when a friendly ship or friendly unique squadron is destroyed, it remains in the play area and is treated as if it was not destroyed until the end of the Status Phase.",
+    "faction": "Rebel Alliance",
+    "slots": ["Commander"],
+    "points": 30,
+    "image": "upgrade-card/commander/general-rieekan.png"
+  },
+  {
+    "name": "General Romodi",
+    "unique": true,
+    "text":
+      "While a friendly ship is attacking a ship, if the attack is obstructed by a ship or obstacle, the attacker does not remove a die (even if the attack is also obstructed by a card effect), and may add 1 red die to the attack pool.",
+    "faction": "Galactic Empire",
+    "slots": ["Commander"],
+    "points": 20
+  },
+  {
+    "name": "General Tagge",
+    "unique": true,
+    "text":
+      "At the start of the third round and the fifth round, each friendly ship may recover 1 of its discarded defense tokens.",
+    "faction": "Galactic Empire",
+    "slots": ["Commander"],
+    "points": 25,
+    "image": "upgrade-card/commander/general-tagge.png"
+  },
+  {
+    "name": "Grand Admiral Thrawn",
+    "unique": true,
+    "text":
+      "After deploying fleets, place 3 facedown command dials on this card. At the start of each Ship Phase, you may reveal and discard 1 of those dials. If you do, until the end of the round, before each friendly ship activates, it gains 1 additional dial matching that discarded dial.",
+    "faction": "Galactic Empire",
+    "slots": ["Commander"],
+    "points": 32,
+    "image": "upgrade-card/commander/grand-admiral-thrawn.png"
+  },
+  {
+    "name": "Grand Moff Tarkin",
+    "unique": true,
+    "text":
+      "At the start of each Ship Phase, you may choose 1 command. Each friendly ship gains a command token matching that command.",
+    "faction": "Galactic Empire",
+    "slots": ["Commander"],
+    "points": 38,
+    "image": "upgrade-card/commander/grand-moff-tarkin.png"
+  },
+  {
+    "name": "Kyrsta Agate",
+    "unique": true,
+    "text":
+      "After you deploy, gain 1 non-[Scatter] defense token. During your \"Spend Defense Tokens\" step, if your speed is not 0, you may discard 1 defense token to resolve the effect of that defense token. You cannot resolve the effect of each type of defense token more than once per attack.",
+    "faction": "Rebel Alliance",
+    "slots": ["Commander"],
+    "points": 20
+  },
+  {
+    "name": "Leia Organa",
+    "unique": true,
+    "text":
+      "When a friendly ship resolves a command by spending a command dial, if it has not resolved another command this round, it may resolve that command as if it spent a matching command token. If it does, that ship may not resolve additional commands this round.",
+    "faction": "Rebel Alliance",
+    "slots": ["Commander"],
+    "points": 38,
+    "image": "upgrade-card/commander/leia-organa.png"
+  },
+  {
+    "name": "Moff Jerjerrod",
+    "unique": true,
+    "text":
+      "During a friendly ship's Determine Course step, it may suffer 1 damage to change the first yaw value of its current speed to \"||\" until the end of its activation.",
+    "faction": "Galactic Empire",
+    "slots": ["Commander"],
+    "points": 23,
+    "image": "upgrade-card/commander/moff-jerjerrod.png"
+  },
+  {
+    "name": "Mon Mothma",
+    "unique": true,
+    "text":
+      "When a friendly ship resolves the [Evade] token effect, it can cancel 1 die at medium range or reroll 1 die at close range or distance 1.",
+    "faction": "Rebel Alliance",
+    "slots": ["Commander"],
+    "points": 30,
+    "image": "upgrade-card/commander/mon-mothma.png"
+  }
+]

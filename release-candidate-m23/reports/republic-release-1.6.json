@@ -1,0 +1,21 @@
+﻿{
+    "milestone":  "1.6",
+    "status":  "PASS",
+    "faction":  "Galactic Republic",
+    "releaseId":  "galactic-republic-2025.01-final",
+    "dataVersion":  "2025.01-final",
+    "ruleset":  "official-amg-final-2025",
+    "rulesBaseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+    "normalizedRecords":  56,
+    "uniqueStableIds":  56,
+    "products":  [
+                     "SWM34",
+                     "SWM36",
+                     "SWM40",
+                     "SWM41"
+                 ],
+    "productOriginCompleteness":  true,
+    "neutralCompatibilityDeferred":  true,
+    "releaseManifest":  "metadata/releases/galactic-republic-2025.01-final.json",
+    "backup":  "C:\\Development\\Armada_Database\\.milestone_1_6_backup_20260907_124246"
+}

@@ -1,0 +1,21 @@
+﻿{
+    "audit_id":  "ship:galactic-empire:data/ship-card/galactic-empire/onager-class-star-destroyer.json:1",
+    "name":  "Onager-class Star Destroyer",
+    "local_points":  110,
+    "baseline_bsdata_points":  [
+                                   120
+                               ],
+    "current_bsdata_points":  [
+                                  120
+                              ],
+    "rendered_official_pages":  [
+                                    {
+                                        "source":  "AMG-RULES-REFERENCE-1.6.0",
+                                        "page":  24,
+                                        "image_path":  "input\\official-review-7.18\\Onager-class_Star_Destroyer\\AMG-RULES-REFERENCE-1.6.0_page_24.png",
+                                        "image_sha256":  "BC1642D324DD04B0D5932EEC9E52ECC9CBD790893443A6366A98DD0ADD1791DA"
+                                    }
+                                ],
+    "review_status":  "OFFICIAL-PAGE-IMAGES-READY-FOR-VISUAL-REVIEW",
+    "production_write_authorized":  false
+}

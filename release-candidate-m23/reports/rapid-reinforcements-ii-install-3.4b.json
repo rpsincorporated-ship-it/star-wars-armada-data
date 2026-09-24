@@ -1,0 +1,18 @@
+﻿{
+    "milestone":  "3.4b",
+    "completed_by":  "3.4b.1",
+    "status":  "PASS",
+    "supplement":  "Rapid Reinforcements II",
+    "records_installed":  8,
+    "upgrades":  4,
+    "commanders":  2,
+    "officers":  2,
+    "squadrons":  4,
+    "stable_ids":  8,
+    "protected_files_unchanged":  190,
+    "corrected_audit":  "3.3a General Draven Commander correction",
+    "schema_preflight":  "3.4a",
+    "production_install_complete":  true,
+    "correction":  "Wat Tambor squadron-attack explicitly set to [0,2,0] (two blue dice)",
+    "backup":  "C:\\Development\\Armada_Database\\.milestone_3_4b_1_backup_20260907_190011"
+}

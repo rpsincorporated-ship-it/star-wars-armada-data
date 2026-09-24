@@ -1,0 +1,123 @@
+﻿{
+    "milestone":  "3.1d",
+    "supplement":  "Rapid Reinforcements I",
+    "status":  "PASS",
+    "supersedes":  "3.1c identity classification",
+    "authoritative_document":  "Rapid Reinforcements v2.3 [01/10/25]",
+    "rr1_selector":  "revision 2.0 cards",
+    "identity_rule":  {
+                          "squadron":  "faction + name + subname/chassis",
+                          "ship":  "faction + ship-card name"
+                      },
+    "total_inventory_entries":  8,
+    "new_rr1_identities":  8,
+    "existing_exact_rr1_identities":  0,
+    "classification":  [
+                           {
+                               "name":  "Darth Vader",
+                               "kind":  "squadron",
+                               "faction":  "Galactic Empire",
+                               "subname":  "TIE Defender Squadron",
+                               "points":  25,
+                               "exact_identity_matches":  0,
+                               "same_name_matches":  1,
+                               "existing_same_name_chassis":  [
+                                                                  "TIE Advanced Squadron"
+                                                              ],
+                               "action":  "new-rr1-identity"
+                           },
+                           {
+                               "name":  "Hera Syndulla",
+                               "kind":  "squadron",
+                               "faction":  "Rebel Alliance",
+                               "subname":  "X-wing Squadron",
+                               "points":  23,
+                               "exact_identity_matches":  0,
+                               "same_name_matches":  1,
+                               "existing_same_name_chassis":  [
+                                                                  "Ghost"
+                                                              ],
+                               "action":  "new-rr1-identity"
+                           },
+                           {
+                               "name":  "Anakin Skywalker",
+                               "kind":  "squadron",
+                               "faction":  "Galactic Republic",
+                               "subname":  "Delta-7 Aethersprite Squadron",
+                               "points":  24,
+                               "exact_identity_matches":  0,
+                               "same_name_matches":  1,
+                               "existing_same_name_chassis":  [
+                                                                  "BTL-B Y-wing Squadron"
+                                                              ],
+                               "action":  "new-rr1-identity"
+                           },
+                           {
+                               "name":  "Jango Fett",
+                               "kind":  "squadron",
+                               "faction":  "Separatist Alliance",
+                               "subname":  "Modified Firespray-31",
+                               "points":  22,
+                               "exact_identity_matches":  0,
+                               "same_name_matches":  0,
+                               "existing_same_name_chassis":  [
+
+                                                              ],
+                               "action":  "new-rr1-identity"
+                           },
+                           {
+                               "name":  "Venator II-class Star Destroyer",
+                               "kind":  "ship",
+                               "faction":  "Galactic Empire",
+                               "subname":  null,
+                               "points":  100,
+                               "exact_identity_matches":  0,
+                               "same_name_matches":  null,
+                               "existing_same_name_chassis":  [
+
+                                                              ],
+                               "action":  "new-rr1-identity"
+                           },
+                           {
+                               "name":  "Providence-class Carrier",
+                               "kind":  "ship",
+                               "faction":  "Rebel Alliance",
+                               "subname":  null,
+                               "points":  95,
+                               "exact_identity_matches":  0,
+                               "same_name_matches":  null,
+                               "existing_same_name_chassis":  [
+
+                                                              ],
+                               "action":  "new-rr1-identity"
+                           },
+                           {
+                               "name":  "Victory I-class Star Destroyer",
+                               "kind":  "ship",
+                               "faction":  "Galactic Republic",
+                               "subname":  null,
+                               "points":  73,
+                               "exact_identity_matches":  0,
+                               "same_name_matches":  null,
+                               "existing_same_name_chassis":  [
+
+                                                              ],
+                               "action":  "new-rr1-identity"
+                           },
+                           {
+                               "name":  "Gozanti-class Cruisers",
+                               "kind":  "ship",
+                               "faction":  "Separatist Alliance",
+                               "subname":  null,
+                               "points":  24,
+                               "exact_identity_matches":  0,
+                               "same_name_matches":  null,
+                               "existing_same_name_chassis":  [
+
+                                                              ],
+                               "action":  "new-rr1-identity"
+                           }
+                       ],
+    "production_card_data_modified":  false,
+    "next_milestone":  "3.2 Rapid Reinforcements I eight-card installation"
+}

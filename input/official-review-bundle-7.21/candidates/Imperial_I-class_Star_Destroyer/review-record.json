@@ -1,0 +1,19 @@
+﻿{
+    "audit_id":  "ship:galactic-empire:data/ship-card/galactic-empire/imperial-i-class-star-destroyer.json:1",
+    "name":  "Imperial I-class Star Destroyer",
+    "kind":  "ship",
+    "faction":  "Galactic Empire",
+    "path":  "data\\ship-card\\galactic-empire\\imperial-i-class-star-destroyer.json",
+    "record_index":  1,
+    "local_points":  112,
+    "baseline_bsdata_points":  [
+                                   110
+                               ],
+    "current_bsdata_points":  [
+                                  110
+                              ],
+    "official_text_locations":  {
+
+                                },
+    "production_write_authorized":  false
+}

@@ -1,0 +1,559 @@
+{
+  "auditId": "republic-product-origin-1.5",
+  "title": "Galactic Republic product-origin completeness audit",
+  "rulesBaseline": "AMG final Armada update: Rules Reference 1.6.0 / Errata 5.5, January 10, 2025",
+  "scope": {
+    "includedProducts": [
+      "SWM34",
+      "SWM36",
+      "SWM40",
+      "SWM41"
+    ],
+    "included": "Unique database designs originating in the four Galactic Republic retail products already installed by Milestones 1.1\u20131.4.",
+    "excluded": "Neutral upgrades from older non-Republic products that are merely legal for Republic fleets. Those belong to a later legality/compatibility audit."
+  },
+  "expectedCounts": {
+    "ships": 8,
+    "squadronDesigns": 12,
+    "upgradeDesigns": 36,
+    "totalDesignRecords": 56,
+    "productMetadataFiles": 4,
+    "knownReprintedDesigns": 1
+  },
+  "records": [
+    {
+      "kind": "ship",
+      "name": "Acclamator I-class Assault Ship",
+      "points": 64,
+      "faction": "Galactic Republic",
+      "productCode": "SWM34",
+      "repoPath": "data/ship-card/galactic-republic/acclamator-i-class-assault-ship.json",
+      "sourceMilestone": "1.1"
+    },
+    {
+      "kind": "ship",
+      "name": "Acclamator II-class Assault Ship",
+      "points": 71,
+      "faction": "Galactic Republic",
+      "productCode": "SWM34",
+      "repoPath": "data/ship-card/galactic-republic/acclamator-ii-class-assault-ship.json",
+      "sourceMilestone": "1.1"
+    },
+    {
+      "kind": "ship",
+      "name": "Consular-class Armed Cruiser",
+      "points": 37,
+      "faction": "Galactic Republic",
+      "productCode": "SWM34",
+      "repoPath": "data/ship-card/galactic-republic/consular-class-armed-cruiser.json",
+      "sourceMilestone": "1.1"
+    },
+    {
+      "kind": "ship",
+      "name": "Consular-class Charger c70",
+      "points": 42,
+      "faction": "Galactic Republic",
+      "productCode": "SWM34",
+      "repoPath": "data/ship-card/galactic-republic/consular-class-charger-c70.json",
+      "sourceMilestone": "1.1"
+    },
+    {
+      "kind": "squadron",
+      "name": "Axe",
+      "points": 17,
+      "faction": "Galactic Republic",
+      "productCode": "SWM34",
+      "repoPath": "data/squadron-card/galactic-republic/axe.json",
+      "sourceMilestone": "1.1"
+    },
+    {
+      "kind": "squadron",
+      "name": "V-19 Torrent Squadron",
+      "points": 12,
+      "faction": "Galactic Republic",
+      "productCode": "SWM34",
+      "repoPath": "data/squadron-card/galactic-republic/v-19-torrent-squadron.json",
+      "sourceMilestone": "1.1"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Obi-Wan Kenobi",
+      "points": 22,
+      "faction": "Galactic Republic",
+      "productCode": "SWM34",
+      "repoPath": "data/upgrade-card/commander.json",
+      "sourceMilestone": "1.1"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Bail Organa",
+      "points": 28,
+      "faction": "Galactic Republic",
+      "productCode": "SWM34",
+      "repoPath": "data/upgrade-card/commander.json",
+      "sourceMilestone": "1.1"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Reactive Gunnery",
+      "points": 4,
+      "faction": null,
+      "productCode": "SWM34",
+      "repoPath": "data/upgrade-card/defensive-retrofit.json",
+      "sourceMilestone": "1.1"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Munitions Resupply",
+      "points": 3,
+      "faction": null,
+      "productCode": "SWM34",
+      "repoPath": "data/upgrade-card/fleet-support.json",
+      "sourceMilestone": "1.1"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Parts Resupply",
+      "points": 3,
+      "faction": null,
+      "productCode": "SWM34",
+      "repoPath": "data/upgrade-card/fleet-support.json",
+      "sourceMilestone": "1.1"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Hyperspace Rings",
+      "points": 3,
+      "faction": null,
+      "productCode": "SWM34",
+      "repoPath": "data/upgrade-card/offensive-retrofit.json",
+      "sourceMilestone": "1.1"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Clone Captain Zak",
+      "points": 5,
+      "faction": "Galactic Republic",
+      "productCode": "SWM34",
+      "repoPath": "data/upgrade-card/officer.json",
+      "sourceMilestone": "1.1"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Clone Navigation Officer",
+      "points": 4,
+      "faction": "Galactic Republic",
+      "productCode": "SWM34",
+      "repoPath": "data/upgrade-card/officer.json",
+      "sourceMilestone": "1.1"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Assault Concussion Missiles",
+      "points": 5,
+      "faction": null,
+      "productCode": "SWM34",
+      "repoPath": "data/upgrade-card/ordnance.json",
+      "sourceMilestone": "1.1"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Auxiliary Shields Team",
+      "points": 3,
+      "faction": null,
+      "productCode": "SWM34",
+      "repoPath": "data/upgrade-card/support-team.json",
+      "sourceMilestone": "1.1"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Implacable",
+      "points": 4,
+      "faction": "Galactic Republic",
+      "productCode": "SWM34",
+      "repoPath": "data/upgrade-card/title.json",
+      "sourceMilestone": "1.1"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Nevoota Bee",
+      "points": 5,
+      "faction": "Galactic Republic",
+      "productCode": "SWM34",
+      "repoPath": "data/upgrade-card/title.json",
+      "sourceMilestone": "1.1"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Radiant VII",
+      "points": 1,
+      "faction": "Galactic Republic",
+      "productCode": "SWM34",
+      "repoPath": "data/upgrade-card/title.json",
+      "sourceMilestone": "1.1"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Swift Return",
+      "points": 3,
+      "faction": "Galactic Republic",
+      "productCode": "SWM34",
+      "repoPath": "data/upgrade-card/title.json",
+      "sourceMilestone": "1.1"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Swivel-Mount Batteries",
+      "points": 8,
+      "faction": null,
+      "productCode": "SWM34",
+      "repoPath": "data/upgrade-card/turbolasers.json",
+      "sourceMilestone": "1.1"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Clone Gunners",
+      "points": 4,
+      "faction": "Galactic Republic",
+      "productCode": "SWM34",
+      "repoPath": "data/upgrade-card/weapons-team.json",
+      "sourceMilestone": "1.1"
+    },
+    {
+      "kind": "squadron",
+      "name": "Ahsoka Tano",
+      "points": 23,
+      "faction": "Galactic Republic",
+      "productCode": "SWM36",
+      "repoPath": "data/squadron-card/galactic-republic/ahsoka-tano.json",
+      "sourceMilestone": "1.2"
+    },
+    {
+      "kind": "squadron",
+      "name": "Anakin Skywalker",
+      "points": 18,
+      "faction": "Galactic Republic",
+      "productCode": "SWM36",
+      "repoPath": "data/squadron-card/galactic-republic/anakin-skywalker-btl-b-y-wing.json",
+      "sourceMilestone": "1.2"
+    },
+    {
+      "kind": "squadron",
+      "name": "ARC-170 Squadron",
+      "points": 15,
+      "faction": "Galactic Republic",
+      "productCode": "SWM36",
+      "repoPath": "data/squadron-card/galactic-republic/arc-170-squadron.json",
+      "sourceMilestone": "1.2"
+    },
+    {
+      "kind": "squadron",
+      "name": "BTL-B Y-wing Squadron",
+      "points": 10,
+      "faction": "Galactic Republic",
+      "productCode": "SWM36",
+      "repoPath": "data/squadron-card/galactic-republic/btl-b-y-wing-squadron.json",
+      "sourceMilestone": "1.2"
+    },
+    {
+      "kind": "squadron",
+      "name": "Delta-7 Aethersprite Squadron",
+      "points": 17,
+      "faction": "Galactic Republic",
+      "productCode": "SWM36",
+      "repoPath": "data/squadron-card/galactic-republic/delta-7-aethersprite-squadron.json",
+      "sourceMilestone": "1.2"
+    },
+    {
+      "kind": "squadron",
+      "name": "Kickback",
+      "points": 16,
+      "faction": "Galactic Republic",
+      "productCode": "SWM36",
+      "repoPath": "data/squadron-card/galactic-republic/kickback.json",
+      "sourceMilestone": "1.2"
+    },
+    {
+      "kind": "squadron",
+      "name": "Kit Fisto",
+      "points": 24,
+      "faction": "Galactic Republic",
+      "productCode": "SWM36",
+      "repoPath": "data/squadron-card/galactic-republic/kit-fisto.json",
+      "sourceMilestone": "1.2"
+    },
+    {
+      "kind": "squadron",
+      "name": "Luminara Unduli",
+      "points": 23,
+      "faction": "Galactic Republic",
+      "productCode": "SWM36",
+      "repoPath": "data/squadron-card/galactic-republic/luminara-unduli.json",
+      "sourceMilestone": "1.2"
+    },
+    {
+      "kind": "squadron",
+      "name": "Odd Ball",
+      "points": 20,
+      "faction": "Galactic Republic",
+      "productCode": "SWM36",
+      "repoPath": "data/squadron-card/galactic-republic/odd-ball.json",
+      "sourceMilestone": "1.2"
+    },
+    {
+      "kind": "squadron",
+      "name": "Plo Koon",
+      "points": 24,
+      "faction": "Galactic Republic",
+      "productCode": "SWM36",
+      "repoPath": "data/squadron-card/galactic-republic/plo-koon.json",
+      "sourceMilestone": "1.2"
+    },
+    {
+      "kind": "ship",
+      "name": "Venator I-class Star Destroyer",
+      "points": 90,
+      "faction": "Galactic Republic",
+      "productCode": "SWM41",
+      "repoPath": "data/ship-card/galactic-republic/venator-i-class-star-destroyer.json",
+      "sourceMilestone": "1.3"
+    },
+    {
+      "kind": "ship",
+      "name": "Venator II-class Star Destroyer",
+      "points": 100,
+      "faction": "Galactic Republic",
+      "productCode": "SWM41",
+      "repoPath": "data/ship-card/galactic-republic/venator-ii-class-star-destroyer.json",
+      "sourceMilestone": "1.3"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Luminara Unduli",
+      "points": 25,
+      "faction": "Galactic Republic",
+      "productCode": "SWM41",
+      "repoPath": "data/upgrade-card/commander.json",
+      "sourceMilestone": "1.3"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Plo Koon",
+      "points": 26,
+      "faction": "Galactic Republic",
+      "productCode": "SWM41",
+      "repoPath": "data/upgrade-card/commander.json",
+      "sourceMilestone": "1.3"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Thermal Shields",
+      "points": 5,
+      "faction": "Galactic Republic / Separatist",
+      "productCode": "SWM41",
+      "repoPath": "data/upgrade-card/defensive-retrofit.json",
+      "sourceMilestone": "1.3"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Hot Landing",
+      "points": 3,
+      "faction": "Galactic Republic / Separatist",
+      "productCode": "SWM41",
+      "repoPath": "data/upgrade-card/fleet-command.json",
+      "sourceMilestone": "1.3"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Flak Guns",
+      "points": 3,
+      "faction": "Neutral",
+      "productCode": "SWM41",
+      "repoPath": "data/upgrade-card/offensive-retrofit.json",
+      "sourceMilestone": "1.3"
+    },
+    {
+      "kind": "upgrade",
+      "name": "SPHA-T",
+      "points": 7,
+      "faction": "Galactic Republic",
+      "productCode": "SWM41",
+      "repoPath": "data/upgrade-card/offensive-retrofit.json",
+      "sourceMilestone": "1.3"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Barriss Offee",
+      "points": 6,
+      "faction": "Galactic Republic",
+      "productCode": "SWM41",
+      "repoPath": "data/upgrade-card/officer.json",
+      "sourceMilestone": "1.3"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Ahsoka Tano",
+      "points": 6,
+      "faction": "Galactic Republic",
+      "productCode": "SWM41",
+      "repoPath": "data/upgrade-card/officer.json",
+      "sourceMilestone": "1.3"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Clone Commander Wolffe",
+      "points": 6,
+      "faction": "Galactic Republic",
+      "productCode": "SWM41",
+      "repoPath": "data/upgrade-card/officer.json",
+      "sourceMilestone": "1.3"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Resolute",
+      "points": 4,
+      "faction": "Galactic Republic",
+      "productCode": "SWM41",
+      "repoPath": "data/upgrade-card/title.json",
+      "sourceMilestone": "1.3"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Tranquility",
+      "points": 7,
+      "faction": "Galactic Republic",
+      "productCode": "SWM41",
+      "repoPath": "data/upgrade-card/title.json",
+      "sourceMilestone": "1.3"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Triumphant",
+      "points": 5,
+      "faction": "Galactic Republic",
+      "productCode": "SWM41",
+      "repoPath": "data/upgrade-card/title.json",
+      "sourceMilestone": "1.3"
+    },
+    {
+      "kind": "upgrade",
+      "name": "DBY-827 Heavy Turbolasers",
+      "points": 3,
+      "faction": "Neutral",
+      "productCode": "SWM41",
+      "repoPath": "data/upgrade-card/turbolasers.json",
+      "sourceMilestone": "1.3"
+    },
+    {
+      "kind": "ship",
+      "name": "Pelta-class Medical Frigate",
+      "points": 49,
+      "faction": "Galactic Republic",
+      "productCode": "SWM40",
+      "repoPath": "data/ship-card/galactic-republic/pelta-class-medical-frigate.json",
+      "sourceMilestone": "1.4"
+    },
+    {
+      "kind": "ship",
+      "name": "Pelta-class Transport Frigate",
+      "points": 45,
+      "faction": "Galactic Republic",
+      "productCode": "SWM40",
+      "repoPath": "data/ship-card/galactic-republic/pelta-class-transport-frigate.json",
+      "sourceMilestone": "1.4"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Admiral Tarkin",
+      "points": 30,
+      "faction": "Galactic Republic",
+      "productCode": "SWM40",
+      "repoPath": "data/upgrade-card/commander.json",
+      "sourceMilestone": "1.4"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Admiral Yularen",
+      "points": 24,
+      "faction": "Galactic Republic",
+      "productCode": "SWM40",
+      "repoPath": "data/upgrade-card/commander.json",
+      "sourceMilestone": "1.4"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Mercy Mission",
+      "points": 5,
+      "faction": "Galactic Republic",
+      "productCode": "SWM40",
+      "repoPath": "data/upgrade-card/fleet-command.json",
+      "sourceMilestone": "1.4"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Adi Gallia",
+      "points": 3,
+      "faction": "Galactic Republic",
+      "productCode": "SWM40",
+      "repoPath": "data/upgrade-card/officer.json",
+      "sourceMilestone": "1.4"
+    },
+    {
+      "kind": "upgrade",
+      "name": "Clone Captain Silver",
+      "points": 4,
+      "faction": "Galactic Republic",
+      "productCode": "SWM40",
+      "repoPath": "data/upgrade-card/officer.json",
+      "sourceMilestone": "1.4"
+    },
+    {
+      "kind": "upgrade",
+      "name": "TB-73",
+      "points": 5,
+      "faction": "Galactic Republic",
+      "productCode": "SWM40",
+      "repoPath": "data/upgrade-card/title.json",
+      "sourceMilestone": "1.4"
+    },
+    {
+      "kind": "upgrade",
+      "name": "FB-88",
+      "points": 4,
+      "faction": "Galactic Republic",
+      "productCode": "SWM40",
+      "repoPath": "data/upgrade-card/title.json",
+      "sourceMilestone": "1.4"
+    }
+  ],
+  "reprints": [
+    {
+      "name": "V-19 Torrent Squadron",
+      "kind": "squadron",
+      "recordProductCode": "SWM34",
+      "reprintProductCode": "SWM36",
+      "physicalCopiesInReprintProduct": 1,
+      "databasePolicy": "Do not duplicate the design record; represent SWM36 as product metadata/reprint provenance."
+    }
+  ],
+  "finalPointHistoryChecks": [
+    {
+      "name": "SPHA-T",
+      "repoPath": "data/upgrade-card/offensive-retrofit.json",
+      "printed": 3,
+      "current": 7
+    },
+    {
+      "name": "Resolute",
+      "repoPath": "data/upgrade-card/title.json",
+      "printed": 6,
+      "current": 4
+    },
+    {
+      "name": "Mercy Mission",
+      "repoPath": "data/upgrade-card/fleet-command.json",
+      "printed": 0,
+      "current": 5
+    }
+  ]
+}

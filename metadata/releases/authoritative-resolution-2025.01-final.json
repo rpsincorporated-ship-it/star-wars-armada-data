@@ -1,0 +1,25 @@
+﻿{
+    "milestone":  "6.9",
+    "status":  "PASS-MILESTONE-6-SOURCE-PIPELINE-COMPLETE-WITH-BACKLOG",
+    "baseline":  "2025.01-final",
+    "official_sources_acquired":  2,
+    "authoritative_queue_total":  244,
+    "authoritative_rows_resolved":  0,
+    "authoritative_rows_open":  244,
+    "confirmed_corrections_applied":  0,
+    "production_files_changed":  0,
+    "campaign_exact_text_rows_open":  19,
+    "github_release_ready":  false,
+    "release_blockers":  [
+                             {
+                                 "type":  "authoritative-review",
+                                 "count":  244,
+                                 "action":  "Populate direct factual evidence from official Errata 5.5 / RR 2.3."
+                             },
+                             {
+                                 "type":  "campaign-exact-text",
+                                 "count":  19,
+                                 "action":  "Supply authorized exact campaign objective text or owned scans/PDFs."
+                             }
+                         ]
+}

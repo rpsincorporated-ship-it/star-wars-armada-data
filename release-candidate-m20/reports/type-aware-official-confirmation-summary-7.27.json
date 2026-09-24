@@ -1,0 +1,11 @@
+﻿{
+    "milestone":  "7.27",
+    "status":  "PASS-TYPE-AWARE-OFFICIAL-CONFIRMATION-QUEUE",
+    "candidates":  6,
+    "same_card_plausible_disagreements":  1,
+    "cross_class_name_collisions":  5,
+    "ambiguous_same_class":  0,
+    "no_compatible_exact_match":  0,
+    "production_writes":  0,
+    "changed_production_files":  0
+}

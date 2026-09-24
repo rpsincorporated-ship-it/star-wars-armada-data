@@ -1,0 +1,77 @@
+﻿{
+    "name":  "Providence-class Carrier",
+    "size":  "large",
+    "faction":  "Rebel Alliance",
+    "hull":  9,
+    "command":  3,
+    "squadron":  2,
+    "engineering":  4,
+    "max-speed":  2,
+    "defense-tokens":  [
+                           "Brace",
+                           "Redirect",
+                           "Salvo",
+                           "Evade"
+                       ],
+    "shield":  {
+                   "front":  5,
+                   "right":  3,
+                   "left":  3,
+                   "rear":  2
+               },
+    "slots":  [
+                  "Officer",
+                  "Officer",
+                  "Weapons Team",
+                  "Weapons Team",
+                  "Offensive Retrofit",
+                  "Offensive Retrofit",
+                  "Support Team",
+                  "Support Team"
+              ],
+    "points":  95,
+    "points-history":  {
+                           "printed":  105,
+                           "current":  102
+                       },
+    "keywords":  [
+                     "Droid",
+                     "Comms",
+                     "Transport"
+                 ],
+    "source":  {
+                   "product":  "Invisible Hand Expansion Pack",
+                   "product-code":  "SWM42",
+                   "publisher":  "Fantasy Flight Games",
+                   "rules-baseline":  "AMG final Armada update, January 2025",
+                   "verification":  "Atomic Mass Games SWM42 product listing; Slicer Tools official ruleset; final AMG January 2025 points cross-check",
+                   "data-version":  "2025.01-final"
+               },
+    "legality":  {
+                     "status":  "official-final",
+                     "faction":  "Rebel Alliance",
+                     "rules_baseline":  "AMG final Armada update, January 2025",
+                     "data_version":  "2025.01-final",
+                     "product_origin":  "SWM42"
+                 },
+    "unique":  true,
+    "speed-chart":  {
+                        "1":  [
+                                  "|"
+                              ],
+                        "2":  [
+                                  "-",
+                                  "|"
+                              ]
+                    },
+    "traits":  [
+                   "Comms",
+                   "Transport"
+               ],
+    "stable-id":  "ship:rebel-alliance:providence-class-carrier",
+    "data-version":  "2025.01-final",
+    "supplement":  "Rapid Reinforcements I",
+    "supplement-revision":  "2.0",
+    "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
+    "image-status":  "card-image-not-packaged"
+}

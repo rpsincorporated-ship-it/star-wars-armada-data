@@ -1,0 +1,56 @@
+﻿[
+    {
+        "sequence":  6,
+        "campaign":  "Corellian Conflict (SWM25)",
+        "title":  "Asteroids",
+        "slug":  "asteroids"
+    },
+    {
+        "sequence":  7,
+        "campaign":  "Corellian Conflict (SWM25)",
+        "title":  "Independent Station",
+        "slug":  "independent-station"
+    },
+    {
+        "sequence":  8,
+        "campaign":  "Corellian Conflict (SWM25)",
+        "title":  "Nebula Outskirts",
+        "slug":  "nebula-outskirts"
+    },
+    {
+        "sequence":  9,
+        "campaign":  "Rebellion in the Rim (SWM31)",
+        "title":  "Base Defense: Armed Station",
+        "slug":  "base-defense-armed-station"
+    },
+    {
+        "sequence":  10,
+        "campaign":  "Rebellion in the Rim (SWM31)",
+        "title":  "Base Defense: Fighter Wing",
+        "slug":  "base-defense-fighter-wing"
+    },
+    {
+        "sequence":  11,
+        "campaign":  "Rebellion in the Rim (SWM31)",
+        "title":  "Base Defense: Ion Cannon",
+        "slug":  "base-defense-ion-cannon"
+    },
+    {
+        "sequence":  14,
+        "campaign":  "Rebellion in the Rim (SWM31)",
+        "title":  "Holonet Override",
+        "slug":  "holonet-override"
+    },
+    {
+        "sequence":  16,
+        "campaign":  "Rebellion in the Rim (SWM31)",
+        "title":  "Prototype Recovery",
+        "slug":  "prototype-recovery"
+    },
+    {
+        "sequence":  19,
+        "campaign":  "Rebellion in the Rim (SWM31)",
+        "title":  "Volatile Cargo",
+        "slug":  "volatile-cargo"
+    }
+]

@@ -1,0 +1,74 @@
+{
+  "code": "SWM43",
+  "name": "Recusant-class Destroyer Expansion Pack",
+  "faction": "Separatist Alliance",
+  "wave": 10,
+  "contents": {
+    "ship-miniatures": 1,
+    "ship-cards": 2,
+    "upgrade-cards": 14,
+    "tokens": 13
+  },
+  "ship-designs": [
+    "Recusant-class Light Destroyer",
+    "Recusant-class Support Destroyer"
+  ],
+  "physical-upgrade-copies": {
+    "Mar Tuuk": 1,
+    "TF-1726": 1,
+    "B2 Rocket Troopers": 2,
+    "Flak Guns": 2,
+    "Passel Argente": 1,
+    "San Hill": 1,
+    "Shu Mai": 1,
+    "Gilded Aegis": 1,
+    "Nova Defiant": 1,
+    "Patriot Fist": 1,
+    "DBY-827 Heavy Turbolasers": 2
+  },
+  "database-designs": {
+    "ship-designs": 2,
+    "physical-upgrade-cards": 14,
+    "unique-upgrade-designs-in-product": 11,
+    "new-swm43-origin-upgrade-designs": 8,
+    "reprinted-designs": 3
+  },
+  "reprints": [
+    {
+      "name": "B2 Rocket Troopers",
+      "represented-by-product": "SWM42",
+      "expected-points": 7,
+      "file": "offensive-retrofit.json"
+    },
+    {
+      "name": "Flak Guns",
+      "represented-by-product": "SWM41",
+      "expected-points": 3,
+      "file": "offensive-retrofit.json"
+    },
+    {
+      "name": "DBY-827 Heavy Turbolasers",
+      "represented-by-product": "SWM41",
+      "expected-points": 3,
+      "file": "turbolasers.json"
+    }
+  ],
+  "official-final-points": {
+    "Recusant-class Light Destroyer": 85,
+    "Recusant-class Support Destroyer": 90,
+    "Mar Tuuk": 28,
+    "TF-1726": 26,
+    "Passel Argente": 6,
+    "San Hill": 3,
+    "Shu Mai": 4,
+    "Gilded Aegis": 5,
+    "Nova Defiant": 4,
+    "Patriot Fist": 6
+  },
+  "rules-baseline": "AMG final Armada update / Errata 5.5, January 2025",
+  "community-ruleset-note": "Later ARC/Legacy/community point proposals or revisions are intentionally excluded from this official-final dataset.",
+  "notes": [
+    "SWM43 has 14 physical upgrade cards representing 11 unique designs.",
+    "Eight designs originate in SWM43; B2 Rocket Troopers, Flak Guns, and DBY-827 Heavy Turbolasers are validated as prior-product records and are not duplicated."
+  ]
+}

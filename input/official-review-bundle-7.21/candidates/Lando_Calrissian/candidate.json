@@ -1,0 +1,21 @@
+﻿{
+    "audit_id":  "squadron:rebel-alliance:data/squadron-card/rebel-alliance/lando-calrissian.json:1",
+    "name":  "Lando Calrissian",
+    "local_points":  23,
+    "baseline_bsdata_points":  [
+                                   4
+                               ],
+    "current_bsdata_points":  [
+                                  4
+                              ],
+    "rendered_official_pages":  [
+                                    {
+                                        "source":  "AMG-RULES-REFERENCE-1.6.0",
+                                        "page":  21,
+                                        "image_path":  "input\\official-review-7.18\\Lando_Calrissian\\AMG-RULES-REFERENCE-1.6.0_page_21.png",
+                                        "image_sha256":  "EA3D59716FB96F38574B8AFD67CC91BBCAB0BFD121D5B479B1E13172B294C644"
+                                    }
+                                ],
+    "review_status":  "OFFICIAL-PAGE-IMAGES-READY-FOR-VISUAL-REVIEW",
+    "production_write_authorized":  false
+}

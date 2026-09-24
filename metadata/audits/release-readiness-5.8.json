@@ -1,0 +1,39 @@
+﻿{
+    "milestone":  "5.8",
+    "status":  "PASS-RELEASE-READINESS-GATE",
+    "blockers":  [
+                     {
+                         "priority":  1,
+                         "area":  "Official Errata 5.5 reconciliation",
+                         "state":  "OPEN",
+                         "count":  1
+                     },
+                     {
+                         "priority":  2,
+                         "area":  "Legacy Rebel/Imperial points and structural reconciliation",
+                         "state":  "OPEN",
+                         "count":  null
+                     },
+                     {
+                         "priority":  3,
+                         "area":  "Campaign objective exact text",
+                         "state":  "SOURCE-GATED",
+                         "count":  19
+                     },
+                     {
+                         "priority":  4,
+                         "area":  "Deferred RR1 metadata",
+                         "state":  "NON-BLOCKING-DEFERRED",
+                         "count":  5
+                     },
+                     {
+                         "priority":  5,
+                         "area":  "Final global release gate",
+                         "state":  "WAITING",
+                         "count":  null
+                     }
+                 ],
+    "campaign_infrastructure_status":  "READY-BUT-EXACT-TEXT-SOURCE-GATED",
+    "rr1_gameplay_status":  "CORRECTED",
+    "next_major_execution":  "Official Errata 5.5 reconciliation"
+}

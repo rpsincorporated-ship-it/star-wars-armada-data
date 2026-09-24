@@ -1,0 +1,129 @@
+﻿[
+    {
+        "audit_id":  "ship:galactic-empire:data/ship-card/galactic-empire/imperial-i-class-star-destroyer.json:1",
+        "name":  "Imperial I-class Star Destroyer",
+        "local_points":  112,
+        "baseline_bsdata_points":  [
+                                       110
+                                   ],
+        "current_bsdata_points":  [
+                                      110
+                                  ],
+        "official_pages":  [
+
+                           ],
+        "official_text_page_count":  0,
+        "status":  "NO-OFFICIAL-TEXT-PAGE-IMAGE-ONLY-OR-UNLOCATED"
+    },
+    {
+        "audit_id":  "ship:galactic-empire:data/ship-card/galactic-empire/onager-class-star-destroyer.json:1",
+        "name":  "Onager-class Star Destroyer",
+        "local_points":  110,
+        "baseline_bsdata_points":  [
+                                       120
+                                   ],
+        "current_bsdata_points":  [
+                                      120
+                                  ],
+        "official_pages":  [
+                               {
+                                   "source":  "AMG-RULES-REFERENCE-1.6.0",
+                                   "page":  24,
+                                   "text_file":  "input\\official-text-review-7.23\\Onager-class_Star_Destroyer__AMG-RULES-REFERENCE-1.6.0__page_24.txt",
+                                   "name_found_in_text":  true,
+                                   "excerpt":  "ust choose a location with a friendly â€œA ship cannot equip more than one copy of the same upgrade card.â€ base, then selects the â€œBase Defenseâ€ campaign objective recorded for that location on the team roster.â€ ONAGER-CLASS STAR DESTROYER Extreme Range, p.3 CORE SET RULES REFERENCE This section should include the following bullet point: Attack, p.2 The second sentence of step 6, â€œDeclare Additional Squadron Target,â€ â€œWhile defending at extreme range, the standard effect of the D defense should read: token cancels two dice of the defenderâ€™s choice.â€ â€œThe new defender must be inside the firing arc and at attack range of the"
+                               }
+                           ],
+        "official_text_page_count":  1,
+        "status":  "OFFICIAL-TEXT-PAGES-EXTRACTED"
+    },
+    {
+        "audit_id":  "ship:galactic-empire:data/ship-card/galactic-empire/onager-class-testbed.json:1",
+        "name":  "Onager-class Testbed",
+        "local_points":  96,
+        "baseline_bsdata_points":  [
+                                       116
+                                   ],
+        "current_bsdata_points":  [
+                                      116
+                                  ],
+        "official_pages":  [
+                               {
+                                   "source":  "AMG-RULES-REFERENCE-1.6.0",
+                                   "page":  10,
+                                   "text_file":  "input\\official-text-review-7.23\\Onager-class_Testbed__AMG-RULES-REFERENCE-1.6.0__page_10.txt",
+                                   "name_found_in_text":  true,
+                                   "excerpt":  "presented by a model on a single peg (instead of a tree peg). For example, this includes squadrons such as YT-2400â€™s or VT-49 Decimators, not A-wings or TIE Interceptors. 5 2 2 Related Topics: Squadron, Squadron Phase Onager-class TesTbed 1 10 LINE OF SIGHT When resolving an attack, players measure line of sight between ships 2. Gather dice based on the range from the and squadrons in the play area to determine if an attack is possible and attacker\u0027s targeting token to the defender, whether it is obstructed. rather than based on the attack range. â€¢ To determine line of sight, a player uses the range ruler to trace a line between the attac"
+                               },
+                               {
+                                   "source":  "AMG-RULES-REFERENCE-1.6.0",
+                                   "page":  18,
+                                   "text_file":  "input\\official-text-review-7.23\\Onager-class_Testbed__AMG-RULES-REFERENCE-1.6.0__page_18.txt",
+                                   "name_found_in_text":  true,
+                                   "excerpt":  "Â© LFL Â© FFG â€¢ When it is a playerâ€™s turn to activate, if that player has any â—Š Imperial-class Star Destroyer unactivated ships, they can pass their turn by spending a pass token. Onager-class TesTbed â€¢ The following ships are huge ships: When a pass token is spent, it is discarded. â—Š Executor-class Star Dreadnought â€¢ A player with unactivated ships remaining can pass their turn under 3 Command the following conditions: Related Topics: Flotillas, Huge Ship, Ship 1 Squadron 10 â—Š The first player may pass their turn if they have activated at least one ship and they have fewer unactivated ships than the second SPECIAL BATTERY ARMA"
+                               }
+                           ],
+        "official_text_page_count":  2,
+        "status":  "OFFICIAL-TEXT-PAGES-EXTRACTED"
+    },
+    {
+        "audit_id":  "squadron:rebel-alliance:data/squadron-card/rebel-alliance/hera-syndulla.json:1",
+        "name":  "Hera Syndulla",
+        "local_points":  28,
+        "baseline_bsdata_points":  [
+                                       23
+                                   ],
+        "current_bsdata_points":  [
+                                      23
+                                  ],
+        "official_pages":  [
+
+                           ],
+        "official_text_page_count":  0,
+        "status":  "NO-OFFICIAL-TEXT-PAGE-IMAGE-ONLY-OR-UNLOCATED"
+    },
+    {
+        "audit_id":  "squadron:rebel-alliance:data/squadron-card/rebel-alliance/lando-calrissian.json:1",
+        "name":  "Lando Calrissian",
+        "local_points":  23,
+        "baseline_bsdata_points":  [
+                                       4
+                                   ],
+        "current_bsdata_points":  [
+                                      4
+                                  ],
+        "official_pages":  [
+                               {
+                                   "source":  "AMG-RULES-REFERENCE-1.6.0",
+                                   "page":  21,
+                                   "text_file":  "input\\official-text-review-7.23\\Lando_Calrissian__AMG-RULES-REFERENCE-1.6.0__page_21.txt",
+                                   "name_found_in_text":  true,
+                                   "excerpt":  "same completely-italicized squadron type, even if those cards have equipped for the purposes of scoring. different names. â€¢ On upgrade card effects, the term â€œyouâ€ refers to the ship that the Example: Allison adds Lando Calrissianâ€™s Millennium Falcon card to upgrade is equipped to. her fleet. Allison cannot also add Han Soloâ€™s Millennium Falcon card. â€¢ An exhausted upgrade card cannot be exhausted again. However, Allison can add both Luke Skywalker and Wedge Antillesâ€™ X-wing Squadron cards to her fleet. â€¢ Upgrade cards are readied during the Status Phase. Related Topics: Fleet Building, Upgrade Cards UPGRADE CARDS When buildin"
+                               }
+                           ],
+        "official_text_page_count":  1,
+        "status":  "OFFICIAL-TEXT-PAGES-EXTRACTED"
+    },
+    {
+        "audit_id":  "squadron:galactic-empire:data/squadron-card/galactic-empire/hondo-ohnaka.json:1",
+        "name":  "Hondo Ohnaka",
+        "local_points":  24,
+        "baseline_bsdata_points":  [
+                                       2
+                                   ],
+        "current_bsdata_points":  [
+                                      2
+                                  ],
+        "official_pages":  [
+                               {
+                                   "source":  "AMG-RULES-REFERENCE-1.6.0",
+                                   "page":  41,
+                                   "text_file":  "input\\official-text-review-7.23\\Hondo_Ohnaka__AMG-RULES-REFERENCE-1.6.0__page_41.txt",
+                                   "name_found_in_text":  true,
+                                   "excerpt":  " engaged by Valen Rudor can it has been set aside), that shipâ€™s owner attack this ship if they are not engaged by cannot resolve the remainder of this squadrons other than Valen Rudor. cardâ€™s effects. 4 Updated Card Hondo Ohnaka Â© LFL Â© FFG When resolving this cardâ€™s effect, both players must assign 2 command tokens to Intel Officer Â© LFL Â© FFG 2 different ships, even if they must assign A ship with this card equipped can tokens to enemy ships to do so. choose 1 of its own defense tokens when resolving this card. h â€¢ ondo ohnAkA Your opponent can assign command At the start of the Ship Phase, you may tokens to ships that you assig"
+                               }
+                           ],
+        "official_text_page_count":  1,
+        "status":  "OFFICIAL-TEXT-PAGES-EXTRACTED"
+    }
+]

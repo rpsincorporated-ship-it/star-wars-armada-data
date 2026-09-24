@@ -1,0 +1,94 @@
+﻿{
+    "milestone":  "3.1",
+    "supplement":  "Rapid Reinforcements I",
+    "status":  "PASS",
+    "audit_only":  true,
+    "total_inventory_entries":  10,
+    "classification":  [
+                           {
+                               "name":  "Anakin Skywalker",
+                               "kind":  "squadron",
+                               "faction":  "Galactic Republic",
+                               "expected_points":  19,
+                               "existing_matches":  1,
+                               "action":  "reconcile-existing"
+                           },
+                           {
+                               "name":  "Axe",
+                               "kind":  "squadron",
+                               "faction":  "Galactic Republic",
+                               "expected_points":  17,
+                               "existing_matches":  1,
+                               "action":  "reconcile-existing"
+                           },
+                           {
+                               "name":  "DIS-T81",
+                               "kind":  "squadron",
+                               "faction":  "Separatist Alliance",
+                               "expected_points":  17,
+                               "existing_matches":  1,
+                               "action":  "reconcile-existing"
+                           },
+                           {
+                               "name":  "DBS-404",
+                               "kind":  "squadron",
+                               "faction":  "Separatist Alliance",
+                               "expected_points":  17,
+                               "existing_matches":  1,
+                               "action":  "reconcile-existing"
+                           },
+                           {
+                               "name":  "Tycho Celchu",
+                               "kind":  "squadron",
+                               "faction":  "Rebel Alliance",
+                               "expected_points":  16,
+                               "existing_matches":  1,
+                               "action":  "reconcile-existing"
+                           },
+                           {
+                               "name":  "Wedge Antilles",
+                               "kind":  "squadron",
+                               "faction":  "Rebel Alliance",
+                               "expected_points":  19,
+                               "existing_matches":  1,
+                               "action":  "reconcile-existing"
+                           },
+                           {
+                               "name":  "Soontir Fel",
+                               "kind":  "squadron",
+                               "faction":  "Galactic Empire",
+                               "expected_points":  18,
+                               "existing_matches":  1,
+                               "action":  "reconcile-existing"
+                           },
+                           {
+                               "name":  "Maarek Stele",
+                               "kind":  "squadron",
+                               "faction":  "Galactic Empire",
+                               "expected_points":  21,
+                               "existing_matches":  1,
+                               "action":  "reconcile-existing"
+                           },
+                           {
+                               "name":  "Providence-class Carrier",
+                               "kind":  "ship",
+                               "faction":  "Separatist Alliance",
+                               "expected_points":  102,
+                               "existing_matches":  1,
+                               "action":  "reconcile-existing"
+                           },
+                           {
+                               "name":  "Venator II-class Star Destroyer",
+                               "kind":  "ship",
+                               "faction":  "Galactic Republic",
+                               "expected_points":  100,
+                               "existing_matches":  1,
+                               "action":  "reconcile-existing"
+                           }
+                       ],
+    "boundary":  {
+                     "production_card_data_modified":  false,
+                     "frozen_product_origin_data_modified":  false,
+                     "next_milestone":  "3.2 Rapid Reinforcements I installation/reconciliation"
+                 }
+}

@@ -1,0 +1,1030 @@
+﻿{
+    "milestone":  "4.4",
+    "status":  "PASS",
+    "scope":  "campaign-objective official-final source baseline and text-readiness audit",
+    "baseline":  {
+                     "policy":  "strict-official-final",
+                     "cutoff_date":  "2025-01-21",
+                     "release_label":  "2025.01-final",
+                     "post_cutoff_rulings_allowed":  false,
+                     "reason":  "Atomic Mass Games announced the final Star Wars: Armada update on 2025-01-21; later community or post-cutoff rulings must not silently alter this frozen baseline."
+                 },
+    "authoritative_sources":  [
+                                  {
+                                      "id":  "amg-final-update-2025-01-21",
+                                      "kind":  "official-announcement",
+                                      "authority":  "Atomic Mass Games",
+                                      "date":  "2025-01-21",
+                                      "url":  "https://www.atomicmassgames.com/transmission/organized-play-updates-including-a-long-awaited-update/",
+                                      "use":  "Defines the official-final Armada release cutoff."
+                                  },
+                                  {
+                                      "id":  "amg-armada-rules-page",
+                                      "kind":  "official-rules-index",
+                                      "authority":  "Atomic Mass Games",
+                                      "date":  "current-index",
+                                      "url":  "https://www.atomicmassgames.com/swarmadadocs/",
+                                      "use":  "Identifies the official Rules Reference, Errata Reference, Tournament Regulations, and Rapid Reinforcements documents."
+                                  },
+                                  {
+                                      "id":  "amg-errata-5.5",
+                                      "kind":  "official-errata",
+                                      "authority":  "Atomic Mass Games",
+                                      "date":  "2025-01",
+                                      "url":  "https://cdn.svc.asmodee.net/production-amgcom/uploads/2025/01/SWM_Errata_5.5.pdf",
+                                      "use":  "Primary official-final errata source for card/component corrections."
+                                  },
+                                  {
+                                      "id":  "ffg-faq-5.1.1",
+                                      "kind":  "official-historical-faq",
+                                      "authority":  "Fantasy Flight Games",
+                                      "date":  "historical",
+                                      "url":  "https://images-cdn.fantasyflightgames.com/filer_public/a8/52/a8529093-17c3-439b-8710-04f2de309e67/armada_faq_v511-compressed.pdf",
+                                      "use":  "Historical campaign objective errata/clarification corroboration where still applicable."
+                                  }
+                              ],
+    "known_campaign_errata_flags":  [
+                                        {
+                                            "title":  "Hyperlane Raid",
+                                            "product_sku":  "SWM25",
+                                            "field":  "end-of-game",
+                                            "status":  "official-errata-present",
+                                            "source_ids":  [
+                                                               "ffg-faq-5.1.1",
+                                                               "amg-errata-5.5"
+                                                           ],
+                                            "full_text_packaged":  false
+                                        },
+                                        {
+                                            "title":  "Nebula Outskirts",
+                                            "product_sku":  "SWM25",
+                                            "field":  "special-rule",
+                                            "status":  "official-errata-present",
+                                            "source_ids":  [
+                                                               "ffg-faq-5.1.1",
+                                                               "amg-errata-5.5"
+                                                           ],
+                                            "full_text_packaged":  false
+                                        }
+                                    ],
+    "construction":  {
+                         "records":  19,
+                         "unique_titles":  16,
+                         "swm25_records":  8,
+                         "swm31_records":  11,
+                         "base_defense_product_version_records":  6
+                     },
+    "readiness":  {
+                      "records":  [
+                                      {
+                                          "stable_id":  "objective:swm25:hyperlane-raid",
+                                          "title":  "Hyperlane Raid",
+                                          "product_sku":  "SWM25",
+                                          "fields":  [
+                                                         {
+                                                             "field":  "setup",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "special-rule",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-round",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-game",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  true,
+                                                             "source_status":  "errata-source-mapped-base-text-still-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "errata",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         }
+                                                     ],
+                                          "all_required_text_verified":  false,
+                                          "ready_for_production":  false
+                                      },
+                                      {
+                                          "stable_id":  "objective:swm25:show-of-force",
+                                          "title":  "Show of Force",
+                                          "product_sku":  "SWM25",
+                                          "fields":  [
+                                                         {
+                                                             "field":  "setup",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "special-rule",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-round",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-game",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "errata",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         }
+                                                     ],
+                                          "all_required_text_verified":  false,
+                                          "ready_for_production":  false
+                                      },
+                                      {
+                                          "stable_id":  "objective:swm25:base-defense-armed-station",
+                                          "title":  "Base Defense: Armed Station",
+                                          "product_sku":  "SWM25",
+                                          "fields":  [
+                                                         {
+                                                             "field":  "setup",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "special-rule",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-round",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-game",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "errata",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         }
+                                                     ],
+                                          "all_required_text_verified":  false,
+                                          "ready_for_production":  false
+                                      },
+                                      {
+                                          "stable_id":  "objective:swm25:base-defense-fighter-wing",
+                                          "title":  "Base Defense: Fighter Wing",
+                                          "product_sku":  "SWM25",
+                                          "fields":  [
+                                                         {
+                                                             "field":  "setup",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "special-rule",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-round",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-game",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "errata",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         }
+                                                     ],
+                                          "all_required_text_verified":  false,
+                                          "ready_for_production":  false
+                                      },
+                                      {
+                                          "stable_id":  "objective:swm25:base-defense-ion-cannon",
+                                          "title":  "Base Defense: Ion Cannon",
+                                          "product_sku":  "SWM25",
+                                          "fields":  [
+                                                         {
+                                                             "field":  "setup",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "special-rule",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-round",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-game",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "errata",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         }
+                                                     ],
+                                          "all_required_text_verified":  false,
+                                          "ready_for_production":  false
+                                      },
+                                      {
+                                          "stable_id":  "objective:swm25:asteroids",
+                                          "title":  "Asteroids",
+                                          "product_sku":  "SWM25",
+                                          "fields":  [
+                                                         {
+                                                             "field":  "setup",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "special-rule",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-round",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-game",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "errata",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         }
+                                                     ],
+                                          "all_required_text_verified":  false,
+                                          "ready_for_production":  false
+                                      },
+                                      {
+                                          "stable_id":  "objective:swm25:independent-station",
+                                          "title":  "Independent Station",
+                                          "product_sku":  "SWM25",
+                                          "fields":  [
+                                                         {
+                                                             "field":  "setup",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "special-rule",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-round",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-game",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "errata",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         }
+                                                     ],
+                                          "all_required_text_verified":  false,
+                                          "ready_for_production":  false
+                                      },
+                                      {
+                                          "stable_id":  "objective:swm25:nebula-outskirts",
+                                          "title":  "Nebula Outskirts",
+                                          "product_sku":  "SWM25",
+                                          "fields":  [
+                                                         {
+                                                             "field":  "setup",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "special-rule",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  true,
+                                                             "source_status":  "errata-source-mapped-base-text-still-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-round",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-game",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "errata",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         }
+                                                     ],
+                                          "all_required_text_verified":  false,
+                                          "ready_for_production":  false
+                                      },
+                                      {
+                                          "stable_id":  "objective:swm31:base-defense-armed-station",
+                                          "title":  "Base Defense: Armed Station",
+                                          "product_sku":  "SWM31",
+                                          "fields":  [
+                                                         {
+                                                             "field":  "setup",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "special-rule",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-round",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-game",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "errata",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         }
+                                                     ],
+                                          "all_required_text_verified":  false,
+                                          "ready_for_production":  false
+                                      },
+                                      {
+                                          "stable_id":  "objective:swm31:base-defense-fighter-wing",
+                                          "title":  "Base Defense: Fighter Wing",
+                                          "product_sku":  "SWM31",
+                                          "fields":  [
+                                                         {
+                                                             "field":  "setup",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "special-rule",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-round",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-game",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "errata",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         }
+                                                     ],
+                                          "all_required_text_verified":  false,
+                                          "ready_for_production":  false
+                                      },
+                                      {
+                                          "stable_id":  "objective:swm31:base-defense-ion-cannon",
+                                          "title":  "Base Defense: Ion Cannon",
+                                          "product_sku":  "SWM31",
+                                          "fields":  [
+                                                         {
+                                                             "field":  "setup",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "special-rule",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-round",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-game",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "errata",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         }
+                                                     ],
+                                          "all_required_text_verified":  false,
+                                          "ready_for_production":  false
+                                      },
+                                      {
+                                          "stable_id":  "objective:swm31:double-agent",
+                                          "title":  "Double Agent",
+                                          "product_sku":  "SWM31",
+                                          "fields":  [
+                                                         {
+                                                             "field":  "setup",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "special-rule",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-round",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-game",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "errata",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         }
+                                                     ],
+                                          "all_required_text_verified":  false,
+                                          "ready_for_production":  false
+                                      },
+                                      {
+                                          "stable_id":  "objective:swm31:hired-scum",
+                                          "title":  "Hired Scum",
+                                          "product_sku":  "SWM31",
+                                          "fields":  [
+                                                         {
+                                                             "field":  "setup",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "special-rule",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-round",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-game",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "errata",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         }
+                                                     ],
+                                          "all_required_text_verified":  false,
+                                          "ready_for_production":  false
+                                      },
+                                      {
+                                          "stable_id":  "objective:swm31:holonet-override",
+                                          "title":  "Holonet Override",
+                                          "product_sku":  "SWM31",
+                                          "fields":  [
+                                                         {
+                                                             "field":  "setup",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "special-rule",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-round",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-game",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "errata",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         }
+                                                     ],
+                                          "all_required_text_verified":  false,
+                                          "ready_for_production":  false
+                                      },
+                                      {
+                                          "stable_id":  "objective:swm31:pilot-defection",
+                                          "title":  "Pilot Defection",
+                                          "product_sku":  "SWM31",
+                                          "fields":  [
+                                                         {
+                                                             "field":  "setup",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "special-rule",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-round",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-game",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "errata",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         }
+                                                     ],
+                                          "all_required_text_verified":  false,
+                                          "ready_for_production":  false
+                                      },
+                                      {
+                                          "stable_id":  "objective:swm31:prototype-recovery",
+                                          "title":  "Prototype Recovery",
+                                          "product_sku":  "SWM31",
+                                          "fields":  [
+                                                         {
+                                                             "field":  "setup",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "special-rule",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-round",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-game",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "errata",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         }
+                                                     ],
+                                          "all_required_text_verified":  false,
+                                          "ready_for_production":  false
+                                      },
+                                      {
+                                          "stable_id":  "objective:swm31:recruit-allies",
+                                          "title":  "Recruit Allies",
+                                          "product_sku":  "SWM31",
+                                          "fields":  [
+                                                         {
+                                                             "field":  "setup",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "special-rule",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-round",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-game",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "errata",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         }
+                                                     ],
+                                          "all_required_text_verified":  false,
+                                          "ready_for_production":  false
+                                      },
+                                      {
+                                          "stable_id":  "objective:swm31:steal-supplies",
+                                          "title":  "Steal Supplies",
+                                          "product_sku":  "SWM31",
+                                          "fields":  [
+                                                         {
+                                                             "field":  "setup",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "special-rule",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-round",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-game",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "errata",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         }
+                                                     ],
+                                          "all_required_text_verified":  false,
+                                          "ready_for_production":  false
+                                      },
+                                      {
+                                          "stable_id":  "objective:swm31:volatile-cargo",
+                                          "title":  "Volatile Cargo",
+                                          "product_sku":  "SWM31",
+                                          "fields":  [
+                                                         {
+                                                             "field":  "setup",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "special-rule",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-round",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "end-of-game",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         },
+                                                         {
+                                                             "field":  "errata",
+                                                             "source_required":  true,
+                                                             "official_errata_flagged":  false,
+                                                             "source_status":  "base-text-source-required",
+                                                             "full_text_present":  false,
+                                                             "verified_for_production":  false
+                                                         }
+                                                     ],
+                                          "all_required_text_verified":  false,
+                                          "ready_for_production":  false
+                                      }
+                                  ],
+                      "required_text_fields":  [
+                                                   "setup",
+                                                   "special-rule",
+                                                   "end-of-round",
+                                                   "end-of-game",
+                                                   "errata"
+                                               ],
+                      "records_verified_for_production":  0,
+                      "records_blocked_for_source_text":  19
+                  },
+    "source_policy":  {
+                          "exact_card_text_may_not_be_guessed":  true,
+                          "field_level_source_mapping_required":  true,
+                          "full_web_sourced_card_text_packaged":  false,
+                          "production_install_blocked_until_all_required_text_fields_verified":  true
+                      },
+    "production_install_authorized":  false,
+    "production_card_data_modified":  false,
+    "next_milestone":  "4.5 authorized/source-supplied campaign-objective text ingestion and validation preflight"
+}
