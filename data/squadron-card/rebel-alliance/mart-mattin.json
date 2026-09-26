@@ -1,4 +1,4 @@
-{
+﻿{
     "name":  "Mart Mattin",
     "subname":  "Sato\u0027s Hammer",
     "unique":  true,
@@ -27,5 +27,6 @@
                        ],
     "points":  22,
     "squadron-image":  "squadron/rebel-alliance/yt-2400.png",
-    "image-status":  "card-image-not-packaged"
+    "image-status":  "card-image-not-packaged",
+    "image":  "squadron-card/rebel-alliance/mart-mattin.png"
 }

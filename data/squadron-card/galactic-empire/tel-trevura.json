@@ -1,4 +1,4 @@
-{
+﻿{
     "name":  "Tel Trevura",
     "subname":  "JumpMaster 5000",
     "unique":  true,
@@ -27,5 +27,6 @@
                        ],
     "points":  17,
     "squadron-image":  "squadron/galactic-empire/jumpmaster-5000.png",
-    "image-status":  "card-image-not-packaged"
+    "image-status":  "card-image-not-packaged",
+    "image":  "squadron-card/galactic-empire/tel-trevura.png"
 }

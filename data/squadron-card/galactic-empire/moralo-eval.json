@@ -1,4 +1,4 @@
-{
+﻿{
     "name":  "Moralo Eval",
     "subname":  "YV-666",
     "unique":  true,
@@ -26,5 +26,6 @@
                        ],
     "points":  22,
     "squadron-image":  "squadron/galactic-empire/yv-666.png",
-    "image-status":  "card-image-not-packaged"
+    "image-status":  "card-image-not-packaged",
+    "image":  "squadron-card/galactic-empire/moralo-eval.png"
 }

@@ -1,4 +1,4 @@
-{
+﻿{
     "name":  "Lando Calrissian",
     "subname":  "Millennium Falcon",
     "unique":  true,
@@ -27,5 +27,6 @@
                        ],
     "points":  23,
     "squadron-image":  "squadron/rebel-alliance/yt-1300.png",
-    "image-status":  "card-image-not-packaged"
+    "image-status":  "card-image-not-packaged",
+    "image":  "squadron-card/rebel-alliance/lando-calrissian.png"
 }

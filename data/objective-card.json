@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "title":  "Abandoned Mining Facility",
         "category":  "Defense",
@@ -12,7 +12,8 @@
                          ],
         "end-of-round":  "",
         "end-of-game":  "",
-        "points":  10
+        "points":  10,
+        "image":  "objective-card/contested-outpost.png"
     },
     {
         "title":  "Advanced Gunnery",
@@ -35,7 +36,8 @@
                          ],
         "end-of-round":  "End of Round: The second player places the 2 exogorth obstacles, each touching a different obstacle.",
         "end-of-game":  "",
-        "points":  0
+        "points":  0,
+        "image":  "objective-card/dangerous-territory.png"
     },
     {
         "title":  "Base Defense: Armed Station",
@@ -52,7 +54,8 @@
         "campaign":  "Corellian Conflict",
         "product-code":  "SWM25",
         "physical-card-sequence":  3,
-        "source-authority":  "Fantasy Flight Games official image CDN"
+        "source-authority":  "Fantasy Flight Games official image CDN",
+        "image":  "objective-card/fleet-ambush.png"
     },
     {
         "title":  "Base Defense: Fighter Wing",
@@ -66,7 +69,8 @@
         "campaign":  "Corellian Conflict",
         "product-code":  "SWM25",
         "physical-card-sequence":  4,
-        "source-authority":  "Fantasy Flight Games official image CDN"
+        "source-authority":  "Fantasy Flight Games official image CDN",
+        "image":  "objective-card/hyperspace-assault.png"
     },
     {
         "title":  "Base Defense: Ion Cannon",
@@ -83,7 +87,8 @@
         "campaign":  "Corellian Conflict",
         "product-code":  "SWM25",
         "physical-card-sequence":  5,
-        "source-authority":  "Fantasy Flight Games official image CDN"
+        "source-authority":  "Fantasy Flight Games official image CDN",
+        "image":  "objective-card/intel-sweep.png"
     },
     {
         "title":  "Blockade Run",
@@ -95,7 +100,8 @@
                          ],
         "end-of-round":  "",
         "end-of-game":  "End of Game: The second player gains 1 victory token for each ship with an objective token within the first player\u0027s deployment zone.",
-        "points":  20
+        "points":  20,
+        "image":  "objective-card/minefields.png"
     },
     {
         "title":  "Capture the VIP",
@@ -107,7 +113,8 @@
                          ],
         "end-of-round":  "",
         "end-of-game":  "End of Game: If a player\u0027s ship has the objective token, that player gains 1 victory token.",
-        "points":  50
+        "points":  50,
+        "image":  "objective-card/opening-salvo.png"
     },
     {
         "title":  "Close-Range Intel Scan",
@@ -119,7 +126,8 @@
                          ],
         "end-of-round":  "",
         "end-of-game":  "",
-        "points":  10
+        "points":  10,
+        "image":  "objective-card/precision-strike.png"
     },
     {
         "title":  "Contested Outpost",
@@ -151,7 +159,8 @@
                              "After all obstacles are moved, each player sums the command values of their ships at distance 1 of the station. The player with the highest total gains 1 victory token. Then remove all objectives tokens from the play area."
                          ],
         "end-of-game":  "",
-        "points":  20
+        "points":  20,
+        "image":  "objective-card/superior-positions.png"
     },
     {
         "title":  "Double Agent",
@@ -167,7 +176,8 @@
         "campaign":  "Rebellion in the Rim",
         "product-code":  "SWM31",
         "physical-card-sequence":  12,
-        "source-authority":  "Fantasy Flight Games official image CDN"
+        "source-authority":  "Fantasy Flight Games official image CDN",
+        "image":  "objective-card/double-agent.png"
     },
     {
         "title":  "Fighter Ambush",
@@ -179,7 +189,8 @@
         "special-rule":  "Special Rule: After a squadron performs an attack against a ship, if the defender was dealt at least 1 damage card, the squadron\u0027s owner gains 1 victory token.",
         "end-of-round":  "",
         "end-of-game":  "",
-        "points":  15
+        "points":  15,
+        "image":  "objective-card/fighter-ambush.png"
     },
     {
         "title":  "Fire Lanes",
@@ -208,7 +219,8 @@
         "special-rule":  "Special Rule: When a ship with an objective token is declared as the target of an attack, it may discard 1 objective token to ready 1 of its exhausted defense tokens.",
         "end-of-round":  "End of Round: If a ship is at distance 1-5 of 1 of the 3\u0027 edges of the play area, or at distance 1-3 of a player edge, remove 1 objective token from that ship.",
         "end-of-game":  "End of Game: Each player gains 1 victory token for each enemy ship in the play area that does not have an objective token.",
-        "points":  15
+        "points":  15,
+        "image":  "objective-card/fleet-in-being.png"
     },
     {
         "title":  "Hired Scum",
@@ -225,7 +237,8 @@
         "campaign":  "Rebellion in the Rim",
         "product-code":  "SWM31",
         "physical-card-sequence":  13,
-        "source-authority":  "Fantasy Flight Games official image CDN"
+        "source-authority":  "Fantasy Flight Games official image CDN",
+        "image":  "objective-card/hired-scum.png"
     },
     {
         "title":  "Hyperlane Raid",
@@ -241,7 +254,8 @@
         "campaign":  "Corellian Conflict",
         "product-code":  "SWM25",
         "physical-card-sequence":  1,
-        "source-authority":  "Fantasy Flight Games official image CDN"
+        "source-authority":  "Fantasy Flight Games official image CDN",
+        "image":  "objective-card/hyperlane-raid.png"
     },
     {
         "title":  "Hyperspace Assault",
@@ -261,7 +275,7 @@
                              "Special Rule: At the start of the Ship Phase of the first and third rounds, the second player places 1 purrgil not in the play area at distance 1 of 1 objective token (the objective token must be the same during both rounds).",
                              "When a purrgil moves, it must move toward the objective token at the opposite 3\u0027 edge. When a purrgil touches that objective token, that purrgil is removed from the play area."
                          ],
-        "end-of-round":  "For each ship, if it has an objective token on it, remove that token and that shipâ€™s owner gains 1 victory token; if it has no objective token on it and is at distance 1 of a purrgil, place 1 objective token on that ship. Then players move each purrgil.",
+        "end-of-round":  "For each ship, if it has an objective token on it, remove that token and that shipÃ¢â‚¬â„¢s owner gains 1 victory token; if it has no objective token on it and is at distance 1 of a purrgil, place 1 objective token on that ship. Then players move each purrgil.",
         "end-of-game":  "",
         "points":  20,
         "errata":  [
@@ -272,7 +286,8 @@
                        {
                            "version":  "5.1.1"
                        }
-                   ]
+                   ],
+        "image":  "objective-card/hyperspace-migration.png"
     },
     {
         "title":  "Infested Fields",
@@ -282,9 +297,10 @@
                              "Special Rule: When a ship or squadron overlaps an obstacle, that ship or squadron\u0027s owner may remove the objective token on the obstacle to gain 1 victory token.",
                              "After the start of each squadron phase (after exogorths perform attacks), remove each exogorth from the play area. Then the second player moves the obstacle each exogorth was touching to within distance 1-2 of its current location."
                          ],
-        "end-of-round":  "End of Round: For each exogorth obstacle not in the play area, the second player chooses an obstacle and places 1 exogorth toï»¿uching that obï»¿staclï»¿e.",
+        "end-of-round":  "End of Round: For each exogorth obstacle not in the play area, the second player chooses an obstacle and places 1 exogorth toÃ¯Â»Â¿uching that obÃ¯Â»Â¿staclÃ¯Â»Â¿e.",
         "end-of-game":  "",
-        "points":  15
+        "points":  15,
+        "image":  "objective-card/infested-fields.png"
     },
     {
         "title":  "Intel Sweep",
@@ -307,7 +323,8 @@
                          ],
         "end-of-round":  "",
         "end-of-game":  "",
-        "points":  15
+        "points":  15,
+        "image":  "objective-card/ion-storm.png"
     },
     {
         "title":  "Jamming Barrier",
@@ -328,7 +345,8 @@
                        {
                            "version":  "3.3.1"
                        }
-                   ]
+                   ],
+        "image":  "objective-card/jamming-barrier.png"
     },
     {
         "title":  "Marked for Destruction",
@@ -341,7 +359,8 @@
                          ],
         "end-of-round":  "",
         "end-of-game":  "",
-        "points":  15
+        "points":  15,
+        "image":  "objective-card/marked-for-destruction.png"
     },
     {
         "title":  "Minefields",
@@ -379,7 +398,8 @@
         "special-rule":  "Special Rule: When a ship overlaps an obstacle and suffers 1 or more damage or is dealt 1 or more damage cards, the opposing fleet\u0027s owner gains 1 victory token.",
         "end-of-round":  "End of Round: Starting with the second player and alternating, each player chooses 1 asteroid or debris field that does not have an objective token on it, and moves it to within distance 1-2 of its current location. Then, he places an objective token on that obstacle. An obstacle cannot be moved so that it overlaps a ship, squadron, or other obstacle. At the start of the next round, remove all objective tokens from the play area.",
         "end-of-game":  "",
-        "points":  15
+        "points":  15,
+        "image":  "objective-card/navigational-hazards.png"
     },
     {
         "title":  "Nebula Outskirts",
@@ -395,7 +415,8 @@
         "physical-card-sequence":  8,
         "source-authority":  "Fantasy Flight Games official updated card in Armada FAQ/Errata",
         "source-document":  "SWM Errata/FAQ updated campaign objective card",
-        "official-status":  "UPDATED-CARD"
+        "official-status":  "UPDATED-CARD",
+        "image":  "objective-card/nebula-outskirts.png"
     },
     {
         "title":  "Opening Salvo",
@@ -418,7 +439,8 @@
         "campaign":  "Rebellion in the Rim",
         "product-code":  "SWM31",
         "physical-card-sequence":  15,
-        "source-authority":  "Fantasy Flight Games official image CDN"
+        "source-authority":  "Fantasy Flight Games official image CDN",
+        "image":  "objective-card/pilot-defection.png"
     },
     {
         "title":  "Planetary Ion Cannon",
@@ -430,7 +452,8 @@
                          ],
         "end-of-round":  "",
         "end-of-game":  "",
-        "points":  0
+        "points":  0,
+        "image":  "objective-card/planetary-ion-cannon.png"
     },
     {
         "title":  "Precision Strike",
@@ -454,7 +477,8 @@
         "campaign":  "Rebellion in the Rim",
         "product-code":  "SWM31",
         "physical-card-sequence":  17,
-        "source-authority":  "Fantasy Flight Games official image CDN"
+        "source-authority":  "Fantasy Flight Games official image CDN",
+        "image":  "objective-card/recruit-allies.png"
     },
     {
         "title":  "Rift Ambush",
@@ -466,7 +490,8 @@
         "special-rule":  "Special Rule: Once per activation, after a ship executes a maneuver, if it is at distance 1-2 of the gravity rift, it must execute a speed-1 maneuver with a yaw of \"-\". If that ship belongs to the second player, it may use its speed-1 yaw value. The gravity rift does not have the ability to temporarily reduce that ship\u0027s speed during this maneuver.",
         "end-of-round":  "",
         "end-of-game":  "",
-        "points":  0
+        "points":  0,
+        "image":  "objective-card/rift-ambush.png"
     },
     {
         "title":  "Rift Assault",
@@ -478,7 +503,8 @@
                          ],
         "end-of-round":  "End of Round: Each ship at distance 1-2 of the gravity rift that is at speed 1 or lower suffers 1 facedown damage card.",
         "end-of-game":  "",
-        "points":  10
+        "points":  10,
+        "image":  "objective-card/rift-assault.png"
     },
     {
         "title":  "Salvage Run",
@@ -491,7 +517,8 @@
         "special-rule":  "Special Rule: When a player\u0027s ship reveals a command dial, that player may chose 1 objective token at distance 1 of that ship and remove it from the play area to gain 1 victory token.",
         "end-of-round":  "",
         "end-of-game":  "",
-        "points":  20
+        "points":  20,
+        "image":  "objective-card/salvage-run.jpg"
     },
     {
         "title":  "Sensor Net",
@@ -503,7 +530,8 @@
                          ],
         "end-of-round":  "",
         "end-of-game":  "",
-        "points":  15
+        "points":  15,
+        "image":  "objective-card/sensor-net.png"
     },
     {
         "title":  "Show of Force",
@@ -516,16 +544,18 @@
         "campaign":  "Corellian Conflict",
         "product-code":  "SWM25",
         "physical-card-sequence":  2,
-        "source-authority":  "Fantasy Flight Games official image CDN"
+        "source-authority":  "Fantasy Flight Games official image CDN",
+        "image":  "objective-card/show-of-force.png"
     },
     {
         "title":  "Solar Corona",
         "category":  "Navigation",
-        "setup":  "Setup: The first player must deploy all of his ships and squadrons before the second player. After the second player deploys ships and squadrons, the second player must choose 1 of the 3Â´ edges of the play area to be the [corona].",
+        "setup":  "Setup: The first player must deploy all of his ships and squadrons before the second player. After the second player deploys ships and squadrons, the second player must choose 1 of the 3Ã‚Â´ edges of the play area to be the [corona].",
         "special-rule":  "Special Rule: While a ship is attacking, before resolving any attack effects, if any portion of the corona is inside the attacking hull zone\u0027s firing arc, the attacker must discard 1 die with a [Accuracy] icon from the attack pool, if able.",
         "end-of-round":  "",
         "end-of-game":  "",
-        "points":  0
+        "points":  0,
+        "image":  "objective-card/solar-corona.png"
     },
     {
         "title":  "Station Assault",
@@ -534,7 +564,8 @@
         "special-rule":  "Special Rule: The first player\u0027s ships and squadrons cannot resolve an unarmed station\u0027s effect to discard damage cards or recover hull points when they overlap it.",
         "end-of-round":  "",
         "end-of-game":  "End of Game: The second player gains 1 victory token for each unarmed station that is not destroyed. The first player gains 1 victory token for each unarmed station that is destroyed.",
-        "points":  40
+        "points":  40,
+        "image":  "objective-card/station-assault.png"
     },
     {
         "title":  "Steal Supplies",
@@ -547,7 +578,8 @@
         "campaign":  "Rebellion in the Rim",
         "product-code":  "SWM31",
         "physical-card-sequence":  18,
-        "source-authority":  "Fantasy Flight Games official image CDN"
+        "source-authority":  "Fantasy Flight Games official image CDN",
+        "image":  "objective-card/steal-supplies.png"
     },
     {
         "title":  "Superior Positions",
@@ -570,7 +602,8 @@
         "special-rule":  "Special Rule: At the start of the Ship Phase during the first, second, and third rounds, the second player reveals the top command dial on this card, and each of the first player\u0027s ships gains a raid token matching that dial.",
         "end-of-round":  "",
         "end-of-game":  "",
-        "points":  0
+        "points":  0,
+        "image":  "objective-card/surprise-attack.png"
     },
     {
         "title":  "Targeting Beacons",
@@ -579,7 +612,8 @@
         "special-rule":  "Special Rule: While one of the second player\u0027s ships is attacking a ship that is at distance 1-2 of an objective token, the attacker may reroll up to 2 attack dice in the attack pool.",
         "end-of-round":  "",
         "end-of-game":  "",
-        "points":  0
+        "points":  0,
+        "image":  "objective-card/targeting-beacons.png"
     },
     {
         "title":  "Volatile Deposits",
@@ -592,7 +626,8 @@
                          ],
         "end-of-round":  "End of Round: For each asteroid field, each player sums the command values of their ships at distance 1. Then for each astroid field, the player with the highest total gains 1 victory token.",
         "end-of-game":  "",
-        "points":  15
+        "points":  15,
+        "image":  "objective-card/volatile-deposits.png"
     },
     {
         "title":  "Asteroids",
@@ -601,7 +636,8 @@
         "special-rule":  "Asteroid fields have no effect when overlapped by the second player\u0027s ships.",
         "end-of-round":  "",
         "end-of-game":  "",
-        "points":  0
+        "points":  0,
+        "image":  "objective-card/asteroids.png"
     },
     {
         "title":  "Independent Station",
@@ -610,7 +646,8 @@
         "special-rule":  "The armed station does not provide its normal damage-card or hull recovery benefit. After each Command Phase, it attacks the closest first-player ship in range; if no ship is in range, it attacks eligible first-player squadrons.",
         "end-of-round":  "",
         "end-of-game":  "",
-        "points":  0
+        "points":  0,
+        "image":  "objective-card/independent-station.png"
     },
     {
         "title":  "Holonet Override",
@@ -619,7 +656,8 @@
         "special-rule":  "The station does not provide its normal repair effect. Ships near the station may spend engineering points in increments of 2 to interact with it. The first player can place objective tokens on the station; the second player can remove objective tokens from it and gain victory tokens.",
         "end-of-round":  "",
         "end-of-game":  "The first player scores for objective tokens remaining on the station. Victory tokens gained by the second player also contribute to that player\u0027s score.",
-        "points":  10
+        "points":  10,
+        "image":  "objective-card/holonet-override.png"
     },
     {
         "title":  "Prototype Recovery",
@@ -628,7 +666,8 @@
         "special-rule":  "When a ship at distance 1 of the objective token resolves a Squadron command, its owner may attempt to recover the prototype instead of activating squadrons by rolling a blue die. The second player has an easier success condition. On success, deploy the prototype at distance 1 of the token and discard the token. While attacking, the prototype\u0027s critical results add to its damage total.",
         "end-of-round":  "",
         "end-of-game":  "If the prototype remains in the play area, its controlling player gains 1 victory token.",
-        "points":  30
+        "points":  30,
+        "image":  "objective-card/prototype-recovery.png"
     },
     {
         "title":  "Volatile Cargo",
@@ -637,6 +676,7 @@
         "special-rule":  "The second player designates 3 objective ships or squadrons, including at least 1 ship. Objective units can mitigate damage, but destroying them can damage nearby units and award victory tokens to the first player.",
         "end-of-round":  "",
         "end-of-game":  "The second player gains 2 victory tokens for each surviving objective ship or squadron that satisfies the objective\u0027s required position near the first player\u0027s edge.",
-        "points":  15
+        "points":  15,
+        "image":  "objective-card/volatile-cargo.png"
     }
 ]

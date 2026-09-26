@@ -1,4 +1,4 @@
-# Star Wars Armada Data
+﻿# Star Wars Armada Data
 
 Structured JSON data and packaged image assets for **Star Wars: Armada** cards.
 
@@ -28,7 +28,7 @@ Card text and structured data are included for:
 - Cards through Wave 8, including SSD, Starhawk, Onager, and Rebellion in the Rim
 - Errata through Armada FAQ version 5.1.1
 
-Images are included under `image/` for the packaged card image library.
+Images are included under `image/` for the packaged card image library. Some images are restored from the original public repository structure and some are sourced from publicly available publisher or wiki pages when exact card identity can be verified.
 
 ## Image Availability
 
@@ -70,7 +70,7 @@ This release was certified through Milestone `35.7a.7`.
 Certification summary:
 
 - Production JSON files audited: `191`
-- Files under `image/`: `384`
+- Files under `image/`: see current repository state
 - Historical ESLint gate: `PASSED`
 - Release certification: `STRICT_GRANTED`
 - UTF-8 BOM normalization completed before final release packaging
@@ -88,6 +88,16 @@ SHA256:
 7464DFF9D4C7026EA541DC20B0D18E3C39BA5AF8DCF9A31C63329767C2916086
 ```
 
+
+## Copyright, Trademark, and Reference-Only Notice
+
+This repository is an unofficial community reference dataset for Star Wars: Armada. It is not affiliated with, endorsed by, sponsored by, or approved by Lucasfilm Ltd., Disney, Atomic Mass Games, Fantasy Flight Games, Asmodee, or any related rights holder.
+
+Star Wars, Star Wars: Armada, all related names, card text, artwork, logos, characters, ships, factions, and other game materials are copyright and/or trademarks of their respective owners. Card images and card text are included only as a non-commercial reference aid for players, collectors, judges, developers, and preservation of game data.
+
+Public availability of an image or card scan does not mean the material is public domain or freely licensed for redistribution. If you are a rights holder and want a file, image, card text entry, or reference removed or corrected, please open an issue or contact the repository owner. The project will promptly review and remove or replace disputed material.
+
+Do not use this repository as a substitute for owning official products, official rules documents, or publisher materials. For official game information, rules, trademarks, copyrights, and organized play documents, refer to the official publisher and rights-holder sources.
 ## Testing
 
 Install dependencies and run:
@@ -116,3 +126,4 @@ For image additions, include provenance and redistribution status. Do not add ca
 All Star Wars: Armada images, card text, names, and related intellectual property are Copyright and Trademark Lucasfilm Ltd. and/or their respective rights holders.
 
 This repository is an unofficial structured data project and is not affiliated with, endorsed by, or sponsored by Lucasfilm Ltd., Fantasy Flight Games, Atomic Mass Games, or Asmodee.
+

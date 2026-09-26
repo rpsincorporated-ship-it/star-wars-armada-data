@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "name":  "All Fighters, Follow Me!",
         "text":  "At the start of the Ship Phase, you may discard this card or spend a [Squadron] token. If you do, until the end of the round, the speed of each squadron that a friendly ship activates is increased by 1, to a maximum of 5, until the end of that squadron\u0027s activation.",
@@ -16,32 +16,6 @@
                   ],
         "points":  5,
         "image":  "upgrade-card/fleet-command/entrapment-formation.png"
-    },
-    {
-        "name":  "Intensify Firepower!",
-        "text":  "At the start of the Ship Phase, you may discard this card or spend a [Concentrate Fire] token. If you do, until the end of the round, while each friendly ship is attacking a ship, it may change 1 die to a face with 1 [Hit] icon and no other icons.",
-        "slots":  [
-                      "Fleet Command"
-                  ],
-        "points":  6,
-        "image":  "upgrade-card/fleet-command/intensify-firepower.png"
-    },
-    {
-        "name":  "Shields to Maximum!",
-        "text":  "At the start of the Ship Phase, you may discard this card or spend a [Repair] token. If you do, until the end of the round, before a friendly ship reveals a command, it may recover 1 shield.",
-        "slots":  [
-                      "Fleet Command"
-                  ],
-        "points":  6,
-        "image":  "upgrade-card/fleet-command/shields-to-maximum.png"
-    },
-    {
-        "name":  "Take Evasive Action!",
-        "text":  "At the start of the Ship Phase, you may discard this card or spend a [Navigate] token. If you do, until the end of the round, each friendly ship may increase the last yaw value of its current speed by 1 during its Determine Course step.",
-        "slots":  [
-                      "Fleet Command"
-                  ],
-        "points":  6
     },
     {
         "name":  "Hot Landing",
@@ -70,7 +44,45 @@
                          "productOrigin":  "SWM41",
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
-                     }
+                     },
+        "image":  "upgrade-card/fleet-command/hot-landing.png"
+    },
+    {
+        "name":  "Intensify Firepower!",
+        "text":  "At the start of the Ship Phase, you may discard this card or spend a [Concentrate Fire] token. If you do, until the end of the round, while each friendly ship is attacking a ship, it may change 1 die to a face with 1 [Hit] icon and no other icons.",
+        "slots":  [
+                      "Fleet Command"
+                  ],
+        "points":  6,
+        "image":  "upgrade-card/fleet-command/intensify-firepower.png"
+    },
+    {
+        "name":  "Jedi Hostage",
+        "unique":  true,
+        "faction":  "Separatist Alliance",
+        "slots":  [
+                      "Fleet Command"
+                  ],
+        "points":  3,
+        "text":  "A readied hostage can assign raid pressure to ships attacking its carrier, while nearby enemies can exhaust it under the card\u0027s command condition; an exhausted hostage limits defense-token spending.",
+        "source":  {
+                       "product":  "Invisible Hand Expansion Pack",
+                       "product-code":  "SWM42",
+                       "publisher":  "Fantasy Flight Games",
+                       "rules-baseline":  "AMG final Armada update, January 2025",
+                       "verification":  "Atomic Mass Games SWM42 product listing; Slicer Tools official ruleset; final AMG January 2025 points cross-check",
+                       "data-version":  "2025.01-final"
+                   },
+        "id":  "swarmada:official:separatist-alliance:upgrade:fleet-command:jedi-hostage",
+        "data-version":  "2025.01-final",
+        "legality":  {
+                         "status":  "official-final",
+                         "faction":  "Separatist Alliance",
+                         "rules_baseline":  "AMG final Armada update, January 2025",
+                         "data_version":  "2025.01-final",
+                         "product_origin":  "SWM42"
+                     },
+        "image":  "upgrade-card/fleet-command/jedi-hostage.png"
     },
     {
         "name":  "Mercy Mission",
@@ -103,33 +115,25 @@
                          "productOrigin":  "SWM40",
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
-                     }
+                     },
+        "image":  "upgrade-card/fleet-command/mercy-mission.png"
     },
     {
-        "name":  "Jedi Hostage",
-        "unique":  true,
-        "faction":  "Separatist Alliance",
+        "name":  "Shields to Maximum!",
+        "text":  "At the start of the Ship Phase, you may discard this card or spend a [Repair] token. If you do, until the end of the round, before a friendly ship reveals a command, it may recover 1 shield.",
         "slots":  [
                       "Fleet Command"
                   ],
-        "points":  3,
-        "text":  "A readied hostage can assign raid pressure to ships attacking its carrier, while nearby enemies can exhaust it under the card\u0027s command condition; an exhausted hostage limits defense-token spending.",
-        "source":  {
-                       "product":  "Invisible Hand Expansion Pack",
-                       "product-code":  "SWM42",
-                       "publisher":  "Fantasy Flight Games",
-                       "rules-baseline":  "AMG final Armada update, January 2025",
-                       "verification":  "Atomic Mass Games SWM42 product listing; Slicer Tools official ruleset; final AMG January 2025 points cross-check",
-                       "data-version":  "2025.01-final"
-                   },
-        "id":  "swarmada:official:separatist-alliance:upgrade:fleet-command:jedi-hostage",
-        "data-version":  "2025.01-final",
-        "legality":  {
-                         "status":  "official-final",
-                         "faction":  "Separatist Alliance",
-                         "rules_baseline":  "AMG final Armada update, January 2025",
-                         "data_version":  "2025.01-final",
-                         "product_origin":  "SWM42"
-                     }
+        "points":  6,
+        "image":  "upgrade-card/fleet-command/shields-to-maximum.png"
+    },
+    {
+        "name":  "Take Evasive Action!",
+        "text":  "At the start of the Ship Phase, you may discard this card or spend a [Navigate] token. If you do, until the end of the round, each friendly ship may increase the last yaw value of its current speed by 1 during its Determine Course step.",
+        "slots":  [
+                      "Fleet Command"
+                  ],
+        "points":  6,
+        "image":  "upgrade-card/fleet-command/take-evasive-action.png"
     }
 ]

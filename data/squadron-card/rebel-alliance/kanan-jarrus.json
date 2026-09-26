@@ -1,4 +1,4 @@
-{
+﻿{
     "name":  "Kanan Jarrus",
     "subname":  "HWK-290",
     "unique":  true,
@@ -28,5 +28,6 @@
                        ],
     "points":  19,
     "squadron-image":  "squadron/rebel-alliance/hwk-290.png",
-    "image-status":  "card-image-not-packaged"
+    "image-status":  "card-image-not-packaged",
+    "image":  "squadron-card/rebel-alliance/kanan-jarrus.png"
 }

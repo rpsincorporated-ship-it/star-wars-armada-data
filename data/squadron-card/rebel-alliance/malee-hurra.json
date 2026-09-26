@@ -1,4 +1,4 @@
-{
+﻿{
     "name":  "Malee Hurra",
     "subname":  "Scurrg H-6 Bomber",
     "unique":  true,
@@ -27,5 +27,6 @@
                        ],
     "points":  26,
     "squadron-image":  "squadron/rebel-alliance/scurrg-h-6-bomber.png",
-    "image-status":  "card-image-not-packaged"
+    "image-status":  "card-image-not-packaged",
+    "image":  "squadron-card/rebel-alliance/malee-hurra.png"
 }

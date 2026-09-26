@@ -1,4 +1,4 @@
-{
+﻿{
     "name":  "Hondo Ohnaka",
     "subname":  "Slave I",
     "unique":  true,
@@ -28,5 +28,6 @@
                        ],
     "points":  24,
     "squadron-image":  "squadron/galactic-empire/firespray-31.png",
-    "image-status":  "card-image-not-packaged"
+    "image-status":  "card-image-not-packaged",
+    "image":  "squadron-card/galactic-empire/hondo-ohnaka.png"
 }

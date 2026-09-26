@@ -1,4 +1,4 @@
-{
+﻿{
     "name":  "IG-88B",
     "subname":  "IG-2000b",
     "unique":  true,
@@ -26,5 +26,6 @@
                        ],
     "points":  21,
     "squadron-image":  "squadron/galactic-empire/aggressor-assault-fighter.png",
-    "image-status":  "card-image-not-packaged"
+    "image-status":  "card-image-not-packaged",
+    "image":  "squadron-card/galactic-empire/ig-88b.png"
 }
