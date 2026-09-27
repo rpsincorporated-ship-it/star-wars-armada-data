@@ -71,7 +71,7 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  2,
-        "image":  "upgrade-card/officer.json/admiral-ozzel.png"
+        "image":  "upgrade-card/officer/admiral-ozzel.png"
     },
     {
         "name":  "Admiral Titus",
@@ -436,7 +436,7 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  1,
-        "image":  "squadron-card/galactic-empire/darth-vader.png"
+        "image":  "upgrade-card/officer/darth-vader.png"
     },
     {
         "name":  "Defense Liaison",
@@ -478,7 +478,7 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  3,
-        "image":  "upgrade-card/officer.json/emperor-palpatine.png"
+        "image":  "upgrade-card/officer/emperor-palpatine.png"
     },
     {
         "name":  "Engineering Captain",
@@ -596,7 +596,7 @@
                       "Officer"
                   ],
         "points":  5,
-        "image":  "upgrade-card/officer.json/kyrsta-agate.png"
+        "image":  "upgrade-card/officer/kyrsta-agate.png"
     },
     {
         "name":  "Lando Calrissian",
@@ -618,7 +618,7 @@
                       "Officer"
                   ],
         "points":  3,
-        "image":  "upgrade-card/officer.json/leia-organa.png"
+        "image":  "upgrade-card/officer/leia-organa.png"
     },
     {
         "name":  "Lira Wessex",
