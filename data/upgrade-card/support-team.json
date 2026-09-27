@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "name":  "Auxiliary Shields Team",
         "text":  "[Repair]: You may treat the maximum shield values of your right and left hull zones as increased by 1 when you recover or move shields to those zones, to a maximum of 4.",
@@ -62,7 +62,7 @@
                       "Support Team"
                   ],
         "points":  8,
-        "image":  "upgrade-card/support-team.json/engine-techs.png"
+        "image":  "upgrade-card/support-team/engine-techs.png"
     },
     {
         "name":  "Engineering Team",
@@ -71,7 +71,7 @@
                       "Support Team"
                   ],
         "points":  5,
-        "image":  "upgrade-card/support-team.json/engineering-team.png"
+        "image":  "upgrade-card/support-team/engineering-team.png"
     },
     {
         "name":  "Fighter Coordination Team",
@@ -80,7 +80,7 @@
                       "Support Team"
                   ],
         "points":  3,
-        "image":  "upgrade-card/support-team.json/fighter-coordination-team.png"
+        "image":  "upgrade-card/support-team/fighter-coordination-team.png"
     },
     {
         "name":  "Medical Team",
@@ -89,7 +89,7 @@
                       "Support Team"
                   ],
         "points":  1,
-        "image":  "upgrade-card/support-team.json/medical-team.png"
+        "image":  "upgrade-card/support-team/medical-team.png"
     },
     {
         "name":  "Nav Team",
@@ -98,7 +98,7 @@
                       "Support Team"
                   ],
         "points":  4,
-        "image":  "upgrade-card/support-team.json/nav-team.png"
+        "image":  "upgrade-card/support-team/nav-team.png"
     },
     {
         "name":  "Projection Experts",
@@ -107,6 +107,6 @@
                       "Support Team"
                   ],
         "points":  6,
-        "image":  "upgrade-card/support-team.json/projection-experts.png"
+        "image":  "upgrade-card/support-team/projection-experts.png"
     }
 ]

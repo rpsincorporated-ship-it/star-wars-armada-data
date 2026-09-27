@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "name":  "Advanced Transponder Net",
         "trait":  "Modification",
@@ -7,7 +7,7 @@
                       "Offensive Retrofit"
                   ],
         "points":  5,
-        "image":  "upgrade-card/offensive-retrofit.json/advanced-transponder-net.png"
+        "image":  "upgrade-card/offensive-retrofit/advanced-transponder-net.png"
     },
     {
         "name":  "B2 Rocket Troopers",
@@ -44,7 +44,7 @@
                       "Offensive Retrofit"
                   ],
         "points":  4,
-        "image":  "upgrade-card/offensive-retrofit.json/boosted-comms.png"
+        "image":  "upgrade-card/offensive-retrofit/boosted-comms.png"
     },
     {
         "name":  "Disposable Capacitors",
@@ -54,7 +54,7 @@
                       "Offensive Retrofit"
                   ],
         "points":  3,
-        "image":  "upgrade-card/offensive-retrofit.json/disposable-capacitors.png"
+        "image":  "upgrade-card/offensive-retrofit/disposable-capacitors.png"
     },
     {
         "name":  "Expanded Hangar Bay",
@@ -63,7 +63,7 @@
                       "Offensive Retrofit"
                   ],
         "points":  5,
-        "image":  "upgrade-card/offensive-retrofit.json/expanded-hangar-bay.png"
+        "image":  "upgrade-card/offensive-retrofit/expanded-hangar-bay.png"
     },
     {
         "name":  "Flag Bridge",
@@ -77,7 +77,7 @@
                       "Offensive Retrofit"
                   ],
         "points":  0,
-        "image":  "upgrade-card/offensive-retrofit.json/flag-bridge.png"
+        "image":  "upgrade-card/offensive-retrofit/flag-bridge.png"
     },
     {
         "name":  "Flak Guns",
@@ -117,7 +117,7 @@
                       "Offensive Retrofit"
                   ],
         "points":  5,
-        "image":  "upgrade-card/offensive-retrofit.json/hardened-bulkheads.png"
+        "image":  "upgrade-card/offensive-retrofit/hardened-bulkheads.png"
     },
     {
         "name":  "Hyperspace Rings",
@@ -183,7 +183,7 @@
                       "Offensive Retrofit"
                   ],
         "points":  6,
-        "image":  "upgrade-card/offensive-retrofit.json/phylon-q7-tractor-beams.png"
+        "image":  "upgrade-card/offensive-retrofit/phylon-q7-tractor-beams.png"
     },
     {
         "name":  "Point-Defense Reroute",
@@ -201,7 +201,7 @@
                       "Offensive Retrofit"
                   ],
         "points":  4,
-        "image":  "upgrade-card/offensive-retrofit.json/proximity-mines.png"
+        "image":  "upgrade-card/offensive-retrofit/proximity-mines.png"
     },
     {
         "name":  "Quad Laser Turrets",
@@ -210,7 +210,7 @@
                       "Offensive Retrofit"
                   ],
         "points":  5,
-        "image":  "upgrade-card/offensive-retrofit.json/quad-laser-turrets.png"
+        "image":  "upgrade-card/offensive-retrofit/quad-laser-turrets.png"
     },
     {
         "name":  "Rapid Launch Bays",
@@ -219,7 +219,7 @@
                       "Offensive Retrofit"
                   ],
         "points":  6,
-        "image":  "upgrade-card/offensive-retrofit.json/rapid-launch-bays.png"
+        "image":  "upgrade-card/offensive-retrofit/rapid-launch-bays.png"
     },
     {
         "name":  "Reserve Hangar Deck",

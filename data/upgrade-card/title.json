@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "name":  "Admonition",
         "unique":  true,
@@ -9,7 +9,7 @@
         "ship":  "MC30c Frigate",
         "faction":  "Rebel Alliance",
         "points":  8,
-        "image":  "upgrade-card/title.json/admonition.png"
+        "image":  "upgrade-card/title/admonition.png"
     },
     {
         "name":  "Amity",
@@ -22,7 +22,7 @@
         "ship":  "Starhawk-class Battleship",
         "faction":  "Rebel Alliance",
         "points":  6,
-        "image":  "upgrade-card/title.json/amity.png"
+        "image":  "upgrade-card/title/amity.png"
     },
     {
         "name":  "Annihilator",
@@ -34,7 +34,7 @@
         "ship":  "Star Dreadnought",
         "faction":  "Galactic Empire",
         "points":  8,
-        "image":  "upgrade-card/title.json/annihilator.png"
+        "image":  "upgrade-card/title/annihilator.png"
     },
     {
         "name":  "Aspiration",
@@ -46,7 +46,7 @@
         "ship":  "MC75 Cruiser",
         "faction":  "Rebel Alliance",
         "points":  3,
-        "image":  "upgrade-card/title.json/aspiration.png"
+        "image":  "upgrade-card/title/aspiration.png"
     },
     {
         "name":  "Avenger",
@@ -58,7 +58,7 @@
         "ship":  "Imperial-class Star Destroyer",
         "faction":  "Galactic Empire",
         "points":  5,
-        "image":  "upgrade-card/title.json/avenger.png",
+        "image":  "upgrade-card/title/avenger.png",
         "errata":  [
                        {
                            "version":  "original",
@@ -108,7 +108,7 @@
         "ship":  "GR-75 Transports",
         "faction":  "Rebel Alliance",
         "points":  2,
-        "image":  "upgrade-card/title.json/bright-hope.png"
+        "image":  "upgrade-card/title/bright-hope.png"
     },
     {
         "name":  "Cataclysm",
@@ -120,7 +120,7 @@
         "ship":  "Onager-class Star Destroyer",
         "faction":  "Galactic Empire",
         "points":  5,
-        "image":  "upgrade-card/title.json/cataclysm.png"
+        "image":  "upgrade-card/title/cataclysm.png"
     },
     {
         "name":  "Centicore",
@@ -132,7 +132,7 @@
         "ship":  "Arquitens-class Cruiser",
         "faction":  "Galactic Empire",
         "points":  3,
-        "image":  "upgrade-card/title.json/centicore.png"
+        "image":  "upgrade-card/title/centicore.png"
     },
     {
         "name":  "Chimaera",
@@ -144,7 +144,7 @@
         "ship":  "Imperial-class Star Destroyer",
         "faction":  "Galactic Empire",
         "points":  4,
-        "image":  "upgrade-card/title.json/chimaera.png"
+        "image":  "upgrade-card/title/chimaera.png"
     },
     {
         "name":  "Concord",
@@ -157,7 +157,7 @@
         "ship":  "Starhawk-class Battleship",
         "faction":  "Rebel Alliance",
         "points":  12,
-        "image":  "upgrade-card/title.json/concord.png"
+        "image":  "upgrade-card/title/concord.png"
     },
     {
         "name":  "Corrupter",
@@ -169,7 +169,7 @@
         "ship":  "Victory-class Star Destroyer",
         "faction":  "Galactic Empire",
         "points":  5,
-        "image":  "upgrade-card/title.json/corrupter.png"
+        "image":  "upgrade-card/title/corrupter.png"
     },
     {
         "name":  "Corvus",
@@ -181,7 +181,7 @@
         "ship":  "Raider-class Corvette",
         "faction":  "Galactic Empire",
         "points":  2,
-        "image":  "upgrade-card/title.json/corvus.png"
+        "image":  "upgrade-card/title/corvus.png"
     },
     {
         "name":  "Defiance",
@@ -193,7 +193,7 @@
         "ship":  "MC80 Cruiser",
         "faction":  "Rebel Alliance",
         "points":  5,
-        "image":  "upgrade-card/title.json/defiance.png"
+        "image":  "upgrade-card/title/defiance.png"
     },
     {
         "name":  "Demolisher",
@@ -205,7 +205,7 @@
         "ship":  "Gladiator-class Star Destroyer",
         "faction":  "Galactic Empire",
         "points":  10,
-        "image":  "upgrade-card/title.json/demolisher.png"
+        "image":  "upgrade-card/title/demolisher.png"
     },
     {
         "name":  "Devastator",
@@ -217,7 +217,7 @@
         "ship":  "Imperial-class Star Destroyer",
         "faction":  "Galactic Empire",
         "points":  10,
-        "image":  "upgrade-card/title.json/devastator.png"
+        "image":  "upgrade-card/title/devastator.png"
     },
     {
         "name":  "Dodonna\u0027s Pride",
@@ -229,7 +229,7 @@
         "ship":  "CR90 Corvette",
         "faction":  "Rebel Alliance",
         "points":  6,
-        "image":  "upgrade-card/title.json/dodonnas-pride.png"
+        "image":  "upgrade-card/title/dodonnas-pride.png"
     },
     {
         "name":  "Dominator",
@@ -241,7 +241,7 @@
         "ship":  "Victory-class Star Destroyer",
         "faction":  "Galactic Empire",
         "points":  12,
-        "image":  "upgrade-card/title.json/dominator.png"
+        "image":  "upgrade-card/title/dominator.png"
     },
     {
         "name":  "Eclipse",
@@ -253,7 +253,7 @@
         "ship":  "Star Dreadnought",
         "faction":  "Galactic Empire",
         "points":  3,
-        "image":  "upgrade-card/title.json/eclipse.png"
+        "image":  "upgrade-card/title/eclipse.png"
     },
     {
         "name":  "Endeavor",
@@ -265,7 +265,7 @@
         "ship":  "MC80 Cruiser",
         "faction":  "Rebel Alliance",
         "points":  4,
-        "image":  "upgrade-card/title.json/endeavor.png"
+        "image":  "upgrade-card/title/endeavor.png"
     },
     {
         "name":  "Executor",
@@ -277,7 +277,7 @@
         "ship":  "Star Dreadnought",
         "faction":  "Galactic Empire",
         "points":  2,
-        "image":  "upgrade-card/title.json/executor.png"
+        "image":  "upgrade-card/title/executor.png"
     },
     {
         "name":  "FB-88",
@@ -349,7 +349,7 @@
         "ship":  "MC30c Frigate",
         "faction":  "Rebel Alliance",
         "points":  8,
-        "image":  "upgrade-card/title.json/foresight.png"
+        "image":  "upgrade-card/title/foresight.png"
     },
     {
         "name":  "Gallant Haven",
@@ -361,7 +361,7 @@
         "ship":  "Assault Frigate Mark II",
         "faction":  "Rebel Alliance",
         "points":  8,
-        "image":  "upgrade-card/title.json/gallant-haven.png",
+        "image":  "upgrade-card/title/gallant-haven.png",
         "errata":  [
                        {
                            "version":  "original",
@@ -382,7 +382,7 @@
         "ship":  "Hammerhead Corvette",
         "faction":  "Rebel Alliance",
         "points":  4,
-        "image":  "upgrade-card/title.json/garels-honor.png"
+        "image":  "upgrade-card/title/garels-honor.png"
     },
     {
         "name":  "Gilded Aegis",
@@ -423,7 +423,7 @@
         "ship":  "Arquitens-class Cruiser",
         "faction":  "Galactic Empire",
         "points":  4,
-        "image":  "upgrade-card/title.json/hand-of-justice.png"
+        "image":  "upgrade-card/title/hand-of-justice.png"
     },
     {
         "name":  "Harrow",
@@ -435,7 +435,7 @@
         "ship":  "Victory-class Star Destroyer",
         "faction":  "Galactic Empire",
         "points":  3,
-        "image":  "upgrade-card/title.json/harrow.png"
+        "image":  "upgrade-card/title/harrow.png"
     },
     {
         "name":  "Home One",
@@ -447,7 +447,7 @@
         "ship":  "MC80 Cruiser",
         "faction":  "Rebel Alliance",
         "points":  7,
-        "image":  "upgrade-card/title.json/home-one.png"
+        "image":  "upgrade-card/title/home-one.png"
     },
     {
         "name":  "Impetuous",
@@ -459,7 +459,7 @@
         "ship":  "Raider-class Corvette",
         "faction":  "Galactic Empire",
         "points":  4,
-        "image":  "upgrade-card/title.json/impetuous.png"
+        "image":  "upgrade-card/title/impetuous.png"
     },
     {
         "name":  "Implacable",
@@ -502,7 +502,7 @@
         "ship":  "MC80 Cruiser",
         "faction":  "Rebel Alliance",
         "points":  8,
-        "image":  "upgrade-card/title.json/independence.png"
+        "image":  "upgrade-card/title/independence.png"
     },
     {
         "name":  "Insidious",
@@ -514,7 +514,7 @@
         "ship":  "Gladiator-class Star Destroyer",
         "faction":  "Galactic Empire",
         "points":  3,
-        "image":  "upgrade-card/title.json/insidious.png"
+        "image":  "upgrade-card/title/insidious.png"
     },
     {
         "name":  "Instigator",
@@ -526,7 +526,7 @@
         "ship":  "Raider-class Corvette",
         "faction":  "Galactic Empire",
         "points":  4,
-        "image":  "upgrade-card/title.json/instigator.png"
+        "image":  "upgrade-card/title/instigator.png"
     },
     {
         "name":  "Interdictor",
@@ -538,7 +538,7 @@
         "ship":  "Interdictor",
         "faction":  "Galactic Empire",
         "points":  3,
-        "image":  "upgrade-card/title.json/interdictor.png"
+        "image":  "upgrade-card/title/interdictor.png"
     },
     {
         "name":  "Invincible",
@@ -612,7 +612,7 @@
         "ship":  "CR90 Corvette",
         "faction":  "Rebel Alliance",
         "points":  2,
-        "image":  "upgrade-card/title.json/jainas-light.png"
+        "image":  "upgrade-card/title/jainas-light.png"
     },
     {
         "name":  "Liberator",
@@ -624,7 +624,7 @@
         "ship":  "CR90 Corvette",
         "faction":  "Rebel Alliance",
         "points":  2,
-        "image":  "upgrade-card/title.json/liberator.png"
+        "image":  "upgrade-card/title/liberator.png"
     },
     {
         "name":  "Liberty",
@@ -636,7 +636,7 @@
         "ship":  "MC80 Cruiser",
         "faction":  "Rebel Alliance",
         "points":  3,
-        "image":  "upgrade-card/title.json/liberty.png"
+        "image":  "upgrade-card/title/liberty.png"
     },
     {
         "name":  "Lucid Voice",
@@ -678,7 +678,7 @@
         "ship":  "MC75 Cruiser",
         "faction":  "Rebel Alliance",
         "points":  5,
-        "image":  "upgrade-card/title.json/mon-calamari-exodus-fleet.png"
+        "image":  "upgrade-card/title/mon-calamari-exodus-fleet.png"
     },
     {
         "name":  "Mon Karren",
@@ -690,7 +690,7 @@
         "ship":  "MC80 Cruiser",
         "faction":  "Rebel Alliance",
         "points":  8,
-        "image":  "upgrade-card/title.json/mon-karren.png"
+        "image":  "upgrade-card/title/mon-karren.png"
     },
     {
         "name":  "Nevoota Bee",
@@ -762,7 +762,7 @@
         "ship":  "Assault Frigate Mark II",
         "faction":  "Rebel Alliance",
         "points":  5,
-        "image":  "upgrade-card/title.json/paragon.png"
+        "image":  "upgrade-card/title/paragon.png"
     },
     {
         "name":  "Patriot Fist",
@@ -803,7 +803,7 @@
         "ship":  "Pelta-class Ship",
         "faction":  "Rebel Alliance",
         "points":  3,
-        "image":  "upgrade-card/title.json/phoenix-home.png"
+        "image":  "upgrade-card/title/phoenix-home.png"
     },
     {
         "name":  "Profundity",
@@ -815,7 +815,7 @@
         "ship":  "MC75 Cruiser",
         "faction":  "Rebel Alliance",
         "points":  7,
-        "image":  "upgrade-card/title.json/profundity.png"
+        "image":  "upgrade-card/title/profundity.png"
     },
     {
         "name":  "Pursuant",
@@ -827,7 +827,7 @@
         "ship":  "Quasar Fire-class Cruiser-Carrier",
         "faction":  "Galactic Empire",
         "points":  2,
-        "image":  "upgrade-card/title.json/pursuant.png"
+        "image":  "upgrade-card/title/pursuant.png"
     },
     {
         "name":  "Quantum Storm",
@@ -839,7 +839,7 @@
         "ship":  "GR-75 Transports",
         "faction":  "Rebel Alliance",
         "points":  1,
-        "image":  "upgrade-card/title.json/quantum-storm.png"
+        "image":  "upgrade-card/title/quantum-storm.png"
     },
     {
         "name":  "Radiant VII",
@@ -882,7 +882,7 @@
         "ship":  "Onager-class Star Destroyer",
         "faction":  "Galactic Empire",
         "points":  4,
-        "image":  "upgrade-card/title.json/rakehell.png"
+        "image":  "upgrade-card/title/rakehell.png"
     },
     {
         "name":  "Ravager",
@@ -894,7 +894,7 @@
         "ship":  "Star Dreadnought",
         "faction":  "Galactic Empire",
         "points":  4,
-        "image":  "upgrade-card/title.json/ravager.png"
+        "image":  "upgrade-card/title/ravager.png"
     },
     {
         "name":  "Redemption",
@@ -906,7 +906,7 @@
         "ship":  "Nebulon-B Frigate",
         "faction":  "Rebel Alliance",
         "points":  8,
-        "image":  "upgrade-card/title.json/redemption.png"
+        "image":  "upgrade-card/title/redemption.png"
     },
     {
         "name":  "Relentless",
@@ -918,7 +918,7 @@
         "ship":  "Imperial-class Star Destroyer",
         "faction":  "Galactic Empire",
         "points":  3,
-        "image":  "upgrade-card/title.json/relentless.png"
+        "image":  "upgrade-card/title/relentless.png"
     },
     {
         "name":  "Resolute",
@@ -997,7 +997,7 @@
         "ship":  "Nebulon-B Frigate",
         "faction":  "Rebel Alliance",
         "points":  7,
-        "image":  "upgrade-card/title.json/salvation.png"
+        "image":  "upgrade-card/title/salvation.png"
     },
     {
         "name":  "Seventh Fleet Star Destroyer",
@@ -1008,7 +1008,7 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  5,
-        "image":  "upgrade-card/title.json/seventh-fleet-star-destroyer.png"
+        "image":  "upgrade-card/title/seventh-fleet-star-destroyer.png"
     },
     {
         "name":  "Sovereign",
@@ -1020,7 +1020,7 @@
         "ship":  "Imperial-class Star Destroyer",
         "faction":  "Galactic Empire",
         "points":  4,
-        "image":  "upgrade-card/title.json/sovereign.png"
+        "image":  "upgrade-card/title/sovereign.png"
     },
     {
         "name":  "Squall",
@@ -1032,7 +1032,7 @@
         "ship":  "Quasar Fire-class Cruiser-Carrier",
         "faction":  "Galactic Empire",
         "points":  3,
-        "image":  "upgrade-card/title.json/squall.png"
+        "image":  "upgrade-card/title/squall.png"
     },
     {
         "name":  "Stronghold",
@@ -1044,7 +1044,7 @@
         "ship":  "Quasar Fire-class Cruiser-Carrier",
         "faction":  "Galactic Empire",
         "points":  5,
-        "image":  "upgrade-card/title.json/stronghold.png"
+        "image":  "upgrade-card/title/stronghold.png"
     },
     {
         "name":  "Sunder",
@@ -1056,7 +1056,7 @@
         "ship":  "Onager-class Star Destroyer",
         "faction":  "Galactic Empire",
         "points":  10,
-        "image":  "upgrade-card/title.json/sunder.png"
+        "image":  "upgrade-card/title/sunder.png"
     },
     {
         "name":  "Suppressor",
@@ -1068,7 +1068,7 @@
         "ship":  "Gozanti-class Cruiser",
         "faction":  "Galactic Empire",
         "points":  4,
-        "image":  "upgrade-card/title.json/suppressor.png"
+        "image":  "upgrade-card/title/suppressor.png"
     },
     {
         "name":  "Swift Return",
@@ -1111,7 +1111,7 @@
         "ship":  "CR90 Corvette",
         "faction":  "Rebel Alliance",
         "points":  3,
-        "image":  "upgrade-card/title.json/tantive-iv.png"
+        "image":  "upgrade-card/title/tantive-iv.png"
     },
     {
         "name":  "Task Force Antilles",
@@ -1122,7 +1122,7 @@
         "ship":  "Hammerhead Corvette",
         "faction":  "Rebel Alliance",
         "points":  3,
-        "image":  "upgrade-card/title.json/task-force-antilles.png"
+        "image":  "upgrade-card/title/task-force-antilles.png"
     },
     {
         "name":  "Task Force Organa",
@@ -1133,7 +1133,7 @@
         "ship":  "Hammerhead Corvette",
         "faction":  "Rebel Alliance",
         "points":  1,
-        "image":  "upgrade-card/title.json/task-force-organa.png"
+        "image":  "upgrade-card/title/task-force-organa.png"
     },
     {
         "name":  "TB-73",
@@ -1267,7 +1267,7 @@
         "ship":  "Starhawk-class Battleship",
         "faction":  "Rebel Alliance",
         "points":  10,
-        "image":  "upgrade-card/title.json/unity.png"
+        "image":  "upgrade-card/title/unity.png"
     },
     {
         "name":  "Vanguard",
@@ -1279,7 +1279,7 @@
         "ship":  "Nebulon-B Frigate",
         "faction":  "Rebel Alliance",
         "points":  4,
-        "image":  "upgrade-card/title.json/vanguard.png"
+        "image":  "upgrade-card/title/vanguard.png"
     },
     {
         "name":  "Vector",
@@ -1291,7 +1291,7 @@
         "ship":  "Gozanti-class Cruiser",
         "faction":  "Galactic Empire",
         "points":  2,
-        "image":  "upgrade-card/title.json/vector.png"
+        "image":  "upgrade-card/title/vector.png"
     },
     {
         "name":  "Warlord",
@@ -1303,7 +1303,7 @@
         "ship":  "Victory-class Star Destroyer",
         "faction":  "Galactic Empire",
         "points":  8,
-        "image":  "upgrade-card/title.json/warlord.png"
+        "image":  "upgrade-card/title/warlord.png"
     },
     {
         "name":  "Yavaris",
@@ -1315,7 +1315,7 @@
         "ship":  "Nebulon-B Frigate",
         "faction":  "Rebel Alliance",
         "points":  5,
-        "image":  "upgrade-card/title.json/yavaris.png",
+        "image":  "upgrade-card/title/yavaris.png",
         "errata":  [
                        {
                            "version":  "original",

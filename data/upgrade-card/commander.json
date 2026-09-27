@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "name":  "Admiral Ackbar",
         "unique":  true,
@@ -8,7 +8,7 @@
                       "Commander"
                   ],
         "points":  38,
-        "image":  "upgrade-card/commander.json/admiral-ackbar.png"
+        "image":  "upgrade-card/commander/admiral-ackbar.png"
     },
     {
         "name":  "Admiral Konstantine",
@@ -19,7 +19,7 @@
                       "Commander"
                   ],
         "points":  23,
-        "image":  "upgrade-card/commander.json/admiral-konstantine.png"
+        "image":  "upgrade-card/commander/admiral-konstantine.png"
     },
     {
         "name":  "Admiral Motti",
@@ -30,7 +30,7 @@
                       "Commander"
                   ],
         "points":  24,
-        "image":  "upgrade-card/commander.json/admiral-motti.png"
+        "image":  "upgrade-card/commander/admiral-motti.png"
     },
     {
         "name":  "Admiral Ozzel",
@@ -52,7 +52,7 @@
                       "Commander"
                   ],
         "points":  22,
-        "image":  "upgrade-card/commander.json/admiral-piett.png"
+        "image":  "upgrade-card/commander/admiral-piett.png"
     },
     {
         "name":  "Admiral Raddus",
@@ -63,7 +63,7 @@
                       "Commander"
                   ],
         "points":  26,
-        "image":  "upgrade-card/commander.json/admiral-raddus.png",
+        "image":  "upgrade-card/commander/admiral-raddus.png",
         "errata":  [
                        {
                            "version":  "original",
@@ -83,7 +83,7 @@
                       "Commander"
                   ],
         "points":  26,
-        "image":  "upgrade-card/commander.json/admiral-screed.png"
+        "image":  "upgrade-card/commander/admiral-screed.png"
     },
     {
         "name":  "Admiral Sloane",
@@ -94,7 +94,7 @@
                       "Commander"
                   ],
         "points":  24,
-        "image":  "upgrade-card/commander.json/admiral-sloane.png"
+        "image":  "upgrade-card/commander/admiral-sloane.png"
     },
     {
         "name":  "Admiral Tarkin",
@@ -250,7 +250,7 @@
                       "Commander"
                   ],
         "points":  32,
-        "image":  "upgrade-card/commander.json/commander-sato.png"
+        "image":  "upgrade-card/commander/commander-sato.png"
     },
     {
         "name":  "Count Dooku",
@@ -315,7 +315,7 @@
                       "Commander"
                   ],
         "points":  25,
-        "image":  "upgrade-card/commander.json/garm-bel-iblis.png"
+        "image":  "upgrade-card/commander/garm-bel-iblis.png"
     },
     {
         "name":  "General Cracken",
@@ -326,7 +326,7 @@
                       "Commander"
                   ],
         "points":  26,
-        "image":  "upgrade-card/commander.json/general-cracken.png"
+        "image":  "upgrade-card/commander/general-cracken.png"
     },
     {
         "name":  "General Dodonna",
@@ -337,7 +337,7 @@
                       "Commander"
                   ],
         "points":  20,
-        "image":  "upgrade-card/commander.json/general-dodonna.png"
+        "image":  "upgrade-card/commander/general-dodonna.png"
     },
     {
         "name":  "General Draven",
@@ -393,7 +393,7 @@
                       "Commander"
                   ],
         "points":  30,
-        "image":  "upgrade-card/commander.json/general-madine.png"
+        "image":  "upgrade-card/commander/general-madine.png"
     },
     {
         "name":  "General Rieekan",
@@ -404,7 +404,7 @@
                       "Commander"
                   ],
         "points":  30,
-        "image":  "upgrade-card/commander.json/general-rieekan.png"
+        "image":  "upgrade-card/commander/general-rieekan.png"
     },
     {
         "name":  "General Romodi",
@@ -415,7 +415,7 @@
                       "Commander"
                   ],
         "points":  20,
-        "image":  "upgrade-card/commander.json/general-romodi.png"
+        "image":  "upgrade-card/commander/general-romodi.png"
     },
     {
         "name":  "General Tagge",
@@ -437,7 +437,7 @@
                       "Commander"
                   ],
         "points":  32,
-        "image":  "upgrade-card/commander.json/grand-admiral-thrawn.png"
+        "image":  "upgrade-card/commander/grand-admiral-thrawn.png"
     },
     {
         "name":  "Grand Moff Tarkin",
@@ -448,7 +448,7 @@
                       "Commander"
                   ],
         "points":  38,
-        "image":  "upgrade-card/commander.json/grand-moff-tarkin.png"
+        "image":  "upgrade-card/commander/grand-moff-tarkin.png"
     },
     {
         "name":  "Kraken",
@@ -567,7 +567,7 @@
                       "Commander"
                   ],
         "points":  23,
-        "image":  "upgrade-card/commander.json/moff-jerjerrod.png"
+        "image":  "upgrade-card/commander/moff-jerjerrod.png"
     },
     {
         "name":  "Mon Mothma",
@@ -578,7 +578,7 @@
                       "Commander"
                   ],
         "points":  30,
-        "image":  "upgrade-card/commander.json/mon-mothma.png"
+        "image":  "upgrade-card/commander/mon-mothma.png"
     },
     {
         "name":  "Obi-Wan Kenobi",

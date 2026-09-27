@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "name":  "Bomber Command Center",
         "text":  "While a friendly squadron with Bomber at distance 1-5 is attacking a ship, it may reroll 1 die.",
@@ -6,7 +6,7 @@
                       "Fleet Support"
                   ],
         "points":  8,
-        "image":  "upgrade-card/fleet-support.json/bomber-command-center.png"
+        "image":  "upgrade-card/fleet-support/bomber-command-center.png"
     },
     {
         "name":  "Comms Net",
@@ -15,7 +15,7 @@
                       "Fleet Support"
                   ],
         "points":  2,
-        "image":  "upgrade-card/fleet-support.json/comms-net.png"
+        "image":  "upgrade-card/fleet-support/comms-net.png"
     },
     {
         "name":  "Jamming Field",
@@ -24,7 +24,7 @@
                       "Fleet Support"
                   ],
         "points":  2,
-        "image":  "upgrade-card/fleet-support.json/jamming-field.png"
+        "image":  "upgrade-card/fleet-support/jamming-field.png"
     },
     {
         "name":  "Munitions Resupply",
@@ -91,7 +91,7 @@
                       "Fleet Support"
                   ],
         "points":  4,
-        "image":  "upgrade-card/fleet-support.json/repair-crews.png"
+        "image":  "upgrade-card/fleet-support/repair-crews.png"
     },
     {
         "name":  "Slicer Tools",
@@ -100,6 +100,6 @@
                       "Fleet Support"
                   ],
         "points":  7,
-        "image":  "upgrade-card/fleet-support.json/slicer-tools.png"
+        "image":  "upgrade-card/fleet-support/slicer-tools.png"
     }
 ]

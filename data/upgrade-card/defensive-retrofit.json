@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "name":  "Advanced Projectors",
         "text":  "When you resolve the [Redirect] token effect, you can choose more than one hull zone to suffer damage, which may include a nonadjacent hull zone.",
@@ -6,7 +6,7 @@
                       "Defensive Retrofit"
                   ],
         "points":  6,
-        "image":  "upgrade-card/defensive-retrofit.json/advanced-projectors.png"
+        "image":  "upgrade-card/defensive-retrofit/advanced-projectors.png"
     },
     {
         "name":  "Cluster Bombs",
@@ -15,7 +15,7 @@
                       "Defensive Retrofit"
                   ],
         "points":  5,
-        "image":  "upgrade-card/defensive-retrofit.json/cluster-bombs.png"
+        "image":  "upgrade-card/defensive-retrofit/cluster-bombs.png"
     },
     {
         "name":  "Early Warning System",
@@ -24,7 +24,7 @@
                       "Defensive Retrofit"
                   ],
         "points":  7,
-        "image":  "upgrade-card/defensive-retrofit.json/early-warning-system.png"
+        "image":  "upgrade-card/defensive-retrofit/early-warning-system.png"
     },
     {
         "name":  "Electronic Countermeasures",
@@ -33,7 +33,7 @@
                       "Defensive Retrofit"
                   ],
         "points":  7,
-        "image":  "upgrade-card/defensive-retrofit.json/electronic-countermeasures.png"
+        "image":  "upgrade-card/defensive-retrofit/electronic-countermeasures.png"
     },
     {
         "name":  "Reactive Gunnery",
@@ -71,7 +71,7 @@
                       "Defensive Retrofit"
                   ],
         "points":  8,
-        "image":  "upgrade-card/defensive-retrofit.json/redundant-shields.png"
+        "image":  "upgrade-card/defensive-retrofit/redundant-shields.png"
     },
     {
         "name":  "Reinforced Blast Doors",
@@ -81,7 +81,7 @@
                       "Defensive Retrofit"
                   ],
         "points":  5,
-        "image":  "upgrade-card/defensive-retrofit.json/reinforced-blast-doors.png"
+        "image":  "upgrade-card/defensive-retrofit/reinforced-blast-doors.png"
     },
     {
         "name":  "Thermal Shields",

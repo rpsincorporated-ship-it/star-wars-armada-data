@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "name":  "Assault Concussion Missiles",
         "text":  "Black [Critical]: You may exhaust this card. If you do, each hull zone adjacent to the defending hull zone suffers 1 damage.",
@@ -34,7 +34,7 @@
                       "Ordnance"
                   ],
         "points":  5,
-        "image":  "upgrade-card/ordnance.json/assault-proton-torpedoes.png"
+        "image":  "upgrade-card/ordnance/assault-proton-torpedoes.png"
     },
     {
         "name":  "Expanded Launchers",
@@ -44,7 +44,7 @@
                       "Ordnance"
                   ],
         "points":  13,
-        "image":  "upgrade-card/ordnance.json/expanded-launchers.png"
+        "image":  "upgrade-card/ordnance/expanded-launchers.png"
     },
     {
         "name":  "External Racks",
@@ -53,7 +53,7 @@
                       "Ordnance"
                   ],
         "points":  3,
-        "image":  "upgrade-card/ordnance.json/external-racks.png"
+        "image":  "upgrade-card/ordnance/external-racks.png"
     },
     {
         "name":  "Flechette Torpedoes",
@@ -62,7 +62,7 @@
                       "Ordnance"
                   ],
         "points":  3,
-        "image":  "upgrade-card/ordnance.json/flechette-torpedoes.png"
+        "image":  "upgrade-card/ordnance/flechette-torpedoes.png"
     },
     {
         "name":  "Ordnance Pods",
@@ -72,7 +72,7 @@
                       "Ordnance"
                   ],
         "points":  3,
-        "image":  "upgrade-card/ordnance.json/ordnance-pods.png"
+        "image":  "upgrade-card/ordnance/ordnance-pods.png"
     },
     {
         "name":  "Rapid Reload",
@@ -82,7 +82,7 @@
                       "Ordnance"
                   ],
         "points":  8,
-        "image":  "upgrade-card/ordnance.json/rapid-reload.png"
+        "image":  "upgrade-card/ordnance/rapid-reload.png"
     },
     {
         "name":  "Wide-Area Barrage",
@@ -91,6 +91,6 @@
                       "Ordnance"
                   ],
         "points":  2,
-        "image":  "upgrade-card/ordnance.json/wide-area-barrage.png"
+        "image":  "upgrade-card/ordnance/wide-area-barrage.png"
     }
 ]

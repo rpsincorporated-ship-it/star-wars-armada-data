@@ -1,8 +1,18 @@
-﻿# Star Wars Armada Data
+# Star Wars Armada Data
 
-Structured JSON data and packaged image assets for **Star Wars: Armada** cards.
+Structured JSON data and local image assets for **Star Wars: Armada** cards.
 
-This release is the certified `2025.01-final` build. The archive is laid out like the original repository:
+This repository is an unofficial community-maintained reference dataset. It is built for app/database use, collection tools, list builders, preservation work, and card lookup utilities.
+
+## Release
+
+Current release:
+
+```text
+2025.01-final-complete-images
+```
+
+The release uses the original repository-style layout:
 
 ```text
 data/
@@ -15,89 +25,50 @@ package-lock.json
 package.json
 ```
 
-## What Data Is Included?
+## Included Data
 
-Card text and structured data are included for:
+The database includes structured records for:
 
-- Ships
-- Squadrons
-- Upgrades
-- Objectives for non-campaign play
-- Damage cards
-- Reference cards
-- Cards through Wave 8, including SSD, Starhawk, Onager, and Rebellion in the Rim
-- Errata through Armada FAQ version 5.1.1
+- Ship cards
+- Squadron cards
+- Upgrade cards
+- Objective cards included in this data set
+- Official Armada card data through the final AMG/FFG Armada state used for the 2025.01 final release
 
-Images are included under `image/` for the packaged card image library. Some images are restored from the original public repository structure and some are sourced from publicly available publisher or wiki pages when exact card identity can be verified.
+The data is stored as JSON under `data/`.
 
-## Image Availability
+## Included Images
 
-Most packaged image references point to files under `image/`.
+Card images are stored under `image/` and referenced from each card record using its `image` field.
 
-Some records intentionally use:
-
-```json
-"image-status": "card-image-not-packaged"
-```
-
-That means the card identity is known and the data record is included, but the exact card-front image is not packaged in this release.
-
-For this release, eight Rebellion in the Rim squadron card images are intentionally not packaged:
-
-- Hondo Ohnaka
-- IG-88B
-- Kanan Jarrus
-- Lando Calrissian
-- Malee Hurra
-- Mart Mattin
-- Moralo Eval
-- Tel Trevura
-
-Those records retain their generic `squadron-image` references where available and are marked with `image-status: card-image-not-packaged` instead of adding unapproved exact card-front artwork.
-
-## What Is Not Included?
-
-- Campaign objectives from Corellian Conflict or Rebellion in the Rim
-- Images for some cards prior to Rebellion in the Rim and Wave 8
-- Exact card-front images that are not cleared for redistribution
-- Rules text that is not printed on cards
-- Rules clarifications from FAQ documents that are not card errata
-
-## Release Certification
-
-This release was certified through Milestone `35.7a.7`.
-
-Certification summary:
-
-- Production JSON files audited: `191`
-- Files under `image/`: see current repository state
-- Historical ESLint gate: `PASSED`
-- Release certification: `STRICT_GRANTED`
-- UTF-8 BOM normalization completed before final release packaging
-- Final release archive uses the original repository-style top-level layout
-
-Release asset:
+Current image-reference audit:
 
 ```text
-star-wars-armada-data-2025.01-final.zip
+Missing image fields: 0
+Broken image references: 0
+Image references containing .json folder names: 0
+Physical image folders named *.json: 0
+Duplicate-name shared image issues: 0
 ```
 
-SHA256:
+Image paths use clean folder names, for example:
 
 ```text
-7464DFF9D4C7026EA541DC20B0D18E3C39BA5AF8DCF9A31C63329767C2916086
+image/ship-card/galactic-republic/acclamator-ii-class-assault-ship.png
+image/squadron-card/galactic-empire/darth-vader.png
+image/upgrade-card/commander/darth-vader.png
+image/upgrade-card/officer/darth-vader.png
 ```
 
+When a name appears on more than one card instance, each instance has its own image file. For example, squadron Darth Vader and upgrade Darth Vader records do not share the same image file.
 
-## Copyright, Trademark, and Reference-Only Notice
+## Data Format Notes
 
-This repository is an unofficial community reference dataset for Star Wars: Armada. It is not affiliated with, endorsed by, sponsored by, or approved by Lucasfilm Ltd., Disney, Atomic Mass Games, Fantasy Flight Games, Asmodee, or any related rights holder.
+- JSON files are intended to be strict JSON and should not require app-specific preprocessing.
+- Image paths are relative to the `image/` folder.
+- Upgrade image paths use the upgrade slot folder without `.json` in the folder name.
+- Duplicate card names may appear when Armada has multiple separate cards for the same character or ship title. Those records should remain separate and should use separate images.
 
-Star Wars, Star Wars: Armada, all related names, card text, artwork, logos, characters, ships, factions, and other game materials are copyright and/or trademarks of their respective owners. Card images and card text are included only as a non-commercial reference aid for players, collectors, judges, developers, and preservation of game data.
-
-Public availability of an image or card scan does not mean the material is public domain or freely licensed for redistribution. If you are a rights holder and want a file, image, card text entry, or reference removed or corrected, please open an issue or contact the repository owner. The project will promptly review and remove or replace disputed material.
-
-Do not use this repository as a substitute for owning official products, official rules documents, or publisher materials. For official game information, rules, trademarks, copyrights, and organized play documents, refer to the official publisher and rights-holder sources.
 ## Testing
 
 Install dependencies and run:
@@ -110,20 +81,22 @@ The test command runs ESLint against the JSON data files.
 
 ## Corrections
 
-Corrections are welcome. Please submit pull requests with clear source references for any data changes.
+Corrections are welcome. Please include clear source references for data changes.
 
-For image additions, include provenance and redistribution status. Do not add card-front images unless they are cleared for redistribution.
+For image changes, include the source/provenance of the image and make sure the image matches the exact card instance represented by the JSON record.
 
 ## References
 
 - Original repository: https://github.com/rkbodenner/star-wars-armada-data
+- Armada Wiki: https://starwars-armada.fandom.com/
 - X-Wing data schema inspiration: https://github.com/guidokessels/xwing-data
-- Armada FAQ 5.1.1: https://images-cdn.fantasyflightgames.com/filer_public/a8/52/a8529093-17c3-439b-8710-04f2de309e67/armada_faq_v511-compressed.pdf
-- Star Wars Armada Wiki: https://starwars-armada.fandom.com/
 
-## Legal
+## Copyright, Trademark, and Reference-Only Notice
 
-All Star Wars: Armada images, card text, names, and related intellectual property are Copyright and Trademark Lucasfilm Ltd. and/or their respective rights holders.
+This repository is an unofficial community reference dataset for Star Wars: Armada. It is not affiliated with, endorsed by, sponsored by, or approved by Lucasfilm Ltd., Disney, Atomic Mass Games, Fantasy Flight Games, Asmodee, or any related rights holder.
 
-This repository is an unofficial structured data project and is not affiliated with, endorsed by, or sponsored by Lucasfilm Ltd., Fantasy Flight Games, Atomic Mass Games, or Asmodee.
+Star Wars, Star Wars: Armada, all related names, card text, artwork, logos, characters, ships, factions, and other game materials are copyright and/or trademarks of their respective owners. Card images and card text are included only as a non-commercial reference aid for players, collectors, judges, developers, and preservation of game data.
 
+Public availability of an image or card scan does not mean the material is public domain or freely licensed for redistribution. If you are a rights holder and want a file, image, card text entry, or reference removed or corrected, please open an issue or contact the repository owner. The project will promptly review and remove or replace disputed material.
+
+Do not use this repository as a substitute for owning official products, official rules documents, or publisher materials. For official game information, rules, trademarks, copyrights, and organized play documents, refer to the official publisher and rights-holder sources.

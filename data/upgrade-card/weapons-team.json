@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "name":  "Caitken and Shollan",
         "unique":  true,
@@ -8,7 +8,7 @@
                   ],
         "faction":  "Rebel Alliance",
         "points":  6,
-        "image":  "upgrade-card/weapons-team.json/caitken-and-shollan.png"
+        "image":  "upgrade-card/weapons-team/caitken-and-shollan.png"
     },
     {
         "name":  "Clone Gunners",
@@ -47,7 +47,7 @@
                       "Weapons Team"
                   ],
         "points":  2,
-        "image":  "upgrade-card/weapons-team.json/fire-control-team.png"
+        "image":  "upgrade-card/weapons-team/fire-control-team.png"
     },
     {
         "name":  "Flight Controllers",
@@ -56,7 +56,7 @@
                       "Weapons Team"
                   ],
         "points":  6,
-        "image":  "upgrade-card/weapons-team.json/flight-controllers.png"
+        "image":  "upgrade-card/weapons-team/flight-controllers.png"
     },
     {
         "name":  "Gunnery Chief Varnillian",
@@ -67,7 +67,7 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  6,
-        "image":  "upgrade-card/weapons-team.json/gunnery-chief-varnillian.png"
+        "image":  "upgrade-card/weapons-team/gunnery-chief-varnillian.png"
     },
     {
         "name":  "Gunnery Team",
@@ -76,7 +76,7 @@
                       "Weapons Team"
                   ],
         "points":  7,
-        "image":  "upgrade-card/weapons-team.json/gunnery-team.png"
+        "image":  "upgrade-card/weapons-team/gunnery-team.png"
     },
     {
         "name":  "Local Fire Control",
@@ -85,7 +85,7 @@
                       "Weapons Team"
                   ],
         "points":  4,
-        "image":  "upgrade-card/weapons-team.json/local-fire-control.png"
+        "image":  "upgrade-card/weapons-team/local-fire-control.png"
     },
     {
         "name":  "Ordnance Experts",
@@ -94,7 +94,7 @@
                       "Weapons Team"
                   ],
         "points":  4,
-        "image":  "upgrade-card/weapons-team.json/ordnance-experts.png"
+        "image":  "upgrade-card/weapons-team/ordnance-experts.png"
     },
     {
         "name":  "Ruthless Strategists",
@@ -103,7 +103,7 @@
                       "Weapons Team"
                   ],
         "points":  4,
-        "image":  "upgrade-card/weapons-team.json/ruthless-strategists.png"
+        "image":  "upgrade-card/weapons-team/ruthless-strategists.png"
     },
     {
         "name":  "Sensor Team",
@@ -112,7 +112,7 @@
                       "Weapons Team"
                   ],
         "points":  5,
-        "image":  "upgrade-card/weapons-team.json/sensor-team.png"
+        "image":  "upgrade-card/weapons-team/sensor-team.png"
     },
     {
         "name":  "Veteran Gunners",
@@ -121,7 +121,7 @@
                       "Weapons Team"
                   ],
         "points":  5,
-        "image":  "upgrade-card/weapons-team.json/veteran-gunners.png"
+        "image":  "upgrade-card/weapons-team/veteran-gunners.png"
     },
     {
         "name":  "Weapons Battery Techs",
@@ -130,6 +130,6 @@
                       "Weapons Team"
                   ],
         "points":  5,
-        "image":  "upgrade-card/weapons-team.json/weapons-battery-techs.png"
+        "image":  "upgrade-card/weapons-team/weapons-battery-techs.png"
     }
 ]
