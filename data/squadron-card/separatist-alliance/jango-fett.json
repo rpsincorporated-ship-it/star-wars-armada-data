@@ -34,5 +34,48 @@
     "supplement-revision":  "2.0",
     "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
     "image-status":  "card-image-not-packaged",
-    "image":  "squadron-card/separatist-alliance/jango-fett.png"
+    "image":  "squadron-card/separatist-alliance/jango-fett.png",
+    "display-text":  "Text: While attacking a unique squadron during your activation, you may deal 1 damage to another friendly squadron at distance 1 of the defender. If you do, you may change 1 die to any face.",
+    "text-fallback":  {
+                          "label":  "Jango Fett",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Separatist Alliance",
+                          "points":  22,
+                          "slots":  {
+
+                                    },
+                          "keywords":  [
+                                           "Bomber",
+                                           "Grit",
+                                           "Rogue"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  3,
+                                        "hull":  6,
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Brace"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  "While attacking a unique squadron during your activation, you may deal 1 damage to another friendly squadron at distance 1 of the defender. If you do, you may change 1 die to any face.",
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Text: While attacking a unique squadron during your activation, you may deal 1 damage to another friendly squadron at distance 1 of the defender. If you do, you may change 1 die to any face."
+                      }
 }

@@ -84,5 +84,66 @@
                   "Turbolasers"
               ],
     "points":  381,
-    "image":  "ship/galactic-empire/executor-i-class-star-dreadnought.png"
+    "image":  "ship/galactic-empire/executor-i-class-star-dreadnought.png",
+    "display-text":  "Galactic Empire | Officer, Officer, Officer, Officer, Weapons Team, Fleet Command, Fleet Command, Fleet Command, Fleet Command, Offensive Retrofit, Ion Cannons, Turbolasers | 381 points | Stats: hull: 33; command: 4; squadron: 6; engineering: 5; size: huge; defense-tokens: Brace, Brace, Redirect, Redirect, Contain, Contain",
+    "text-fallback":  {
+                          "label":  "Executor I-Class Star Dreadnought",
+                          "family":  "ship-card",
+                          "category":  "",
+                          "faction":  "Galactic Empire",
+                          "points":  381,
+                          "slots":  [
+                                        "Officer",
+                                        "Officer",
+                                        "Officer",
+                                        "Officer",
+                                        "Weapons Team",
+                                        "Fleet Command",
+                                        "Fleet Command",
+                                        "Fleet Command",
+                                        "Fleet Command",
+                                        "Offensive Retrofit",
+                                        "Ion Cannons",
+                                        "Turbolasers"
+                                    ],
+                          "keywords":  {
+
+                                       },
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "hull":  33,
+                                        "command":  4,
+                                        "squadron":  6,
+                                        "engineering":  5,
+                                        "size":  "huge",
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Brace",
+                                                               "Redirect",
+                                                               "Redirect",
+                                                               "Contain",
+                                                               "Contain"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Galactic Empire | Officer, Officer, Officer, Officer, Weapons Team, Fleet Command, Fleet Command, Fleet Command, Fleet Command, Offensive Retrofit, Ion Cannons, Turbolasers | 381 points | Stats: hull: 33; command: 4; squadron: 6; engineering: 5; size: huge; defense-tokens: Brace, Brace, Redirect, Redirect, Contain, Contain"
+                      }
 }

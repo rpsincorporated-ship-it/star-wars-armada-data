@@ -57,5 +57,63 @@
                      "data_version":  "2025.01-final",
                      "product_origin":  "SWM42"
                  },
-    "image":  "ship/separatist-alliance/providence-class-carrier.png"
+    "image":  "ship/separatist-alliance/providence-class-carrier.png",
+    "display-text":  "Separatist Alliance | Commander, Title, Officer, Defensive Retrofit, Fleet Command, Offensive Retrofit, Ordnance, Ion Cannons, Turbolasers | 102 points | Keywords: Droid, Comms, Transport | Stats: hull: 9; command: 3; squadron: 4; engineering: 4; size: large; defense-tokens: Contain, Brace, Redirect, Salvo",
+    "text-fallback":  {
+                          "label":  "Providence-class Carrier",
+                          "family":  "ship-card",
+                          "category":  "",
+                          "faction":  "Separatist Alliance",
+                          "points":  102,
+                          "slots":  [
+                                        "Commander",
+                                        "Title",
+                                        "Officer",
+                                        "Defensive Retrofit",
+                                        "Fleet Command",
+                                        "Offensive Retrofit",
+                                        "Ordnance",
+                                        "Ion Cannons",
+                                        "Turbolasers"
+                                    ],
+                          "keywords":  [
+                                           "Droid",
+                                           "Comms",
+                                           "Transport"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "hull":  9,
+                                        "command":  3,
+                                        "squadron":  4,
+                                        "engineering":  4,
+                                        "size":  "large",
+                                        "defense-tokens":  [
+                                                               "Contain",
+                                                               "Brace",
+                                                               "Redirect",
+                                                               "Salvo"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Separatist Alliance | Commander, Title, Officer, Defensive Retrofit, Fleet Command, Offensive Retrofit, Ordnance, Ion Cannons, Turbolasers | 102 points | Keywords: Droid, Comms, Transport | Stats: hull: 9; command: 3; squadron: 4; engineering: 4; size: large; defense-tokens: Contain, Brace, Redirect, Salvo"
+                      }
 }

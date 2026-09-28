@@ -1,16 +1,65 @@
-[
-  {
-    "name": "YT-1300",
-    "subname": "",
-    "faction": "Rebel Alliance",
-    "speed": 2,
-    "hull": 7,
-    "__comment": "dice array is [red, blue, black] counts",
-    "squadron-attack": [0, 3, 0],
-    "attack": [0, 1, 0],
-    "keywords": ["Counter 1", "Escort"],
-    "points": 13,
-    "squadron-image": "squadron/rebel-alliance/yt-1300.png",
-    "image": "squadron-card/rebel-alliance/yt-1300.png"
-  }
-]
+{
+    "name":  "YT-1300",
+    "subname":  "",
+    "faction":  "Rebel Alliance",
+    "speed":  2,
+    "hull":  7,
+    "__comment":  "dice array is [red, blue, black] counts",
+    "squadron-attack":  [
+                            0,
+                            3,
+                            0
+                        ],
+    "attack":  [
+                   0,
+                   1,
+                   0
+               ],
+    "keywords":  [
+                     "Counter 1",
+                     "Escort"
+                 ],
+    "points":  13,
+    "squadron-image":  "squadron/rebel-alliance/yt-1300.png",
+    "image":  "squadron-card/rebel-alliance/yt-1300.png",
+    "display-text":  "Rebel Alliance | 13 points | Keywords: Counter 1, Escort | Stats: speed: 2; hull: 7",
+    "text-fallback":  {
+                          "label":  "YT-1300",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Rebel Alliance",
+                          "points":  13,
+                          "slots":  {
+
+                                    },
+                          "keywords":  [
+                                           "Counter 1",
+                                           "Escort"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  2,
+                                        "hull":  7
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Rebel Alliance | 13 points | Keywords: Counter 1, Escort | Stats: speed: 2; hull: 7"
+                      }
+}

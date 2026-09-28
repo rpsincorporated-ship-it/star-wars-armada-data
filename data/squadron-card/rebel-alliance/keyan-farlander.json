@@ -1,20 +1,69 @@
-[
-  {
-    "name": "Keyan Farlander",
-    "subname": "B-wing Squadron",
-    "unique": true,
-    "faction": "Rebel Alliance",
-    "speed": 2,
-    "hull": 5,
-    "__comment": "dice array is [red, blue, black] counts",
-    "squadron-attack": [0, 3, 0],
-    "attack": [0, 0, 2],
-    "text":
-      "While attacking a ship, if the defending hull zone has no shields, you may reroll any number of dice in your attack pool.",
-    "keywords": ["Bomber"],
-    "defense-tokens": ["Brace", "Brace"],
-    "points": 20,
-    "squadron-image": "squadron/rebel-alliance/b-wing-squadron.png",
-    "image": "squadron-card/rebel-alliance/keyan-farlander.png"
-  }
-]
+{
+    "name":  "Keyan Farlander",
+    "subname":  "B-wing Squadron",
+    "unique":  true,
+    "faction":  "Rebel Alliance",
+    "speed":  2,
+    "hull":  5,
+    "__comment":  "dice array is [red, blue, black] counts",
+    "squadron-attack":  [
+                            0,
+                            3,
+                            0
+                        ],
+    "attack":  [
+                   0,
+                   0,
+                   2
+               ],
+    "text":  "While attacking a ship, if the defending hull zone has no shields, you may reroll any number of dice in your attack pool.",
+    "keywords":  [
+                     "Bomber"
+                 ],
+    "defense-tokens":  [
+                           "Brace",
+                           "Brace"
+                       ],
+    "points":  20,
+    "squadron-image":  "squadron/rebel-alliance/b-wing-squadron.png",
+    "image":  "squadron-card/rebel-alliance/keyan-farlander.png",
+    "display-text":  "Text: While attacking a ship, if the defending hull zone has no shields, you may reroll any number of dice in your attack pool.",
+    "text-fallback":  {
+                          "label":  "Keyan Farlander",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Rebel Alliance",
+                          "points":  20,
+                          "slots":  {
+
+                                    },
+                          "keywords":  "Bomber",
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  2,
+                                        "hull":  5,
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Brace"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  "While attacking a ship, if the defending hull zone has no shields, you may reroll any number of dice in your attack pool.",
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Text: While attacking a ship, if the defending hull zone has no shields, you may reroll any number of dice in your attack pool."
+                      }
+}

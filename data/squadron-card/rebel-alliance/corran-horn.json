@@ -1,18 +1,76 @@
-[
-  {
-    "name": "Corran Horn",
-    "subname": "E-wing Squadron",
-    "unique": true,
-    "faction": "Rebel Alliance",
-    "speed": 4,
-    "hull": 5,
-    "__comment": "dice array is [red, blue, black] counts",
-    "squadron-attack": [0, 4, 0],
-    "attack": [1, 0, 0],
-    "keywords": ["Bomber", "Rogue", "Snipe 4"],
-    "defense-tokens": ["Brace", "Brace"],
-    "points": 22,
-    "squadron-image": "squadron/rebel-alliance/e-wing-squadron.png",
-    "image": "squadron-card/rebel-alliance/corran-horn.png"
-  }
-]
+{
+    "name":  "Corran Horn",
+    "subname":  "E-wing Squadron",
+    "unique":  true,
+    "faction":  "Rebel Alliance",
+    "speed":  4,
+    "hull":  5,
+    "__comment":  "dice array is [red, blue, black] counts",
+    "squadron-attack":  [
+                            0,
+                            4,
+                            0
+                        ],
+    "attack":  [
+                   1,
+                   0,
+                   0
+               ],
+    "keywords":  [
+                     "Bomber",
+                     "Rogue",
+                     "Snipe 4"
+                 ],
+    "defense-tokens":  [
+                           "Brace",
+                           "Brace"
+                       ],
+    "points":  22,
+    "squadron-image":  "squadron/rebel-alliance/e-wing-squadron.png",
+    "image":  "squadron-card/rebel-alliance/corran-horn.png",
+    "display-text":  "Rebel Alliance | 22 points | Keywords: Bomber, Rogue, Snipe 4 | Stats: speed: 4; hull: 5; defense-tokens: Brace, Brace",
+    "text-fallback":  {
+                          "label":  "Corran Horn",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Rebel Alliance",
+                          "points":  22,
+                          "slots":  {
+
+                                    },
+                          "keywords":  [
+                                           "Bomber",
+                                           "Rogue",
+                                           "Snipe 4"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  4,
+                                        "hull":  5,
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Brace"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Rebel Alliance | 22 points | Keywords: Bomber, Rogue, Snipe 4 | Stats: speed: 4; hull: 5; defense-tokens: Brace, Brace"
+                      }
+}

@@ -29,5 +29,48 @@
     "points":  19,
     "squadron-image":  "squadron/rebel-alliance/hwk-290.png",
     "image-status":  "card-image-not-packaged",
-    "image":  "squadron-card/rebel-alliance/kanan-jarrus.png"
+    "image":  "squadron-card/rebel-alliance/kanan-jarrus.png",
+    "display-text":  "Text: While attacking a ship, you may spend 1 die with a [Critical Hit] icon. If you do, the defender gains 1 raid token of your choice.",
+    "text-fallback":  {
+                          "label":  "Kanan Jarrus",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Rebel Alliance",
+                          "points":  19,
+                          "slots":  {
+
+                                    },
+                          "keywords":  [
+                                           "Assault",
+                                           "Cloak",
+                                           "Rogue"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  3,
+                                        "hull":  4,
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Brace"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  "While attacking a ship, you may spend 1 die with a [Critical Hit] icon. If you do, the defender gains 1 raid token of your choice.",
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Text: While attacking a ship, you may spend 1 die with a [Critical Hit] icon. If you do, the defender gains 1 raid token of your choice."
+                      }
 }

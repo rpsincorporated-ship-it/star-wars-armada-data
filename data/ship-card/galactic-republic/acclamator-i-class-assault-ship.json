@@ -82,5 +82,58 @@
                      "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                      "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                  },
-    "image":  "ship/galactic-republic/acclamator-i-class-assault-ship.webp"
+    "image":  "ship/galactic-republic/acclamator-i-class-assault-ship.webp",
+    "display-text":  "Galactic Republic | Officer, Weapons Team, Offensive Retrofit, Offensive Retrofit, Ordnance, Turbolasers | 64 points | Keywords: Clone, Transport | Stats: hull: 7; command: 3; squadron: 3; engineering: 4; size: medium; defense-tokens: Brace, Redirect, Salvo",
+    "text-fallback":  {
+                          "label":  "Acclamator I-class Assault Ship",
+                          "family":  "ship-card",
+                          "category":  "",
+                          "faction":  "Galactic Republic",
+                          "points":  64,
+                          "slots":  [
+                                        "Officer",
+                                        "Weapons Team",
+                                        "Offensive Retrofit",
+                                        "Offensive Retrofit",
+                                        "Ordnance",
+                                        "Turbolasers"
+                                    ],
+                          "keywords":  [
+                                           "Clone",
+                                           "Transport"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "hull":  7,
+                                        "command":  3,
+                                        "squadron":  3,
+                                        "engineering":  4,
+                                        "size":  "medium",
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Redirect",
+                                                               "Salvo"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Galactic Republic | Officer, Weapons Team, Offensive Retrofit, Offensive Retrofit, Ordnance, Turbolasers | 64 points | Keywords: Clone, Transport | Stats: hull: 7; command: 3; squadron: 3; engineering: 4; size: medium; defense-tokens: Brace, Redirect, Salvo"
+                      }
 }

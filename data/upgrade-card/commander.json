@@ -8,7 +8,41 @@
                       "Commander"
                   ],
         "points":  38,
-        "image":  "upgrade-card/commander/admiral-ackbar.png"
+        "image":  "upgrade-card/commander/admiral-ackbar.png",
+        "display-text":  "Text: Before a friendly ship\u0027s Attack Step, it may choose to attack from only its left and right hull zones this round. If it does, it may add 2 red dice to its attack pool while attacking a ship.",
+        "text-fallback":  {
+                              "label":  "Admiral Ackbar",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  38,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Before a friendly ship\u0027s Attack Step, it may choose to attack from only its left and right hull zones this round. If it does, it may add 2 red dice to its attack pool while attacking a ship.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Before a friendly ship\u0027s Attack Step, it may choose to attack from only its left and right hull zones this round. If it does, it may add 2 red dice to its attack pool while attacking a ship."
+                          }
     },
     {
         "name":  "Admiral Konstantine",
@@ -19,7 +53,41 @@
                       "Commander"
                   ],
         "points":  23,
-        "image":  "upgrade-card/commander/admiral-konstantine.png"
+        "image":  "upgrade-card/commander/admiral-konstantine.png",
+        "display-text":  "Text: At the start of each Status Phase, for each enemy ship at distance 1-5 of at least 2 friendly medium or large ships, you may increase or decrease that enemy ship\u0027s speed by 1 to a minimum of speed 1.",
+        "text-fallback":  {
+                              "label":  "Admiral Konstantine",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  23,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of each Status Phase, for each enemy ship at distance 1-5 of at least 2 friendly medium or large ships, you may increase or decrease that enemy ship\u0027s speed by 1 to a minimum of speed 1.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of each Status Phase, for each enemy ship at distance 1-5 of at least 2 friendly medium or large ships, you may increase or decrease that enemy ship\u0027s speed by 1 to a minimum of speed 1."
+                          }
     },
     {
         "name":  "Admiral Motti",
@@ -30,7 +98,41 @@
                       "Commander"
                   ],
         "points":  24,
-        "image":  "upgrade-card/commander/admiral-motti.png"
+        "image":  "upgrade-card/commander/admiral-motti.png",
+        "display-text":  "Text: The hull value of each friendly ship is increased according to its size class:\nSmall ship: 1\nMedium ship: 2\nLarge ship: 3",
+        "text-fallback":  {
+                              "label":  "Admiral Motti",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  24,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "The hull value of each friendly ship is increased according to its size class:\nSmall ship: 1\nMedium ship: 2\nLarge ship: 3",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: The hull value of each friendly ship is increased according to its size class:\nSmall ship: 1\nMedium ship: 2\nLarge ship: 3"
+                          }
     },
     {
         "name":  "Admiral Ozzel",
@@ -41,7 +143,41 @@
                       "Commander"
                   ],
         "points":  20,
-        "image":  "upgrade-card/commander/admiral-ozzel.png"
+        "image":  "upgrade-card/commander/admiral-ozzel.png",
+        "display-text":  "Text: When a friendly ship resolves a [Navigate] command, it may change its speed by an additional 1.",
+        "text-fallback":  {
+                              "label":  "Admiral Ozzel",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  20,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When a friendly ship resolves a [Navigate] command, it may change its speed by an additional 1.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When a friendly ship resolves a [Navigate] command, it may change its speed by an additional 1."
+                          }
     },
     {
         "name":  "Admiral Piett",
@@ -52,12 +188,46 @@
                       "Commander"
                   ],
         "points":  22,
-        "image":  "upgrade-card/commander/admiral-piett.png"
+        "image":  "upgrade-card/commander/admiral-piett.png",
+        "display-text":  "Text: When a friendly ship spends only a command token to resolve a command, you may exhaust this card. If you do, that ship resolves that command as if it had spent a dial of the same type instead.",
+        "text-fallback":  {
+                              "label":  "Admiral Piett",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  22,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When a friendly ship spends only a command token to resolve a command, you may exhaust this card. If you do, that ship resolves that command as if it had spent a dial of the same type instead.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When a friendly ship spends only a command token to resolve a command, you may exhaust this card. If you do, that ship resolves that command as if it had spent a dial of the same type instead."
+                          }
     },
     {
         "name":  "Admiral Raddus",
         "unique":  true,
-        "text":  "Before deploying fleets, you may set aside 1 other friendly ship with a command value of 3 or less. At the start of any round, you may deploy that ship at distance 1ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“2 of you. That ship cannot be deployed overlapping squadrons and cannot be the first ship to activate that round.",
+        "text":  "Before deploying fleets, you may set aside 1 other friendly ship with a command value of 3 or less. At the start of any round, you may deploy that ship at distance 1ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ2 of you. That ship cannot be deployed overlapping squadrons and cannot be the first ship to activate that round.",
         "faction":  "Rebel Alliance",
         "slots":  [
                       "Commander"
@@ -72,7 +242,41 @@
                        {
                            "version":  "5.1.1"
                        }
-                   ]
+                   ],
+        "display-text":  "Text: Before deploying fleets, you may set aside 1 other friendly ship with a command value of 3 or less. At the start of any round, you may deploy that ship at distance 1ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ2 of you. That ship cannot be deployed overlapping squadrons and cannot be the first ship to activate that round.",
+        "text-fallback":  {
+                              "label":  "Admiral Raddus",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  26,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Before deploying fleets, you may set aside 1 other friendly ship with a command value of 3 or less. At the start of any round, you may deploy that ship at distance 1ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ2 of you. That ship cannot be deployed overlapping squadrons and cannot be the first ship to activate that round.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Before deploying fleets, you may set aside 1 other friendly ship with a command value of 3 or less. At the start of any round, you may deploy that ship at distance 1ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ2 of you. That ship cannot be deployed overlapping squadrons and cannot be the first ship to activate that round."
+                          }
     },
     {
         "name":  "Admiral Screed",
@@ -83,7 +287,41 @@
                       "Commander"
                   ],
         "points":  26,
-        "image":  "upgrade-card/commander/admiral-screed.png"
+        "image":  "upgrade-card/commander/admiral-screed.png",
+        "display-text":  "Text: Once per activation, when a friendly ship is attacking, it may spend 1 die to change a die to a face with a [Critical Hit] icon.",
+        "text-fallback":  {
+                              "label":  "Admiral Screed",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  26,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Once per activation, when a friendly ship is attacking, it may spend 1 die to change a die to a face with a [Critical Hit] icon.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Once per activation, when a friendly ship is attacking, it may spend 1 die to change a die to a face with a [Critical Hit] icon."
+                          }
     },
     {
         "name":  "Admiral Sloane",
@@ -94,7 +332,41 @@
                       "Commander"
                   ],
         "points":  24,
-        "image":  "upgrade-card/commander/admiral-sloane.png"
+        "image":  "upgrade-card/commander/admiral-sloane.png",
+        "display-text":  "Text: While a friendly squadron without Rogue is attacking, it may spend 1 die with an [Accuracy] icon to choose and spend 1 of the defender\u0027s defense tokens. While attacking a ship, it may also reroll 1 die with a [Critical Hit] icon.",
+        "text-fallback":  {
+                              "label":  "Admiral Sloane",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  24,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While a friendly squadron without Rogue is attacking, it may spend 1 die with an [Accuracy] icon to choose and spend 1 of the defender\u0027s defense tokens. While attacking a ship, it may also reroll 1 die with a [Critical Hit] icon.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While a friendly squadron without Rogue is attacking, it may spend 1 die with an [Accuracy] icon to choose and spend 1 of the defender\u0027s defense tokens. While attacking a ship, it may also reroll 1 die with a [Critical Hit] icon."
+                          }
     },
     {
         "name":  "Admiral Tarkin",
@@ -127,7 +399,41 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/commander/admiral-tarkin.png"
+        "image":  "upgrade-card/commander/admiral-tarkin.png",
+        "display-text":  "Text: At the start of each Ship Phase, you may discard 1 command token from this card. If you do, either you gain 1 matching command dial, or each friendly ship gains 1 matching command token.",
+        "text-fallback":  {
+                              "label":  "Admiral Tarkin",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Republic",
+                              "points":  30,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of each Ship Phase, you may discard 1 command token from this card. If you do, either you gain 1 matching command dial, or each friendly ship gains 1 matching command token.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of each Ship Phase, you may discard 1 command token from this card. If you do, either you gain 1 matching command dial, or each friendly ship gains 1 matching command token."
+                          }
     },
     {
         "name":  "Admiral Trench",
@@ -162,7 +468,41 @@
                          "data_version":  "2025.01-final",
                          "product_origin":  "SWM42"
                      },
-        "image":  "upgrade-card/commander/admiral-trench.png"
+        "image":  "upgrade-card/commander/admiral-trench.png",
+        "display-text":  "Text: At the start of a Ship Phase, a stored command dial can be discarded so matching command-token resolutions receive the card\u0027s dial-and-token benefit for the round.",
+        "text-fallback":  {
+                              "label":  "Admiral Trench",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Separatist Alliance",
+                              "points":  32,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of a Ship Phase, a stored command dial can be discarded so matching command-token resolutions receive the card\u0027s dial-and-token benefit for the round.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of a Ship Phase, a stored command dial can be discarded so matching command-token resolutions receive the card\u0027s dial-and-token benefit for the round."
+                          }
     },
     {
         "name":  "Admiral Yularen",
@@ -192,7 +532,41 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/commander/admiral-yularen.png"
+        "image":  "upgrade-card/commander/admiral-yularen.png",
+        "display-text":  "Text: When a friendly ship resolves a Squadron command, if it spent a Squadron token, it may activate 1 additional squadron. When a friendly ship resolves a Repair command, it may spend engineering points on the following repair effect: Repair Squadron: Spend 2 points to choose a friendly squadron at distance 1-3. That squadron recovers 1 hull point.",
+        "text-fallback":  {
+                              "label":  "Admiral Yularen",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Republic",
+                              "points":  24,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When a friendly ship resolves a Squadron command, if it spent a Squadron token, it may activate 1 additional squadron. When a friendly ship resolves a Repair command, it may spend engineering points on the following repair effect: Repair Squadron: Spend 2 points to choose a friendly squadron at distance 1-3. That squadron recovers 1 hull point.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When a friendly ship resolves a Squadron command, if it spent a Squadron token, it may activate 1 additional squadron. When a friendly ship resolves a Repair command, it may spend engineering points on the following repair effect: Repair Squadron: Spend 2 points to choose a friendly squadron at distance 1-3. That squadron recovers 1 hull point."
+                          }
     },
     {
         "name":  "Anakin Skywalker",
@@ -209,7 +583,41 @@
         "supplement-revision":  "2.1",
         "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
         "image-status":  "card-image-not-packaged",
-        "image":  "upgrade-card/commander/anakin-skywalker.png"
+        "image":  "upgrade-card/commander/anakin-skywalker.png",
+        "display-text":  "Text: While a friendly ship is attacking a ship, if the defender is at distance 1-5 of at least 2 other friendly ships, 1 other friendly ship at distance 1-5 of the defender may spend 1 defense token. If it does, the attacker may reroll up to 3 dice.",
+        "text-fallback":  {
+                              "label":  "Anakin Skywalker",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Republic",
+                              "points":  27,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While a friendly ship is attacking a ship, if the defender is at distance 1-5 of at least 2 other friendly ships, 1 other friendly ship at distance 1-5 of the defender may spend 1 defense token. If it does, the attacker may reroll up to 3 dice.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While a friendly ship is attacking a ship, if the defender is at distance 1-5 of at least 2 other friendly ships, 1 other friendly ship at distance 1-5 of the defender may spend 1 defense token. If it does, the attacker may reroll up to 3 dice."
+                          }
     },
     {
         "name":  "Bail Organa",
@@ -239,7 +647,41 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/commander/bail-organa.png"
+        "image":  "upgrade-card/commander/bail-organa.png",
+        "display-text":  "Text: After deploying fleets, place 5 navigate or repair command tokens on this card. When a friendly ship reveals a command, you may discard up to 1 token of each type from this card. For each token you discard, that ship gains 1 additional command dial matching that token.",
+        "text-fallback":  {
+                              "label":  "Bail Organa",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Republic",
+                              "points":  28,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "After deploying fleets, place 5 navigate or repair command tokens on this card. When a friendly ship reveals a command, you may discard up to 1 token of each type from this card. For each token you discard, that ship gains 1 additional command dial matching that token.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: After deploying fleets, place 5 navigate or repair command tokens on this card. When a friendly ship reveals a command, you may discard up to 1 token of each type from this card. For each token you discard, that ship gains 1 additional command dial matching that token."
+                          }
     },
     {
         "name":  "Commander Sato",
@@ -250,7 +692,41 @@
                       "Commander"
                   ],
         "points":  32,
-        "image":  "upgrade-card/commander/commander-sato.png"
+        "image":  "upgrade-card/commander/commander-sato.png",
+        "display-text":  "Text: While a friendly ship is attacking a ship at distance 1 of a friendly squadron, before rolling attack dice, the attacker may replace up to 2 dice in its attack pool with an equal number of dice of any color or colors.",
+        "text-fallback":  {
+                              "label":  "Commander Sato",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  32,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While a friendly ship is attacking a ship at distance 1 of a friendly squadron, before rolling attack dice, the attacker may replace up to 2 dice in its attack pool with an equal number of dice of any color or colors.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While a friendly ship is attacking a ship at distance 1 of a friendly squadron, before rolling attack dice, the attacker may replace up to 2 dice in its attack pool with an equal number of dice of any color or colors."
+                          }
     },
     {
         "name":  "Count Dooku",
@@ -282,7 +758,41 @@
                          "data_version":  "2025.01-final",
                          "product_origin":  "SWM35"
                      },
-        "image":  "upgrade-card/commander/count-dooku.png"
+        "image":  "upgrade-card/commander/count-dooku.png",
+        "display-text":  "Text: At the start of a chosen round, distribute raid pressure by assigning selected command-type raid tokens to enemy ships under the card\u0027s limits.",
+        "text-fallback":  {
+                              "label":  "Count Dooku",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Separatist Alliance",
+                              "points":  27,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of a chosen round, distribute raid pressure by assigning selected command-type raid tokens to enemy ships under the card\u0027s limits.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of a chosen round, distribute raid pressure by assigning selected command-type raid tokens to enemy ships under the card\u0027s limits."
+                          }
     },
     {
         "name":  "Darth Vader",
@@ -293,7 +803,41 @@
                       "Commander"
                   ],
         "points":  36,
-        "image":  "upgrade-card/commander/darth-vader.png"
+        "image":  "upgrade-card/commander/darth-vader.png",
+        "display-text":  "Text: While a friendly ship is attacking a ship, it may spend 1 defense token to reroll any number of dice in its attack pool.",
+        "text-fallback":  {
+                              "label":  "Darth Vader",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  36,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While a friendly ship is attacking a ship, it may spend 1 defense token to reroll any number of dice in its attack pool.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While a friendly ship is attacking a ship, it may spend 1 defense token to reroll any number of dice in its attack pool."
+                          }
     },
     {
         "name":  "Emperor Palpatine",
@@ -304,7 +848,41 @@
                       "Commander"
                   ],
         "points":  35,
-        "image":  "upgrade-card/commander/emperor-palpatine.png"
+        "image":  "upgrade-card/commander/emperor-palpatine.png",
+        "display-text":  "Text: After deploying fleets, place 1 defense token of each type on this card. At the start of each Ship Phase you may discard 1 of those tokens. If you do, until the end of the round, if an enemy ship or squadron spends a matching token during its Spend Defense Tokens step, discard that token.",
+        "text-fallback":  {
+                              "label":  "Emperor Palpatine",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  35,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "After deploying fleets, place 1 defense token of each type on this card. At the start of each Ship Phase you may discard 1 of those tokens. If you do, until the end of the round, if an enemy ship or squadron spends a matching token during its Spend Defense Tokens step, discard that token.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: After deploying fleets, place 1 defense token of each type on this card. At the start of each Ship Phase you may discard 1 of those tokens. If you do, until the end of the round, if an enemy ship or squadron spends a matching token during its Spend Defense Tokens step, discard that token."
+                          }
     },
     {
         "name":  "Garm Bel Iblis",
@@ -315,7 +893,41 @@
                       "Commander"
                   ],
         "points":  25,
-        "image":  "upgrade-card/commander/garm-bel-iblis.png"
+        "image":  "upgrade-card/commander/garm-bel-iblis.png",
+        "display-text":  "Text: At the start of the first round and the fifth round, each friendly ship may gain a number of command tokens equal to its command value.",
+        "text-fallback":  {
+                              "label":  "Garm Bel Iblis",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  25,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of the first round and the fifth round, each friendly ship may gain a number of command tokens equal to its command value.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of the first round and the fifth round, each friendly ship may gain a number of command tokens equal to its command value."
+                          }
     },
     {
         "name":  "General Cracken",
@@ -326,7 +938,41 @@
                       "Commander"
                   ],
         "points":  26,
-        "image":  "upgrade-card/commander/general-cracken.png"
+        "image":  "upgrade-card/commander/general-cracken.png",
+        "display-text":  "Text: While a friendly small or medium ship is defending against a ship, if the defender is at speed 3 or higher, the attack is treated as obstructed.",
+        "text-fallback":  {
+                              "label":  "General Cracken",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  26,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While a friendly small or medium ship is defending against a ship, if the defender is at speed 3 or higher, the attack is treated as obstructed.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While a friendly small or medium ship is defending against a ship, if the defender is at speed 3 or higher, the attack is treated as obstructed."
+                          }
     },
     {
         "name":  "General Dodonna",
@@ -337,7 +983,41 @@
                       "Commander"
                   ],
         "points":  20,
-        "image":  "upgrade-card/commander/general-dodonna.png"
+        "image":  "upgrade-card/commander/general-dodonna.png",
+        "display-text":  "Text: Before an enemy ship is dealt a faceup damage card, look at the top 4 cards of the damage deck, place 1 on top of the deck and discard the others.",
+        "text-fallback":  {
+                              "label":  "General Dodonna",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  20,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Before an enemy ship is dealt a faceup damage card, look at the top 4 cards of the damage deck, place 1 on top of the deck and discard the others.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Before an enemy ship is dealt a faceup damage card, look at the top 4 cards of the damage deck, place 1 on top of the deck and discard the others."
+                          }
     },
     {
         "name":  "General Draven",
@@ -354,7 +1034,41 @@
         "supplement-revision":  "2.1",
         "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
         "image-status":  "card-image-not-packaged",
-        "image":  "upgrade-card/commander/general-draven.png"
+        "image":  "upgrade-card/commander/general-draven.png",
+        "display-text":  "Text: At the end of each Command Phase, you may look at all command dials assigned to 1 enemy ship. Then you may place 2 command tokens, each of a different type, on this card. After an enemy ship resolves a command, you may discard a matching command token from this card. If you do, that enemy ship gains 1 matching raid token.",
+        "text-fallback":  {
+                              "label":  "General Draven",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  20,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the end of each Command Phase, you may look at all command dials assigned to 1 enemy ship. Then you may place 2 command tokens, each of a different type, on this card. After an enemy ship resolves a command, you may discard a matching command token from this card. If you do, that enemy ship gains 1 matching raid token.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the end of each Command Phase, you may look at all command dials assigned to 1 enemy ship. Then you may place 2 command tokens, each of a different type, on this card. After an enemy ship resolves a command, you may discard a matching command token from this card. If you do, that enemy ship gains 1 matching raid token."
+                          }
     },
     {
         "name":  "General Grievous",
@@ -382,7 +1096,41 @@
                          "data_version":  "2025.01-final",
                          "product_origin":  "SWM42"
                      },
-        "image":  "upgrade-card/commander/general-grievous.png"
+        "image":  "upgrade-card/commander/general-grievous.png",
+        "display-text":  "Text: When a friendly ship or squadron is destroyed, a nearby friendly ship or unique squadron can recover or ready a defense token under the card\u0027s conditions.",
+        "text-fallback":  {
+                              "label":  "General Grievous",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Separatist Alliance",
+                              "points":  20,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When a friendly ship or squadron is destroyed, a nearby friendly ship or unique squadron can recover or ready a defense token under the card\u0027s conditions.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When a friendly ship or squadron is destroyed, a nearby friendly ship or unique squadron can recover or ready a defense token under the card\u0027s conditions."
+                          }
     },
     {
         "name":  "General Madine",
@@ -393,7 +1141,41 @@
                       "Commander"
                   ],
         "points":  30,
-        "image":  "upgrade-card/commander/general-madine.png"
+        "image":  "upgrade-card/commander/general-madine.png",
+        "display-text":  "Text: When a friendly ship resolves a [Navigate] command, if it spent a [Navigate] dial it may increase 1 additional yaw value by 1. If it spent a [Navigate] token, it may either change its speed or increase 1 yaw value by 1.",
+        "text-fallback":  {
+                              "label":  "General Madine",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  30,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When a friendly ship resolves a [Navigate] command, if it spent a [Navigate] dial it may increase 1 additional yaw value by 1. If it spent a [Navigate] token, it may either change its speed or increase 1 yaw value by 1.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When a friendly ship resolves a [Navigate] command, if it spent a [Navigate] dial it may increase 1 additional yaw value by 1. If it spent a [Navigate] token, it may either change its speed or increase 1 yaw value by 1."
+                          }
     },
     {
         "name":  "General Rieekan",
@@ -404,7 +1186,41 @@
                       "Commander"
                   ],
         "points":  30,
-        "image":  "upgrade-card/commander/general-rieekan.png"
+        "image":  "upgrade-card/commander/general-rieekan.png",
+        "display-text":  "Text: Once per round, when a friendly ship or friendly unique squadron is destroyed, it remains in the play area and is treated as if it was not destroyed until the end of the Status Phase.",
+        "text-fallback":  {
+                              "label":  "General Rieekan",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  30,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Once per round, when a friendly ship or friendly unique squadron is destroyed, it remains in the play area and is treated as if it was not destroyed until the end of the Status Phase.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Once per round, when a friendly ship or friendly unique squadron is destroyed, it remains in the play area and is treated as if it was not destroyed until the end of the Status Phase."
+                          }
     },
     {
         "name":  "General Romodi",
@@ -415,7 +1231,41 @@
                       "Commander"
                   ],
         "points":  20,
-        "image":  "upgrade-card/commander/general-romodi.png"
+        "image":  "upgrade-card/commander/general-romodi.png",
+        "display-text":  "Text: While a friendly ship is attacking a ship, if the attack is obstructed by a ship or obstacle, the attacker does not remove a die (even if the attack is also obstructed by a card effect), and may add 1 red die to the attack pool.",
+        "text-fallback":  {
+                              "label":  "General Romodi",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  20,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While a friendly ship is attacking a ship, if the attack is obstructed by a ship or obstacle, the attacker does not remove a die (even if the attack is also obstructed by a card effect), and may add 1 red die to the attack pool.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While a friendly ship is attacking a ship, if the attack is obstructed by a ship or obstacle, the attacker does not remove a die (even if the attack is also obstructed by a card effect), and may add 1 red die to the attack pool."
+                          }
     },
     {
         "name":  "General Tagge",
@@ -426,7 +1276,41 @@
                       "Commander"
                   ],
         "points":  25,
-        "image":  "upgrade-card/commander/general-tagge.png"
+        "image":  "upgrade-card/commander/general-tagge.png",
+        "display-text":  "Text: At the start of the third round and the fifth round, each friendly ship may recover 1 of its discarded defense tokens.",
+        "text-fallback":  {
+                              "label":  "General Tagge",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  25,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of the third round and the fifth round, each friendly ship may recover 1 of its discarded defense tokens.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of the third round and the fifth round, each friendly ship may recover 1 of its discarded defense tokens."
+                          }
     },
     {
         "name":  "Grand Admiral Thrawn",
@@ -437,7 +1321,41 @@
                       "Commander"
                   ],
         "points":  32,
-        "image":  "upgrade-card/commander/grand-admiral-thrawn.png"
+        "image":  "upgrade-card/commander/grand-admiral-thrawn.png",
+        "display-text":  "Text: After deploying fleets, place 3 facedown command dials on this card. At the start of each Ship Phase, you may reveal and discard 1 of those dials. If you do, until the end of the round, before each friendly ship activates, it gains 1 additional dial matching that discarded dial.",
+        "text-fallback":  {
+                              "label":  "Grand Admiral Thrawn",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  32,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "After deploying fleets, place 3 facedown command dials on this card. At the start of each Ship Phase, you may reveal and discard 1 of those dials. If you do, until the end of the round, before each friendly ship activates, it gains 1 additional dial matching that discarded dial.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: After deploying fleets, place 3 facedown command dials on this card. At the start of each Ship Phase, you may reveal and discard 1 of those dials. If you do, until the end of the round, before each friendly ship activates, it gains 1 additional dial matching that discarded dial."
+                          }
     },
     {
         "name":  "Grand Moff Tarkin",
@@ -448,7 +1366,41 @@
                       "Commander"
                   ],
         "points":  38,
-        "image":  "upgrade-card/commander/grand-moff-tarkin.png"
+        "image":  "upgrade-card/commander/grand-moff-tarkin.png",
+        "display-text":  "Text: At the start of each Ship Phase, you may choose 1 command. Each friendly ship gains a command token matching that command.",
+        "text-fallback":  {
+                              "label":  "Grand Moff Tarkin",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  38,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of each Ship Phase, you may choose 1 command. Each friendly ship gains a command token matching that command.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of each Ship Phase, you may choose 1 command. Each friendly ship gains a command token matching that command."
+                          }
     },
     {
         "name":  "Kraken",
@@ -476,7 +1428,41 @@
                          "data_version":  "2025.01-final",
                          "product_origin":  "SWM35"
                      },
-        "image":  "upgrade-card/commander/kraken.png"
+        "image":  "upgrade-card/commander/kraken.png",
+        "display-text":  "Text: While friendly ships attack at medium-to-long range, qualifying nearby friendly ships can enable a die to be changed to another face.",
+        "text-fallback":  {
+                              "label":  "Kraken",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Separatist Alliance",
+                              "points":  30,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While friendly ships attack at medium-to-long range, qualifying nearby friendly ships can enable a die to be changed to another face.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While friendly ships attack at medium-to-long range, qualifying nearby friendly ships can enable a die to be changed to another face."
+                          }
     },
     {
         "name":  "Kyrsta Agate",
@@ -487,7 +1473,41 @@
                       "Commander"
                   ],
         "points":  20,
-        "image":  "upgrade-card/commander/kyrsta-agate.png"
+        "image":  "upgrade-card/commander/kyrsta-agate.png",
+        "display-text":  "Text: After you deploy, gain 1 non-[Scatter] defense token. During your \"Spend Defense Tokens\" step, if your speed is not 0, you may discard 1 defense token to resolve the effect of that defense token. You cannot resolve the effect of each type of defense token more than once per attack.",
+        "text-fallback":  {
+                              "label":  "Kyrsta Agate",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  20,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "After you deploy, gain 1 non-[Scatter] defense token. During your \"Spend Defense Tokens\" step, if your speed is not 0, you may discard 1 defense token to resolve the effect of that defense token. You cannot resolve the effect of each type of defense token more than once per attack.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: After you deploy, gain 1 non-[Scatter] defense token. During your \"Spend Defense Tokens\" step, if your speed is not 0, you may discard 1 defense token to resolve the effect of that defense token. You cannot resolve the effect of each type of defense token more than once per attack."
+                          }
     },
     {
         "name":  "Leia Organa",
@@ -498,7 +1518,41 @@
                       "Commander"
                   ],
         "points":  38,
-        "image":  "upgrade-card/commander/leia-organa.png"
+        "image":  "upgrade-card/commander/leia-organa.png",
+        "display-text":  "Text: When a friendly ship resolves a command by spending a command dial, if it has not resolved another command this round, it may resolve that command as if it spent a matching command token. If it does, that ship may not resolve additional commands this round.",
+        "text-fallback":  {
+                              "label":  "Leia Organa",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  38,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When a friendly ship resolves a command by spending a command dial, if it has not resolved another command this round, it may resolve that command as if it spent a matching command token. If it does, that ship may not resolve additional commands this round.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When a friendly ship resolves a command by spending a command dial, if it has not resolved another command this round, it may resolve that command as if it spent a matching command token. If it does, that ship may not resolve additional commands this round."
+                          }
     },
     {
         "name":  "Luminara Unduli",
@@ -528,7 +1582,41 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/commander/luminara-unduli.png"
+        "image":  "upgrade-card/commander/luminara-unduli.png",
+        "display-text":  "Text: While a friendly ship or unique squadron is defending, after the Spend Defense Tokens step, if it spent fewer than 2 defense tokens, it may either ready 1 of its defense tokens it did not spend, or choose another friendly ship at distance 1-5 and ready 1 of that ship\u0027s defense tokens.",
+        "text-fallback":  {
+                              "label":  "Luminara Unduli",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Republic",
+                              "points":  25,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While a friendly ship or unique squadron is defending, after the Spend Defense Tokens step, if it spent fewer than 2 defense tokens, it may either ready 1 of its defense tokens it did not spend, or choose another friendly ship at distance 1-5 and ready 1 of that ship\u0027s defense tokens.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While a friendly ship or unique squadron is defending, after the Spend Defense Tokens step, if it spent fewer than 2 defense tokens, it may either ready 1 of its defense tokens it did not spend, or choose another friendly ship at distance 1-5 and ready 1 of that ship\u0027s defense tokens."
+                          }
     },
     {
         "name":  "Mar Tuuk",
@@ -556,7 +1644,41 @@
                          "data_version":  "2025.01-final",
                          "product_origin":  "SWM43"
                      },
-        "image":  "upgrade-card/commander/mar-tuuk.png"
+        "image":  "upgrade-card/commander/mar-tuuk.png",
+        "display-text":  "Text: Friendly ship attacks can gain an extra red die against a defended hull zone, with a penalty when attacking a ship whose shields are completely depleted.",
+        "text-fallback":  {
+                              "label":  "Mar Tuuk",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Separatist Alliance",
+                              "points":  28,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Friendly ship attacks can gain an extra red die against a defended hull zone, with a penalty when attacking a ship whose shields are completely depleted.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Friendly ship attacks can gain an extra red die against a defended hull zone, with a penalty when attacking a ship whose shields are completely depleted."
+                          }
     },
     {
         "name":  "Moff Jerjerrod",
@@ -567,7 +1689,41 @@
                       "Commander"
                   ],
         "points":  23,
-        "image":  "upgrade-card/commander/moff-jerjerrod.png"
+        "image":  "upgrade-card/commander/moff-jerjerrod.png",
+        "display-text":  "Text: During a friendly ship\u0027s Determine Course step, it may suffer 1 damage to change the first yaw value of its current speed to \"||\" until the end of its activation.",
+        "text-fallback":  {
+                              "label":  "Moff Jerjerrod",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  23,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "During a friendly ship\u0027s Determine Course step, it may suffer 1 damage to change the first yaw value of its current speed to \"||\" until the end of its activation.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: During a friendly ship\u0027s Determine Course step, it may suffer 1 damage to change the first yaw value of its current speed to \"||\" until the end of its activation."
+                          }
     },
     {
         "name":  "Mon Mothma",
@@ -578,7 +1734,41 @@
                       "Commander"
                   ],
         "points":  30,
-        "image":  "upgrade-card/commander/mon-mothma.png"
+        "image":  "upgrade-card/commander/mon-mothma.png",
+        "display-text":  "Text: When a friendly ship resolves the [Evade] token effect, it can cancel 1 die at medium range or reroll 1 die at close range or distance 1.",
+        "text-fallback":  {
+                              "label":  "Mon Mothma",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  30,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When a friendly ship resolves the [Evade] token effect, it can cancel 1 die at medium range or reroll 1 die at close range or distance 1.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When a friendly ship resolves the [Evade] token effect, it can cancel 1 die at medium range or reroll 1 die at close range or distance 1."
+                          }
     },
     {
         "name":  "Obi-Wan Kenobi",
@@ -608,7 +1798,41 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/commander/obi-wan-kenobi.png"
+        "image":  "upgrade-card/commander/obi-wan-kenobi.png",
+        "display-text":  "Text: While a friendly ship is defending, when it spends a readied [Redirect] token, it may reduce the total damage by 1 before it suffers damage.",
+        "text-fallback":  {
+                              "label":  "Obi-Wan Kenobi",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Republic",
+                              "points":  22,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While a friendly ship is defending, when it spends a readied [Redirect] token, it may reduce the total damage by 1 before it suffers damage.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While a friendly ship is defending, when it spends a readied [Redirect] token, it may reduce the total damage by 1 before it suffers damage."
+                          }
     },
     {
         "name":  "Plo Koon",
@@ -638,7 +1862,41 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/commander/plo-koon.png"
+        "image":  "upgrade-card/commander/plo-koon.png",
+        "display-text":  "Text: While a friendly squadron is attacking a ship at distance 1-3 of a friendly ship, the attacker may add 1 blue die set to an accuracy icon to its attack pool. That die cannot be rerolled or changed. Friendly squadrons without Adept gain Grit while they are at distance 1 of a friendly squadron with Adept.",
+        "text-fallback":  {
+                              "label":  "Plo Koon",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Republic",
+                              "points":  26,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While a friendly squadron is attacking a ship at distance 1-3 of a friendly ship, the attacker may add 1 blue die set to an accuracy icon to its attack pool. That die cannot be rerolled or changed. Friendly squadrons without Adept gain Grit while they are at distance 1 of a friendly squadron with Adept.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While a friendly squadron is attacking a ship at distance 1-3 of a friendly ship, the attacker may add 1 blue die set to an accuracy icon to its attack pool. That die cannot be rerolled or changed. Friendly squadrons without Adept gain Grit while they are at distance 1 of a friendly squadron with Adept."
+                          }
     },
     {
         "name":  "TF-1726",
@@ -666,6 +1924,40 @@
                          "data_version":  "2025.01-final",
                          "product_origin":  "SWM43"
                      },
-        "image":  "upgrade-card/commander/tf-1726.png"
+        "image":  "upgrade-card/commander/tf-1726.png",
+        "display-text":  "Text: Once per activation, a friendly ship attacking a raided enemy ship can add black dice based on the defender\u0027s raid tokens, up to the card\u0027s limit.",
+        "text-fallback":  {
+                              "label":  "TF-1726",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Separatist Alliance",
+                              "points":  26,
+                              "slots":  "Commander",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Once per activation, a friendly ship attacking a raided enemy ship can add black dice based on the defender\u0027s raid tokens, up to the card\u0027s limit.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Once per activation, a friendly ship attacking a raided enemy ship can add black dice based on the defender\u0027s raid tokens, up to the card\u0027s limit."
+                          }
     }
 ]

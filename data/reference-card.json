@@ -1,10 +1,86 @@
 [
-  {
-    "title": "Commands",
-    "image": "reference-card/commands.png"
-  },
-  {
-    "title": "Defense Tokens",
-    "image": "reference-card/defense-tokens.png"
-  }
+    {
+        "title":  "Commands",
+        "image":  "reference-card/commands.png",
+        "display-text":  "Reference card for command icons and command resolution.",
+        "text-fallback":  {
+                              "label":  "Commands",
+                              "family":  "reference-card.json",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  null,
+                              "slots":  {
+
+                                        },
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  {
+
+                                                        },
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Reference card for command icons and command resolution."
+                          }
+    },
+    {
+        "title":  "Defense Tokens",
+        "image":  "reference-card/defense-tokens.png",
+        "display-text":  "Reference card for defense token icons and defense token effects.",
+        "text-fallback":  {
+                              "label":  "Defense Tokens",
+                              "family":  "reference-card.json",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  null,
+                              "slots":  {
+
+                                        },
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  {
+
+                                                        },
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Reference card for defense token icons and defense token effects."
+                          }
+    }
 ]

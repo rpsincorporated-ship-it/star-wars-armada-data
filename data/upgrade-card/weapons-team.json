@@ -8,7 +8,41 @@
                   ],
         "faction":  "Rebel Alliance",
         "points":  6,
-        "image":  "upgrade-card/weapons-team/caitken-and-shollan.png"
+        "image":  "upgrade-card/weapons-team/caitken-and-shollan.png",
+        "display-text":  "Text: While attacking, you may exhaust this card to reroll any number of dice of 1 color.",
+        "text-fallback":  {
+                              "label":  "Caitken and Shollan",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  6,
+                              "slots":  "Weapons Team",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While attacking, you may exhaust this card to reroll any number of dice of 1 color.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While attacking, you may exhaust this card to reroll any number of dice of 1 color."
+                          }
     },
     {
         "name":  "Clone Gunners",
@@ -38,7 +72,41 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/weapons-team/clone-gunners.png"
+        "image":  "upgrade-card/weapons-team/clone-gunners.png",
+        "display-text":  "Text: [Concentrate Fire]: You may discard 1 concentrate fire token assigned to another friendly ship at distance 1-5 of the defender. If you do, add 1 blue die set to the [Accuracy] face to the attack pool.",
+        "text-fallback":  {
+                              "label":  "Clone Gunners",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Republic",
+                              "points":  4,
+                              "slots":  "Weapons Team",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "[Concentrate Fire]: You may discard 1 concentrate fire token assigned to another friendly ship at distance 1-5 of the defender. If you do, add 1 blue die set to the [Accuracy] face to the attack pool.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: [Concentrate Fire]: You may discard 1 concentrate fire token assigned to another friendly ship at distance 1-5 of the defender. If you do, add 1 blue die set to the [Accuracy] face to the attack pool."
+                          }
     },
     {
         "name":  "Fire-Control Team",
@@ -47,7 +115,41 @@
                       "Weapons Team"
                   ],
         "points":  2,
-        "image":  "upgrade-card/weapons-team/fire-control-team.png"
+        "image":  "upgrade-card/weapons-team/fire-control-team.png",
+        "display-text":  "Text: During the Resolve Damage Step, you may exhaust this card to resolve 1 additional critical effect. You cannot resolve the same critical effect twice.",
+        "text-fallback":  {
+                              "label":  "Fire-Control Team",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  2,
+                              "slots":  "Weapons Team",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "During the Resolve Damage Step, you may exhaust this card to resolve 1 additional critical effect. You cannot resolve the same critical effect twice.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: During the Resolve Damage Step, you may exhaust this card to resolve 1 additional critical effect. You cannot resolve the same critical effect twice."
+                          }
     },
     {
         "name":  "Flight Controllers",
@@ -56,7 +158,41 @@
                       "Weapons Team"
                   ],
         "points":  6,
-        "image":  "upgrade-card/weapons-team/flight-controllers.png"
+        "image":  "upgrade-card/weapons-team/flight-controllers.png",
+        "display-text":  "Text: [Squadron]: The anti-squadron armament of each squadron that you activate is increased by 1 blue die until the end of its activation.",
+        "text-fallback":  {
+                              "label":  "Flight Controllers",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  6,
+                              "slots":  "Weapons Team",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "[Squadron]: The anti-squadron armament of each squadron that you activate is increased by 1 blue die until the end of its activation.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: [Squadron]: The anti-squadron armament of each squadron that you activate is increased by 1 blue die until the end of its activation."
+                          }
     },
     {
         "name":  "Gunnery Chief Varnillian",
@@ -67,7 +203,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  6,
-        "image":  "upgrade-card/weapons-team/gunnery-chief-varnillian.png"
+        "image":  "upgrade-card/weapons-team/gunnery-chief-varnillian.png",
+        "display-text":  "Text: After you deploy, place 1 red die set to a blank face on this card. If you are the second player, set it to any face instead. While attacking a ship, you may spend 1 die from the attack pool to exchange it with the die on this card. Both dice remain set to their current faces.",
+        "text-fallback":  {
+                              "label":  "Gunnery Chief Varnillian",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  6,
+                              "slots":  "Weapons Team",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "After you deploy, place 1 red die set to a blank face on this card. If you are the second player, set it to any face instead. While attacking a ship, you may spend 1 die from the attack pool to exchange it with the die on this card. Both dice remain set to their current faces.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: After you deploy, place 1 red die set to a blank face on this card. If you are the second player, set it to any face instead. While attacking a ship, you may spend 1 die from the attack pool to exchange it with the die on this card. Both dice remain set to their current faces."
+                          }
     },
     {
         "name":  "Gunnery Team",
@@ -76,7 +246,41 @@
                       "Weapons Team"
                   ],
         "points":  7,
-        "image":  "upgrade-card/weapons-team/gunnery-team.png"
+        "image":  "upgrade-card/weapons-team/gunnery-team.png",
+        "display-text":  "Text: You can attack from the same hull zone more than once per activation. That hull zone cannot target the same ship or squadron more than once during that activation.",
+        "text-fallback":  {
+                              "label":  "Gunnery Team",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  7,
+                              "slots":  "Weapons Team",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "You can attack from the same hull zone more than once per activation. That hull zone cannot target the same ship or squadron more than once during that activation.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: You can attack from the same hull zone more than once per activation. That hull zone cannot target the same ship or squadron more than once during that activation."
+                          }
     },
     {
         "name":  "Local Fire Control",
@@ -85,7 +289,41 @@
                       "Weapons Team"
                   ],
         "points":  4,
-        "image":  "upgrade-card/weapons-team/local-fire-control.png"
+        "image":  "upgrade-card/weapons-team/local-fire-control.png",
+        "display-text":  "Text: After you deploy, you must replace 1 of your defense tokens with a [Salvo] defense token.",
+        "text-fallback":  {
+                              "label":  "Local Fire Control",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  4,
+                              "slots":  "Weapons Team",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "After you deploy, you must replace 1 of your defense tokens with a [Salvo] defense token.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: After you deploy, you must replace 1 of your defense tokens with a [Salvo] defense token."
+                          }
     },
     {
         "name":  "Ordnance Experts",
@@ -94,7 +332,41 @@
                       "Weapons Team"
                   ],
         "points":  4,
-        "image":  "upgrade-card/weapons-team/ordnance-experts.png"
+        "image":  "upgrade-card/weapons-team/ordnance-experts.png",
+        "display-text":  "Text: While attacking, you may reroll any number of your black dice.",
+        "text-fallback":  {
+                              "label":  "Ordnance Experts",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  4,
+                              "slots":  "Weapons Team",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While attacking, you may reroll any number of your black dice.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While attacking, you may reroll any number of your black dice."
+                          }
     },
     {
         "name":  "Ruthless Strategists",
@@ -103,7 +375,41 @@
                       "Weapons Team"
                   ],
         "points":  4,
-        "image":  "upgrade-card/weapons-team/ruthless-strategists.png"
+        "image":  "upgrade-card/weapons-team/ruthless-strategists.png",
+        "display-text":  "Text: After attacking a squadron, you may deal 1 damage to a friendly squadron engaged with the defender. If you do, the defender suffers 1 damage.",
+        "text-fallback":  {
+                              "label":  "Ruthless Strategists",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  4,
+                              "slots":  "Weapons Team",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "After attacking a squadron, you may deal 1 damage to a friendly squadron engaged with the defender. If you do, the defender suffers 1 damage.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: After attacking a squadron, you may deal 1 damage to a friendly squadron engaged with the defender. If you do, the defender suffers 1 damage."
+                          }
     },
     {
         "name":  "Sensor Team",
@@ -112,7 +418,41 @@
                       "Weapons Team"
                   ],
         "points":  5,
-        "image":  "upgrade-card/weapons-team/sensor-team.png"
+        "image":  "upgrade-card/weapons-team/sensor-team.png",
+        "display-text":  "Text: While attacking, you may exhaust this card and spend 1 die to change 1 of your dice to a face with an [Accuracy] icon.",
+        "text-fallback":  {
+                              "label":  "Sensor Team",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  5,
+                              "slots":  "Weapons Team",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While attacking, you may exhaust this card and spend 1 die to change 1 of your dice to a face with an [Accuracy] icon.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While attacking, you may exhaust this card and spend 1 die to change 1 of your dice to a face with an [Accuracy] icon."
+                          }
     },
     {
         "name":  "Veteran Gunners",
@@ -121,7 +461,41 @@
                       "Weapons Team"
                   ],
         "points":  5,
-        "image":  "upgrade-card/weapons-team/veteran-gunners.png"
+        "image":  "upgrade-card/weapons-team/veteran-gunners.png",
+        "display-text":  "Text: While attacking, you may exhaust this card to reroll all dice in your attack pool.",
+        "text-fallback":  {
+                              "label":  "Veteran Gunners",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  5,
+                              "slots":  "Weapons Team",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While attacking, you may exhaust this card to reroll all dice in your attack pool.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While attacking, you may exhaust this card to reroll all dice in your attack pool."
+                          }
     },
     {
         "name":  "Weapons Battery Techs",
@@ -130,6 +504,40 @@
                       "Weapons Team"
                   ],
         "points":  5,
-        "image":  "upgrade-card/weapons-team/weapons-battery-techs.png"
+        "image":  "upgrade-card/weapons-team/weapons-battery-techs.png",
+        "display-text":  "Text: While attacking a ship, you may change 1 die face with a [Accuracy] icon to a face with [Critical Hit] icon.",
+        "text-fallback":  {
+                              "label":  "Weapons Battery Techs",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  5,
+                              "slots":  "Weapons Team",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While attacking a ship, you may change 1 die face with a [Accuracy] icon to a face with [Critical Hit] icon.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While attacking a ship, you may change 1 die face with a [Accuracy] icon to a face with [Critical Hit] icon."
+                          }
     }
 ]

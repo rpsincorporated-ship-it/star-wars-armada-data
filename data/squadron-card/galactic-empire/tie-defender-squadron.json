@@ -1,16 +1,61 @@
-[
-  {
-    "name": "TIE Defender Squadron",
-    "subname": "",
-    "faction": "Galactic Empire",
-    "speed": 5,
-    "hull": 6,
-    "__comment": "dice array is [red, blue, black] counts",
-    "squadron-attack": [0, 2, 2],
-    "attack": [0, 1, 0],
-    "keywords": ["Bomber"],
-    "points": 16,
-    "squadron-image": "squadron/galactic-empire/tie-defender-squadron.png",
-    "image": "squadron-card/galactic-empire/tie-defender-squadron.png"
-  }
-]
+{
+    "name":  "TIE Defender Squadron",
+    "subname":  "",
+    "faction":  "Galactic Empire",
+    "speed":  5,
+    "hull":  6,
+    "__comment":  "dice array is [red, blue, black] counts",
+    "squadron-attack":  [
+                            0,
+                            2,
+                            2
+                        ],
+    "attack":  [
+                   0,
+                   1,
+                   0
+               ],
+    "keywords":  [
+                     "Bomber"
+                 ],
+    "points":  16,
+    "squadron-image":  "squadron/galactic-empire/tie-defender-squadron.png",
+    "image":  "squadron-card/galactic-empire/tie-defender-squadron.png",
+    "display-text":  "Galactic Empire | 16 points | Keywords: Bomber | Stats: speed: 5; hull: 6",
+    "text-fallback":  {
+                          "label":  "TIE Defender Squadron",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Galactic Empire",
+                          "points":  16,
+                          "slots":  {
+
+                                    },
+                          "keywords":  "Bomber",
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  5,
+                                        "hull":  6
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Galactic Empire | 16 points | Keywords: Bomber | Stats: speed: 5; hull: 6"
+                      }
+}

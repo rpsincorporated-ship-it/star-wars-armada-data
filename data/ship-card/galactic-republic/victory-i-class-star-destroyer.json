@@ -74,5 +74,56 @@
     "supplement-revision":  "2.0",
     "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
     "image-status":  "card-image-not-packaged",
-    "image":  "ship/galactic-republic/victory-i-class-star-destroyer.png"
+    "image":  "ship/galactic-republic/victory-i-class-star-destroyer.png",
+    "display-text":  "Galactic Republic | Officer, Weapons Team, Support Team, Offensive Retrofit, Ordnance, Ordnance, Weapons Team \u0026 Offensive Retrofit | 73 points | Traits: Clone | Stats: hull: 8; command: 3; squadron: 3; engineering: 4; size: medium; defense-tokens: Brace, Redirect, Salvo",
+    "text-fallback":  {
+                          "label":  "Victory I-class Star Destroyer",
+                          "family":  "ship-card",
+                          "category":  "",
+                          "faction":  "Galactic Republic",
+                          "points":  73,
+                          "slots":  [
+                                        "Officer",
+                                        "Weapons Team",
+                                        "Support Team",
+                                        "Offensive Retrofit",
+                                        "Ordnance",
+                                        "Ordnance",
+                                        "Weapons Team \u0026 Offensive Retrofit"
+                                    ],
+                          "keywords":  {
+
+                                       },
+                          "traits":  "Clone",
+                          "stats":  {
+                                        "hull":  8,
+                                        "command":  3,
+                                        "squadron":  3,
+                                        "engineering":  4,
+                                        "size":  "medium",
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Redirect",
+                                                               "Salvo"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Galactic Republic | Officer, Weapons Team, Support Team, Offensive Retrofit, Ordnance, Ordnance, Weapons Team \u0026 Offensive Retrofit | 73 points | Traits: Clone | Stats: hull: 8; command: 3; squadron: 3; engineering: 4; size: medium; defense-tokens: Brace, Redirect, Salvo"
+                      }
 }

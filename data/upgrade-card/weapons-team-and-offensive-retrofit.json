@@ -7,7 +7,44 @@
                       "Offensive Retrofit"
                   ],
         "points":  2,
-        "image":  "upgrade-card/weapons-team-and-offensive-retrofit/boarding-engineers.png"
+        "image":  "upgrade-card/weapons-team-and-offensive-retrofit/boarding-engineers.png",
+        "display-text":  "Text: When you reveal a command, you may discard a [Squadron] dial or token and this card to choose 1 enemy ship at close range. Look at its facedown damage cards and flip a number of them faceup up to your engineering value (one at a time).",
+        "text-fallback":  {
+                              "label":  "Boarding Engineers",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  2,
+                              "slots":  [
+                                            "Weapons Team",
+                                            "Offensive Retrofit"
+                                        ],
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When you reveal a command, you may discard a [Squadron] dial or token and this card to choose 1 enemy ship at close range. Look at its facedown damage cards and flip a number of them faceup up to your engineering value (one at a time).",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When you reveal a command, you may discard a [Squadron] dial or token and this card to choose 1 enemy ship at close range. Look at its facedown damage cards and flip a number of them faceup up to your engineering value (one at a time)."
+                          }
     },
     {
         "name":  "Boarding Troopers",
@@ -17,7 +54,44 @@
                       "Offensive Retrofit"
                   ],
         "points":  3,
-        "image":  "upgrade-card/weapons-team-and-offensive-retrofit/boarding-troopers.png"
+        "image":  "upgrade-card/weapons-team-and-offensive-retrofit/boarding-troopers.png",
+        "display-text":  "Text: When you reveal a command, you may discard a [Squadron] dial or token and this card to choose 1 enemy ship at close range. Choose and spend a number of its defense tokens up to your squadron value.",
+        "text-fallback":  {
+                              "label":  "Boarding Troopers",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  3,
+                              "slots":  [
+                                            "Weapons Team",
+                                            "Offensive Retrofit"
+                                        ],
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When you reveal a command, you may discard a [Squadron] dial or token and this card to choose 1 enemy ship at close range. Choose and spend a number of its defense tokens up to your squadron value.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When you reveal a command, you may discard a [Squadron] dial or token and this card to choose 1 enemy ship at close range. Choose and spend a number of its defense tokens up to your squadron value."
+                          }
     },
     {
         "name":  "Cham Syndulla",
@@ -29,7 +103,44 @@
                       "Offensive Retrofit"
                   ],
         "points":  5,
-        "image":  "upgrade-card/weapons-team-and-offensive-retrofit/cham-syndulla.png"
+        "image":  "upgrade-card/weapons-team-and-offensive-retrofit/cham-syndulla.png",
+        "display-text":  "Text: When you reveal a command, you may discard a [Squadron] dial or token and this card to choose 1 enemy ship at close range. If you do you may choose a new command for each command dial assigned to that ship.",
+        "text-fallback":  {
+                              "label":  "Cham Syndulla",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  5,
+                              "slots":  [
+                                            "Weapons Team",
+                                            "Offensive Retrofit"
+                                        ],
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When you reveal a command, you may discard a [Squadron] dial or token and this card to choose 1 enemy ship at close range. If you do you may choose a new command for each command dial assigned to that ship.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When you reveal a command, you may discard a [Squadron] dial or token and this card to choose 1 enemy ship at close range. If you do you may choose a new command for each command dial assigned to that ship."
+                          }
     },
     {
         "name":  "Darth Vader",
@@ -41,7 +152,44 @@
                       "Offensive Retrofit"
                   ],
         "points":  3,
-        "image":  "upgrade-card/weapons-team-and-offensive-retrofit/darth-vader.png"
+        "image":  "upgrade-card/weapons-team-and-offensive-retrofit/darth-vader.png",
+        "display-text":  "Text: When you reveal a command, you may discard a [Squadron] dial or token and this card to choose 1 enemy ship at close range. Choose and discard 1 non-[Commander] upgrade card equipped to that ship.",
+        "text-fallback":  {
+                              "label":  "Darth Vader",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  3,
+                              "slots":  [
+                                            "Weapons Team",
+                                            "Offensive Retrofit"
+                                        ],
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When you reveal a command, you may discard a [Squadron] dial or token and this card to choose 1 enemy ship at close range. Choose and discard 1 non-[Commander] upgrade card equipped to that ship.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When you reveal a command, you may discard a [Squadron] dial or token and this card to choose 1 enemy ship at close range. Choose and discard 1 non-[Commander] upgrade card equipped to that ship."
+                          }
     },
     {
         "name":  "Jyn Erso",
@@ -53,7 +201,44 @@
                       "Offensive Retrofit"
                   ],
         "points":  4,
-        "image":  "upgrade-card/weapons-team-and-offensive-retrofit/jyn-erso.png"
+        "image":  "upgrade-card/weapons-team-and-offensive-retrofit/jyn-erso.png",
+        "display-text":  "Text: When you reveal a command, you may discard a [Squadron] dial or token and this card to choose 1 enemy ship at close range. If that ship has no raid tokens, it gains 2 raid tokens of your choice. If that ship has an objective token, you may also gain 1 victory token.",
+        "text-fallback":  {
+                              "label":  "Jyn Erso",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  4,
+                              "slots":  [
+                                            "Weapons Team",
+                                            "Offensive Retrofit"
+                                        ],
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When you reveal a command, you may discard a [Squadron] dial or token and this card to choose 1 enemy ship at close range. If that ship has no raid tokens, it gains 2 raid tokens of your choice. If that ship has an objective token, you may also gain 1 victory token.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When you reveal a command, you may discard a [Squadron] dial or token and this card to choose 1 enemy ship at close range. If that ship has no raid tokens, it gains 2 raid tokens of your choice. If that ship has an objective token, you may also gain 1 victory token."
+                          }
     },
     {
         "name":  "Shriv Suurgav",
@@ -65,6 +250,43 @@
                       "Offensive Retrofit"
                   ],
         "points":  6,
-        "image":  "upgrade-card/weapons-team-and-offensive-retrofit/shriv-suurgav.png"
+        "image":  "upgrade-card/weapons-team-and-offensive-retrofit/shriv-suurgav.png",
+        "display-text":  "Text: When you reveal a command, you may discard a [Squadron] dial or token and this card to choose 1 enemy ship at close range. Choose and discard 1 [Weapons Team], [Support Team], [Offensive Retrofit], [Defensive Retrofit], [Ordnance], [Ion Cannons], or [Turbolasers] upgrade card equipped to that ship.",
+        "text-fallback":  {
+                              "label":  "Shriv Suurgav",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  6,
+                              "slots":  [
+                                            "Weapons Team",
+                                            "Offensive Retrofit"
+                                        ],
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When you reveal a command, you may discard a [Squadron] dial or token and this card to choose 1 enemy ship at close range. Choose and discard 1 [Weapons Team], [Support Team], [Offensive Retrofit], [Defensive Retrofit], [Ordnance], [Ion Cannons], or [Turbolasers] upgrade card equipped to that ship.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When you reveal a command, you may discard a [Squadron] dial or token and this card to choose 1 enemy ship at close range. Choose and discard 1 [Weapons Team], [Support Team], [Offensive Retrofit], [Defensive Retrofit], [Ordnance], [Ion Cannons], or [Turbolasers] upgrade card equipped to that ship."
+                          }
     }
 ]

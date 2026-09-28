@@ -26,5 +26,44 @@
                        ],
     "points":  21,
     "squadron-image":  "squadron/galactic-empire/tie-advanced-squadron.png",
-    "image":  "squadron-card/galactic-empire/darth-vader.png"
+    "image":  "squadron-card/galactic-empire/darth-vader.png",
+    "display-text":  "Text: While attacking, each of your [Critical Hit] icons adds 1 damage to the damage total.",
+    "text-fallback":  {
+                          "label":  "Darth Vader",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Galactic Empire",
+                          "points":  21,
+                          "slots":  {
+
+                                    },
+                          "keywords":  "Escort",
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  4,
+                                        "hull":  5,
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Brace"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  "While attacking, each of your [Critical Hit] icons adds 1 damage to the damage total.",
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Text: While attacking, each of your [Critical Hit] icons adds 1 damage to the damage total."
+                      }
 }

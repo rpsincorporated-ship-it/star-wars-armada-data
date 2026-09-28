@@ -1,20 +1,73 @@
-[
-  {
-    "name": "Colonel Jendon",
-    "subname": "Lambda-class Shuttle",
-    "unique": true,
-    "faction": "Galactic Empire",
-    "speed": 3,
-    "hull": 6,
-    "__comment": "dice array is [red, blue, black] counts",
-    "squadron-attack": [0, 0, 2],
-    "attack": [0, 1, 0],
-    "text":
-      "During your activation, instead of attacking you may choose 1 friendly squadron at distance 1-2. That squadron may perform an attack (even if it has already activated).",
-    "keywords": ["Heavy", "Relay 2"],
-    "defense-tokens": ["Brace", "Brace"],
-    "points": 20,
-    "squadron-image": "squadron/galactic-empire/lambda-class-shuttle.png",
-    "image": "squadron-card/galactic-empire/colonel-jendon.png"
-  }
-]
+{
+    "name":  "Colonel Jendon",
+    "subname":  "Lambda-class Shuttle",
+    "unique":  true,
+    "faction":  "Galactic Empire",
+    "speed":  3,
+    "hull":  6,
+    "__comment":  "dice array is [red, blue, black] counts",
+    "squadron-attack":  [
+                            0,
+                            0,
+                            2
+                        ],
+    "attack":  [
+                   0,
+                   1,
+                   0
+               ],
+    "text":  "During your activation, instead of attacking you may choose 1 friendly squadron at distance 1-2. That squadron may perform an attack (even if it has already activated).",
+    "keywords":  [
+                     "Heavy",
+                     "Relay 2"
+                 ],
+    "defense-tokens":  [
+                           "Brace",
+                           "Brace"
+                       ],
+    "points":  20,
+    "squadron-image":  "squadron/galactic-empire/lambda-class-shuttle.png",
+    "image":  "squadron-card/galactic-empire/colonel-jendon.png",
+    "display-text":  "Text: During your activation, instead of attacking you may choose 1 friendly squadron at distance 1-2. That squadron may perform an attack (even if it has already activated).",
+    "text-fallback":  {
+                          "label":  "Colonel Jendon",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Galactic Empire",
+                          "points":  20,
+                          "slots":  {
+
+                                    },
+                          "keywords":  [
+                                           "Heavy",
+                                           "Relay 2"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  3,
+                                        "hull":  6,
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Brace"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  "During your activation, instead of attacking you may choose 1 friendly squadron at distance 1-2. That squadron may perform an attack (even if it has already activated).",
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Text: During your activation, instead of attacking you may choose 1 friendly squadron at distance 1-2. That squadron may perform an attack (even if it has already activated)."
+                      }
+}

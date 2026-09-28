@@ -45,5 +45,47 @@
                      "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                      "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                  },
-    "image":  "squadron-card/galactic-republic/kickback.webp"
+    "image":  "squadron-card/galactic-republic/kickback.webp",
+    "display-text":  "Text: After you perform an attack, you may move up to distance 1, even if you are engaged.",
+    "text-fallback":  {
+                          "label":  "Kickback",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Galactic Republic",
+                          "points":  16,
+                          "slots":  {
+
+                                    },
+                          "keywords":  [
+                                           "Escort",
+                                           "Swarm"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  3,
+                                        "hull":  5,
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Brace"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  "After you perform an attack, you may move up to distance 1, even if you are engaged.",
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Text: After you perform an attack, you may move up to distance 1, even if you are engaged."
+                      }
 }

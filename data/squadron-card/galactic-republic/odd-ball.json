@@ -45,5 +45,47 @@
                      "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                      "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                  },
-    "image":  "squadron-card/galactic-republic/odd-ball.png"
+    "image":  "squadron-card/galactic-republic/odd-ball.png",
+    "display-text":  "Text: While attacking, if you moved during this activation, you may reroll up to 2 dice.",
+    "text-fallback":  {
+                          "label":  "Odd Ball",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Galactic Republic",
+                          "points":  20,
+                          "slots":  {
+
+                                    },
+                          "keywords":  [
+                                           "Bomber",
+                                           "Counter 1"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  2,
+                                        "hull":  7,
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Evade"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  "While attacking, if you moved during this activation, you may reroll up to 2 dice.",
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Text: While attacking, if you moved during this activation, you may reroll up to 2 dice."
+                      }
 }

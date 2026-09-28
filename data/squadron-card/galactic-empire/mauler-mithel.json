@@ -1,19 +1,69 @@
-[
-  {
-    "name": "\"Mauler\" Mithel",
-    "subname": "TIE Fighter Squadron",
-    "unique": true,
-    "faction": "Galactic Empire",
-    "speed": 4,
-    "hull": 3,
-    "__comment": "dice array is [red, blue, black] counts",
-    "squadron-attack": [0, 3, 0],
-    "attack": [0, 1, 0],
-    "text": "After you move, each squadron engaged with you suffers 1 damage.",
-    "keywords": ["Swarm"],
-    "defense-tokens": ["Brace", "Scatter"],
-    "points": 15,
-    "squadron-image": "squadron/galactic-empire/tie-fighter-squadron.png",
-    "image": "squadron-card/galactic-empire/mauler-mithel.png"
-  }
-]
+{
+    "name":  "\"Mauler\" Mithel",
+    "subname":  "TIE Fighter Squadron",
+    "unique":  true,
+    "faction":  "Galactic Empire",
+    "speed":  4,
+    "hull":  3,
+    "__comment":  "dice array is [red, blue, black] counts",
+    "squadron-attack":  [
+                            0,
+                            3,
+                            0
+                        ],
+    "attack":  [
+                   0,
+                   1,
+                   0
+               ],
+    "text":  "After you move, each squadron engaged with you suffers 1 damage.",
+    "keywords":  [
+                     "Swarm"
+                 ],
+    "defense-tokens":  [
+                           "Brace",
+                           "Scatter"
+                       ],
+    "points":  15,
+    "squadron-image":  "squadron/galactic-empire/tie-fighter-squadron.png",
+    "image":  "squadron-card/galactic-empire/mauler-mithel.png",
+    "display-text":  "Text: After you move, each squadron engaged with you suffers 1 damage.",
+    "text-fallback":  {
+                          "label":  "\"Mauler\" Mithel",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Galactic Empire",
+                          "points":  15,
+                          "slots":  {
+
+                                    },
+                          "keywords":  "Swarm",
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  4,
+                                        "hull":  3,
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Scatter"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  "After you move, each squadron engaged with you suffers 1 damage.",
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Text: After you move, each squadron engaged with you suffers 1 damage."
+                      }
+}

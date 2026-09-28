@@ -74,5 +74,63 @@
     "supplement-revision":  "2.0",
     "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
     "image-status":  "card-image-not-packaged",
-    "image":  "ship/rebel-alliance/providence-class-carrier.png"
+    "image":  "ship/rebel-alliance/providence-class-carrier.png",
+    "display-text":  "Rebel Alliance | Officer, Officer, Weapons Team, Weapons Team, Offensive Retrofit, Offensive Retrofit, Support Team, Support Team | 95 points | Keywords: Droid, Comms, Transport | Traits: Comms, Transport | Stats: hull: 9; command: 3; squadron: 2; engineering: 4; size: large; defense-tokens: Brace, Redirect, Salvo, Evade",
+    "text-fallback":  {
+                          "label":  "Providence-class Carrier",
+                          "family":  "ship-card",
+                          "category":  "",
+                          "faction":  "Rebel Alliance",
+                          "points":  95,
+                          "slots":  [
+                                        "Officer",
+                                        "Officer",
+                                        "Weapons Team",
+                                        "Weapons Team",
+                                        "Offensive Retrofit",
+                                        "Offensive Retrofit",
+                                        "Support Team",
+                                        "Support Team"
+                                    ],
+                          "keywords":  [
+                                           "Droid",
+                                           "Comms",
+                                           "Transport"
+                                       ],
+                          "traits":  [
+                                         "Comms",
+                                         "Transport"
+                                     ],
+                          "stats":  {
+                                        "hull":  9,
+                                        "command":  3,
+                                        "squadron":  2,
+                                        "engineering":  4,
+                                        "size":  "large",
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Redirect",
+                                                               "Salvo",
+                                                               "Evade"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Rebel Alliance | Officer, Officer, Weapons Team, Weapons Team, Offensive Retrofit, Offensive Retrofit, Support Team, Support Team | 95 points | Keywords: Droid, Comms, Transport | Traits: Comms, Transport | Stats: hull: 9; command: 3; squadron: 2; engineering: 4; size: large; defense-tokens: Brace, Redirect, Salvo, Evade"
+                      }
 }

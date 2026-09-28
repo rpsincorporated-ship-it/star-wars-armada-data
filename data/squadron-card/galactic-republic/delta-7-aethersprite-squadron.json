@@ -40,5 +40,46 @@
                      "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                      "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                  },
-    "image":  "squadron-card/galactic-republic/delta-7-aethersprite-squadron.webp"
+    "image":  "squadron-card/galactic-republic/delta-7-aethersprite-squadron.webp",
+    "display-text":  "Galactic Republic | 17 points | Keywords: Adept 1, Counter 2, Dodge 1 | Stats: speed: 4; hull: 4",
+    "text-fallback":  {
+                          "label":  "Delta-7 Aethersprite Squadron",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Galactic Republic",
+                          "points":  17,
+                          "slots":  {
+
+                                    },
+                          "keywords":  [
+                                           "Adept 1",
+                                           "Counter 2",
+                                           "Dodge 1"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  4,
+                                        "hull":  4
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Galactic Republic | 17 points | Keywords: Adept 1, Counter 2, Dodge 1 | Stats: speed: 4; hull: 4"
+                      }
 }

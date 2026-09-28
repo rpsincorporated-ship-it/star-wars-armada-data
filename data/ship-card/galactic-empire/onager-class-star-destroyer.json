@@ -72,5 +72,56 @@
                   "Superweapon"
               ],
     "points":  120,
-    "image":  "ship/galactic-empire/onager-class-star-destroyer.png"
+    "image":  "ship/galactic-empire/onager-class-star-destroyer.png",
+    "display-text":  "Galactic Empire | Officer, Weapons Team, Weapons Team, Turbolasers, Superweapon | 120 points | Stats: hull: 10; command: 3; squadron: 2; engineering: 3; size: large; defense-tokens: Brace, Redirect, Salvo",
+    "text-fallback":  {
+                          "label":  "Onager-class Star Destroyer",
+                          "family":  "ship-card",
+                          "category":  "",
+                          "faction":  "Galactic Empire",
+                          "points":  120,
+                          "slots":  [
+                                        "Officer",
+                                        "Weapons Team",
+                                        "Weapons Team",
+                                        "Turbolasers",
+                                        "Superweapon"
+                                    ],
+                          "keywords":  {
+
+                                       },
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "hull":  10,
+                                        "command":  3,
+                                        "squadron":  2,
+                                        "engineering":  3,
+                                        "size":  "large",
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Redirect",
+                                                               "Salvo"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Galactic Empire | Officer, Weapons Team, Weapons Team, Turbolasers, Superweapon | 120 points | Stats: hull: 10; command: 3; squadron: 2; engineering: 3; size: large; defense-tokens: Brace, Redirect, Salvo"
+                      }
 }

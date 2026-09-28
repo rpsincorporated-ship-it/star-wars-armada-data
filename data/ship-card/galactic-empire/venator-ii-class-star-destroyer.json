@@ -87,5 +87,57 @@
     "supplement-revision":  "2.0",
     "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
     "image-status":  "card-image-not-packaged",
-    "image":  "ship/galactic-empire/venator-ii-class-star-destroyer.png"
+    "image":  "ship/galactic-empire/venator-ii-class-star-destroyer.png",
+    "display-text":  "Galactic Empire | Officer, Weapons Team, Defensive Retrofit, Ordnance, Ordnance, Turbolasers | 100 points | Keywords: Clone, Bombard | Traits: Bombard | Stats: hull: 9; command: 3; squadron: 3; engineering: 4; size: large; defense-tokens: Brace, Redirect, Contain, Salvo",
+    "text-fallback":  {
+                          "label":  "Venator II-class Star Destroyer",
+                          "family":  "ship-card",
+                          "category":  "",
+                          "faction":  "Galactic Empire",
+                          "points":  100,
+                          "slots":  [
+                                        "Officer",
+                                        "Weapons Team",
+                                        "Defensive Retrofit",
+                                        "Ordnance",
+                                        "Ordnance",
+                                        "Turbolasers"
+                                    ],
+                          "keywords":  [
+                                           "Clone",
+                                           "Bombard"
+                                       ],
+                          "traits":  "Bombard",
+                          "stats":  {
+                                        "hull":  9,
+                                        "command":  3,
+                                        "squadron":  3,
+                                        "engineering":  4,
+                                        "size":  "large",
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Redirect",
+                                                               "Contain",
+                                                               "Salvo"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Galactic Empire | Officer, Weapons Team, Defensive Retrofit, Ordnance, Ordnance, Turbolasers | 100 points | Keywords: Clone, Bombard | Traits: Bombard | Stats: hull: 9; command: 3; squadron: 3; engineering: 4; size: large; defense-tokens: Brace, Redirect, Contain, Salvo"
+                      }
 }

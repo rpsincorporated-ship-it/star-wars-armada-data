@@ -1,20 +1,69 @@
-[
-  {
-    "name": "Lieutenant Blount",
-    "subname": "Z-95 Headhunter Squadron",
-    "unique": true,
-    "faction": "Rebel Alliance",
-    "speed": 3,
-    "hull": 3,
-    "__comment": "dice array is [red, blue, black] counts",
-    "squadron-attack": [3, 0, 0],
-    "attack": [1, 0, 0],
-    "text":
-      "While another friendly squadron with Swarm at distance 1 is attacking a squadron, it may reroll 1 die (in addition to any dice rerolled from Swarm).",
-    "keywords": ["Swarm"],
-    "defense-tokens": ["Brace", "Scatter"],
-    "points": 14,
-    "squadron-image": "squadron/rebel-alliance/z-95-headhunter-squadron.png",
-    "image": "squadron-card/rebel-alliance/lieutenant-blount.png"
-  }
-]
+{
+    "name":  "Lieutenant Blount",
+    "subname":  "Z-95 Headhunter Squadron",
+    "unique":  true,
+    "faction":  "Rebel Alliance",
+    "speed":  3,
+    "hull":  3,
+    "__comment":  "dice array is [red, blue, black] counts",
+    "squadron-attack":  [
+                            3,
+                            0,
+                            0
+                        ],
+    "attack":  [
+                   1,
+                   0,
+                   0
+               ],
+    "text":  "While another friendly squadron with Swarm at distance 1 is attacking a squadron, it may reroll 1 die (in addition to any dice rerolled from Swarm).",
+    "keywords":  [
+                     "Swarm"
+                 ],
+    "defense-tokens":  [
+                           "Brace",
+                           "Scatter"
+                       ],
+    "points":  14,
+    "squadron-image":  "squadron/rebel-alliance/z-95-headhunter-squadron.png",
+    "image":  "squadron-card/rebel-alliance/lieutenant-blount.png",
+    "display-text":  "Text: While another friendly squadron with Swarm at distance 1 is attacking a squadron, it may reroll 1 die (in addition to any dice rerolled from Swarm).",
+    "text-fallback":  {
+                          "label":  "Lieutenant Blount",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Rebel Alliance",
+                          "points":  14,
+                          "slots":  {
+
+                                    },
+                          "keywords":  "Swarm",
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  3,
+                                        "hull":  3,
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Scatter"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  "While another friendly squadron with Swarm at distance 1 is attacking a squadron, it may reroll 1 die (in addition to any dice rerolled from Swarm).",
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Text: While another friendly squadron with Swarm at distance 1 is attacking a squadron, it may reroll 1 die (in addition to any dice rerolled from Swarm)."
+                      }
+}

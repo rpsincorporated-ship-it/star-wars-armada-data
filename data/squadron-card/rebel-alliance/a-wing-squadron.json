@@ -1,16 +1,61 @@
-[
-  {
-    "name": "A-wing Squadron",
-    "subname": "",
-    "faction": "Rebel Alliance",
-    "speed": 5,
-    "hull": 4,
-    "__comment": "dice array is [red, blue, black] counts",
-    "squadron-attack": [0, 3, 0],
-    "attack": [0, 0, 1],
-    "keywords": ["Counter 2"],
-    "points": 11,
-    "squadron-image": "squadron/rebel-alliance/a-wing-squadron.png",
-    "image": "squadron-card/rebel-alliance/a-wing-squadron.png"
-  }
-]
+{
+    "name":  "A-wing Squadron",
+    "subname":  "",
+    "faction":  "Rebel Alliance",
+    "speed":  5,
+    "hull":  4,
+    "__comment":  "dice array is [red, blue, black] counts",
+    "squadron-attack":  [
+                            0,
+                            3,
+                            0
+                        ],
+    "attack":  [
+                   0,
+                   0,
+                   1
+               ],
+    "keywords":  [
+                     "Counter 2"
+                 ],
+    "points":  11,
+    "squadron-image":  "squadron/rebel-alliance/a-wing-squadron.png",
+    "image":  "squadron-card/rebel-alliance/a-wing-squadron.png",
+    "display-text":  "Rebel Alliance | 11 points | Keywords: Counter 2 | Stats: speed: 5; hull: 4",
+    "text-fallback":  {
+                          "label":  "A-wing Squadron",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Rebel Alliance",
+                          "points":  11,
+                          "slots":  {
+
+                                    },
+                          "keywords":  "Counter 2",
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  5,
+                                        "hull":  4
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Rebel Alliance | 11 points | Keywords: Counter 2 | Stats: speed: 5; hull: 4"
+                      }
+}

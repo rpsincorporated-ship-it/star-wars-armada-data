@@ -28,5 +28,47 @@
     "points":  22,
     "squadron-image":  "squadron/rebel-alliance/yt-2400.png",
     "image-status":  "card-image-not-packaged",
-    "image":  "squadron-card/rebel-alliance/mart-mattin.png"
+    "image":  "squadron-card/rebel-alliance/mart-mattin.png",
+    "display-text":  "Text: At the start of the Squadron Phase, you may toggle your activation slider to the activated side. If you do, you may place 1 proximity mine token at distance 1.",
+    "text-fallback":  {
+                          "label":  "Mart Mattin",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Rebel Alliance",
+                          "points":  22,
+                          "slots":  {
+
+                                    },
+                          "keywords":  [
+                                           "Grit",
+                                           "Rogue"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  4,
+                                        "hull":  6,
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Brace"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  "At the start of the Squadron Phase, you may toggle your activation slider to the activated side. If you do, you may place 1 proximity mine token at distance 1.",
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Text: At the start of the Squadron Phase, you may toggle your activation slider to the activated side. If you do, you may place 1 proximity mine token at distance 1."
+                      }
 }

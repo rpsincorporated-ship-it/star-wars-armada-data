@@ -28,5 +28,47 @@
     "points":  26,
     "squadron-image":  "squadron/rebel-alliance/scurrg-h-6-bomber.png",
     "image-status":  "card-image-not-packaged",
-    "image":  "squadron-card/rebel-alliance/malee-hurra.png"
+    "image":  "squadron-card/rebel-alliance/malee-hurra.png",
+    "display-text":  "Text: Once per activation, while a friendly ship is attacking a ship at distance 1 of you and you are engaged by 1 or fewer squadrons, the attacker may spend 1 die to change 1 die to a face with a [Critical Hit] icon.",
+    "text-fallback":  {
+                          "label":  "Malee Hurra",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Rebel Alliance",
+                          "points":  26,
+                          "slots":  {
+
+                                    },
+                          "keywords":  [
+                                           "Bomber",
+                                           "Grit"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  3,
+                                        "hull":  6,
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Brace"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  "Once per activation, while a friendly ship is attacking a ship at distance 1 of you and you are engaged by 1 or fewer squadrons, the attacker may spend 1 die to change 1 die to a face with a [Critical Hit] icon.",
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Text: Once per activation, while a friendly ship is attacking a ship at distance 1 of you and you are engaged by 1 or fewer squadrons, the attacker may spend 1 die to change 1 die to a face with a [Critical Hit] icon."
+                      }
 }

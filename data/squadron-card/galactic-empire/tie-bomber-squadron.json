@@ -1,16 +1,65 @@
-[
-  {
-    "name": "TIE Bomber Squadron",
-    "subname": "",
-    "faction": "Galactic Empire",
-    "speed": 4,
-    "hull": 5,
-    "__comment": "dice array is [red, blue, black] counts",
-    "squadron-attack": [0, 0, 1],
-    "attack": [0, 0, 1],
-    "keywords": ["Bomber", "Heavy"],
-    "points": 9,
-    "squadron-image": "squadron/galactic-empire/tie-bomber-squadron.png",
-    "image": "squadron-card/galactic-empire/tie-bomber-squadron.png"
-  }
-]
+{
+    "name":  "TIE Bomber Squadron",
+    "subname":  "",
+    "faction":  "Galactic Empire",
+    "speed":  4,
+    "hull":  5,
+    "__comment":  "dice array is [red, blue, black] counts",
+    "squadron-attack":  [
+                            0,
+                            0,
+                            1
+                        ],
+    "attack":  [
+                   0,
+                   0,
+                   1
+               ],
+    "keywords":  [
+                     "Bomber",
+                     "Heavy"
+                 ],
+    "points":  9,
+    "squadron-image":  "squadron/galactic-empire/tie-bomber-squadron.png",
+    "image":  "squadron-card/galactic-empire/tie-bomber-squadron.png",
+    "display-text":  "Galactic Empire | 9 points | Keywords: Bomber, Heavy | Stats: speed: 4; hull: 5",
+    "text-fallback":  {
+                          "label":  "TIE Bomber Squadron",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Galactic Empire",
+                          "points":  9,
+                          "slots":  {
+
+                                    },
+                          "keywords":  [
+                                           "Bomber",
+                                           "Heavy"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  4,
+                                        "hull":  5
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Galactic Empire | 9 points | Keywords: Bomber, Heavy | Stats: speed: 4; hull: 5"
+                      }
+}

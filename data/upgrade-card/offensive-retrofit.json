@@ -7,7 +7,41 @@
                       "Offensive Retrofit"
                   ],
         "points":  5,
-        "image":  "upgrade-card/offensive-retrofit/advanced-transponder-net.png"
+        "image":  "upgrade-card/offensive-retrofit/advanced-transponder-net.png",
+        "display-text":  "Text: Friendly [Heavy] squadrons at distance 1-2 prevent engaged squadrons from attacking ships.",
+        "text-fallback":  {
+                              "label":  "Advanced Transponder Net",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  5,
+                              "slots":  "Offensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Friendly [Heavy] squadrons at distance 1-2 prevent engaged squadrons from attacking ships.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Friendly [Heavy] squadrons at distance 1-2 prevent engaged squadrons from attacking ships."
+                          }
     },
     {
         "name":  "B2 Rocket Troopers",
@@ -35,7 +69,41 @@
                          "data_version":  "2025.01-final",
                          "product_origin":  "SWM42"
                      },
-        "image":  "upgrade-card/offensive-retrofit/b2-rocket-troopers.png"
+        "image":  "upgrade-card/offensive-retrofit/b2-rocket-troopers.png",
+        "display-text":  "Text: Provides a close-range raid-token effect tied to the ship\u0027s squadron command resources.",
+        "text-fallback":  {
+                              "label":  "B2 Rocket Troopers",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Separatist Alliance",
+                              "points":  7,
+                              "slots":  "Offensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Provides a close-range raid-token effect tied to the ship\u0027s squadron command resources.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Provides a close-range raid-token effect tied to the ship\u0027s squadron command resources."
+                          }
     },
     {
         "name":  "Boosted Comms",
@@ -44,7 +112,41 @@
                       "Offensive Retrofit"
                   ],
         "points":  4,
-        "image":  "upgrade-card/offensive-retrofit/boosted-comms.png"
+        "image":  "upgrade-card/offensive-retrofit/boosted-comms.png",
+        "display-text":  "Text: [Squadron]: You can activate friendly squadrons at close-long range (instead of close-medium).",
+        "text-fallback":  {
+                              "label":  "Boosted Comms",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  4,
+                              "slots":  "Offensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "[Squadron]: You can activate friendly squadrons at close-long range (instead of close-medium).",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: [Squadron]: You can activate friendly squadrons at close-long range (instead of close-medium)."
+                          }
     },
     {
         "name":  "Disposable Capacitors",
@@ -54,7 +156,41 @@
                       "Offensive Retrofit"
                   ],
         "points":  3,
-        "image":  "upgrade-card/offensive-retrofit/disposable-capacitors.png"
+        "image":  "upgrade-card/offensive-retrofit/disposable-capacitors.png",
+        "display-text":  "Text: When you activate, you may discard this card. If you do, the blue dice in your battery armament can be used while attacking ships at close-long range until the end of the round.",
+        "text-fallback":  {
+                              "label":  "Disposable Capacitors",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  3,
+                              "slots":  "Offensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When you activate, you may discard this card. If you do, the blue dice in your battery armament can be used while attacking ships at close-long range until the end of the round.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When you activate, you may discard this card. If you do, the blue dice in your battery armament can be used while attacking ships at close-long range until the end of the round."
+                          }
     },
     {
         "name":  "Expanded Hangar Bay",
@@ -63,7 +199,41 @@
                       "Offensive Retrofit"
                   ],
         "points":  5,
-        "image":  "upgrade-card/offensive-retrofit/expanded-hangar-bay.png"
+        "image":  "upgrade-card/offensive-retrofit/expanded-hangar-bay.png",
+        "display-text":  "Text: Your squadron value is increased by 1.",
+        "text-fallback":  {
+                              "label":  "Expanded Hangar Bay",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  5,
+                              "slots":  "Offensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Your squadron value is increased by 1.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Your squadron value is increased by 1."
+                          }
     },
     {
         "name":  "Flag Bridge",
@@ -77,7 +247,41 @@
                       "Offensive Retrofit"
                   ],
         "points":  0,
-        "image":  "upgrade-card/offensive-retrofit/flag-bridge.png"
+        "image":  "upgrade-card/offensive-retrofit/flag-bridge.png",
+        "display-text":  "Text: You gain 1 [Fleet Command] icon in you upgrade bar. You cannot spend a command token to resolve a [Fleet Command] card\u0027s effect.",
+        "text-fallback":  {
+                              "label":  "Flag Bridge",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  0,
+                              "slots":  "Offensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "You gain 1 [Fleet Command] icon in you upgrade bar. You cannot spend a command token to resolve a [Fleet Command] card\u0027s effect.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: You gain 1 [Fleet Command] icon in you upgrade bar. You cannot spend a command token to resolve a [Fleet Command] card\u0027s effect."
+                          }
     },
     {
         "name":  "Flak Guns",
@@ -107,7 +311,41 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/offensive-retrofit/flak-guns.png"
+        "image":  "upgrade-card/offensive-retrofit/flak-guns.png",
+        "display-text":  "Text: Treat each die in your anti-squadron armament as black. While performing a Salvo attack, the black dice in your battery armament can be used at medium range and the blue dice in your battery armament can be used at long range.",
+        "text-fallback":  {
+                              "label":  "Flak Guns",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Neutral",
+                              "points":  3,
+                              "slots":  "Offensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Treat each die in your anti-squadron armament as black. While performing a Salvo attack, the black dice in your battery armament can be used at medium range and the blue dice in your battery armament can be used at long range.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Treat each die in your anti-squadron armament as black. While performing a Salvo attack, the black dice in your battery armament can be used at medium range and the blue dice in your battery armament can be used at long range."
+                          }
     },
     {
         "name":  "Hardened Bulkheads",
@@ -117,7 +355,41 @@
                       "Offensive Retrofit"
                   ],
         "points":  5,
-        "image":  "upgrade-card/offensive-retrofit/hardened-bulkheads.png"
+        "image":  "upgrade-card/offensive-retrofit/hardened-bulkheads.png",
+        "display-text":  "Text: When you overlap a ship of a smaller size class (or are overlapped by a ship of a smaller size class), deal 1 fewer facedown damage card to your ship.",
+        "text-fallback":  {
+                              "label":  "Hardened Bulkheads",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  5,
+                              "slots":  "Offensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When you overlap a ship of a smaller size class (or are overlapped by a ship of a smaller size class), deal 1 fewer facedown damage card to your ship.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When you overlap a ship of a smaller size class (or are overlapped by a ship of a smaller size class), deal 1 fewer facedown damage card to your ship."
+                          }
     },
     {
         "name":  "Hyperspace Rings",
@@ -145,7 +417,41 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/offensive-retrofit/hyperspace-rings.png"
+        "image":  "upgrade-card/offensive-retrofit/hyperspace-rings.png",
+        "display-text":  "Text: Before deploying fleets, choose a number of friendly non-Rogue squadrons up to your squadron value. Those squadrons gain Scout.",
+        "text-fallback":  {
+                              "label":  "Hyperspace Rings",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  3,
+                              "slots":  "Offensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Before deploying fleets, choose a number of friendly non-Rogue squadrons up to your squadron value. Those squadrons gain Scout.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Before deploying fleets, choose a number of friendly non-Rogue squadrons up to your squadron value. Those squadrons gain Scout."
+                          }
     },
     {
         "name":  "Hyperwave Signal Boost",
@@ -173,7 +479,41 @@
                          "data_version":  "2025.01-final",
                          "product_origin":  "SWM35"
                      },
-        "image":  "upgrade-card/offensive-retrofit/hyperwave-signal-boost.png"
+        "image":  "upgrade-card/offensive-retrofit/hyperwave-signal-boost.png",
+        "display-text":  "Text: During squadron-phase activation, qualifying AI squadrons can receive the card\u0027s AI benefit while activated in the permitted group.",
+        "text-fallback":  {
+                              "label":  "Hyperwave Signal Boost",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Separatist Alliance",
+                              "points":  3,
+                              "slots":  "Offensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "During squadron-phase activation, qualifying AI squadrons can receive the card\u0027s AI benefit while activated in the permitted group.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: During squadron-phase activation, qualifying AI squadrons can receive the card\u0027s AI benefit while activated in the permitted group."
+                          }
     },
     {
         "name":  "Phylon Q7 Tractor Beams",
@@ -183,7 +523,41 @@
                       "Offensive Retrofit"
                   ],
         "points":  6,
-        "image":  "upgrade-card/offensive-retrofit/phylon-q7-tractor-beams.png"
+        "image":  "upgrade-card/offensive-retrofit/phylon-q7-tractor-beams.png",
+        "display-text":  "Text: When you activate, you may exhaust this card to choose 1 enemy ship of your size class or smaller at distance 1-5. That ship must spend a Icon Command Navigate token or reduce its speed by 1 to a minimum of 1.",
+        "text-fallback":  {
+                              "label":  "Phylon Q7 Tractor Beams",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  6,
+                              "slots":  "Offensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When you activate, you may exhaust this card to choose 1 enemy ship of your size class or smaller at distance 1-5. That ship must spend a Icon Command Navigate token or reduce its speed by 1 to a minimum of 1.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When you activate, you may exhaust this card to choose 1 enemy ship of your size class or smaller at distance 1-5. That ship must spend a Icon Command Navigate token or reduce its speed by 1 to a minimum of 1."
+                          }
     },
     {
         "name":  "Point-Defense Reroute",
@@ -192,7 +566,41 @@
                       "Offensive Retrofit"
                   ],
         "points":  5,
-        "image":  "upgrade-card/offensive-retrofit/point-defense-reroute.png"
+        "image":  "upgrade-card/offensive-retrofit/point-defense-reroute.png",
+        "display-text":  "Text: While attacking a squadron at close range, you may reroll your [Critical Hit] icons.",
+        "text-fallback":  {
+                              "label":  "Point-Defense Reroute",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  5,
+                              "slots":  "Offensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While attacking a squadron at close range, you may reroll your [Critical Hit] icons.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While attacking a squadron at close range, you may reroll your [Critical Hit] icons."
+                          }
     },
     {
         "name":  "Proximity Mines",
@@ -201,7 +609,41 @@
                       "Offensive Retrofit"
                   ],
         "points":  4,
-        "image":  "upgrade-card/offensive-retrofit/proximity-mines.png"
+        "image":  "upgrade-card/offensive-retrofit/proximity-mines.png",
+        "display-text":  "Text: Before deploying fleets, you may discard this card to place a number of proximity mine tokens equal to half your engineering value, rounded down. You may place these mines anywhere in the play area beyond distance 5 of enemy ships (and distance 1 of each other).",
+        "text-fallback":  {
+                              "label":  "Proximity Mines",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  4,
+                              "slots":  "Offensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Before deploying fleets, you may discard this card to place a number of proximity mine tokens equal to half your engineering value, rounded down. You may place these mines anywhere in the play area beyond distance 5 of enemy ships (and distance 1 of each other).",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Before deploying fleets, you may discard this card to place a number of proximity mine tokens equal to half your engineering value, rounded down. You may place these mines anywhere in the play area beyond distance 5 of enemy ships (and distance 1 of each other)."
+                          }
     },
     {
         "name":  "Quad Laser Turrets",
@@ -210,7 +652,41 @@
                       "Offensive Retrofit"
                   ],
         "points":  5,
-        "image":  "upgrade-card/offensive-retrofit/quad-laser-turrets.png"
+        "image":  "upgrade-card/offensive-retrofit/quad-laser-turrets.png",
+        "display-text":  "Text: While defending at distance 1, if the attacker is a squadron, you have Counter 1.",
+        "text-fallback":  {
+                              "label":  "Quad Laser Turrets",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  5,
+                              "slots":  "Offensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While defending at distance 1, if the attacker is a squadron, you have Counter 1.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While defending at distance 1, if the attacker is a squadron, you have Counter 1."
+                          }
     },
     {
         "name":  "Rapid Launch Bays",
@@ -219,7 +695,41 @@
                       "Offensive Retrofit"
                   ],
         "points":  6,
-        "image":  "upgrade-card/offensive-retrofit/rapid-launch-bays.png"
+        "image":  "upgrade-card/offensive-retrofit/rapid-launch-bays.png",
+        "display-text":  "Text: Before deploying fleets, you may set aside a number of friendly squadrons up to your squadron value next to your ship card.\n[Squadron]: For each squadron you would activate with this command, you may instead place 1 of your set-aside squadrons within distance 1. It cannot move this activation.",
+        "text-fallback":  {
+                              "label":  "Rapid Launch Bays",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  6,
+                              "slots":  "Offensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Before deploying fleets, you may set aside a number of friendly squadrons up to your squadron value next to your ship card.\n[Squadron]: For each squadron you would activate with this command, you may instead place 1 of your set-aside squadrons within distance 1. It cannot move this activation.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Before deploying fleets, you may set aside a number of friendly squadrons up to your squadron value next to your ship card.\n[Squadron]: For each squadron you would activate with this command, you may instead place 1 of your set-aside squadrons within distance 1. It cannot move this activation."
+                          }
     },
     {
         "name":  "Reserve Hangar Deck",
@@ -241,7 +751,41 @@
                        "rules-baseline":  "AMG final Armada update / Errata 5.5, January 10, 2025",
                        "verification":  "Slicer Tools official ruleset; AMG/FFG errata lineage"
                    },
-        "image":  "upgrade-card/offensive-retrofit/reserve-hangar-deck.png"
+        "image":  "upgrade-card/offensive-retrofit/reserve-hangar-deck-current.png",
+        "display-text":  "Text: When a friendly non-unique squadron with swarm at distance 1-5 is destroyed, you may discard this card. If you do, you may set that squadron\u0027s hull points to 2 and place that squadron unengaged at distance 1 with its activation slider toggled to the activated side.",
+        "text-fallback":  {
+                              "label":  "Reserve Hangar Deck",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Neutral",
+                              "points":  4,
+                              "slots":  "Offensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When a friendly non-unique squadron with swarm at distance 1-5 is destroyed, you may discard this card. If you do, you may set that squadron\u0027s hull points to 2 and place that squadron unengaged at distance 1 with its activation slider toggled to the activated side.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When a friendly non-unique squadron with swarm at distance 1-5 is destroyed, you may discard this card. If you do, you may set that squadron\u0027s hull points to 2 and place that squadron unengaged at distance 1 with its activation slider toggled to the activated side."
+                          }
     },
     {
         "name":  "Reserve Hangar Deck",
@@ -250,7 +794,41 @@
                       "Offensive Retrofit"
                   ],
         "points":  3,
-        "image":  "upgrade-card/offensive-retrofit/reserve-hangar-deck.png"
+        "image":  "upgrade-card/offensive-retrofit/reserve-hangar-deck-printed.png",
+        "display-text":  "Text: When a non-unique squadron with [Swarm] at distance 1-5 is destroyed, you may discard this card. If you do, you may set that squadron\u0027s hull points to \"2\" and place that squadron unengaged at distance 1 with its activation slider toggled to the activated side.",
+        "text-fallback":  {
+                              "label":  "Reserve Hangar Deck",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  3,
+                              "slots":  "Offensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When a non-unique squadron with [Swarm] at distance 1-5 is destroyed, you may discard this card. If you do, you may set that squadron\u0027s hull points to \"2\" and place that squadron unengaged at distance 1 with its activation slider toggled to the activated side.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When a non-unique squadron with [Swarm] at distance 1-5 is destroyed, you may discard this card. If you do, you may set that squadron\u0027s hull points to \"2\" and place that squadron unengaged at distance 1 with its activation slider toggled to the activated side."
+                          }
     },
     {
         "name":  "SPHA-T",
@@ -287,6 +865,40 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/offensive-retrofit/spha-t.png"
+        "image":  "upgrade-card/offensive-retrofit/spha-t.png",
+        "display-text":  "Text: Modification. Star Destroyer only. Decrease your squadron value by 2. Ignition [Close]. Each of your front, left, or right firing arcs is also a special firing arc. You have a special battery armament of 5 blue dice and 1 black die. After you place your targeting token, exhaust this card. While this card is exhausted, you cannot place targeting tokens.",
+        "text-fallback":  {
+                              "label":  "SPHA-T",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Republic",
+                              "points":  7,
+                              "slots":  "Offensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Modification. Star Destroyer only. Decrease your squadron value by 2. Ignition [Close]. Each of your front, left, or right firing arcs is also a special firing arc. You have a special battery armament of 5 blue dice and 1 black die. After you place your targeting token, exhaust this card. While this card is exhausted, you cannot place targeting tokens.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Modification. Star Destroyer only. Decrease your squadron value by 2. Ignition [Close]. Each of your front, left, or right firing arcs is also a special firing arc. You have a special battery armament of 5 blue dice and 1 black die. After you place your targeting token, exhaust this card. While this card is exhausted, you cannot place targeting tokens."
+                          }
     }
 ]

@@ -77,5 +77,63 @@
                      "data_version":  "2025.01-final",
                      "product_origin":  "SWM43"
                  },
-    "image":  "ship/separatist-alliance/recusant-class-light-destroyer.webp"
+    "image":  "ship/separatist-alliance/recusant-class-light-destroyer.webp",
+    "display-text":  "Separatist Alliance | Commander, Title, Officer, Weapons Team, Offensive Retrofit, Ordnance, Turbolasers, Weapons Team \u0026 Offensive Retrofit | 85 points | Traits: Droid | Stats: hull: 8; command: 3; squadron: 3; engineering: 3; size: large; defense-tokens: Evade, Brace, Redirect, Salvo; anti-squadron: {\"red\":0,\"blue\":0,\"black\":1}",
+    "text-fallback":  {
+                          "label":  "Recusant-class Light Destroyer",
+                          "family":  "ship-card",
+                          "category":  "",
+                          "faction":  "Separatist Alliance",
+                          "points":  85,
+                          "slots":  [
+                                        "Commander",
+                                        "Title",
+                                        "Officer",
+                                        "Weapons Team",
+                                        "Offensive Retrofit",
+                                        "Ordnance",
+                                        "Turbolasers",
+                                        "Weapons Team \u0026 Offensive Retrofit"
+                                    ],
+                          "keywords":  {
+
+                                       },
+                          "traits":  "Droid",
+                          "stats":  {
+                                        "hull":  8,
+                                        "command":  3,
+                                        "squadron":  3,
+                                        "engineering":  3,
+                                        "size":  "large",
+                                        "defense-tokens":  [
+                                                               "Evade",
+                                                               "Brace",
+                                                               "Redirect",
+                                                               "Salvo"
+                                                           ],
+                                        "anti-squadron":  {
+                                                              "red":  0,
+                                                              "blue":  0,
+                                                              "black":  1
+                                                          }
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Separatist Alliance | Commander, Title, Officer, Weapons Team, Offensive Retrofit, Ordnance, Turbolasers, Weapons Team \u0026 Offensive Retrofit | 85 points | Traits: Droid | Stats: hull: 8; command: 3; squadron: 3; engineering: 3; size: large; defense-tokens: Evade, Brace, Redirect, Salvo; anti-squadron: {\"red\":0,\"blue\":0,\"black\":1}"
+                      }
 }

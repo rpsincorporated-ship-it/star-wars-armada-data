@@ -53,5 +53,50 @@
     "supplement-revision":  "2.1",
     "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
     "image-status":  "card-image-not-packaged",
-    "image":  "squadron-card/separatist-alliance/wat-tambor.png"
+    "image":  "squadron-card/separatist-alliance/wat-tambor.png",
+    "display-text":  "Belbullab-22 Squadron | Separatist Alliance | 18 points | Keywords: Escort, Relay 1, Screen | Stats: speed: 4; hull: 5; defense-tokens: Brace, Evade",
+    "text-fallback":  {
+                          "label":  "Wat Tambor",
+                          "family":  "squadron-card",
+                          "category":  "Belbullab-22 Squadron",
+                          "faction":  "Separatist Alliance",
+                          "points":  18,
+                          "slots":  {
+
+                                    },
+                          "keywords":  [
+                                           "Escort",
+                                           "Relay 1",
+                                           "Screen"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  4,
+                                        "hull":  5,
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Evade"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Belbullab-22 Squadron | Separatist Alliance | 18 points | Keywords: Escort, Relay 1, Screen | Stats: speed: 4; hull: 5; defense-tokens: Brace, Evade"
+                      }
 }

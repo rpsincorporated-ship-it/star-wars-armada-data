@@ -82,5 +82,64 @@
                   "Turbolasers"
               ],
     "points":  250,
-    "image":  "ship/galactic-empire/star-dreadnought-assault-prototype.png"
+    "image":  "ship/galactic-empire/star-dreadnought-assault-prototype.png",
+    "display-text":  "Galactic Empire | Officer, Officer, Officer, Weapons Team, Offensive Retrofit, Offensive Retrofit, Ion Cannons, Ion Cannons, Turbolasers, Turbolasers | 250 points | Stats: hull: 22; command: 4; squadron: 5; engineering: 4; size: huge; defense-tokens: Brace, Brace, Redirect, Redirect, Contain, Contain",
+    "text-fallback":  {
+                          "label":  "Star Dreadnought Assault Prototype",
+                          "family":  "ship-card",
+                          "category":  "",
+                          "faction":  "Galactic Empire",
+                          "points":  250,
+                          "slots":  [
+                                        "Officer",
+                                        "Officer",
+                                        "Officer",
+                                        "Weapons Team",
+                                        "Offensive Retrofit",
+                                        "Offensive Retrofit",
+                                        "Ion Cannons",
+                                        "Ion Cannons",
+                                        "Turbolasers",
+                                        "Turbolasers"
+                                    ],
+                          "keywords":  {
+
+                                       },
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "hull":  22,
+                                        "command":  4,
+                                        "squadron":  5,
+                                        "engineering":  4,
+                                        "size":  "huge",
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Brace",
+                                                               "Redirect",
+                                                               "Redirect",
+                                                               "Contain",
+                                                               "Contain"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Galactic Empire | Officer, Officer, Officer, Weapons Team, Offensive Retrofit, Offensive Retrofit, Ion Cannons, Ion Cannons, Turbolasers, Turbolasers | 250 points | Stats: hull: 22; command: 4; squadron: 5; engineering: 4; size: huge; defense-tokens: Brace, Brace, Redirect, Redirect, Contain, Contain"
+                      }
 }

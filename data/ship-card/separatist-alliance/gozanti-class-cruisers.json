@@ -74,5 +74,51 @@
     "supplement-revision":  "2.0",
     "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
     "image-status":  "card-image-not-packaged",
-    "image":  "ship/separatist-alliance/gozanti-class-cruisers.png"
+    "image":  "ship/separatist-alliance/gozanti-class-cruisers.png",
+    "display-text":  "Separatist Alliance | Officer, Weapons Team, Ion Cannons | 24 points | Traits: Droid | Stats: hull: 3; command: 1; squadron: 2; engineering: 2; size: small; defense-tokens: Scatter, Evade",
+    "text-fallback":  {
+                          "label":  "Gozanti-class Cruisers",
+                          "family":  "ship-card",
+                          "category":  "",
+                          "faction":  "Separatist Alliance",
+                          "points":  24,
+                          "slots":  [
+                                        "Officer",
+                                        "Weapons Team",
+                                        "Ion Cannons"
+                                    ],
+                          "keywords":  {
+
+                                       },
+                          "traits":  "Droid",
+                          "stats":  {
+                                        "hull":  3,
+                                        "command":  1,
+                                        "squadron":  2,
+                                        "engineering":  2,
+                                        "size":  "small",
+                                        "defense-tokens":  [
+                                                               "Scatter",
+                                                               "Evade"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Separatist Alliance | Officer, Weapons Team, Ion Cannons | 24 points | Traits: Droid | Stats: hull: 3; command: 1; squadron: 2; engineering: 2; size: small; defense-tokens: Scatter, Evade"
+                      }
 }

@@ -1,19 +1,69 @@
-[
-  {
-    "name": "Valen Rudor",
-    "subname": "TIE Fighter Squadron",
-    "unique": true,
-    "faction": "Galactic Empire",
-    "speed": 4,
-    "hull": 3,
-    "__comment": "dice array is [red, blue, black] counts",
-    "squadron-attack": [0, 0, 3],
-    "attack": [0, 1, 0],
-    "text": "While an enemy squadron is engaged with another squadron, it cannot attack you.",
-    "keywords": ["Swarm"],
-    "defense-tokens": ["Brace", "Scatter"],
-    "points": 13,
-    "squadron-image": "squadron/galactic-empire/tie-fighter-squadron.png",
-    "image": "squadron-card/galactic-empire/valen-rudor.png"
-  }
-]
+{
+    "name":  "Valen Rudor",
+    "subname":  "TIE Fighter Squadron",
+    "unique":  true,
+    "faction":  "Galactic Empire",
+    "speed":  4,
+    "hull":  3,
+    "__comment":  "dice array is [red, blue, black] counts",
+    "squadron-attack":  [
+                            0,
+                            0,
+                            3
+                        ],
+    "attack":  [
+                   0,
+                   1,
+                   0
+               ],
+    "text":  "While an enemy squadron is engaged with another squadron, it cannot attack you.",
+    "keywords":  [
+                     "Swarm"
+                 ],
+    "defense-tokens":  [
+                           "Brace",
+                           "Scatter"
+                       ],
+    "points":  13,
+    "squadron-image":  "squadron/galactic-empire/tie-fighter-squadron.png",
+    "image":  "squadron-card/galactic-empire/valen-rudor.png",
+    "display-text":  "Text: While an enemy squadron is engaged with another squadron, it cannot attack you.",
+    "text-fallback":  {
+                          "label":  "Valen Rudor",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Galactic Empire",
+                          "points":  13,
+                          "slots":  {
+
+                                    },
+                          "keywords":  "Swarm",
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  4,
+                                        "hull":  3,
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Scatter"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  "While an enemy squadron is engaged with another squadron, it cannot attack you.",
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Text: While an enemy squadron is engaged with another squadron, it cannot attack you."
+                      }
+}

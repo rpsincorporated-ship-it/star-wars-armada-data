@@ -8,7 +8,41 @@
                       "Officer"
                   ],
         "points":  10,
-        "image":  "upgrade-card/officer/adar-tallon.png"
+        "image":  "upgrade-card/officer/adar-tallon.png",
+        "display-text":  "Text: After you resolve a [Squadron] command, exhaust this card to toggle the activation slider of 1 squadron activated with that command.",
+        "text-fallback":  {
+                              "label":  "Adar Tallon",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  10,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "After you resolve a [Squadron] command, exhaust this card to toggle the activation slider of 1 squadron activated with that command.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: After you resolve a [Squadron] command, exhaust this card to toggle the activation slider of 1 squadron activated with that command."
+                          }
     },
     {
         "name":  "Adi Gallia",
@@ -38,7 +72,41 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/officer/adi-gallia.png"
+        "image":  "upgrade-card/officer/adi-gallia.png",
+        "display-text":  "Text: While defending, when you suffer damage from an attack, you may suffer up to 1 of that damage on the shields of a hull zone adjacent to the defending hull zone for each defense token you spent during the Spend Defense Tokens step. If you do, suffer any remaining damage on the defending hull zone.",
+        "text-fallback":  {
+                              "label":  "Adi Gallia",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Republic",
+                              "points":  3,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While defending, when you suffer damage from an attack, you may suffer up to 1 of that damage on the shields of a hull zone adjacent to the defending hull zone for each defense token you spent during the Spend Defense Tokens step. If you do, suffer any remaining damage on the defending hull zone.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While defending, when you suffer damage from an attack, you may suffer up to 1 of that damage on the shields of a hull zone adjacent to the defending hull zone for each defense token you spent during the Spend Defense Tokens step. If you do, suffer any remaining damage on the defending hull zone."
+                          }
     },
     {
         "name":  "Admiral Chiraneau",
@@ -49,7 +117,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  10,
-        "image":  "upgrade-card/officer/admiral-chiraneau.png"
+        "image":  "upgrade-card/officer/admiral-chiraneau.png",
+        "display-text":  "Text: [Squadron]: Squadrons that you activate can move even if they are engaged. When an engaged squadron moves in this way, treat it as having a printed speed of \"2.\"",
+        "text-fallback":  {
+                              "label":  "Admiral Chiraneau",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  10,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "[Squadron]: Squadrons that you activate can move even if they are engaged. When an engaged squadron moves in this way, treat it as having a printed speed of \"2.\"",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: [Squadron]: Squadrons that you activate can move even if they are engaged. When an engaged squadron moves in this way, treat it as having a printed speed of \"2.\""
+                          }
     },
     {
         "name":  "Admiral Montferrat",
@@ -60,7 +162,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  5,
-        "image":  "upgrade-card/officer/admiral-montferrat.png"
+        "image":  "upgrade-card/officer/admiral-montferrat.png",
+        "display-text":  "Text: While defending against a ship, if your speed is 3 or higher, the attack is treated as obstructed.\nAfter you execute a maneuver, if you overlapped a ship, discard this card.",
+        "text-fallback":  {
+                              "label":  "Admiral Montferrat",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  5,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While defending against a ship, if your speed is 3 or higher, the attack is treated as obstructed.\nAfter you execute a maneuver, if you overlapped a ship, discard this card.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While defending against a ship, if your speed is 3 or higher, the attack is treated as obstructed.\nAfter you execute a maneuver, if you overlapped a ship, discard this card."
+                          }
     },
     {
         "name":  "Admiral Ozzel",
@@ -71,7 +207,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  2,
-        "image":  "upgrade-card/officer/admiral-ozzel.png"
+        "image":  "upgrade-card/officer/admiral-ozzel.png",
+        "display-text":  "Text: At the start of the first round, you may execute a speed-1 maneuver.",
+        "text-fallback":  {
+                              "label":  "Admiral Ozzel",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  2,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of the first round, you may execute a speed-1 maneuver.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of the first round, you may execute a speed-1 maneuver."
+                          }
     },
     {
         "name":  "Admiral Titus",
@@ -82,7 +252,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  2,
-        "image":  "upgrade-card/officer/admiral-titus.png"
+        "image":  "upgrade-card/officer/admiral-titus.png",
+        "display-text":  "Text: At the start of the first round, you may change 1 enemy ship\u0027s speed by 1.",
+        "text-fallback":  {
+                              "label":  "Admiral Titus",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  2,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of the first round, you may change 1 enemy ship\u0027s speed by 1.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of the first round, you may change 1 enemy ship\u0027s speed by 1."
+                          }
     },
     {
         "name":  "Agent Kallus",
@@ -93,7 +297,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  3,
-        "image":  "upgrade-card/officer/agent-kallus.png"
+        "image":  "upgrade-card/officer/agent-kallus.png",
+        "display-text":  "Text: While attacking a unique squadron, add 1 die of any color to your attack pool.",
+        "text-fallback":  {
+                              "label":  "Agent Kallus",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  3,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While attacking a unique squadron, add 1 die of any color to your attack pool.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While attacking a unique squadron, add 1 die of any color to your attack pool."
+                          }
     },
     {
         "name":  "Ahsoka Tano",
@@ -123,7 +361,41 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/officer/ahsoka-tano.png"
+        "image":  "upgrade-card/officer/ahsoka-tano-galactic-republic.png",
+        "display-text":  "Text: Squadron: Each of up to 3 non-unique squadrons that you activate gain Snipe 1 for each die in their anti-squadron armament, to a maximum of Snipe 3, until the end of its activation.",
+        "text-fallback":  {
+                              "label":  "Ahsoka Tano",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Republic",
+                              "points":  6,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Squadron: Each of up to 3 non-unique squadrons that you activate gain Snipe 1 for each die in their anti-squadron armament, to a maximum of Snipe 3, until the end of its activation.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Squadron: Each of up to 3 non-unique squadrons that you activate gain Snipe 1 for each die in their anti-squadron armament, to a maximum of Snipe 3, until the end of its activation."
+                          }
     },
     {
         "name":  "Ahsoka Tano",
@@ -134,7 +406,41 @@
                       "Officer"
                   ],
         "points":  2,
-        "image":  "upgrade-card/officer/ahsoka-tano.png"
+        "image":  "upgrade-card/officer/ahsoka-tano-rebel-alliance.png",
+        "display-text":  "Text: During the activation of a friendly ship at distance 1-5, you may exhaust this card to discard 1 command token from that ship. If you do, that ship may gain 1 command token of any type.",
+        "text-fallback":  {
+                              "label":  "Ahsoka Tano",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  2,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "During the activation of a friendly ship at distance 1-5, you may exhaust this card to discard 1 command token from that ship. If you do, that ship may gain 1 command token of any type.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: During the activation of a friendly ship at distance 1-5, you may exhaust this card to discard 1 command token from that ship. If you do, that ship may gain 1 command token of any type."
+                          }
     },
     {
         "name":  "Asajj Ventress",
@@ -151,7 +457,41 @@
         "supplement-revision":  "2.1",
         "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
         "image-status":  "card-image-not-packaged",
-        "image":  "upgrade-card/officer/asajj-ventress.png"
+        "image":  "upgrade-card/officer/asajj-ventress.png",
+        "display-text":  "Text: During the activation of a friendly ship at distance 1-5 of you, you may exhaust this card to discard 1 raid token from an enemy ship at distance 1-5 of you. If you do that friendly ship may gain 1 command token of any type.",
+        "text-fallback":  {
+                              "label":  "Asajj Ventress",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Separatist Alliance",
+                              "points":  2,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "During the activation of a friendly ship at distance 1-5 of you, you may exhaust this card to discard 1 raid token from an enemy ship at distance 1-5 of you. If you do that friendly ship may gain 1 command token of any type.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: During the activation of a friendly ship at distance 1-5 of you, you may exhaust this card to discard 1 raid token from an enemy ship at distance 1-5 of you. If you do that friendly ship may gain 1 command token of any type."
+                          }
     },
     {
         "name":  "Bail Organa",
@@ -163,7 +503,41 @@
                       "Officer"
                   ],
         "points":  7,
-        "image":  "upgrade-card/officer/bail-organa.png"
+        "image":  "upgrade-card/officer/bail-organa.png",
+        "display-text":  "Text: After deploying fleets, you may place 1 round token on this card. At the start of the Ship Phase of the round matching that round token, if you are the second player you must activate, if you are the first player, you may gain up to 2 command tokens of your choice.",
+        "text-fallback":  {
+                              "label":  "Bail Organa",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  7,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "After deploying fleets, you may place 1 round token on this card. At the start of the Ship Phase of the round matching that round token, if you are the second player you must activate, if you are the first player, you may gain up to 2 command tokens of your choice.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: After deploying fleets, you may place 1 round token on this card. At the start of the Ship Phase of the round matching that round token, if you are the second player you must activate, if you are the first player, you may gain up to 2 command tokens of your choice."
+                          }
     },
     {
         "name":  "Barriss Offee",
@@ -193,7 +567,41 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/officer/barriss-offee.png"
+        "image":  "upgrade-card/officer/barriss-offee.png",
+        "display-text":  "Text: While defending, after the attacker declares the defending hull zone, you may spend 1 command token. If you do, at the start of the Resolve Damage step, choose a different hull zone to be the defending hull zone for this attack.",
+        "text-fallback":  {
+                              "label":  "Barriss Offee",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Republic",
+                              "points":  6,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While defending, after the attacker declares the defending hull zone, you may spend 1 command token. If you do, at the start of the Resolve Damage step, choose a different hull zone to be the defending hull zone for this attack.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While defending, after the attacker declares the defending hull zone, you may spend 1 command token. If you do, at the start of the Resolve Damage step, choose a different hull zone to be the defending hull zone for this attack."
+                          }
     },
     {
         "name":  "Captain Brunson",
@@ -204,7 +612,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  5,
-        "image":  "upgrade-card/officer/captain-brunson.png"
+        "image":  "upgrade-card/officer/captain-brunson.png",
+        "display-text":  "Text: While defending at distance 1-2 of an obstacle, during the Spend Defense Tokens step, you may exhaust this card to choose and cancel 1 attack die.",
+        "text-fallback":  {
+                              "label":  "Captain Brunson",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  5,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While defending at distance 1-2 of an obstacle, during the Spend Defense Tokens step, you may exhaust this card to choose and cancel 1 attack die.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While defending at distance 1-2 of an obstacle, during the Spend Defense Tokens step, you may exhaust this card to choose and cancel 1 attack die."
+                          }
     },
     {
         "name":  "Captain Needa",
@@ -215,7 +657,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  2,
-        "image":  "upgrade-card/officer/captain-needa.png"
+        "image":  "upgrade-card/officer/captain-needa.png",
+        "display-text":  "Text: At the start of the first round, you may replace 1 of your defense tokens with an [Evade] defense token.",
+        "text-fallback":  {
+                              "label":  "Captain Needa",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  2,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of the first round, you may replace 1 of your defense tokens with an [Evade] defense token.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of the first round, you may replace 1 of your defense tokens with an [Evade] defense token."
+                          }
     },
     {
         "name":  "Captain Rex",
@@ -226,7 +702,41 @@
                   ],
         "faction":  "Rebel Alliance",
         "points":  5,
-        "image":  "upgrade-card/officer/captain-rex.png"
+        "image":  "upgrade-card/officer/captain-rex.png",
+        "display-text":  "Text: [Squadron]: You may choose 1 enemy ship at close range. That ship gains 1 raid token of your choice. While you are at distance 1-3 of an enemy ship, that ship can discard only 1 raid token of any type when it discards a command dial.",
+        "text-fallback":  {
+                              "label":  "Captain Rex",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  5,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "[Squadron]: You may choose 1 enemy ship at close range. That ship gains 1 raid token of your choice. While you are at distance 1-3 of an enemy ship, that ship can discard only 1 raid token of any type when it discards a command dial.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: [Squadron]: You may choose 1 enemy ship at close range. That ship gains 1 raid token of your choice. While you are at distance 1-3 of an enemy ship, that ship can discard only 1 raid token of any type when it discards a command dial."
+                          }
     },
     {
         "name":  "Chart Officer",
@@ -235,7 +745,41 @@
                       "Officer"
                   ],
         "points":  2,
-        "image":  "upgrade-card/officer/chart-officer.png"
+        "image":  "upgrade-card/officer/chart-officer.png",
+        "display-text":  "Text: After you execute a maneuver, if you overlapped an obstacle, you may discard this card instead of resolving the effects of overlapping that obstacle.",
+        "text-fallback":  {
+                              "label":  "Chart Officer",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  2,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "After you execute a maneuver, if you overlapped an obstacle, you may discard this card instead of resolving the effects of overlapping that obstacle.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: After you execute a maneuver, if you overlapped an obstacle, you may discard this card instead of resolving the effects of overlapping that obstacle."
+                          }
     },
     {
         "name":  "Clone Captain Silver",
@@ -268,7 +812,41 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/officer/clone-captain-silver.png"
+        "image":  "upgrade-card/officer/clone-captain-silver.png",
+        "display-text":  "Text: After you reveal a command, you may exhaust this card to increase or decrease your speed by any amount.",
+        "text-fallback":  {
+                              "label":  "Clone Captain Silver",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Republic",
+                              "points":  4,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "After you reveal a command, you may exhaust this card to increase or decrease your speed by any amount.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: After you reveal a command, you may exhaust this card to increase or decrease your speed by any amount."
+                          }
     },
     {
         "name":  "Clone Captain Zak",
@@ -298,7 +876,41 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/officer/clone-captain-zak.png"
+        "image":  "upgrade-card/officer/clone-captain-zak.png",
+        "display-text":  "Text: While attacking from your left or right hull zone, or your rear hull zone, you may exhaust this card to add 1 die of a color already in your attack pool. You cannot add a die to a Salvo attack.",
+        "text-fallback":  {
+                              "label":  "Clone Captain Zak",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Republic",
+                              "points":  5,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While attacking from your left or right hull zone, or your rear hull zone, you may exhaust this card to add 1 die of a color already in your attack pool. You cannot add a die to a Salvo attack.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While attacking from your left or right hull zone, or your rear hull zone, you may exhaust this card to add 1 die of a color already in your attack pool. You cannot add a die to a Salvo attack."
+                          }
     },
     {
         "name":  "Clone Commander Wolffe",
@@ -332,7 +944,41 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/officer/clone-commander-wolffe.png"
+        "image":  "upgrade-card/officer/clone-commander-wolffe.png",
+        "display-text":  "Text: Squadron: You may exhaust this card. If you do, each of up to 3 squadrons that you activate without Adept gain Assault until the end of its activation. Each squadron that you activate with the printed Assault keyword can spend a die with a hit or accuracy icon to resolve the Assault effect. You can spend tokens from this card to ready it.",
+        "text-fallback":  {
+                              "label":  "Clone Commander Wolffe",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Republic",
+                              "points":  6,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Squadron: You may exhaust this card. If you do, each of up to 3 squadrons that you activate without Adept gain Assault until the end of its activation. Each squadron that you activate with the printed Assault keyword can spend a die with a hit or accuracy icon to resolve the Assault effect. You can spend tokens from this card to ready it.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Squadron: You may exhaust this card. If you do, each of up to 3 squadrons that you activate without Adept gain Assault until the end of its activation. Each squadron that you activate with the printed Assault keyword can spend a die with a hit or accuracy icon to resolve the Assault effect. You can spend tokens from this card to ready it."
+                          }
     },
     {
         "name":  "Clone Navigation Officer",
@@ -361,7 +1007,41 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/officer/clone-navigation-officer.png"
+        "image":  "upgrade-card/officer/clone-navigation-officer.png",
+        "display-text":  "Text: When you reveal a concentrate fire, navigate, or squadron command, you may exhaust this card to choose another friendly ship at distance 1-5. That ship may gain 1 command token matching your revealed command.",
+        "text-fallback":  {
+                              "label":  "Clone Navigation Officer",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Republic",
+                              "points":  4,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When you reveal a concentrate fire, navigate, or squadron command, you may exhaust this card to choose another friendly ship at distance 1-5. That ship may gain 1 command token matching your revealed command.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When you reveal a concentrate fire, navigate, or squadron command, you may exhaust this card to choose another friendly ship at distance 1-5. That ship may gain 1 command token matching your revealed command."
+                          }
     },
     {
         "name":  "Commandant Aresko",
@@ -372,7 +1052,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  7,
-        "image":  "upgrade-card/officer/commandant-aresko.png"
+        "image":  "upgrade-card/officer/commandant-aresko.png",
+        "display-text":  "Text: When another friendly ship at distance 1-3 reveals a command, you may exhaust this card to gain 1 command token of the same type.",
+        "text-fallback":  {
+                              "label":  "Commandant Aresko",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  7,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When another friendly ship at distance 1-3 reveals a command, you may exhaust this card to gain 1 command token of the same type.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When another friendly ship at distance 1-3 reveals a command, you may exhaust this card to gain 1 command token of the same type."
+                          }
     },
     {
         "name":  "Commander Beck",
@@ -383,7 +1097,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  3,
-        "image":  "upgrade-card/officer/commander-beck.png"
+        "image":  "upgrade-card/officer/commander-beck.png",
+        "display-text":  "Text: During your activation, you may resolve a command as if you had spent a command token. If you do, gain 1 raid token of the matching type. You may resolve this effect twice per activation.",
+        "text-fallback":  {
+                              "label":  "Commander Beck",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  3,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "During your activation, you may resolve a command as if you had spent a command token. If you do, gain 1 raid token of the matching type. You may resolve this effect twice per activation.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: During your activation, you may resolve a command as if you had spent a command token. If you do, gain 1 raid token of the matching type. You may resolve this effect twice per activation."
+                          }
     },
     {
         "name":  "Commander Gherant",
@@ -394,7 +1142,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  2,
-        "image":  "upgrade-card/officer/commander-gherant.png"
+        "image":  "upgrade-card/officer/commander-gherant.png",
+        "display-text":  "Text: While you are defending, the attacker cannot resolve critical effects. After you perform an attack against a ship, discard this card.",
+        "text-fallback":  {
+                              "label":  "Commander Gherant",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  2,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While you are defending, the attacker cannot resolve critical effects. After you perform an attack against a ship, discard this card.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While you are defending, the attacker cannot resolve critical effects. After you perform an attack against a ship, discard this card."
+                          }
     },
     {
         "name":  "Commander Vanto",
@@ -405,7 +1187,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  7,
-        "image":  "upgrade-card/officer/commander-vanto.png"
+        "image":  "upgrade-card/officer/commander-vanto.png",
+        "display-text":  "Text: After you resolve the first command during your activation, you may exhaust this card to gain 1 command token of any type.",
+        "text-fallback":  {
+                              "label":  "Commander Vanto",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  7,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "After you resolve the first command during your activation, you may exhaust this card to gain 1 command token of any type.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: After you resolve the first command during your activation, you may exhaust this card to gain 1 command token of any type."
+                          }
     },
     {
         "name":  "Commander Woldar",
@@ -416,7 +1232,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  4,
-        "image":  "upgrade-card/officer/commander-woldar.png"
+        "image":  "upgrade-card/officer/commander-woldar.png",
+        "display-text":  "Text: While a friendly, non-[Swarm] squadron at distance 1-3 is attacking a squadron, it may reroll 1 die of any color.",
+        "text-fallback":  {
+                              "label":  "Commander Woldar",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  4,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While a friendly, non-[Swarm] squadron at distance 1-3 is attacking a squadron, it may reroll 1 die of any color.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While a friendly, non-[Swarm] squadron at distance 1-3 is attacking a squadron, it may reroll 1 die of any color."
+                          }
     },
     {
         "name":  "Damage Control Officer",
@@ -425,7 +1275,41 @@
                       "Officer"
                   ],
         "points":  5,
-        "image":  "upgrade-card/officer/damage-control-officer.png"
+        "image":  "upgrade-card/officer/damage-control-officer.png",
+        "display-text":  "Text: When you resolve the [Contain] defense effect, you can prevent the attacker from resolving any critical effects.",
+        "text-fallback":  {
+                              "label":  "Damage Control Officer",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  5,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When you resolve the [Contain] defense effect, you can prevent the attacker from resolving any critical effects.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When you resolve the [Contain] defense effect, you can prevent the attacker from resolving any critical effects."
+                          }
     },
     {
         "name":  "Darth Vader",
@@ -436,7 +1320,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  1,
-        "image":  "upgrade-card/officer/darth-vader.png"
+        "image":  "upgrade-card/officer/darth-vader.png",
+        "display-text":  "Text: While a friendly ship at distance 1-5 is attacking a ship, it may discard 1 of its [Commander] or [Officer] cards (other than Darth Vader) to reroll any number of dice in its attack pool.",
+        "text-fallback":  {
+                              "label":  "Darth Vader",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  1,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While a friendly ship at distance 1-5 is attacking a ship, it may discard 1 of its [Commander] or [Officer] cards (other than Darth Vader) to reroll any number of dice in its attack pool.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While a friendly ship at distance 1-5 is attacking a ship, it may discard 1 of its [Commander] or [Officer] cards (other than Darth Vader) to reroll any number of dice in its attack pool."
+                          }
     },
     {
         "name":  "Defense Liaison",
@@ -445,7 +1363,41 @@
                       "Officer"
                   ],
         "points":  3,
-        "image":  "upgrade-card/officer/defense-liaison.png"
+        "image":  "upgrade-card/officer/defense-liaison.png",
+        "display-text":  "Text: Before you reveal a command, you may spend 1 command token to change that command to a [Navigate] or [Repair] command.",
+        "text-fallback":  {
+                              "label":  "Defense Liaison",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  3,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Before you reveal a command, you may spend 1 command token to change that command to a [Navigate] or [Repair] command.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Before you reveal a command, you may spend 1 command token to change that command to a [Navigate] or [Repair] command."
+                          }
     },
     {
         "name":  "Director Isard",
@@ -456,7 +1408,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  3,
-        "image":  "upgrade-card/officer/director-isard.png"
+        "image":  "upgrade-card/officer/director-isard.png",
+        "display-text":  "Text: When you reveal a command, you may look at all command dials assigned to 1 enemy ship.",
+        "text-fallback":  {
+                              "label":  "Director Isard",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  3,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When you reveal a command, you may look at all command dials assigned to 1 enemy ship.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When you reveal a command, you may look at all command dials assigned to 1 enemy ship."
+                          }
     },
     {
         "name":  "Director Krennic",
@@ -467,7 +1453,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  8,
-        "image":  "upgrade-card/officer/director-krennic.png"
+        "image":  "upgrade-card/officer/director-krennic.png",
+        "display-text":  "Text: [Concentrate Fire]: While attacking at medium-long range, if you spent a [Concentrate Fire] dial, you may also reroll any number of red dice in your attack pool. If you spent a [Concentrate Fire] token, you may also reroll up to 2 red dice in your attack pool.",
+        "text-fallback":  {
+                              "label":  "Director Krennic",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  8,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "[Concentrate Fire]: While attacking at medium-long range, if you spent a [Concentrate Fire] dial, you may also reroll any number of red dice in your attack pool. If you spent a [Concentrate Fire] token, you may also reroll up to 2 red dice in your attack pool.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: [Concentrate Fire]: While attacking at medium-long range, if you spent a [Concentrate Fire] dial, you may also reroll any number of red dice in your attack pool. If you spent a [Concentrate Fire] token, you may also reroll up to 2 red dice in your attack pool."
+                          }
     },
     {
         "name":  "Emperor Palpatine",
@@ -478,7 +1498,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  3,
-        "image":  "upgrade-card/officer/emperor-palpatine.png"
+        "image":  "upgrade-card/officer/emperor-palpatine.png",
+        "display-text":  "Text: When an enemy ship or unique squadron declares you as the target of an attack, it must spend 1 of its defense tokens (if able).",
+        "text-fallback":  {
+                              "label":  "Emperor Palpatine",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  3,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When an enemy ship or unique squadron declares you as the target of an attack, it must spend 1 of its defense tokens (if able).",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When an enemy ship or unique squadron declares you as the target of an attack, it must spend 1 of its defense tokens (if able)."
+                          }
     },
     {
         "name":  "Engineering Captain",
@@ -487,7 +1541,41 @@
                       "Officer"
                   ],
         "points":  6,
-        "image":  "upgrade-card/officer/engineering-captain.png"
+        "image":  "upgrade-card/officer/engineering-captain.png",
+        "display-text":  "Text: Before you reveal a command, you may change that command to a [Repair] command.",
+        "text-fallback":  {
+                              "label":  "Engineering Captain",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  6,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Before you reveal a command, you may change that command to a [Repair] command.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Before you reveal a command, you may change that command to a [Repair] command."
+                          }
     },
     {
         "name":  "Expert Shield Tech",
@@ -496,7 +1584,41 @@
                       "Officer"
                   ],
         "points":  5,
-        "image":  "upgrade-card/officer/expert-shield-tech.png"
+        "image":  "upgrade-card/officer/expert-shield-tech.png",
+        "display-text":  "Text: While defending, during the Spend Defense Tokens step, when you spend a [Redirect] defense token, you may reduce the total damage from the attack by 1 instead of resolving that token\u0027s effect.",
+        "text-fallback":  {
+                              "label":  "Expert Shield Tech",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  5,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While defending, during the Spend Defense Tokens step, when you spend a [Redirect] defense token, you may reduce the total damage from the attack by 1 instead of resolving that token\u0027s effect.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While defending, during the Spend Defense Tokens step, when you spend a [Redirect] defense token, you may reduce the total damage from the attack by 1 instead of resolving that token\u0027s effect."
+                          }
     },
     {
         "name":  "Ezra Bridger",
@@ -507,7 +1629,41 @@
                   ],
         "faction":  "Rebel Alliance",
         "points":  3,
-        "image":  "upgrade-card/officer/ezra-bridger.png"
+        "image":  "upgrade-card/officer/ezra-bridger.png",
+        "display-text":  "Text: When you reveal a command, you may discard this card to move 1 obstacle at distance 1-2 so that it is within distance 1-2 of its current location.",
+        "text-fallback":  {
+                              "label":  "Ezra Bridger",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  3,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When you reveal a command, you may discard this card to move 1 obstacle at distance 1-2 so that it is within distance 1-2 of its current location.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When you reveal a command, you may discard this card to move 1 obstacle at distance 1-2 so that it is within distance 1-2 of its current location."
+                          }
     },
     {
         "name":  "Flight Commander",
@@ -516,7 +1672,41 @@
                       "Officer"
                   ],
         "points":  3,
-        "image":  "upgrade-card/officer/flight-commander.png"
+        "image":  "upgrade-card/officer/flight-commander.png",
+        "display-text":  "Text: During your activation, you can resolve your [Squadron] command after you execute a maneuver.",
+        "text-fallback":  {
+                              "label":  "Flight Commander",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  3,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "During your activation, you can resolve your [Squadron] command after you execute a maneuver.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: During your activation, you can resolve your [Squadron] command after you execute a maneuver."
+                          }
     },
     {
         "name":  "General Draven",
@@ -527,7 +1717,41 @@
                       "Officer"
                   ],
         "points":  3,
-        "image":  "upgrade-card/officer/general-draven.png"
+        "image":  "upgrade-card/officer/general-draven.png",
+        "display-text":  "Text: While attacking a squadron with Counter or Intel, add 1 die of any color to your attack pool.",
+        "text-fallback":  {
+                              "label":  "General Draven",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  3,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While attacking a squadron with Counter or Intel, add 1 die of any color to your attack pool.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While attacking a squadron with Counter or Intel, add 1 die of any color to your attack pool."
+                          }
     },
     {
         "name":  "Governor Pryce",
@@ -544,7 +1768,41 @@
         "supplement-revision":  "2.0",
         "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
         "image-status":  "card-image-not-packaged",
-        "image":  "upgrade-card/officer/governor-pryce.png"
+        "image":  "upgrade-card/officer/governor-pryce.png",
+        "display-text":  "Text: Once per activation, while attacking a ship, you may spend 1 shield from the attacking hull zone to change 1 die to any face without an [Accuracy] icon.",
+        "text-fallback":  {
+                              "label":  "Governor Pryce",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  6,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Once per activation, while attacking a ship, you may spend 1 shield from the attacking hull zone to change 1 die to any face without an [Accuracy] icon.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Once per activation, while attacking a ship, you may spend 1 shield from the attacking hull zone to change 1 die to any face without an [Accuracy] icon."
+                          }
     },
     {
         "name":  "Hondo Ohnaka",
@@ -554,7 +1812,41 @@
                       "Officer"
                   ],
         "points":  2,
-        "image":  "upgrade-card/officer/hondo-ohnaka.png"
+        "image":  "upgrade-card/officer/hondo-ohnaka.png",
+        "display-text":  "Text: At the start of the ship phase, you may discard this card to choose 2 different command tokens and place them on 2 different ships. Then your opponent chooses 2 different command tokens you did not choose and places them on 2 different ships.",
+        "text-fallback":  {
+                              "label":  "Hondo Ohnaka",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  2,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of the ship phase, you may discard this card to choose 2 different command tokens and place them on 2 different ships. Then your opponent chooses 2 different command tokens you did not choose and places them on 2 different ships.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of the ship phase, you may discard this card to choose 2 different command tokens and place them on 2 different ships. Then your opponent chooses 2 different command tokens you did not choose and places them on 2 different ships."
+                          }
     },
     {
         "name":  "Iden Versio",
@@ -565,7 +1857,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  6,
-        "image":  "upgrade-card/officer/iden-versio.png"
+        "image":  "upgrade-card/officer/iden-versio.png",
+        "display-text":  "Text: When you resolve the [Evade] defense effect, you can cancel 1 die at close range or distance 1. [Squadron]: You may discard this card to choose 1 enemy ship at close range. That ship gains 1 raid token of your choice.",
+        "text-fallback":  {
+                              "label":  "Iden Versio",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  6,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When you resolve the [Evade] defense effect, you can cancel 1 die at close range or distance 1. [Squadron]: You may discard this card to choose 1 enemy ship at close range. That ship gains 1 raid token of your choice.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When you resolve the [Evade] defense effect, you can cancel 1 die at close range or distance 1. [Squadron]: You may discard this card to choose 1 enemy ship at close range. That ship gains 1 raid token of your choice."
+                          }
     },
     {
         "name":  "Instructor Goran",
@@ -576,7 +1902,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  7,
-        "image":  "upgrade-card/officer/instructor-goran.png"
+        "image":  "upgrade-card/officer/instructor-goran.png",
+        "display-text":  "Text: While a friendly non-Heavy squadron is at distance 1-2, it has Counter 1 or increases its Counter value by 1.",
+        "text-fallback":  {
+                              "label":  "Instructor Goran",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  7,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While a friendly non-Heavy squadron is at distance 1-2, it has Counter 1 or increases its Counter value by 1.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While a friendly non-Heavy squadron is at distance 1-2, it has Counter 1 or increases its Counter value by 1."
+                          }
     },
     {
         "name":  "Intel Officer",
@@ -585,7 +1945,41 @@
                       "Officer"
                   ],
         "points":  7,
-        "image":  "upgrade-card/officer/intel-officer.png"
+        "image":  "upgrade-card/officer/intel-officer.png",
+        "display-text":  "Text: While attacking, after you roll your attack pool, you may exhaust this card to choose 1 defense token. If that token is spent during this attack, discard that token.",
+        "text-fallback":  {
+                              "label":  "Intel Officer",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  7,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While attacking, after you roll your attack pool, you may exhaust this card to choose 1 defense token. If that token is spent during this attack, discard that token.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While attacking, after you roll your attack pool, you may exhaust this card to choose 1 defense token. If that token is spent during this attack, discard that token."
+                          }
     },
     {
         "name":  "Kyrsta Agate",
@@ -596,7 +1990,41 @@
                       "Officer"
                   ],
         "points":  5,
-        "image":  "upgrade-card/officer/kyrsta-agate.png"
+        "image":  "upgrade-card/officer/kyrsta-agate.png",
+        "display-text":  "Text: Red or Blue [Critical Hit]: You may exhaust this card to ready 1 of your exhausted defense tokens. You can resolve this critical effect during a [Salvo] attack.",
+        "text-fallback":  {
+                              "label":  "Kyrsta Agate",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  5,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Red or Blue [Critical Hit]: You may exhaust this card to ready 1 of your exhausted defense tokens. You can resolve this critical effect during a [Salvo] attack.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Red or Blue [Critical Hit]: You may exhaust this card to ready 1 of your exhausted defense tokens. You can resolve this critical effect during a [Salvo] attack."
+                          }
     },
     {
         "name":  "Lando Calrissian",
@@ -607,7 +2035,41 @@
                       "Officer"
                   ],
         "points":  4,
-        "image":  "upgrade-card/officer/lando-calrissian.png"
+        "image":  "upgrade-card/officer/lando-calrissian.png",
+        "display-text":  "Text: While defending, during the Spend Defense Tokens Step, you may discard this card to force the attacker to reroll 1 or more dice of your choice.",
+        "text-fallback":  {
+                              "label":  "Lando Calrissian",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  4,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While defending, during the Spend Defense Tokens Step, you may discard this card to force the attacker to reroll 1 or more dice of your choice.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While defending, during the Spend Defense Tokens Step, you may discard this card to force the attacker to reroll 1 or more dice of your choice."
+                          }
     },
     {
         "name":  "Leia Organa",
@@ -618,7 +2080,41 @@
                       "Officer"
                   ],
         "points":  3,
-        "image":  "upgrade-card/officer/leia-organa.png"
+        "image":  "upgrade-card/officer/leia-organa.png",
+        "display-text":  "Text: When you reveal a command, you may choose another friendly ship at distance 1-5 and change that ship\u0027s top command to your revealed command.",
+        "text-fallback":  {
+                              "label":  "Leia Organa",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  3,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When you reveal a command, you may choose another friendly ship at distance 1-5 and change that ship\u0027s top command to your revealed command.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When you reveal a command, you may choose another friendly ship at distance 1-5 and change that ship\u0027s top command to your revealed command."
+                          }
     },
     {
         "name":  "Lira Wessex",
@@ -629,7 +2125,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  2,
-        "image":  "upgrade-card/officer/lira-wessex.png"
+        "image":  "upgrade-card/officer/lira-wessex.png",
+        "display-text":  "Text: When you are dealt a faceup damage card, you may spend 1 [Repair] token to flip that card facedown (without resolving its effect).",
+        "text-fallback":  {
+                              "label":  "Lira Wessex",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  2,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When you are dealt a faceup damage card, you may spend 1 [Repair] token to flip that card facedown (without resolving its effect).",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When you are dealt a faceup damage card, you may spend 1 [Repair] token to flip that card facedown (without resolving its effect)."
+                          }
     },
     {
         "name":  "Major Derlin",
@@ -640,7 +2170,41 @@
                       "Officer"
                   ],
         "points":  7,
-        "image":  "upgrade-card/officer/major-derlin.png"
+        "image":  "upgrade-card/officer/major-derlin.png",
+        "display-text":  "Text: Before you suffer damage from an attack, you may exhaust this card to reduce the total damage by 1.",
+        "text-fallback":  {
+                              "label":  "Major Derlin",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  7,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Before you suffer damage from an attack, you may exhaust this card to reduce the total damage by 1.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Before you suffer damage from an attack, you may exhaust this card to reduce the total damage by 1."
+                          }
     },
     {
         "name":  "Minister Tua",
@@ -651,7 +2215,41 @@
                       "Officer"
                   ],
         "points":  2,
-        "image":  "upgrade-card/officer/minister-tua.png"
+        "image":  "upgrade-card/officer/minister-tua.png",
+        "display-text":  "Text: You gain an additional [Defensive Retrofit] icon in your upgrade bar.\nYou cannot equip this card to a medium or large ship with a [Defensive Retrofit] icon in its upgrade bar.",
+        "text-fallback":  {
+                              "label":  "Minister Tua",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  2,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "You gain an additional [Defensive Retrofit] icon in your upgrade bar.\nYou cannot equip this card to a medium or large ship with a [Defensive Retrofit] icon in its upgrade bar.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: You gain an additional [Defensive Retrofit] icon in your upgrade bar.\nYou cannot equip this card to a medium or large ship with a [Defensive Retrofit] icon in its upgrade bar."
+                          }
     },
     {
         "name":  "Navigation Officer",
@@ -660,7 +2258,41 @@
                       "Officer"
                   ],
         "points":  6,
-        "image":  "upgrade-card/officer/navigation-officer.png"
+        "image":  "upgrade-card/officer/navigation-officer.png",
+        "display-text":  "Text: Before you reveal a command, you may change that command to a [Navigate] command.",
+        "text-fallback":  {
+                              "label":  "Navigation Officer",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  6,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Before you reveal a command, you may change that command to a [Navigate] command.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Before you reveal a command, you may change that command to a [Navigate] command."
+                          }
     },
     {
         "name":  "Passel Argente",
@@ -688,7 +2320,41 @@
                          "data_version":  "2025.01-final",
                          "product_origin":  "SWM43"
                      },
-        "image":  "upgrade-card/officer/passel-argente.png"
+        "image":  "upgrade-card/officer/passel-argente.png",
+        "display-text":  "Text: Stores matching command tokens as commands are revealed; collecting the required set can provide an additional command dial.",
+        "text-fallback":  {
+                              "label":  "Passel Argente",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Separatist Alliance",
+                              "points":  6,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Stores matching command tokens as commands are revealed; collecting the required set can provide an additional command dial.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Stores matching command tokens as commands are revealed; collecting the required set can provide an additional command dial."
+                          }
     },
     {
         "name":  "Raymus Antilles",
@@ -699,7 +2365,41 @@
                       "Officer"
                   ],
         "points":  7,
-        "image":  "upgrade-card/officer/raymus-antilles.png"
+        "image":  "upgrade-card/officer/raymus-antilles.png",
+        "display-text":  "Text: When you reveal a command, you may gain 1 matching command token without spending the command dial.",
+        "text-fallback":  {
+                              "label":  "Raymus Antilles",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  7,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When you reveal a command, you may gain 1 matching command token without spending the command dial.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When you reveal a command, you may gain 1 matching command token without spending the command dial."
+                          }
     },
     {
         "name":  "Reeva Demesne",
@@ -710,7 +2410,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  4,
-        "image":  "upgrade-card/officer/reeva-demesne.png"
+        "image":  "upgrade-card/officer/reeva-demesne.png",
+        "display-text":  "Text: After you are declared as the target of an attack, if the defending hull zone has at least 1 shield remaining, you may exhaust this card to ready 1 defense token.",
+        "text-fallback":  {
+                              "label":  "Reeva Demesne",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  4,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "After you are declared as the target of an attack, if the defending hull zone has at least 1 shield remaining, you may exhaust this card to ready 1 defense token.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: After you are declared as the target of an attack, if the defending hull zone has at least 1 shield remaining, you may exhaust this card to ready 1 defense token."
+                          }
     },
     {
         "name":  "Rune Haako",
@@ -741,7 +2475,41 @@
                          "data_version":  "2025.01-final",
                          "product_origin":  "SWM35"
                      },
-        "image":  "upgrade-card/officer/rune-haako.png"
+        "image":  "upgrade-card/officer/rune-haako.png",
+        "display-text":  "Text: Starts with command tokens and can move command tokens onto its ship when that ship reveals a command.",
+        "text-fallback":  {
+                              "label":  "Rune Haako",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Separatist Alliance",
+                              "points":  4,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Starts with command tokens and can move command tokens onto its ship when that ship reveals a command.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Starts with command tokens and can move command tokens onto its ship when that ship reveals a command."
+                          }
     },
     {
         "name":  "Sabine Wren",
@@ -752,7 +2520,41 @@
                   ],
         "faction":  "Rebel Alliance",
         "points":  4,
-        "image":  "upgrade-card/officer/sabine-wren.png"
+        "image":  "upgrade-card/officer/sabine-wren.png",
+        "display-text":  "Text: At the start of the Ship Phase, you may discard this card to place 1 proximity mine token in the play area at distance 1-2 of an obstacle and beyond distance 3 of enemy ships.",
+        "text-fallback":  {
+                              "label":  "Sabine Wren",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  4,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of the Ship Phase, you may discard this card to place 1 proximity mine token in the play area at distance 1-2 of an obstacle and beyond distance 3 of enemy ships.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of the Ship Phase, you may discard this card to place 1 proximity mine token in the play area at distance 1-2 of an obstacle and beyond distance 3 of enemy ships."
+                          }
     },
     {
         "name":  "San Hill",
@@ -780,7 +2582,41 @@
                          "data_version":  "2025.01-final",
                          "product_origin":  "SWM43"
                      },
-        "image":  "upgrade-card/officer/san-hill.png"
+        "image":  "upgrade-card/officer/san-hill.png",
+        "display-text":  "Text: Provides a squadron-command resource effect tied to stored command tokens and the card\u0027s activation timing.",
+        "text-fallback":  {
+                              "label":  "San Hill",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Separatist Alliance",
+                              "points":  3,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Provides a squadron-command resource effect tied to stored command tokens and the card\u0027s activation timing.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Provides a squadron-command resource effect tied to stored command tokens and the card\u0027s activation timing."
+                          }
     },
     {
         "name":  "Shu Mai",
@@ -808,7 +2644,41 @@
                          "data_version":  "2025.01-final",
                          "product_origin":  "SWM43"
                      },
-        "image":  "upgrade-card/officer/shu-mai.png"
+        "image":  "upgrade-card/officer/shu-mai.png",
+        "display-text":  "Text: At deployment choose two nonconsecutive rounds; during those rounds this ship can reroll up to three dice while attacking a ship.",
+        "text-fallback":  {
+                              "label":  "Shu Mai",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Separatist Alliance",
+                              "points":  4,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At deployment choose two nonconsecutive rounds; during those rounds this ship can reroll up to three dice while attacking a ship.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At deployment choose two nonconsecutive rounds; during those rounds this ship can reroll up to three dice while attacking a ship."
+                          }
     },
     {
         "name":  "Skilled First Officer",
@@ -817,7 +2687,41 @@
                       "Officer"
                   ],
         "points":  1,
-        "image":  "upgrade-card/officer/skilled-first-officer.png"
+        "image":  "upgrade-card/officer/skilled-first-officer.png",
+        "display-text":  "Text: Before you reveal a command, you may discard this card to discard your top command dial.",
+        "text-fallback":  {
+                              "label":  "Skilled First Officer",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  1,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Before you reveal a command, you may discard this card to discard your top command dial.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Before you reveal a command, you may discard this card to discard your top command dial."
+                          }
     },
     {
         "name":  "Strategic Adviser",
@@ -828,7 +2732,41 @@
                       "Officer"
                   ],
         "points":  4,
-        "image":  "upgrade-card/officer/strategic-adviser.png"
+        "image":  "upgrade-card/officer/strategic-adviser.png",
+        "display-text":  "Text: When it is your turn to activate, you may exhaust this card to pass your turn (your opponent activates a ship instead).",
+        "text-fallback":  {
+                              "label":  "Strategic Adviser",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  4,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When it is your turn to activate, you may exhaust this card to pass your turn (your opponent activates a ship instead).",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When it is your turn to activate, you may exhaust this card to pass your turn (your opponent activates a ship instead)."
+                          }
     },
     {
         "name":  "Support Officer",
@@ -837,7 +2775,41 @@
                       "Officer"
                   ],
         "points":  4,
-        "image":  "upgrade-card/officer/support-officer.png"
+        "image":  "upgrade-card/officer/support-officer.png",
+        "display-text":  "Text: At the start of the Command Phase, you may discard this card to discard all of your command dials.",
+        "text-fallback":  {
+                              "label":  "Support Officer",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  4,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of the Command Phase, you may discard this card to discard all of your command dials.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of the Command Phase, you may discard this card to discard all of your command dials."
+                          }
     },
     {
         "name":  "Tactical Expert",
@@ -846,7 +2818,41 @@
                       "Officer"
                   ],
         "points":  6,
-        "image":  "upgrade-card/officer/tactical-expert.png"
+        "image":  "upgrade-card/officer/tactical-expert.png",
+        "display-text":  "Text: Before you reveal a command, you may change that command to a [Concentrate Fire] command.",
+        "text-fallback":  {
+                              "label":  "Tactical Expert",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  6,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Before you reveal a command, you may change that command to a [Concentrate Fire] command.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Before you reveal a command, you may change that command to a [Concentrate Fire] command."
+                          }
     },
     {
         "name":  "Taskmaster Grint",
@@ -857,7 +2863,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  5,
-        "image":  "upgrade-card/officer/taskmaster-grint.png"
+        "image":  "upgrade-card/officer/taskmaster-grint.png",
+        "display-text":  "Text: After deploying fleets, choose and place 1 command token on this card. When you reveal a command matching that token, you may gain 1 matching command token without spending the command dial.",
+        "text-fallback":  {
+                              "label":  "Taskmaster Grint",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  5,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "After deploying fleets, choose and place 1 command token on this card. When you reveal a command matching that token, you may gain 1 matching command token without spending the command dial.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: After deploying fleets, choose and place 1 command token on this card. When you reveal a command matching that token, you may gain 1 matching command token without spending the command dial."
+                          }
     },
     {
         "name":  "The Grand Inquisitor",
@@ -868,7 +2908,41 @@
                   ],
         "faction":  "Galactic Empire",
         "points":  4,
-        "image":  "upgrade-card/officer/the-grand-inquisitor.png"
+        "image":  "upgrade-card/officer/the-grand-inquisitor.png",
+        "display-text":  "Text: When an enemy ship at distance 1-5 changes its speed, you may exhaust this card to increase or decrease your speed by 1.",
+        "text-fallback":  {
+                              "label":  "The Grand Inquisitor",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  4,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When an enemy ship at distance 1-5 changes its speed, you may exhaust this card to increase or decrease your speed by 1.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When an enemy ship at distance 1-5 changes its speed, you may exhaust this card to increase or decrease your speed by 1."
+                          }
     },
     {
         "name":  "TI-99",
@@ -896,7 +2970,41 @@
                          "data_version":  "2025.01-final",
                          "product_origin":  "SWM42"
                      },
-        "image":  "upgrade-card/officer/ti-99.png"
+        "image":  "upgrade-card/officer/ti-99.png",
+        "display-text":  "Text: At the start of the Squadron Phase, it can select nearby enemy squadrons so qualifying friendly AI squadrons gain Counter against them for the phase.",
+        "text-fallback":  {
+                              "label":  "TI-99",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Separatist Alliance",
+                              "points":  4,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of the Squadron Phase, it can select nearby enemy squadrons so qualifying friendly AI squadrons gain Counter against them for the phase.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of the Squadron Phase, it can select nearby enemy squadrons so qualifying friendly AI squadrons gain Counter against them for the phase."
+                          }
     },
     {
         "name":  "Tikkes",
@@ -924,7 +3032,41 @@
                          "data_version":  "2025.01-final",
                          "product_origin":  "SWM42"
                      },
-        "image":  "upgrade-card/officer/tikkes.png"
+        "image":  "upgrade-card/officer/tikkes.png",
+        "display-text":  "Text: After revealing a command, the ship can gain the matching token at the cost of assigning a different command to a future dial under the card\u0027s timing.",
+        "text-fallback":  {
+                              "label":  "Tikkes",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Separatist Alliance",
+                              "points":  2,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "After revealing a command, the ship can gain the matching token at the cost of assigning a different command to a future dial under the card\u0027s timing.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: After revealing a command, the ship can gain the matching token at the cost of assigning a different command to a future dial under the card\u0027s timing."
+                          }
     },
     {
         "name":  "Toryn Farr",
@@ -935,7 +3077,41 @@
                   ],
         "faction":  "Rebel Alliance",
         "points":  7,
-        "image":  "upgrade-card/officer/toryn-farr.png"
+        "image":  "upgrade-card/officer/toryn-farr.png",
+        "display-text":  "Text: While another friendly ship or squadron at distance 1-3 is attacking, it may reroll 1 blue die.",
+        "text-fallback":  {
+                              "label":  "Toryn Farr",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  7,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While another friendly ship or squadron at distance 1-3 is attacking, it may reroll 1 blue die.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While another friendly ship or squadron at distance 1-3 is attacking, it may reroll 1 blue die."
+                          }
     },
     {
         "name":  "T-Series Tactical Droid",
@@ -963,7 +3139,41 @@
                          "data_version":  "2025.01-final",
                          "product_origin":  "SWM35"
                      },
-        "image":  "upgrade-card/officer/t-series-tactical-droid.png"
+        "image":  "upgrade-card/officer/t-series-tactical-droid.png",
+        "display-text":  "Text: A qualifying command token may be used with this card so that the command resolves with dial-level strength.",
+        "text-fallback":  {
+                              "label":  "T-Series Tactical Droid",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Separatist Alliance",
+                              "points":  4,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "A qualifying command token may be used with this card so that the command resolves with dial-level strength.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: A qualifying command token may be used with this card so that the command resolves with dial-level strength."
+                          }
     },
     {
         "name":  "Veteran Captain",
@@ -972,7 +3182,41 @@
                       "Officer"
                   ],
         "points":  3,
-        "image":  "upgrade-card/officer/veteran-captain.png"
+        "image":  "upgrade-card/officer/veteran-captain.png",
+        "display-text":  "Text: When you reveal a command, you may discard this card to gain 1 command token of your choice.",
+        "text-fallback":  {
+                              "label":  "Veteran Captain",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  3,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When you reveal a command, you may discard this card to gain 1 command token of your choice.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When you reveal a command, you may discard this card to gain 1 command token of your choice."
+                          }
     },
     {
         "name":  "Walex Blissex",
@@ -983,7 +3227,41 @@
                   ],
         "faction":  "Rebel Alliance",
         "points":  5,
-        "image":  "upgrade-card/officer/walex-blissex.png"
+        "image":  "upgrade-card/officer/walex-blissex.png",
+        "display-text":  "Text: When you activate, you may discard this card to recover 1 of your discarded defense tokens.",
+        "text-fallback":  {
+                              "label":  "Walex Blissex",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  5,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When you activate, you may discard this card to recover 1 of your discarded defense tokens.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When you activate, you may discard this card to recover 1 of your discarded defense tokens."
+                          }
     },
     {
         "name":  "Wat Tambor",
@@ -1015,7 +3293,41 @@
                          "data_version":  "2025.01-final",
                          "product_origin":  "SWM35"
                      },
-        "image":  "upgrade-card/officer/wat-tambor.png"
+        "image":  "upgrade-card/officer/wat-tambor.png",
+        "display-text":  "Text: During a Repair command, shields may be spent from this ship or a nearby friendly ship to gain additional engineering points.",
+        "text-fallback":  {
+                              "label":  "Wat Tambor",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Separatist Alliance",
+                              "points":  9,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "During a Repair command, shields may be spent from this ship or a nearby friendly ship to gain additional engineering points.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: During a Repair command, shields may be spent from this ship or a nearby friendly ship to gain additional engineering points."
+                          }
     },
     {
         "name":  "Weapons Liaison",
@@ -1024,7 +3336,41 @@
                       "Officer"
                   ],
         "points":  3,
-        "image":  "upgrade-card/officer/weapons-liaison.png"
+        "image":  "upgrade-card/officer/weapons-liaison.png",
+        "display-text":  "Text: Before you reveal a command, you may spend 1 command token to change that command to a [Concentrate Fire] or [Squadron] command.",
+        "text-fallback":  {
+                              "label":  "Weapons Liaison",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  3,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Before you reveal a command, you may spend 1 command token to change that command to a [Concentrate Fire] or [Squadron] command.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Before you reveal a command, you may spend 1 command token to change that command to a [Concentrate Fire] or [Squadron] command."
+                          }
     },
     {
         "name":  "Wedge Antilles",
@@ -1035,7 +3381,41 @@
                       "Officer"
                   ],
         "points":  4,
-        "image":  "upgrade-card/officer/wedge-antilles.png"
+        "image":  "upgrade-card/officer/wedge-antilles.png",
+        "display-text":  "Text: Before the end of the Squadron Phase, you may spend 1 [Squadron] token to choose up to 3 friendly non-unique squadrons without [Strategic] at distance 1-5. Those squadrons gain [Cloak] until the end of the round.",
+        "text-fallback":  {
+                              "label":  "Wedge Antilles",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  4,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Before the end of the Squadron Phase, you may spend 1 [Squadron] token to choose up to 3 friendly non-unique squadrons without [Strategic] at distance 1-5. Those squadrons gain [Cloak] until the end of the round.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Before the end of the Squadron Phase, you may spend 1 [Squadron] token to choose up to 3 friendly non-unique squadrons without [Strategic] at distance 1-5. Those squadrons gain [Cloak] until the end of the round."
+                          }
     },
     {
         "name":  "Wing Commander",
@@ -1044,7 +3424,41 @@
                       "Officer"
                   ],
         "points":  6,
-        "image":  "upgrade-card/officer/wing-commander.png"
+        "image":  "upgrade-card/officer/wing-commander.png",
+        "display-text":  "Text: Before you reveal a command, you may change that command to a [Squadron] command.",
+        "text-fallback":  {
+                              "label":  "Wing Commander",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  6,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Before you reveal a command, you may change that command to a [Squadron] command.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Before you reveal a command, you may change that command to a [Squadron] command."
+                          }
     },
     {
         "name":  "Wulff Yularen",
@@ -1055,6 +3469,40 @@
                       "Officer"
                   ],
         "points":  7,
-        "image":  "upgrade-card/officer/wulff-yularen.png"
+        "image":  "upgrade-card/officer/wulff-yularen.png",
+        "display-text":  "Text: When you spend a command token, you may exhaust this card to gain 1 command token of the same type.",
+        "text-fallback":  {
+                              "label":  "Wulff Yularen",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  7,
+                              "slots":  "Officer",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When you spend a command token, you may exhaust this card to gain 1 command token of the same type.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When you spend a command token, you may exhaust this card to gain 1 command token of the same type."
+                          }
     }
 ]

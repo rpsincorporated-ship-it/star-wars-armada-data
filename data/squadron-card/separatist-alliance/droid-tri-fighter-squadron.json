@@ -40,5 +40,49 @@
                      "data_version":  "2025.01-final",
                      "product_origin":  "SWM37"
                  },
-    "image":  "squadron-card/separatist-alliance/droid-tri-fighter-squadron.webp"
+    "image":  "squadron-card/separatist-alliance/droid-tri-fighter-squadron.webp",
+    "display-text":  "Droid Tri-Fighter Squadron | Separatist Alliance | 11 points | Keywords: AI: Anti-Squadron 1, Counter 2, Swarm | Stats: speed: 5; hull: 3; defense-tokens:",
+    "text-fallback":  {
+                          "label":  "Droid Tri-fighter Squadron",
+                          "family":  "squadron-card",
+                          "category":  "Droid Tri-Fighter Squadron",
+                          "faction":  "Separatist Alliance",
+                          "points":  11,
+                          "slots":  {
+
+                                    },
+                          "keywords":  [
+                                           "AI: Anti-Squadron 1",
+                                           "Counter 2",
+                                           "Swarm"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  5,
+                                        "hull":  3,
+                                        "defense-tokens":  [
+
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Droid Tri-Fighter Squadron | Separatist Alliance | 11 points | Keywords: AI: Anti-Squadron 1, Counter 2, Swarm | Stats: speed: 5; hull: 3; defense-tokens:"
+                      }
 }

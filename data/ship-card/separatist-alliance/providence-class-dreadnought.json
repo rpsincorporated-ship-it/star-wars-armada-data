@@ -58,5 +58,64 @@
                      "data_version":  "2025.01-final",
                      "product_origin":  "SWM42"
                  },
-    "image":  "ship/separatist-alliance/providence-class-dreadnought.webp"
+    "image":  "ship/separatist-alliance/providence-class-dreadnought.webp",
+    "display-text":  "Separatist Alliance | Commander, Title, Officer, Weapons Team, Offensive Retrofit, Ordnance, Ion Cannons, Turbolasers, Turbolasers, Weapons Team \u0026 Offensive Retrofit | 97 points | Keywords: Droid, Bombard, Transport | Stats: hull: 9; command: 3; squadron: 4; engineering: 4; size: large; defense-tokens: Contain, Brace, Redirect, Salvo",
+    "text-fallback":  {
+                          "label":  "Providence-class Dreadnought",
+                          "family":  "ship-card",
+                          "category":  "",
+                          "faction":  "Separatist Alliance",
+                          "points":  97,
+                          "slots":  [
+                                        "Commander",
+                                        "Title",
+                                        "Officer",
+                                        "Weapons Team",
+                                        "Offensive Retrofit",
+                                        "Ordnance",
+                                        "Ion Cannons",
+                                        "Turbolasers",
+                                        "Turbolasers",
+                                        "Weapons Team \u0026 Offensive Retrofit"
+                                    ],
+                          "keywords":  [
+                                           "Droid",
+                                           "Bombard",
+                                           "Transport"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "hull":  9,
+                                        "command":  3,
+                                        "squadron":  4,
+                                        "engineering":  4,
+                                        "size":  "large",
+                                        "defense-tokens":  [
+                                                               "Contain",
+                                                               "Brace",
+                                                               "Redirect",
+                                                               "Salvo"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Separatist Alliance | Commander, Title, Officer, Weapons Team, Offensive Retrofit, Ordnance, Ion Cannons, Turbolasers, Turbolasers, Weapons Team \u0026 Offensive Retrofit | 97 points | Keywords: Droid, Bombard, Transport | Stats: hull: 9; command: 3; squadron: 4; engineering: 4; size: large; defense-tokens: Contain, Brace, Redirect, Salvo"
+                      }
 }

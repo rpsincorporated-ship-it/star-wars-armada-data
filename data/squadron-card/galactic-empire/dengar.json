@@ -1,20 +1,73 @@
-[
-  {
-    "name": "Dengar",
-    "subname": "Punishing One",
-    "unique": true,
-    "faction": "Galactic Empire",
-    "speed": 4,
-    "hull": 4,
-    "__comment": "dice array is [red, blue, black] counts",
-    "squadron-attack": [0, 3, 0],
-    "attack": [0, 0, 1],
-    "text":
-      "While another friendly squadron is at distance 1–2, it has Counter 1 or increases its Counter value by 1.",
-    "keywords": ["Intel", "Swarm"],
-    "defense-tokens": ["Brace", "Scatter"],
-    "points": 20,
-    "squadron-image": "squadron/galactic-empire/jumpmaster-5000.png",
-    "image": "squadron-card/galactic-empire/dengar.png"
-  }
-]
+{
+    "name":  "Dengar",
+    "subname":  "Punishing One",
+    "unique":  true,
+    "faction":  "Galactic Empire",
+    "speed":  4,
+    "hull":  4,
+    "__comment":  "dice array is [red, blue, black] counts",
+    "squadron-attack":  [
+                            0,
+                            3,
+                            0
+                        ],
+    "attack":  [
+                   0,
+                   0,
+                   1
+               ],
+    "text":  "While another friendly squadron is at distance 1â€“2, it has Counter 1 or increases its Counter value by 1.",
+    "keywords":  [
+                     "Intel",
+                     "Swarm"
+                 ],
+    "defense-tokens":  [
+                           "Brace",
+                           "Scatter"
+                       ],
+    "points":  20,
+    "squadron-image":  "squadron/galactic-empire/jumpmaster-5000.png",
+    "image":  "squadron-card/galactic-empire/dengar.png",
+    "display-text":  "Text: While another friendly squadron is at distance 1â€“2, it has Counter 1 or increases its Counter value by 1.",
+    "text-fallback":  {
+                          "label":  "Dengar",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Galactic Empire",
+                          "points":  20,
+                          "slots":  {
+
+                                    },
+                          "keywords":  [
+                                           "Intel",
+                                           "Swarm"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  4,
+                                        "hull":  4,
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Scatter"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  "While another friendly squadron is at distance 1â€“2, it has Counter 1 or increases its Counter value by 1.",
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Text: While another friendly squadron is at distance 1â€“2, it has Counter 1 or increases its Counter value by 1."
+                      }
+}

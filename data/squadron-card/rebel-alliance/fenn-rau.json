@@ -32,5 +32,46 @@
     "supplement-revision":  "2.1",
     "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
     "image-status":  "card-image-not-packaged",
-    "image":  "squadron-card/rebel-alliance/fenn-rau.png"
+    "image":  "squadron-card/rebel-alliance/fenn-rau.png",
+    "display-text":  "Text: After your activation, if you were activated by a [Squadron] command, choose up to 2 non-unique squadrons at distance 1 of you. The chosen squadrons may activate as if they were activated by that [Squadron] command.",
+    "text-fallback":  {
+                          "label":  "Fenn Rau",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Rebel Alliance",
+                          "points":  24,
+                          "slots":  {
+
+                                    },
+                          "keywords":  [
+                                           "Assault",
+                                           "Escort"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  4,
+                                        "hull":  7,
+                                        "defense-tokens":  [
+                                                               "Brace"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  "After your activation, if you were activated by a [Squadron] command, choose up to 2 non-unique squadrons at distance 1 of you. The chosen squadrons may activate as if they were activated by that [Squadron] command.",
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Text: After your activation, if you were activated by a [Squadron] command, choose up to 2 non-unique squadrons at distance 1 of you. The chosen squadrons may activate as if they were activated by that [Squadron] command."
+                      }
 }

@@ -6,7 +6,41 @@
                       "Defensive Retrofit"
                   ],
         "points":  6,
-        "image":  "upgrade-card/defensive-retrofit/advanced-projectors.png"
+        "image":  "upgrade-card/defensive-retrofit/advanced-projectors.png",
+        "display-text":  "Text: When you resolve the [Redirect] token effect, you can choose more than one hull zone to suffer damage, which may include a nonadjacent hull zone.",
+        "text-fallback":  {
+                              "label":  "Advanced Projectors",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  6,
+                              "slots":  "Defensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When you resolve the [Redirect] token effect, you can choose more than one hull zone to suffer damage, which may include a nonadjacent hull zone.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When you resolve the [Redirect] token effect, you can choose more than one hull zone to suffer damage, which may include a nonadjacent hull zone."
+                          }
     },
     {
         "name":  "Cluster Bombs",
@@ -15,7 +49,41 @@
                       "Defensive Retrofit"
                   ],
         "points":  5,
-        "image":  "upgrade-card/defensive-retrofit/cluster-bombs.png"
+        "image":  "upgrade-card/defensive-retrofit/cluster-bombs.png",
+        "display-text":  "Text: After a squadron performs an attack against you, even if you are destroyed, you may discard this card to roll 4 blue dice. That squadron suffers 1 damage for each [Hit] or [Critical Hit] icon rolled.",
+        "text-fallback":  {
+                              "label":  "Cluster Bombs",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  5,
+                              "slots":  "Defensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "After a squadron performs an attack against you, even if you are destroyed, you may discard this card to roll 4 blue dice. That squadron suffers 1 damage for each [Hit] or [Critical Hit] icon rolled.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: After a squadron performs an attack against you, even if you are destroyed, you may discard this card to roll 4 blue dice. That squadron suffers 1 damage for each [Hit] or [Critical Hit] icon rolled."
+                          }
     },
     {
         "name":  "Early Warning System",
@@ -24,7 +92,41 @@
                       "Defensive Retrofit"
                   ],
         "points":  7,
-        "image":  "upgrade-card/defensive-retrofit/early-warning-system.png"
+        "image":  "upgrade-card/defensive-retrofit/early-warning-system.png",
+        "display-text":  "Text: At the start of each Ship Phase, you may choose 1 of your hull zones and mark it with a chaff token. Until the end of the round, while a ship or squadron is attacking that hull zone, the attack is obstructed. After the Status Phase, remove that chaff token.",
+        "text-fallback":  {
+                              "label":  "Early Warning System",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  7,
+                              "slots":  "Defensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of each Ship Phase, you may choose 1 of your hull zones and mark it with a chaff token. Until the end of the round, while a ship or squadron is attacking that hull zone, the attack is obstructed. After the Status Phase, remove that chaff token.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of each Ship Phase, you may choose 1 of your hull zones and mark it with a chaff token. Until the end of the round, while a ship or squadron is attacking that hull zone, the attack is obstructed. After the Status Phase, remove that chaff token."
+                          }
     },
     {
         "name":  "Electronic Countermeasures",
@@ -33,7 +135,41 @@
                       "Defensive Retrofit"
                   ],
         "points":  7,
-        "image":  "upgrade-card/defensive-retrofit/electronic-countermeasures.png"
+        "image":  "upgrade-card/defensive-retrofit/electronic-countermeasures.png",
+        "display-text":  "Text: While defending you may exhaust this card to spend 1 defense token that your opponent targeted with an [Accuracy] result.",
+        "text-fallback":  {
+                              "label":  "Electronic Countermeasures",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  7,
+                              "slots":  "Defensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While defending you may exhaust this card to spend 1 defense token that your opponent targeted with an [Accuracy] result.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While defending you may exhaust this card to spend 1 defense token that your opponent targeted with an [Accuracy] result."
+                          }
     },
     {
         "name":  "Reactive Gunnery",
@@ -61,7 +197,41 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/defensive-retrofit/reactive-gunnery.png"
+        "image":  "upgrade-card/defensive-retrofit/reactive-gunnery.png",
+        "display-text":  "Text: While defending, you may exhaust this card and spend a readied defense token to resolve the [Salvo] defense effect instead of that token\u0027s effect. You cannot resolve [Salvo] more than once per attack.",
+        "text-fallback":  {
+                              "label":  "Reactive Gunnery",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  4,
+                              "slots":  "Defensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While defending, you may exhaust this card and spend a readied defense token to resolve the [Salvo] defense effect instead of that token\u0027s effect. You cannot resolve [Salvo] more than once per attack.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While defending, you may exhaust this card and spend a readied defense token to resolve the [Salvo] defense effect instead of that token\u0027s effect. You cannot resolve [Salvo] more than once per attack."
+                          }
     },
     {
         "name":  "Redundant Shields",
@@ -71,7 +241,41 @@
                       "Defensive Retrofit"
                   ],
         "points":  8,
-        "image":  "upgrade-card/defensive-retrofit/redundant-shields.png"
+        "image":  "upgrade-card/defensive-retrofit/redundant-shields.png",
+        "display-text":  "Text: At the start of each Status Phase, you may recover 1 shield.",
+        "text-fallback":  {
+                              "label":  "Redundant Shields",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  8,
+                              "slots":  "Defensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of each Status Phase, you may recover 1 shield.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of each Status Phase, you may recover 1 shield."
+                          }
     },
     {
         "name":  "Reinforced Blast Doors",
@@ -81,7 +285,41 @@
                       "Defensive Retrofit"
                   ],
         "points":  5,
-        "image":  "upgrade-card/defensive-retrofit/reinforced-blast-doors.png"
+        "image":  "upgrade-card/defensive-retrofit/reinforced-blast-doors.png",
+        "display-text":  "Text: At the start of the Ship Phase, you may discard this card to discard up to 3 of your facedown damage cards.",
+        "text-fallback":  {
+                              "label":  "Reinforced Blast Doors",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  5,
+                              "slots":  "Defensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of the Ship Phase, you may discard this card to discard up to 3 of your facedown damage cards.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of the Ship Phase, you may discard this card to discard up to 3 of your facedown damage cards."
+                          }
     },
     {
         "name":  "Thermal Shields",
@@ -112,6 +350,40 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/defensive-retrofit/thermal-shields.png"
+        "image":  "upgrade-card/defensive-retrofit/thermal-shields.png",
+        "display-text":  "Text: Medium or large ship only. While defending, after the attacker gathers dice, you may spend 1 Brace token. If you do, choose and remove half of the dice in the attack pool, rounded down.",
+        "text-fallback":  {
+                              "label":  "Thermal Shields",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Republic / Separatist",
+                              "points":  5,
+                              "slots":  "Defensive Retrofit",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Medium or large ship only. While defending, after the attacker gathers dice, you may spend 1 Brace token. If you do, choose and remove half of the dice in the attack pool, rounded down.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Medium or large ship only. While defending, after the attacker gathers dice, you may spend 1 Brace token. If you do, choose and remove half of the dice in the attack pool, rounded down."
+                          }
     }
 ]

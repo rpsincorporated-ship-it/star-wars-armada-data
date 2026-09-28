@@ -42,5 +42,49 @@
                      "data_version":  "2025.01-final",
                      "product_origin":  "SWM35"
                  },
-    "image":  "squadron-card/separatist-alliance/haor-chall-prototypes.png"
+    "image":  "squadron-card/separatist-alliance/haor-chall-prototypes.png",
+    "display-text":  "Vulture-class Droid Fighter Squadron | Separatist Alliance | 16 points | Keywords: AI: Anti-Squadron 1, Swarm | Stats: speed: 4; hull: 3; defense-tokens: Brace, Scatter",
+    "text-fallback":  {
+                          "label":  "Haor Chall Prototypes",
+                          "family":  "squadron-card",
+                          "category":  "Vulture-class Droid Fighter Squadron",
+                          "faction":  "Separatist Alliance",
+                          "points":  16,
+                          "slots":  {
+
+                                    },
+                          "keywords":  [
+                                           "AI: Anti-Squadron 1",
+                                           "Swarm"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  4,
+                                        "hull":  3,
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Scatter"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Vulture-class Droid Fighter Squadron | Separatist Alliance | 16 points | Keywords: AI: Anti-Squadron 1, Swarm | Stats: speed: 4; hull: 3; defense-tokens: Brace, Scatter"
+                      }
 }

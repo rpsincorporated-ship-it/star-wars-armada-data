@@ -1,16 +1,65 @@
-[
-  {
-    "name": "E-wing Squadron",
-    "subname": "",
-    "faction": "Rebel Alliance",
-    "speed": 4,
-    "hull": 5,
-    "__comment": "dice array is [red, blue, black] counts",
-    "squadron-attack": [0, 4, 0],
-    "attack": [1, 0, 0],
-    "keywords": ["Bomber", "Snipe 3"],
-    "points": 15,
-    "squadron-image": "squadron/rebel-alliance/e-wing-squadron.png",
-    "image": "squadron-card/rebel-alliance/e-wing-squadron.png"
-  }
-]
+{
+    "name":  "E-wing Squadron",
+    "subname":  "",
+    "faction":  "Rebel Alliance",
+    "speed":  4,
+    "hull":  5,
+    "__comment":  "dice array is [red, blue, black] counts",
+    "squadron-attack":  [
+                            0,
+                            4,
+                            0
+                        ],
+    "attack":  [
+                   1,
+                   0,
+                   0
+               ],
+    "keywords":  [
+                     "Bomber",
+                     "Snipe 3"
+                 ],
+    "points":  15,
+    "squadron-image":  "squadron/rebel-alliance/e-wing-squadron.png",
+    "image":  "squadron-card/rebel-alliance/e-wing-squadron.png",
+    "display-text":  "Rebel Alliance | 15 points | Keywords: Bomber, Snipe 3 | Stats: speed: 4; hull: 5",
+    "text-fallback":  {
+                          "label":  "E-wing Squadron",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Rebel Alliance",
+                          "points":  15,
+                          "slots":  {
+
+                                    },
+                          "keywords":  [
+                                           "Bomber",
+                                           "Snipe 3"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  4,
+                                        "hull":  5
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Rebel Alliance | 15 points | Keywords: Bomber, Snipe 3 | Stats: speed: 4; hull: 5"
+                      }
+}

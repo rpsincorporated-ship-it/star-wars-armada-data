@@ -1,16 +1,61 @@
-[
-  {
-    "name": "TIE Advanced Squadron",
-    "subname": "",
-    "faction": "Galactic Empire",
-    "speed": 4,
-    "hull": 5,
-    "__comment": "dice array is [red, blue, black] counts",
-    "squadron-attack": [0, 3, 0],
-    "attack": [0, 0, 1],
-    "keywords": ["Escort"],
-    "points": 12,
-    "squadron-image": "squadron/galactic-empire/tie-advanced-squadron.png",
-    "image": "squadron-card/galactic-empire/tie-advanced-squadron.png"
-  }
-]
+{
+    "name":  "TIE Advanced Squadron",
+    "subname":  "",
+    "faction":  "Galactic Empire",
+    "speed":  4,
+    "hull":  5,
+    "__comment":  "dice array is [red, blue, black] counts",
+    "squadron-attack":  [
+                            0,
+                            3,
+                            0
+                        ],
+    "attack":  [
+                   0,
+                   0,
+                   1
+               ],
+    "keywords":  [
+                     "Escort"
+                 ],
+    "points":  12,
+    "squadron-image":  "squadron/galactic-empire/tie-advanced-squadron.png",
+    "image":  "squadron-card/galactic-empire/tie-advanced-squadron.png",
+    "display-text":  "Galactic Empire | 12 points | Keywords: Escort | Stats: speed: 4; hull: 5",
+    "text-fallback":  {
+                          "label":  "TIE Advanced Squadron",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Galactic Empire",
+                          "points":  12,
+                          "slots":  {
+
+                                    },
+                          "keywords":  "Escort",
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  4,
+                                        "hull":  5
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Galactic Empire | 12 points | Keywords: Escort | Stats: speed: 4; hull: 5"
+                      }
+}

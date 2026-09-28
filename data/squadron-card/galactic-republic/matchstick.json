@@ -49,5 +49,47 @@
     "supplement-revision":  "2.1",
     "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
     "image-status":  "card-image-not-packaged",
-    "image":  "squadron-card/galactic-republic/matchstick.png"
+    "image":  "squadron-card/galactic-republic/matchstick.png",
+    "display-text":  "Text: When a friendly ship resolves a [Squadron] command, if you are in range to be activated, up to 3 of the squadrons with Bomber it activates can be at distance 1-3 of you.",
+    "text-fallback":  {
+                          "label":  "Matchstick",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Galactic Republic",
+                          "points":  16,
+                          "slots":  {
+
+                                    },
+                          "keywords":  [
+                                           "Bomber",
+                                           "Heavy"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  3,
+                                        "hull":  6,
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Brace"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  "When a friendly ship resolves a [Squadron] command, if you are in range to be activated, up to 3 of the squadrons with Bomber it activates can be at distance 1-3 of you.",
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Text: When a friendly ship resolves a [Squadron] command, if you are in range to be activated, up to 3 of the squadrons with Bomber it activates can be at distance 1-3 of you."
+                      }
 }

@@ -33,5 +33,47 @@
     "supplement-revision":  "2.1",
     "source-document":  "Rapid Reinforcements v2.3 [01/10/25]",
     "image-status":  "card-image-not-packaged",
-    "image":  "squadron-card/galactic-empire/vult-skerris.png"
+    "image":  "squadron-card/galactic-empire/vult-skerris.png",
+    "display-text":  "Text: During the Squadron Phase, you cannot attack unless you are performing a counter attack.",
+    "text-fallback":  {
+                          "label":  "Vult Skerris",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Galactic Empire",
+                          "points":  18,
+                          "slots":  {
+
+                                    },
+                          "keywords":  [
+                                           "Counter 4",
+                                           "Swarm"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  5,
+                                        "hull":  3,
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Scatter"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  "During the Squadron Phase, you cannot attack unless you are performing a counter attack.",
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Text: During the Squadron Phase, you cannot attack unless you are performing a counter attack."
+                      }
 }

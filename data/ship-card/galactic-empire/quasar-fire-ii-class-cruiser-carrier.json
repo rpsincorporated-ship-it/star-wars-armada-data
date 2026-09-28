@@ -1,35 +1,119 @@
-[
-  {
-    "name": "Quasar Fire II-class Cruiser-Carrier",
-    "size": "medium",
-    "faction": "Galactic Empire",
-    "hull": 6,
-    "__comment": "dice array is [red, blue, black] counts",
-    "squadron-attack": [1, 0, 0],
-    "command": 2,
-    "squadron": 4,
-    "engineering": 2,
-    "attack": {
-      "front": [2, 1, 0],
-      "right": [1, 1, 0],
-      "left": [1, 1, 0],
-      "rear": [0, 1, 0]
-    },
-    "shield": {
-      "front": 2,
-      "right": 2,
-      "left": 2,
-      "rear": 1
-    },
-    "defense-tokens": ["Brace", "Redirect"],
-    "speed-chart": {
-      "1": ["||"],
-      "2": ["|", "|"],
-      "3": ["-", "|", "|"]
-    },
-    "slots": ["Officer", "Weapons Team", "Weapons Team", "Offensive Retrofit"],
-    "points": 61,
-    "ship-image": "ship/galactic-empire/quasar-fire-class-cruiser-carrier.png",
-    "image": "ship-card/galactic-empire/quasar-fire-ii-class-cruiser-carrier.png"
-  }
-]
+{
+    "name":  "Quasar Fire II-class Cruiser-Carrier",
+    "size":  "medium",
+    "faction":  "Galactic Empire",
+    "hull":  6,
+    "__comment":  "dice array is [red, blue, black] counts",
+    "squadron-attack":  [
+                            1,
+                            0,
+                            0
+                        ],
+    "command":  2,
+    "squadron":  4,
+    "engineering":  2,
+    "attack":  {
+                   "front":  [
+                                 2,
+                                 1,
+                                 0
+                             ],
+                   "right":  [
+                                 1,
+                                 1,
+                                 0
+                             ],
+                   "left":  [
+                                1,
+                                1,
+                                0
+                            ],
+                   "rear":  [
+                                0,
+                                1,
+                                0
+                            ]
+               },
+    "shield":  {
+                   "front":  2,
+                   "right":  2,
+                   "left":  2,
+                   "rear":  1
+               },
+    "defense-tokens":  [
+                           "Brace",
+                           "Redirect"
+                       ],
+    "speed-chart":  {
+                        "1":  [
+                                  "||"
+                              ],
+                        "2":  [
+                                  "|",
+                                  "|"
+                              ],
+                        "3":  [
+                                  "-",
+                                  "|",
+                                  "|"
+                              ]
+                    },
+    "slots":  [
+                  "Officer",
+                  "Weapons Team",
+                  "Weapons Team",
+                  "Offensive Retrofit"
+              ],
+    "points":  61,
+    "ship-image":  "ship/galactic-empire/quasar-fire-class-cruiser-carrier.png",
+    "image":  "ship-card/galactic-empire/quasar-fire-ii-class-cruiser-carrier.png",
+    "display-text":  "Galactic Empire | Officer, Weapons Team, Weapons Team, Offensive Retrofit | 61 points | Stats: hull: 6; command: 2; squadron: 4; engineering: 2; size: medium; defense-tokens: Brace, Redirect",
+    "text-fallback":  {
+                          "label":  "Quasar Fire II-class Cruiser-Carrier",
+                          "family":  "ship-card",
+                          "category":  "",
+                          "faction":  "Galactic Empire",
+                          "points":  61,
+                          "slots":  [
+                                        "Officer",
+                                        "Weapons Team",
+                                        "Weapons Team",
+                                        "Offensive Retrofit"
+                                    ],
+                          "keywords":  {
+
+                                       },
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "hull":  6,
+                                        "command":  2,
+                                        "squadron":  4,
+                                        "engineering":  2,
+                                        "size":  "medium",
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Redirect"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Galactic Empire | Officer, Weapons Team, Weapons Team, Offensive Retrofit | 61 points | Stats: hull: 6; command: 2; squadron: 4; engineering: 2; size: medium; defense-tokens: Brace, Redirect"
+                      }
+}

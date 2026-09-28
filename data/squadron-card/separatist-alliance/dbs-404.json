@@ -43,5 +43,50 @@
                      "data_version":  "2025.01-final",
                      "product_origin":  "SWM37"
                  },
-    "image":  "squadron-card/separatist-alliance/dbs-404.webp"
+    "image":  "squadron-card/separatist-alliance/dbs-404.webp",
+    "display-text":  "Hyena-class Droid Bomber Squadron | Separatist Alliance | 17 points | Keywords: AI: Battery 1, Bomber, Heavy | Stats: speed: 4; hull: 4; defense-tokens: Brace, Scatter",
+    "text-fallback":  {
+                          "label":  "DBS-404",
+                          "family":  "squadron-card",
+                          "category":  "Hyena-class Droid Bomber Squadron",
+                          "faction":  "Separatist Alliance",
+                          "points":  17,
+                          "slots":  {
+
+                                    },
+                          "keywords":  [
+                                           "AI: Battery 1",
+                                           "Bomber",
+                                           "Heavy"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  4,
+                                        "hull":  4,
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Scatter"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Hyena-class Droid Bomber Squadron | Separatist Alliance | 17 points | Keywords: AI: Battery 1, Bomber, Heavy | Stats: speed: 4; hull: 4; defense-tokens: Brace, Scatter"
+                      }
 }

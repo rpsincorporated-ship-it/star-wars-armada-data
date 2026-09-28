@@ -65,5 +65,59 @@
                   "Superweapon"
               ],
     "points":  140,
-    "image":  "ship/rebel-alliance/starhawk-class-battleship-mark-i.png"
+    "image":  "ship/rebel-alliance/starhawk-class-battleship-mark-i.png",
+    "display-text":  "Rebel Alliance | Officer, Officer, Weapons Team, Offensive Retrofit, Ion Cannons, Turbolasers, Superweapon | 140 points | Stats: hull: 14; command: 4; squadron: 3; engineering: 4; size: large; defense-tokens: Brace, Redirect, Contain, Salvo",
+    "text-fallback":  {
+                          "label":  "Starhawk-Class Battleship Mark I",
+                          "family":  "ship-card",
+                          "category":  "",
+                          "faction":  "Rebel Alliance",
+                          "points":  140,
+                          "slots":  [
+                                        "Officer",
+                                        "Officer",
+                                        "Weapons Team",
+                                        "Offensive Retrofit",
+                                        "Ion Cannons",
+                                        "Turbolasers",
+                                        "Superweapon"
+                                    ],
+                          "keywords":  {
+
+                                       },
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "hull":  14,
+                                        "command":  4,
+                                        "squadron":  3,
+                                        "engineering":  4,
+                                        "size":  "large",
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Redirect",
+                                                               "Contain",
+                                                               "Salvo"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Rebel Alliance | Officer, Officer, Weapons Team, Offensive Retrofit, Ion Cannons, Turbolasers, Superweapon | 140 points | Stats: hull: 14; command: 4; squadron: 3; engineering: 4; size: large; defense-tokens: Brace, Redirect, Contain, Salvo"
+                      }
 }

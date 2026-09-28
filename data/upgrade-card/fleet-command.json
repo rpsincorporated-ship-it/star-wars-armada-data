@@ -6,7 +6,41 @@
                       "Fleet Command"
                   ],
         "points":  5,
-        "image":  "upgrade-card/fleet-command/all-fighters-follow-me.png"
+        "image":  "upgrade-card/fleet-command/all-fighters-follow-me.png",
+        "display-text":  "Text: At the start of the Ship Phase, you may discard this card or spend a [Squadron] token. If you do, until the end of the round, the speed of each squadron that a friendly ship activates is increased by 1, to a maximum of 5, until the end of that squadron\u0027s activation.",
+        "text-fallback":  {
+                              "label":  "All Fighters, Follow Me!",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  5,
+                              "slots":  "Fleet Command",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of the Ship Phase, you may discard this card or spend a [Squadron] token. If you do, until the end of the round, the speed of each squadron that a friendly ship activates is increased by 1, to a maximum of 5, until the end of that squadron\u0027s activation.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of the Ship Phase, you may discard this card or spend a [Squadron] token. If you do, until the end of the round, the speed of each squadron that a friendly ship activates is increased by 1, to a maximum of 5, until the end of that squadron\u0027s activation."
+                          }
     },
     {
         "name":  "Entrapment Formation!",
@@ -15,7 +49,41 @@
                       "Fleet Command"
                   ],
         "points":  5,
-        "image":  "upgrade-card/fleet-command/entrapment-formation.png"
+        "image":  "upgrade-card/fleet-command/entrapment-formation.png",
+        "display-text":  "Text: At the start of the Ship Phase, you may discard this card or spend a [Navigate] token. If you do, until the end of the round, each friendly ship may change its speed by 1 during its Determine Course step.",
+        "text-fallback":  {
+                              "label":  "Entrapment Formation!",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  5,
+                              "slots":  "Fleet Command",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of the Ship Phase, you may discard this card or spend a [Navigate] token. If you do, until the end of the round, each friendly ship may change its speed by 1 during its Determine Course step.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of the Ship Phase, you may discard this card or spend a [Navigate] token. If you do, until the end of the round, each friendly ship may change its speed by 1 during its Determine Course step."
+                          }
     },
     {
         "name":  "Hot Landing",
@@ -45,7 +113,41 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/fleet-command/hot-landing.png"
+        "image":  "upgrade-card/fleet-command/hot-landing.png",
+        "display-text":  "Text: At the start of the Squadron Phase, friendly squadrons with Adept gain Grit until the end of the phase. When a friendly squadron with Adept is destroyed, you may choose 1 enemy ship at distance 1-2 of that squadron. If you do, that ship gains 1 raid token of your choice.",
+        "text-fallback":  {
+                              "label":  "Hot Landing",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Republic / Separatist",
+                              "points":  3,
+                              "slots":  "Fleet Command",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of the Squadron Phase, friendly squadrons with Adept gain Grit until the end of the phase. When a friendly squadron with Adept is destroyed, you may choose 1 enemy ship at distance 1-2 of that squadron. If you do, that ship gains 1 raid token of your choice.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of the Squadron Phase, friendly squadrons with Adept gain Grit until the end of the phase. When a friendly squadron with Adept is destroyed, you may choose 1 enemy ship at distance 1-2 of that squadron. If you do, that ship gains 1 raid token of your choice."
+                          }
     },
     {
         "name":  "Intensify Firepower!",
@@ -54,7 +156,41 @@
                       "Fleet Command"
                   ],
         "points":  6,
-        "image":  "upgrade-card/fleet-command/intensify-firepower.png"
+        "image":  "upgrade-card/fleet-command/intensify-firepower.png",
+        "display-text":  "Text: At the start of the Ship Phase, you may discard this card or spend a [Concentrate Fire] token. If you do, until the end of the round, while each friendly ship is attacking a ship, it may change 1 die to a face with 1 [Hit] icon and no other icons.",
+        "text-fallback":  {
+                              "label":  "Intensify Firepower!",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  6,
+                              "slots":  "Fleet Command",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of the Ship Phase, you may discard this card or spend a [Concentrate Fire] token. If you do, until the end of the round, while each friendly ship is attacking a ship, it may change 1 die to a face with 1 [Hit] icon and no other icons.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of the Ship Phase, you may discard this card or spend a [Concentrate Fire] token. If you do, until the end of the round, while each friendly ship is attacking a ship, it may change 1 die to a face with 1 [Hit] icon and no other icons."
+                          }
     },
     {
         "name":  "Jedi Hostage",
@@ -82,7 +218,41 @@
                          "data_version":  "2025.01-final",
                          "product_origin":  "SWM42"
                      },
-        "image":  "upgrade-card/fleet-command/jedi-hostage.png"
+        "image":  "upgrade-card/fleet-command/jedi-hostage.png",
+        "display-text":  "Text: A readied hostage can assign raid pressure to ships attacking its carrier, while nearby enemies can exhaust it under the card\u0027s command condition; an exhausted hostage limits defense-token spending.",
+        "text-fallback":  {
+                              "label":  "Jedi Hostage",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Separatist Alliance",
+                              "points":  3,
+                              "slots":  "Fleet Command",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "A readied hostage can assign raid pressure to ships attacking its carrier, while nearby enemies can exhaust it under the card\u0027s command condition; an exhausted hostage limits defense-token spending.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: A readied hostage can assign raid pressure to ships attacking its carrier, while nearby enemies can exhaust it under the card\u0027s command condition; an exhausted hostage limits defense-token spending."
+                          }
     },
     {
         "name":  "Mercy Mission",
@@ -116,7 +286,41 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/fleet-command/mercy-mission.png"
+        "image":  "upgrade-card/fleet-command/mercy-mission.png",
+        "display-text":  "Text: Before deploying fleets, un-equip this card and choose 1 friendly small ship that is not your flagship. Equip this card to the chosen ship (even if it does not have a Fleet Command icon in its upgrade bar). At the end of the game, if you are within the enemy deployment zone, increase your score by 40 points; if you were destroyed, increase your opponent\u0027s score by 15 points.",
+        "text-fallback":  {
+                              "label":  "Mercy Mission",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Republic",
+                              "points":  5,
+                              "slots":  "Fleet Command",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Before deploying fleets, un-equip this card and choose 1 friendly small ship that is not your flagship. Equip this card to the chosen ship (even if it does not have a Fleet Command icon in its upgrade bar). At the end of the game, if you are within the enemy deployment zone, increase your score by 40 points; if you were destroyed, increase your opponent\u0027s score by 15 points.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Before deploying fleets, un-equip this card and choose 1 friendly small ship that is not your flagship. Equip this card to the chosen ship (even if it does not have a Fleet Command icon in its upgrade bar). At the end of the game, if you are within the enemy deployment zone, increase your score by 40 points; if you were destroyed, increase your opponent\u0027s score by 15 points."
+                          }
     },
     {
         "name":  "Shields to Maximum!",
@@ -125,7 +329,41 @@
                       "Fleet Command"
                   ],
         "points":  6,
-        "image":  "upgrade-card/fleet-command/shields-to-maximum.png"
+        "image":  "upgrade-card/fleet-command/shields-to-maximum.png",
+        "display-text":  "Text: At the start of the Ship Phase, you may discard this card or spend a [Repair] token. If you do, until the end of the round, before a friendly ship reveals a command, it may recover 1 shield.",
+        "text-fallback":  {
+                              "label":  "Shields to Maximum!",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  6,
+                              "slots":  "Fleet Command",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of the Ship Phase, you may discard this card or spend a [Repair] token. If you do, until the end of the round, before a friendly ship reveals a command, it may recover 1 shield.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of the Ship Phase, you may discard this card or spend a [Repair] token. If you do, until the end of the round, before a friendly ship reveals a command, it may recover 1 shield."
+                          }
     },
     {
         "name":  "Take Evasive Action!",
@@ -134,6 +372,40 @@
                       "Fleet Command"
                   ],
         "points":  6,
-        "image":  "upgrade-card/fleet-command/take-evasive-action.png"
+        "image":  "upgrade-card/fleet-command/take-evasive-action.png",
+        "display-text":  "Text: At the start of the Ship Phase, you may discard this card or spend a [Navigate] token. If you do, until the end of the round, each friendly ship may increase the last yaw value of its current speed by 1 during its Determine Course step.",
+        "text-fallback":  {
+                              "label":  "Take Evasive Action!",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  6,
+                              "slots":  "Fleet Command",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "At the start of the Ship Phase, you may discard this card or spend a [Navigate] token. If you do, until the end of the round, each friendly ship may increase the last yaw value of its current speed by 1 during its Determine Course step.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: At the start of the Ship Phase, you may discard this card or spend a [Navigate] token. If you do, until the end of the round, each friendly ship may increase the last yaw value of its current speed by 1 during its Determine Course step."
+                          }
     }
 ]

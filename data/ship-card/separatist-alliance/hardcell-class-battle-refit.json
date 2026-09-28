@@ -79,5 +79,57 @@
                      "data_version":  "2025.01-final",
                      "product_origin":  "SWM35"
                  },
-    "image":  "ship/separatist-alliance/hardcell-class-battle-refit.png"
+    "image":  "ship/separatist-alliance/hardcell-class-battle-refit.png",
+    "display-text":  "Separatist Alliance | Commander, Officer, Offensive Retrofit, Defensive Retrofit, Turbolasers | 50 points | Keywords: Droid, Transport | Stats: hull: 5; command: 1; squadron: 1; engineering: 3; size: small; defense-tokens: Evade, Brace, Redirect",
+    "text-fallback":  {
+                          "label":  "Hardcell-class Battle Refit",
+                          "family":  "ship-card",
+                          "category":  "",
+                          "faction":  "Separatist Alliance",
+                          "points":  50,
+                          "slots":  [
+                                        "Commander",
+                                        "Officer",
+                                        "Offensive Retrofit",
+                                        "Defensive Retrofit",
+                                        "Turbolasers"
+                                    ],
+                          "keywords":  [
+                                           "Droid",
+                                           "Transport"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "hull":  5,
+                                        "command":  1,
+                                        "squadron":  1,
+                                        "engineering":  3,
+                                        "size":  "small",
+                                        "defense-tokens":  [
+                                                               "Evade",
+                                                               "Brace",
+                                                               "Redirect"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Separatist Alliance | Commander, Officer, Offensive Retrofit, Defensive Retrofit, Turbolasers | 50 points | Keywords: Droid, Transport | Stats: hull: 5; command: 1; squadron: 1; engineering: 3; size: small; defense-tokens: Evade, Brace, Redirect"
+                      }
 }

@@ -6,7 +6,41 @@
                       "Fleet Support"
                   ],
         "points":  8,
-        "image":  "upgrade-card/fleet-support/bomber-command-center.png"
+        "image":  "upgrade-card/fleet-support/bomber-command-center.png",
+        "display-text":  "Text: While a friendly squadron with Bomber at distance 1-5 is attacking a ship, it may reroll 1 die.",
+        "text-fallback":  {
+                              "label":  "Bomber Command Center",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  8,
+                              "slots":  "Fleet Support",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While a friendly squadron with Bomber at distance 1-5 is attacking a ship, it may reroll 1 die.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While a friendly squadron with Bomber at distance 1-5 is attacking a ship, it may reroll 1 die."
+                          }
     },
     {
         "name":  "Comms Net",
@@ -15,7 +49,41 @@
                       "Fleet Support"
                   ],
         "points":  2,
-        "image":  "upgrade-card/fleet-support/comms-net.png"
+        "image":  "upgrade-card/fleet-support/comms-net.png",
+        "display-text":  "Text: After the Reveal Command Dial Step, you may remove 1 command token from this ship to assign a matching token to another friendly ship at distance 1-5.",
+        "text-fallback":  {
+                              "label":  "Comms Net",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  2,
+                              "slots":  "Fleet Support",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "After the Reveal Command Dial Step, you may remove 1 command token from this ship to assign a matching token to another friendly ship at distance 1-5.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: After the Reveal Command Dial Step, you may remove 1 command token from this ship to assign a matching token to another friendly ship at distance 1-5."
+                          }
     },
     {
         "name":  "Jamming Field",
@@ -24,7 +92,41 @@
                       "Fleet Support"
                   ],
         "points":  2,
-        "image":  "upgrade-card/fleet-support/jamming-field.png"
+        "image":  "upgrade-card/fleet-support/jamming-field.png",
+        "display-text":  "Text: While a squadron at distance 1-2 is attacking or defending against a squadron, the attack is treated as obstructed.",
+        "text-fallback":  {
+                              "label":  "Jamming Field",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  2,
+                              "slots":  "Fleet Support",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While a squadron at distance 1-2 is attacking or defending against a squadron, the attack is treated as obstructed.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While a squadron at distance 1-2 is attacking or defending against a squadron, the attack is treated as obstructed."
+                          }
     },
     {
         "name":  "Munitions Resupply",
@@ -53,7 +155,39 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/fleet-support/munitions-resupply.png"
+        "image":  "upgrade-card/fleet-support/munitions-resupply.png",
+        "display-text":  "Text: After your Reveal Command Dial step, you may exhaust this card and discard any number of concentrate fire tokens from this card to choose that many friendly ships at distance 1-5. Each chosen ship may gain 1 concentrate fire token.\n\nSetup: Place 5 concentrate fire tokens on this card.",
+        "text-fallback":  {
+                              "label":  "Munitions Resupply",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  3,
+                              "slots":  "Fleet Support",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "After your Reveal Command Dial step, you may exhaust this card and discard any number of concentrate fire tokens from this card to choose that many friendly ships at distance 1-5. Each chosen ship may gain 1 concentrate fire token.",
+                                               "setup":  "Place 5 concentrate fire tokens on this card.",
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: After your Reveal Command Dial step, you may exhaust this card and discard any number of concentrate fire tokens from this card to choose that many friendly ships at distance 1-5. Each chosen ship may gain 1 concentrate fire token.\n\nSetup: Place 5 concentrate fire tokens on this card."
+                          }
     },
     {
         "name":  "Parts Resupply",
@@ -82,7 +216,39 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/fleet-support/parts-resupply.png"
+        "image":  "upgrade-card/fleet-support/parts-resupply.png",
+        "display-text":  "Text: After your Reveal Command Dial step, you may exhaust this card and discard any number of repair tokens from this card to choose that many friendly ships at distance 1-5. Each chosen ship may gain 1 repair token.\n\nSetup: Place 5 repair tokens on this card.",
+        "text-fallback":  {
+                              "label":  "Parts Resupply",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  3,
+                              "slots":  "Fleet Support",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "After your Reveal Command Dial step, you may exhaust this card and discard any number of repair tokens from this card to choose that many friendly ships at distance 1-5. Each chosen ship may gain 1 repair token.",
+                                               "setup":  "Place 5 repair tokens on this card.",
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: After your Reveal Command Dial step, you may exhaust this card and discard any number of repair tokens from this card to choose that many friendly ships at distance 1-5. Each chosen ship may gain 1 repair token.\n\nSetup: Place 5 repair tokens on this card."
+                          }
     },
     {
         "name":  "Repair Crews",
@@ -91,7 +257,41 @@
                       "Fleet Support"
                   ],
         "points":  4,
-        "image":  "upgrade-card/fleet-support/repair-crews.png"
+        "image":  "upgrade-card/fleet-support/repair-crews.png",
+        "display-text":  "Text: [Repair]: Instead of spending engineering points, you may discard 1 damage card from 1 friendly ship at distance 1-2.",
+        "text-fallback":  {
+                              "label":  "Repair Crews",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  4,
+                              "slots":  "Fleet Support",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "[Repair]: Instead of spending engineering points, you may discard 1 damage card from 1 friendly ship at distance 1-2.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: [Repair]: Instead of spending engineering points, you may discard 1 damage card from 1 friendly ship at distance 1-2."
+                          }
     },
     {
         "name":  "Slicer Tools",
@@ -100,6 +300,40 @@
                       "Fleet Support"
                   ],
         "points":  7,
-        "image":  "upgrade-card/fleet-support/slicer-tools.png"
+        "image":  "upgrade-card/fleet-support/slicer-tools.png",
+        "display-text":  "Text: After you execute a maneuver, you may exhaust this card to choose an enemy ship at distance 1-3. You may choose a new command on its top command dial.",
+        "text-fallback":  {
+                              "label":  "Slicer Tools",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  7,
+                              "slots":  "Fleet Support",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "After you execute a maneuver, you may exhaust this card to choose an enemy ship at distance 1-3. You may choose a new command on its top command dial.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: After you execute a maneuver, you may exhaust this card to choose an enemy ship at distance 1-3. You may choose a new command on its top command dial."
+                          }
     }
 ]

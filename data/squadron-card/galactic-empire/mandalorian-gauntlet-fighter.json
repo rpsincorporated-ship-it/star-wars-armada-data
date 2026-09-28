@@ -1,18 +1,72 @@
-[
-  {
-    "name": "Mandalorian Gauntlet Fighter",
-    "subname": "",
-    "faction": "Galactic Empire",
-    "speed": 4,
-    "hull": 7,
-    "__comment": "dice array is [red, blue, black] counts",
-    "squadron-attack": [1, 2, 0],
-    "attack": [0, 2, 0],
-    "text": "",
-    "keywords": ["Assault", "Rogue"],
-    "defense-tokens": [],
-    "points": 20,
-    "squadron-image": "squadron/galactic-empire/mandalorian-gauntlet-fighter.png",
-    "image": "squadron-card/galactic-empire/mandalorian-gauntlet-fighter.png"
-  }
-]
+{
+    "name":  "Mandalorian Gauntlet Fighter",
+    "subname":  "",
+    "faction":  "Galactic Empire",
+    "speed":  4,
+    "hull":  7,
+    "__comment":  "dice array is [red, blue, black] counts",
+    "squadron-attack":  [
+                            1,
+                            2,
+                            0
+                        ],
+    "attack":  [
+                   0,
+                   2,
+                   0
+               ],
+    "text":  "",
+    "keywords":  [
+                     "Assault",
+                     "Rogue"
+                 ],
+    "defense-tokens":  [
+
+                       ],
+    "points":  20,
+    "squadron-image":  "squadron/galactic-empire/mandalorian-gauntlet-fighter.png",
+    "image":  "squadron-card/galactic-empire/mandalorian-gauntlet-fighter.png",
+    "display-text":  "Galactic Empire | 20 points | Keywords: Assault, Rogue | Stats: speed: 4; hull: 7; defense-tokens:",
+    "text-fallback":  {
+                          "label":  "Mandalorian Gauntlet Fighter",
+                          "family":  "squadron-card",
+                          "category":  "",
+                          "faction":  "Galactic Empire",
+                          "points":  20,
+                          "slots":  {
+
+                                    },
+                          "keywords":  [
+                                           "Assault",
+                                           "Rogue"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "speed":  4,
+                                        "hull":  7,
+                                        "defense-tokens":  [
+
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Galactic Empire | 20 points | Keywords: Assault, Rogue | Stats: speed: 4; hull: 7; defense-tokens:"
+                      }
+}

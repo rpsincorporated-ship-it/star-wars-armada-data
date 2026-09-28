@@ -80,5 +80,56 @@
                      "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                      "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                  },
-    "image":  "ship/galactic-republic/consular-class-armed-cruiser.webp"
+    "image":  "ship/galactic-republic/consular-class-armed-cruiser.webp",
+    "display-text":  "Galactic Republic | Officer, Support Team, Defensive Retrofit, Ordnance | 37 points | Keywords: Senate, Comms | Stats: hull: 4; command: 1; squadron: 1; engineering: 2; size: small; defense-tokens: Evade, Redirect, Contain",
+    "text-fallback":  {
+                          "label":  "Consular-class Armed Cruiser",
+                          "family":  "ship-card",
+                          "category":  "",
+                          "faction":  "Galactic Republic",
+                          "points":  37,
+                          "slots":  [
+                                        "Officer",
+                                        "Support Team",
+                                        "Defensive Retrofit",
+                                        "Ordnance"
+                                    ],
+                          "keywords":  [
+                                           "Senate",
+                                           "Comms"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "hull":  4,
+                                        "command":  1,
+                                        "squadron":  1,
+                                        "engineering":  2,
+                                        "size":  "small",
+                                        "defense-tokens":  [
+                                                               "Evade",
+                                                               "Redirect",
+                                                               "Contain"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Galactic Republic | Officer, Support Team, Defensive Retrofit, Ordnance | 37 points | Keywords: Senate, Comms | Stats: hull: 4; command: 1; squadron: 1; engineering: 2; size: small; defense-tokens: Evade, Redirect, Contain"
+                      }
 }

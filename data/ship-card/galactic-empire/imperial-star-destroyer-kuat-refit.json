@@ -1,42 +1,127 @@
-[
-  {
-    "name": "Imperial Star Destroyer Kuat Refit",
-    "size": "large",
-    "faction": "Galactic Empire",
-    "hull": 11,
-    "__comment": "dice array is [red, blue, black] counts",
-    "squadron-attack": [0, 1, 1],
-    "command": 3,
-    "squadron": 2,
-    "engineering": 4,
-    "attack": {
-      "front": [3, 2, 3],
-      "right": [1, 1, 2],
-      "left": [1, 1, 2],
-      "rear": [1, 1, 1]
-    },
-    "shield": {
-      "front": 4,
-      "right": 3,
-      "left": 3,
-      "rear": 2
-    },
-    "defense-tokens": ["Brace", "Redirect", "Redirect", "Contain"],
-    "speed-chart": {
-      "1": ["|"],
-      "2": ["|", "|"],
-      "3": ["-", "|", "|"]
-    },
-    "slots": [
-      "Officer",
-      "Weapons Team",
-      "Offensive Retrofit",
-      "Defensive Retrofit",
-      "Ion Cannons",
-      "Turbolasers"
-    ],
-    "points": 112,
-    "ship-image": "ship/galactic-empire/imperial-class-star-destroyer-v2.png",
-    "image": "ship-card/galactic-empire/imperial-star-destroyer-kuat-refit.png"
-  }
-]
+{
+    "name":  "Imperial Star Destroyer Kuat Refit",
+    "size":  "large",
+    "faction":  "Galactic Empire",
+    "hull":  11,
+    "__comment":  "dice array is [red, blue, black] counts",
+    "squadron-attack":  [
+                            0,
+                            1,
+                            1
+                        ],
+    "command":  3,
+    "squadron":  2,
+    "engineering":  4,
+    "attack":  {
+                   "front":  [
+                                 3,
+                                 2,
+                                 3
+                             ],
+                   "right":  [
+                                 1,
+                                 1,
+                                 2
+                             ],
+                   "left":  [
+                                1,
+                                1,
+                                2
+                            ],
+                   "rear":  [
+                                1,
+                                1,
+                                1
+                            ]
+               },
+    "shield":  {
+                   "front":  4,
+                   "right":  3,
+                   "left":  3,
+                   "rear":  2
+               },
+    "defense-tokens":  [
+                           "Brace",
+                           "Redirect",
+                           "Redirect",
+                           "Contain"
+                       ],
+    "speed-chart":  {
+                        "1":  [
+                                  "|"
+                              ],
+                        "2":  [
+                                  "|",
+                                  "|"
+                              ],
+                        "3":  [
+                                  "-",
+                                  "|",
+                                  "|"
+                              ]
+                    },
+    "slots":  [
+                  "Officer",
+                  "Weapons Team",
+                  "Offensive Retrofit",
+                  "Defensive Retrofit",
+                  "Ion Cannons",
+                  "Turbolasers"
+              ],
+    "points":  112,
+    "ship-image":  "ship/galactic-empire/imperial-class-star-destroyer-v2.png",
+    "image":  "ship-card/galactic-empire/imperial-star-destroyer-kuat-refit.png",
+    "display-text":  "Galactic Empire | Officer, Weapons Team, Offensive Retrofit, Defensive Retrofit, Ion Cannons, Turbolasers | 112 points | Stats: hull: 11; command: 3; squadron: 2; engineering: 4; size: large; defense-tokens: Brace, Redirect, Redirect, Contain",
+    "text-fallback":  {
+                          "label":  "Imperial Star Destroyer Kuat Refit",
+                          "family":  "ship-card",
+                          "category":  "",
+                          "faction":  "Galactic Empire",
+                          "points":  112,
+                          "slots":  [
+                                        "Officer",
+                                        "Weapons Team",
+                                        "Offensive Retrofit",
+                                        "Defensive Retrofit",
+                                        "Ion Cannons",
+                                        "Turbolasers"
+                                    ],
+                          "keywords":  {
+
+                                       },
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "hull":  11,
+                                        "command":  3,
+                                        "squadron":  2,
+                                        "engineering":  4,
+                                        "size":  "large",
+                                        "defense-tokens":  [
+                                                               "Brace",
+                                                               "Redirect",
+                                                               "Redirect",
+                                                               "Contain"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Galactic Empire | Officer, Weapons Team, Offensive Retrofit, Defensive Retrofit, Ion Cannons, Turbolasers | 112 points | Stats: hull: 11; command: 3; squadron: 2; engineering: 4; size: large; defense-tokens: Brace, Redirect, Redirect, Contain"
+                      }
+}

@@ -8,7 +8,41 @@
         "ship":  "Starhawk-class Battleship",
         "faction":  "Rebel Alliance",
         "points":  10,
-        "image":  "upgrade-card/superweapon/magnite-crysal-tractor-beam-array.png"
+        "image":  "upgrade-card/superweapon/magnite-crysal-tractor-beam-array.png",
+        "display-text":  "Text: After the end of your activation, you may exhaust this card to choose 1 enemy ship at distance 1-5. That ship\u0027s speed is increased or decreased to match your speed. While your speed is 0, you cannot ready this card.",
+        "text-fallback":  {
+                              "label":  "Magnite Crysal Tractor Beam Array",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Rebel Alliance",
+                              "points":  10,
+                              "slots":  "Superweapon",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "After the end of your activation, you may exhaust this card to choose 1 enemy ship at distance 1-5. That ship\u0027s speed is increased or decreased to match your speed. While your speed is 0, you cannot ready this card.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: After the end of your activation, you may exhaust this card to choose 1 enemy ship at distance 1-5. That ship\u0027s speed is increased or decreased to match your speed. While your speed is 0, you cannot ready this card."
+                          }
     },
     {
         "name":  "Orbital Bombardment Particle Cannons",
@@ -20,7 +54,41 @@
         "ship":  "Onager-class Star Destroyer",
         "faction":  "Galactic Empire",
         "points":  5,
-        "image":  "upgrade-card/superweapon/orbital-bombardment-particle-cannons.png"
+        "image":  "upgrade-card/superweapon/orbital-bombardment-particle-cannons.png",
+        "display-text":  "Text: [Ignition (Long)] [Ignition], Red [Critical Hit]: Each other ship at distance 1 of the defender suffers 2 damage, and each squadron at distance 1 of the defender suffers 1 damage.",
+        "text-fallback":  {
+                              "label":  "Orbital Bombardment Particle Cannons",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  5,
+                              "slots":  "Superweapon",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "[Ignition (Long)] [Ignition], Red [Critical Hit]: Each other ship at distance 1 of the defender suffers 2 damage, and each squadron at distance 1 of the defender suffers 1 damage.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: [Ignition (Long)] [Ignition], Red [Critical Hit]: Each other ship at distance 1 of the defender suffers 2 damage, and each squadron at distance 1 of the defender suffers 1 damage."
+                          }
     },
     {
         "name":  "Superheavy Composite Beam Turbolasers",
@@ -32,6 +100,40 @@
         "ship":  "Onager-class Star Destroyer",
         "faction":  "Galactic Empire",
         "points":  7,
-        "image":  "upgrade-card/superweapon/superheavy-composite-beam-turbolasers.png"
+        "image":  "upgrade-card/superweapon/superheavy-composite-beam-turbolasers.png",
+        "display-text":  "Text: [Ignition (Medium)] [Ignition], Red [Critical Hit]: The defender suffers 1 damage. This occurs once for each red or blue [Critical Hit] icon in the pool.",
+        "text-fallback":  {
+                              "label":  "Superheavy Composite Beam Turbolasers",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Galactic Empire",
+                              "points":  7,
+                              "slots":  "Superweapon",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "[Ignition (Medium)] [Ignition], Red [Critical Hit]: The defender suffers 1 damage. This occurs once for each red or blue [Critical Hit] icon in the pool.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: [Ignition (Medium)] [Ignition], Red [Critical Hit]: The defender suffers 1 damage. This occurs once for each red or blue [Critical Hit] icon in the pool."
+                          }
     }
 ]

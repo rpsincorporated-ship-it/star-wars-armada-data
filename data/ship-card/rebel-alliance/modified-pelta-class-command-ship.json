@@ -1,34 +1,116 @@
-[
-  {
-    "name": "Modified Pelta-class Command Ship",
-    "size": "small",
-    "faction": "Rebel Alliance",
-    "hull": 5,
-    "__comment": "dice array is [red, blue, black] counts",
-    "squadron-attack": [0, 1, 0],
-    "command": 2,
-    "squadron": 3,
-    "engineering": 4,
-    "attack": {
-      "front": [2, 2, 0],
-      "right": [1, 1, 0],
-      "left": [1, 1, 0],
-      "rear": [2, 0, 0]
-    },
-    "shield": {
-      "front": 3,
-      "right": 2,
-      "left": 2,
-      "rear": 1
-    },
-    "defense-tokens": ["Evade", "Brace", "Redirect"],
-    "speed-chart": {
-      "1": ["||"],
-      "2": ["|", "|"]
-    },
-    "slots": ["Officer", "Support Team", "Fleet Command", "Offensive Retrofit"],
-    "points": 60,
-    "ship-image": "ship/rebel-alliance/pelta-class-ship.png",
-    "image": "ship-card/rebel-alliance/modified-pelta-class-command-ship.png"
-  }
-]
+{
+    "name":  "Modified Pelta-class Command Ship",
+    "size":  "small",
+    "faction":  "Rebel Alliance",
+    "hull":  5,
+    "__comment":  "dice array is [red, blue, black] counts",
+    "squadron-attack":  [
+                            0,
+                            1,
+                            0
+                        ],
+    "command":  2,
+    "squadron":  3,
+    "engineering":  4,
+    "attack":  {
+                   "front":  [
+                                 2,
+                                 2,
+                                 0
+                             ],
+                   "right":  [
+                                 1,
+                                 1,
+                                 0
+                             ],
+                   "left":  [
+                                1,
+                                1,
+                                0
+                            ],
+                   "rear":  [
+                                2,
+                                0,
+                                0
+                            ]
+               },
+    "shield":  {
+                   "front":  3,
+                   "right":  2,
+                   "left":  2,
+                   "rear":  1
+               },
+    "defense-tokens":  [
+                           "Evade",
+                           "Brace",
+                           "Redirect"
+                       ],
+    "speed-chart":  {
+                        "1":  [
+                                  "||"
+                              ],
+                        "2":  [
+                                  "|",
+                                  "|"
+                              ]
+                    },
+    "slots":  [
+                  "Officer",
+                  "Support Team",
+                  "Fleet Command",
+                  "Offensive Retrofit"
+              ],
+    "points":  60,
+    "ship-image":  "ship/rebel-alliance/pelta-class-ship.png",
+    "image":  "ship-card/rebel-alliance/modified-pelta-class-command-ship.png",
+    "display-text":  "Rebel Alliance | Officer, Support Team, Fleet Command, Offensive Retrofit | 60 points | Stats: hull: 5; command: 2; squadron: 3; engineering: 4; size: small; defense-tokens: Evade, Brace, Redirect",
+    "text-fallback":  {
+                          "label":  "Modified Pelta-class Command Ship",
+                          "family":  "ship-card",
+                          "category":  "",
+                          "faction":  "Rebel Alliance",
+                          "points":  60,
+                          "slots":  [
+                                        "Officer",
+                                        "Support Team",
+                                        "Fleet Command",
+                                        "Offensive Retrofit"
+                                    ],
+                          "keywords":  {
+
+                                       },
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "hull":  5,
+                                        "command":  2,
+                                        "squadron":  3,
+                                        "engineering":  4,
+                                        "size":  "small",
+                                        "defense-tokens":  [
+                                                               "Evade",
+                                                               "Brace",
+                                                               "Redirect"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Rebel Alliance | Officer, Support Team, Fleet Command, Offensive Retrofit | 60 points | Stats: hull: 5; command: 2; squadron: 3; engineering: 4; size: small; defense-tokens: Evade, Brace, Redirect"
+                      }
+}

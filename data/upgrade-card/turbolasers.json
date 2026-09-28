@@ -27,7 +27,41 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/turbolasers/dby-827-heavy-turbolasers.png"
+        "image":  "upgrade-card/turbolasers/dby-827-heavy-turbolasers.png",
+        "display-text":  "Text: While performing a Salvo attack, you may change 1 die to a face with a critical icon.",
+        "text-fallback":  {
+                              "label":  "DBY-827 Heavy Turbolasers",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Neutral",
+                              "points":  3,
+                              "slots":  "Turbolasers",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While performing a Salvo attack, you may change 1 die to a face with a critical icon.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While performing a Salvo attack, you may change 1 die to a face with a critical icon."
+                          }
     },
     {
         "name":  "Dual Turbolaser Turrets",
@@ -37,7 +71,41 @@
                       "Turbolasers"
                   ],
         "points":  5,
-        "image":  "upgrade-card/turbolasers/dual-turbolaser-turrets.png"
+        "image":  "upgrade-card/turbolasers/dual-turbolaser-turrets.png",
+        "display-text":  "Text: While attacking you may exhaust this card to add 1 red die to your attack pool. If you do, remove 1 die from the attack pool.",
+        "text-fallback":  {
+                              "label":  "Dual Turbolaser Turrets",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  5,
+                              "slots":  "Turbolasers",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While attacking you may exhaust this card to add 1 red die to your attack pool. If you do, remove 1 die from the attack pool.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While attacking you may exhaust this card to add 1 red die to your attack pool. If you do, remove 1 die from the attack pool."
+                          }
     },
     {
         "name":  "Enhanced Armament",
@@ -47,7 +115,41 @@
                       "Turbolasers"
                   ],
         "points":  10,
-        "image":  "upgrade-card/turbolasers/enhanced-armament.png"
+        "image":  "upgrade-card/turbolasers/enhanced-armament.png",
+        "display-text":  "Text: The battery armaments for your left and right hull zones are increased by 1 red die.",
+        "text-fallback":  {
+                              "label":  "Enhanced Armament",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  10,
+                              "slots":  "Turbolasers",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "The battery armaments for your left and right hull zones are increased by 1 red die.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: The battery armaments for your left and right hull zones are increased by 1 red die."
+                          }
     },
     {
         "name":  "H9 Turbolasers",
@@ -56,7 +158,41 @@
                       "Turbolasers"
                   ],
         "points":  8,
-        "image":  "upgrade-card/turbolasers/h9-turbolasers.png"
+        "image":  "upgrade-card/turbolasers/h9-turbolasers.png",
+        "display-text":  "Text: While attacking, you may change 1 die face with a [Hit] or [Critical Hit] to a face with an [Accuracy] icon.",
+        "text-fallback":  {
+                              "label":  "H9 Turbolasers",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  8,
+                              "slots":  "Turbolasers",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While attacking, you may change 1 die face with a [Hit] or [Critical Hit] to a face with an [Accuracy] icon.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While attacking, you may change 1 die face with a [Hit] or [Critical Hit] to a face with an [Accuracy] icon."
+                          }
     },
     {
         "name":  "Heavy Fire Zone",
@@ -65,7 +201,41 @@
                       "Turbolasers"
                   ],
         "points":  4,
-        "image":  "upgrade-card/turbolasers/heavy-fire-zone.png"
+        "image":  "upgrade-card/turbolasers/heavy-fire-zone.png",
+        "display-text":  "Text: While attacking a squadron, before you gather dice, if the defender is not engaged with a friendly squadron you may replace all of the blue dice in your anti-squadron armament with red dice.",
+        "text-fallback":  {
+                              "label":  "Heavy Fire Zone",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  4,
+                              "slots":  "Turbolasers",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While attacking a squadron, before you gather dice, if the defender is not engaged with a friendly squadron you may replace all of the blue dice in your anti-squadron armament with red dice.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While attacking a squadron, before you gather dice, if the defender is not engaged with a friendly squadron you may replace all of the blue dice in your anti-squadron armament with red dice."
+                          }
     },
     {
         "name":  "Heavy Turbolaser Turrets",
@@ -74,7 +244,41 @@
                       "Turbolasers"
                   ],
         "points":  6,
-        "image":  "upgrade-card/turbolasers/heavy-turbolaser-turrets.png"
+        "image":  "upgrade-card/turbolasers/heavy-turbolaser-turrets.png",
+        "display-text":  "Text: While attacking, the [Brace] defense effect cannot reduce the damage total by more than 1 unless it is the only defense token spent by the defender during the attack.",
+        "text-fallback":  {
+                              "label":  "Heavy Turbolaser Turrets",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  6,
+                              "slots":  "Turbolasers",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While attacking, the [Brace] defense effect cannot reduce the damage total by more than 1 unless it is the only defense token spent by the defender during the attack.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While attacking, the [Brace] defense effect cannot reduce the damage total by more than 1 unless it is the only defense token spent by the defender during the attack."
+                          }
     },
     {
         "name":  "Linked Turbolaser Towers",
@@ -83,7 +287,41 @@
                       "Turbolasers"
                   ],
         "points":  7,
-        "image":  "upgrade-card/turbolasers/linked-turbolaser-towers.png"
+        "image":  "upgrade-card/turbolasers/linked-turbolaser-towers.png",
+        "display-text":  "Text: You may reroll 1 red die in your attack pool. While attacking the first squadron during your activation, you may add 2 dice of any color to your attack pool. If you do, you cannot declare additional squadron targets for this attack.",
+        "text-fallback":  {
+                              "label":  "Linked Turbolaser Towers",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  7,
+                              "slots":  "Turbolasers",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "You may reroll 1 red die in your attack pool. While attacking the first squadron during your activation, you may add 2 dice of any color to your attack pool. If you do, you cannot declare additional squadron targets for this attack.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: You may reroll 1 red die in your attack pool. While attacking the first squadron during your activation, you may add 2 dice of any color to your attack pool. If you do, you cannot declare additional squadron targets for this attack."
+                          }
     },
     {
         "name":  "Quad Battery Turrets",
@@ -93,7 +331,41 @@
                       "Turbolasers"
                   ],
         "points":  5,
-        "image":  "upgrade-card/turbolasers/quad-battery-turrets.png"
+        "image":  "upgrade-card/turbolasers/quad-battery-turrets.png",
+        "display-text":  "Text: While attacking a ship with a higher speed than yours, you may add 1 blue die to your attack pool.",
+        "text-fallback":  {
+                              "label":  "Quad Battery Turrets",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  5,
+                              "slots":  "Turbolasers",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While attacking a ship with a higher speed than yours, you may add 1 blue die to your attack pool.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While attacking a ship with a higher speed than yours, you may add 1 blue die to your attack pool."
+                          }
     },
     {
         "name":  "Quad Turbolaser Cannons",
@@ -102,7 +374,41 @@
                       "Turbolasers"
                   ],
         "points":  10,
-        "image":  "upgrade-card/turbolasers/quad-turbolaser-cannons.png"
+        "image":  "upgrade-card/turbolasers/quad-turbolaser-cannons.png",
+        "display-text":  "Text: While attacking, if at least 1 red die face has an [Accuracy] icon, add 1 red die set to the [Accuracy] icon to your attack pool.",
+        "text-fallback":  {
+                              "label":  "Quad Turbolaser Cannons",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  10,
+                              "slots":  "Turbolasers",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While attacking, if at least 1 red die face has an [Accuracy] icon, add 1 red die set to the [Accuracy] icon to your attack pool.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While attacking, if at least 1 red die face has an [Accuracy] icon, add 1 red die set to the [Accuracy] icon to your attack pool."
+                          }
     },
     {
         "name":  "Slaved Turrets",
@@ -112,7 +418,41 @@
                       "Turbolasers"
                   ],
         "points":  6,
-        "image":  "upgrade-card/turbolasers/slaved-turrets.png"
+        "image":  "upgrade-card/turbolasers/slaved-turrets.png",
+        "display-text":  "Text: You cannot attack more than once per round.\nWhile attacking a ship, add 1 red die to your attack pool.",
+        "text-fallback":  {
+                              "label":  "Slaved Turrets",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  6,
+                              "slots":  "Turbolasers",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "You cannot attack more than once per round.\nWhile attacking a ship, add 1 red die to your attack pool.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: You cannot attack more than once per round.\nWhile attacking a ship, add 1 red die to your attack pool."
+                          }
     },
     {
         "name":  "Spinal Armament",
@@ -122,7 +462,41 @@
                       "Turbolasers"
                   ],
         "points":  9,
-        "image":  "upgrade-card/turbolasers/spinal-armament.png"
+        "image":  "upgrade-card/turbolasers/spinal-armament.png",
+        "display-text":  "Text: The battery armaments for your front and rear hull zones are increased by 1 red die.",
+        "text-fallback":  {
+                              "label":  "Spinal Armament",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  9,
+                              "slots":  "Turbolasers",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "The battery armaments for your front and rear hull zones are increased by 1 red die.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: The battery armaments for your front and rear hull zones are increased by 1 red die."
+                          }
     },
     {
         "name":  "Swivel-Mount Batteries",
@@ -151,7 +525,41 @@
                          "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                          "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                      },
-        "image":  "upgrade-card/turbolasers/swivel-mount-batteries.png"
+        "image":  "upgrade-card/turbolasers/swivel-mount-batteries.png",
+        "display-text":  "Text: When you reveal a command, you may exhaust this card to choose 1 of your hull zones and mark it with a focus token. While attacking a ship from that hull zone, you may add 1 die of any color from an adjacent hull zone\u0027s armament. While attacking from an adjacent hull zone, remove 1 die from the attack pool. When you ready this card, remove the focus token.",
+        "text-fallback":  {
+                              "label":  "Swivel-Mount Batteries",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  8,
+                              "slots":  "Turbolasers",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "When you reveal a command, you may exhaust this card to choose 1 of your hull zones and mark it with a focus token. While attacking a ship from that hull zone, you may add 1 die of any color from an adjacent hull zone\u0027s armament. While attacking from an adjacent hull zone, remove 1 die from the attack pool. When you ready this card, remove the focus token.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: When you reveal a command, you may exhaust this card to choose 1 of your hull zones and mark it with a focus token. While attacking a ship from that hull zone, you may add 1 die of any color from an adjacent hull zone\u0027s armament. While attacking from an adjacent hull zone, remove 1 die from the attack pool. When you ready this card, remove the focus token."
+                          }
     },
     {
         "name":  "Turbolaser Reroute Circuits",
@@ -160,7 +568,41 @@
                       "Turbolasers"
                   ],
         "points":  6,
-        "image":  "upgrade-card/turbolasers/turbolaser-reroute-circuits.png"
+        "image":  "upgrade-card/turbolasers/turbolaser-reroute-circuits.png",
+        "display-text":  "Text: While attacking, you may exhaust this card and spend 1 [Evade] defense token to change 1 red die to a face with a [Critical Hit] icon or 2 [Hit] icons.",
+        "text-fallback":  {
+                              "label":  "Turbolaser Reroute Circuits",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  6,
+                              "slots":  "Turbolasers",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While attacking, you may exhaust this card and spend 1 [Evade] defense token to change 1 red die to a face with a [Critical Hit] icon or 2 [Hit] icons.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While attacking, you may exhaust this card and spend 1 [Evade] defense token to change 1 red die to a face with a [Critical Hit] icon or 2 [Hit] icons."
+                          }
     },
     {
         "name":  "XI7 Turbolasers",
@@ -169,7 +611,41 @@
                       "Turbolasers"
                   ],
         "points":  6,
-        "image":  "upgrade-card/turbolasers/xi7-turbolasers.png"
+        "image":  "upgrade-card/turbolasers/xi7-turbolasers.png",
+        "display-text":  "Text: While attacking, if the defender spends a [Redirect] token, it cannot suffer more than 1 damage on hull zones other than the defending hull zone.",
+        "text-fallback":  {
+                              "label":  "XI7 Turbolasers",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  6,
+                              "slots":  "Turbolasers",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While attacking, if the defender spends a [Redirect] token, it cannot suffer more than 1 damage on hull zones other than the defending hull zone.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While attacking, if the defender spends a [Redirect] token, it cannot suffer more than 1 damage on hull zones other than the defending hull zone."
+                          }
     },
     {
         "name":  "XX-9 Turbolasers",
@@ -178,6 +654,40 @@
                       "Turbolasers"
                   ],
         "points":  5,
-        "image":  "upgrade-card/turbolasers/xx-9-turbolasers.png"
+        "image":  "upgrade-card/turbolasers/xx-9-turbolasers.png",
+        "display-text":  "Text: [Critical Hit]: The first 2 damage cards dealt to the defender by this attack are dealt faceup.",
+        "text-fallback":  {
+                              "label":  "XX-9 Turbolasers",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  5,
+                              "slots":  "Turbolasers",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "[Critical Hit]: The first 2 damage cards dealt to the defender by this attack are dealt faceup.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: [Critical Hit]: The first 2 damage cards dealt to the defender by this attack are dealt faceup."
+                          }
     }
 ]

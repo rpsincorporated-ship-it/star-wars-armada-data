@@ -79,5 +79,53 @@
                      "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
                      "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
                  },
-    "image":  "ship/galactic-republic/consular-class-charger-c70.webp"
+    "image":  "ship/galactic-republic/consular-class-charger-c70.webp",
+    "display-text":  "Galactic Republic | Officer, Support Team, Offensive Retrofit, Turbolasers | 42 points | Keywords: Clone | Stats: hull: 4; command: 1; squadron: 1; engineering: 2; size: small; defense-tokens: Evade, Redirect, Contain",
+    "text-fallback":  {
+                          "label":  "Consular-class Charger c70",
+                          "family":  "ship-card",
+                          "category":  "",
+                          "faction":  "Galactic Republic",
+                          "points":  42,
+                          "slots":  [
+                                        "Officer",
+                                        "Support Team",
+                                        "Offensive Retrofit",
+                                        "Turbolasers"
+                                    ],
+                          "keywords":  "Clone",
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "hull":  4,
+                                        "command":  1,
+                                        "squadron":  1,
+                                        "engineering":  2,
+                                        "size":  "small",
+                                        "defense-tokens":  [
+                                                               "Evade",
+                                                               "Redirect",
+                                                               "Contain"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Galactic Republic | Officer, Support Team, Offensive Retrofit, Turbolasers | 42 points | Keywords: Clone | Stats: hull: 4; command: 1; squadron: 1; engineering: 2; size: small; defense-tokens: Evade, Redirect, Contain"
+                      }
 }

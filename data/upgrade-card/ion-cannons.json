@@ -6,7 +6,41 @@
                       "Ion Cannons"
                   ],
         "points":  9,
-        "image":  "upgrade-card/ion-cannons/heavy-ion-emplacements.png"
+        "image":  "upgrade-card/ion-cannons/heavy-ion-emplacements.png",
+        "display-text":  "Text: Blue [Critical Hit]: You may exhaust this card. If you do, the defending hull zone and each adjacent hull zone loses 1 shield.",
+        "text-fallback":  {
+                              "label":  "Heavy Ion Emplacements",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  9,
+                              "slots":  "Ion Cannons",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Blue [Critical Hit]: You may exhaust this card. If you do, the defending hull zone and each adjacent hull zone loses 1 shield.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Blue [Critical Hit]: You may exhaust this card. If you do, the defending hull zone and each adjacent hull zone loses 1 shield."
+                          }
     },
     {
         "name":  "High-Capacity Ion Turbines",
@@ -16,7 +50,41 @@
                       "Ion Cannons"
                   ],
         "points":  8,
-        "image":  "upgrade-card/ion-cannons/high-capacity-ion-turbines.png"
+        "image":  "upgrade-card/ion-cannons/high-capacity-ion-turbines.png",
+        "display-text":  "Text: The battery armaments for your left and right hull zones are increased by 1 blue die.",
+        "text-fallback":  {
+                              "label":  "High-Capacity Ion Turbines",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  8,
+                              "slots":  "Ion Cannons",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "The battery armaments for your left and right hull zones are increased by 1 blue die.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: The battery armaments for your left and right hull zones are increased by 1 blue die."
+                          }
     },
     {
         "name":  "Ion Cannon Batteries",
@@ -25,7 +93,41 @@
                       "Ion Cannons"
                   ],
         "points":  5,
-        "image":  "upgrade-card/ion-cannons/ion-cannon-batteries.png"
+        "image":  "upgrade-card/ion-cannons/ion-cannon-batteries.png",
+        "display-text":  "Text: Blue [Critical Hit]: Choose and discard 1 command token from the defender. If the defender does not have any command tokens, the defending hull zone loses 1 shield instead.",
+        "text-fallback":  {
+                              "label":  "Ion Cannon Batteries",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  5,
+                              "slots":  "Ion Cannons",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Blue [Critical Hit]: Choose and discard 1 command token from the defender. If the defender does not have any command tokens, the defending hull zone loses 1 shield instead.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Blue [Critical Hit]: Choose and discard 1 command token from the defender. If the defender does not have any command tokens, the defending hull zone loses 1 shield instead."
+                          }
     },
     {
         "name":  "Leading Shots",
@@ -34,7 +136,41 @@
                       "Ion Cannons"
                   ],
         "points":  4,
-        "image":  "upgrade-card/ion-cannons/leading-shots.png"
+        "image":  "upgrade-card/ion-cannons/leading-shots.png",
+        "display-text":  "Text: While attacking, you may spend 1 blue die to reroll any number of dice in your attack pool.",
+        "text-fallback":  {
+                              "label":  "Leading Shots",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  4,
+                              "slots":  "Ion Cannons",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While attacking, you may spend 1 blue die to reroll any number of dice in your attack pool.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While attacking, you may spend 1 blue die to reroll any number of dice in your attack pool."
+                          }
     },
     {
         "name":  "MS-1 Ion Cannons",
@@ -43,7 +179,41 @@
                       "Ion Cannons"
                   ],
         "points":  2,
-        "image":  "upgrade-card/ion-cannons/ms-1-ion-cannons.png"
+        "image":  "upgrade-card/ion-cannons/ms-1-ion-cannons.png",
+        "display-text":  "Text: Blue [Critical Hit]: Choose and exhaust 1 of the defender\u0027s upgrade cards.",
+        "text-fallback":  {
+                              "label":  "MS-1 Ion Cannons",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  2,
+                              "slots":  "Ion Cannons",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Blue [Critical Hit]: Choose and exhaust 1 of the defender\u0027s upgrade cards.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Blue [Critical Hit]: Choose and exhaust 1 of the defender\u0027s upgrade cards."
+                          }
     },
     {
         "name":  "NK-7 Ion Cannons",
@@ -52,7 +222,41 @@
                       "Ion Cannons"
                   ],
         "points":  10,
-        "image":  "upgrade-card/ion-cannons/nk-7-ion-cannons.png"
+        "image":  "upgrade-card/ion-cannons/nk-7-ion-cannons.png",
+        "display-text":  "Text: Blue [Critical Hit]: You may exhaust this card to force the defender to choose and discard 1 of his defense tokens.",
+        "text-fallback":  {
+                              "label":  "NK-7 Ion Cannons",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  10,
+                              "slots":  "Ion Cannons",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Blue [Critical Hit]: You may exhaust this card to force the defender to choose and discard 1 of his defense tokens.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Blue [Critical Hit]: You may exhaust this card to force the defender to choose and discard 1 of his defense tokens."
+                          }
     },
     {
         "name":  "Overload Pulse",
@@ -61,7 +265,41 @@
                       "Ion Cannons"
                   ],
         "points":  8,
-        "image":  "upgrade-card/ion-cannons/overload-pulse.png"
+        "image":  "upgrade-card/ion-cannons/overload-pulse.png",
+        "display-text":  "Text: Blue [Critical Hit]: Exhaust all of the defender\u0027s defense tokens.",
+        "text-fallback":  {
+                              "label":  "Overload Pulse",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  8,
+                              "slots":  "Ion Cannons",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "Blue [Critical Hit]: Exhaust all of the defender\u0027s defense tokens.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: Blue [Critical Hit]: Exhaust all of the defender\u0027s defense tokens."
+                          }
     },
     {
         "name":  "Point Defense Ion Cannons",
@@ -94,7 +332,41 @@
                          "data_version":  "2025.01-final",
                          "product_origin":  "SWM42"
                      },
-        "image":  "upgrade-card/ion-cannons/point-defense-ion-cannons.png"
+        "image":  "upgrade-card/ion-cannons/point-defense-ion-cannons.png",
+        "display-text":  "Text: While defending at close range or distance 1, it can force one attacker die to be rerolled during the defense-token step.",
+        "text-fallback":  {
+                              "label":  "Point Defense Ion Cannons",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "Neutral",
+                              "points":  6,
+                              "slots":  "Ion Cannons",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While defending at close range or distance 1, it can force one attacker die to be rerolled during the defense-token step.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While defending at close range or distance 1, it can force one attacker die to be rerolled during the defense-token step."
+                          }
     },
     {
         "name":  "SW-7 Ion Batteries",
@@ -103,6 +375,40 @@
                       "Ion Cannons"
                   ],
         "points":  5,
-        "image":  "upgrade-card/ion-cannons/sw-7-ion-batteries.png"
+        "image":  "upgrade-card/ion-cannons/sw-7-ion-batteries.png",
+        "display-text":  "Text: While attacking a ship, each of your unspent blue [Accuracy] icons adds 1 damage to the damage total.",
+        "text-fallback":  {
+                              "label":  "SW-7 Ion Batteries",
+                              "family":  "upgrade-card",
+                              "category":  "",
+                              "faction":  "",
+                              "points":  5,
+                              "slots":  "Ion Cannons",
+                              "keywords":  {
+
+                                           },
+                              "traits":  {
+
+                                         },
+                              "stats":  {
+
+                                        },
+                              "sections":  {
+                                               "text":  "While attacking a ship, each of your unspent blue [Accuracy] icons adds 1 damage to the damage total.",
+                                               "setup":  {
+
+                                                         },
+                                               "specialRule":  {
+
+                                                               },
+                                               "endOfRound":  {
+
+                                                              },
+                                               "endOfGame":  {
+
+                                                             }
+                                           },
+                              "displayText":  "Text: While attacking a ship, each of your unspent blue [Accuracy] icons adds 1 damage to the damage total."
+                          }
     }
 ]

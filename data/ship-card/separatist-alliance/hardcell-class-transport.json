@@ -75,5 +75,57 @@
                      "data_version":  "2025.01-final",
                      "product_origin":  "SWM35"
                  },
-    "image":  "ship/separatist-alliance/hardcell-class-transport.webp"
+    "image":  "ship/separatist-alliance/hardcell-class-transport.webp",
+    "display-text":  "Separatist Alliance | Commander, Officer, Officer, Support Team, Fleet Support | 47 points | Keywords: Droid, Transport | Stats: hull: 5; command: 1; squadron: 2; engineering: 3; size: small; defense-tokens: Evade, Brace, Redirect",
+    "text-fallback":  {
+                          "label":  "Hardcell-class Transport",
+                          "family":  "ship-card",
+                          "category":  "",
+                          "faction":  "Separatist Alliance",
+                          "points":  47,
+                          "slots":  [
+                                        "Commander",
+                                        "Officer",
+                                        "Officer",
+                                        "Support Team",
+                                        "Fleet Support"
+                                    ],
+                          "keywords":  [
+                                           "Droid",
+                                           "Transport"
+                                       ],
+                          "traits":  {
+
+                                     },
+                          "stats":  {
+                                        "hull":  5,
+                                        "command":  1,
+                                        "squadron":  2,
+                                        "engineering":  3,
+                                        "size":  "small",
+                                        "defense-tokens":  [
+                                                               "Evade",
+                                                               "Brace",
+                                                               "Redirect"
+                                                           ]
+                                    },
+                          "sections":  {
+                                           "text":  {
+
+                                                    },
+                                           "setup":  {
+
+                                                     },
+                                           "specialRule":  {
+
+                                                           },
+                                           "endOfRound":  {
+
+                                                          },
+                                           "endOfGame":  {
+
+                                                         }
+                                       },
+                          "displayText":  "Separatist Alliance | Commander, Officer, Officer, Support Team, Fleet Support | 47 points | Keywords: Droid, Transport | Stats: hull: 5; command: 1; squadron: 2; engineering: 3; size: small; defense-tokens: Evade, Brace, Redirect"
+                      }
 }
