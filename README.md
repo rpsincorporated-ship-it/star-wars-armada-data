@@ -1,8 +1,8 @@
 # Star Wars Armada Data
 
-Structured JSON data and local image assets for **Star Wars: Armada** cards.
+Structured JSON data and local PNG image assets for **Star Wars: Armada** cards.
 
-This repository is an unofficial community reference database for Armada card data, card images, app integrations, collection tools, list builders, and preservation work.
+This repository is an unofficial community reference database for Armada card data, app integrations, collection tools, list builders, and preservation work.
 
 ## Release
 
@@ -15,18 +15,16 @@ Current release:
 Release package:
 
 ```text
-star-wars-armada-data-2025.01-final-complete-images-v11.zip
+star-wars-armada-data-2025.01-final-complete-images-v12.zip
 ```
 
 SHA256:
 
 ```text
-4948D4E6171CC8C2C86ED4E7D0C3755590345CD85A78D41750B1C367A48C5939
+51075F53748748542FF8F7E973778CF485413FB60EA6A1CBD0491C86E09BAA52
 ```
 
 ## Repository Layout
-
-The repository keeps the original data-project style layout:
 
 ```text
 data/
@@ -54,12 +52,12 @@ The database includes structured records for:
 - Damage cards
 - Reference cards
 
-Current final audit:
+Final release audit:
 
 ```text
 Data JSON files: 191
 Database entries: 544
-Image files: 635
+Image files: 633
 JSON parse errors: 0
 JSON files with UTF-8 BOM: 0
 Wrapper objects: 0
@@ -67,6 +65,8 @@ Missing image fields: 0
 Broken image references: 0
 Image references with .json folder: 0
 Unsafe absolute/parent image paths: 0
+Non-PNG image references: 0
+Non-PNG files: 0
 Physical .json image folders: 0
 Shared image path entries: 0
 Shared image hash entries: 0
@@ -74,9 +74,15 @@ Shared image hash entries: 0
 
 ## Images
 
-Every database entry has its own image reference, and every image path resolves under the local `image/` folder.
+Every database entry has:
 
-Image paths use app-friendly relative paths, for example:
+- An `image` field
+- A local app-resolvable path under `image/`
+- A `.png` image file
+- A unique image path
+- A unique image file hash
+
+Example paths:
 
 ```text
 image/ship-card/galactic-republic/acclamator-ii-class-assault-ship.png
@@ -86,7 +92,7 @@ image/upgrade-card/officer/darth-vader.png
 image/objective-card/advanced-gunnery.png
 ```
 
-The database intentionally avoids old image folder paths such as:
+The database avoids old image folder paths such as:
 
 ```text
 upgrade-card/officer.json/example.png
@@ -108,11 +114,11 @@ Examples:
 - Anakin Skywalker squadron variants and commander upgrade use separate images.
 - Ahsoka Tano Galactic Republic officer and Rebel Alliance officer use separate images.
 - Reserve Hangar Deck current and printed records use separate images.
-- Objective cards with similar or previously duplicated images now use separate images.
+- Objective cards use separate images per entry.
 
 ## Text Fallback Fields
 
-Every record includes text fallback fields so an app can show useful card information even when image display is disabled.
+Every record includes text fallback fields so an app can show useful card information when image display is disabled.
 
 Each record includes:
 
@@ -145,8 +151,9 @@ text-fallback
 - JSON files are strict JSON.
 - JSON files are UTF-8 without BOM.
 - Image paths are relative to the `image/` folder.
-- No image path should require absolute local paths.
-- No image path should contain parent-directory traversal such as `../`.
+- Image files are PNG.
+- Image paths do not require absolute local paths.
+- Image paths do not use parent-directory traversal such as `../`.
 - Duplicate card names can exist when Armada has multiple real cards for the same character, ship title, or card name. Those records should stay separate and should use separate images.
 
 ## Testing
@@ -170,7 +177,7 @@ For image corrections, include the source/provenance of the image and make sure 
 When adding or changing records, preserve:
 
 - Valid strict JSON
-- Local resolvable image paths
+- Local resolvable PNG image paths
 - Unique image files per database entry
 - `display-text`
 - `text-fallback`

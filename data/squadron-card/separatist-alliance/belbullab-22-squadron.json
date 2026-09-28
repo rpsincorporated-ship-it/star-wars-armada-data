@@ -1,86 +1,68 @@
 {
-    "name":  "Belbullab-22 Squadron",
-    "faction":  "Separatist Alliance",
-    "type":  "Belbullab-22 Squadron",
-    "speed":  4,
-    "hull":  5,
-    "squadron-attack":  [
-                            0,
-                            4,
-                            0
-                        ],
-    "battery-attack":  [
-                           0,
-                           1,
-                           0
-                       ],
-    "keywords":  [
-                     "Relay 1",
-                     "Screen"
-                 ],
-    "defense-tokens":  [
-
-                       ],
-    "points":  15,
-    "source":  {
-                   "product":  "Separatist Fighter Squadrons Expansion Pack",
-                   "product-code":  "SWM37",
-                   "publisher":  "Fantasy Flight Games",
-                   "rules-baseline":  "AMG final Armada update, January 2025",
-                   "verification":  "AMG SWM37 product listing; FFG Swarm the Opposition preview; final AMG January 2025 point update; Slicer Tools official ruleset; Armada community cross-checks",
-                   "data-version":  "2025.01-final"
-               },
-    "id":  "swarmada:official:separatist-alliance:squadron:belbullab-22-squadron",
-    "data-version":  "2025.01-final",
-    "legality":  {
-                     "status":  "official-final",
-                     "faction":  "Separatist Alliance",
-                     "rules_baseline":  "AMG final Armada update, January 2025",
-                     "data_version":  "2025.01-final",
-                     "product_origin":  "SWM37"
-                 },
-    "image":  "squadron-card/separatist-alliance/belbullab-22-squadron.webp",
-    "display-text":  "Belbullab-22 Squadron | Separatist Alliance | 15 points | Keywords: Relay 1, Screen | Stats: speed: 4; hull: 5; defense-tokens:",
-    "text-fallback":  {
-                          "label":  "Belbullab-22 Squadron",
-                          "family":  "squadron-card",
-                          "category":  "Belbullab-22 Squadron",
-                          "faction":  "Separatist Alliance",
-                          "points":  15,
-                          "slots":  {
-
-                                    },
-                          "keywords":  [
-                                           "Relay 1",
-                                           "Screen"
-                                       ],
-                          "traits":  {
-
-                                     },
-                          "stats":  {
-                                        "speed":  4,
-                                        "hull":  5,
-                                        "defense-tokens":  [
-
-                                                           ]
-                                    },
-                          "sections":  {
-                                           "text":  {
-
-                                                    },
-                                           "setup":  {
-
-                                                     },
-                                           "specialRule":  {
-
-                                                           },
-                                           "endOfRound":  {
-
-                                                          },
-                                           "endOfGame":  {
-
-                                                         }
-                                       },
-                          "displayText":  "Belbullab-22 Squadron | Separatist Alliance | 15 points | Keywords: Relay 1, Screen | Stats: speed: 4; hull: 5; defense-tokens:"
-                      }
+  "name": "Belbullab-22 Squadron",
+  "faction": "Separatist Alliance",
+  "type": "Belbullab-22 Squadron",
+  "speed": 4,
+  "hull": 5,
+  "squadron-attack": [
+    0,
+    4,
+    0
+  ],
+  "battery-attack": [
+    0,
+    1,
+    0
+  ],
+  "keywords": [
+    "Relay 1",
+    "Screen"
+  ],
+  "defense-tokens": [],
+  "points": 15,
+  "source": {
+    "product": "Separatist Fighter Squadrons Expansion Pack",
+    "product-code": "SWM37",
+    "publisher": "Fantasy Flight Games",
+    "rules-baseline": "AMG final Armada update, January 2025",
+    "verification": "AMG SWM37 product listing; FFG Swarm the Opposition preview; final AMG January 2025 point update; Slicer Tools official ruleset; Armada community cross-checks",
+    "data-version": "2025.01-final"
+  },
+  "id": "swarmada:official:separatist-alliance:squadron:belbullab-22-squadron",
+  "data-version": "2025.01-final",
+  "legality": {
+    "status": "official-final",
+    "faction": "Separatist Alliance",
+    "rules_baseline": "AMG final Armada update, January 2025",
+    "data_version": "2025.01-final",
+    "product_origin": "SWM37"
+  },
+  "image": "squadron-card/separatist-alliance/belbullab-22-squadron.png",
+  "display-text": "Belbullab-22 Squadron | Separatist Alliance | 15 points | Keywords: Relay 1, Screen | Stats: speed: 4; hull: 5; defense-tokens:",
+  "text-fallback": {
+    "label": "Belbullab-22 Squadron",
+    "family": "squadron-card",
+    "category": "Belbullab-22 Squadron",
+    "faction": "Separatist Alliance",
+    "points": 15,
+    "slots": {},
+    "keywords": [
+      "Relay 1",
+      "Screen"
+    ],
+    "traits": {},
+    "stats": {
+      "speed": 4,
+      "hull": 5,
+      "defense-tokens": []
+    },
+    "sections": {
+      "text": {},
+      "setup": {},
+      "specialRule": {},
+      "endOfRound": {},
+      "endOfGame": {}
+    },
+    "displayText": "Belbullab-22 Squadron | Separatist Alliance | 15 points | Keywords: Relay 1, Screen | Stats: speed: 4; hull: 5; defense-tokens:"
+  }
 }

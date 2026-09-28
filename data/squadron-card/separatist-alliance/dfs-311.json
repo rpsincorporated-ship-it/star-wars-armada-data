@@ -1,96 +1,82 @@
 {
-    "name":  "DFS-311",
-    "faction":  "Separatist Alliance",
-    "unique":  true,
-    "type":  "Vulture-class Droid Fighter Squadron",
-    "speed":  4,
-    "hull":  3,
-    "squadron-attack":  [
-                            0,
-                            1,
-                            2
-                        ],
-    "battery-attack":  [
-                           1,
-                           0,
-                           0
-                       ],
-    "keywords":  [
-                     "AI: Anti-Squadron 1",
-                     "Intel",
-                     "Swarm"
-                 ],
-    "defense-tokens":  [
-                           "Brace",
-                           "Scatter"
-                       ],
-    "points":  16,
-    "points-history":  {
-                           "printed":  18,
-                           "current":  16
-                       },
-    "ability":  "While defending against an obstructed attack, it can force a reroll of one attack die.",
-    "source":  {
-                   "product":  "Separatist Fighter Squadrons Expansion Pack",
-                   "product-code":  "SWM37",
-                   "publisher":  "Fantasy Flight Games",
-                   "rules-baseline":  "AMG final Armada update, January 2025",
-                   "verification":  "AMG SWM37 product listing; FFG Swarm the Opposition preview; final AMG January 2025 point update; Slicer Tools official ruleset; Armada community cross-checks",
-                   "data-version":  "2025.01-final"
-               },
-    "id":  "swarmada:official:separatist-alliance:squadron:dfs-311",
-    "data-version":  "2025.01-final",
-    "legality":  {
-                     "status":  "official-final",
-                     "faction":  "Separatist Alliance",
-                     "rules_baseline":  "AMG final Armada update, January 2025",
-                     "data_version":  "2025.01-final",
-                     "product_origin":  "SWM37"
-                 },
-    "image":  "squadron-card/separatist-alliance/dfs-311.webp",
-    "display-text":  "Vulture-class Droid Fighter Squadron | Separatist Alliance | 16 points | Keywords: AI: Anti-Squadron 1, Intel, Swarm | Stats: speed: 4; hull: 3; defense-tokens: Brace, Scatter",
-    "text-fallback":  {
-                          "label":  "DFS-311",
-                          "family":  "squadron-card",
-                          "category":  "Vulture-class Droid Fighter Squadron",
-                          "faction":  "Separatist Alliance",
-                          "points":  16,
-                          "slots":  {
-
-                                    },
-                          "keywords":  [
-                                           "AI: Anti-Squadron 1",
-                                           "Intel",
-                                           "Swarm"
-                                       ],
-                          "traits":  {
-
-                                     },
-                          "stats":  {
-                                        "speed":  4,
-                                        "hull":  3,
-                                        "defense-tokens":  [
-                                                               "Brace",
-                                                               "Scatter"
-                                                           ]
-                                    },
-                          "sections":  {
-                                           "text":  {
-
-                                                    },
-                                           "setup":  {
-
-                                                     },
-                                           "specialRule":  {
-
-                                                           },
-                                           "endOfRound":  {
-
-                                                          },
-                                           "endOfGame":  {
-
-                                                         }
-                                       },
-                          "displayText":  "Vulture-class Droid Fighter Squadron | Separatist Alliance | 16 points | Keywords: AI: Anti-Squadron 1, Intel, Swarm | Stats: speed: 4; hull: 3; defense-tokens: Brace, Scatter"
-                      }
+  "name": "DFS-311",
+  "faction": "Separatist Alliance",
+  "unique": true,
+  "type": "Vulture-class Droid Fighter Squadron",
+  "speed": 4,
+  "hull": 3,
+  "squadron-attack": [
+    0,
+    1,
+    2
+  ],
+  "battery-attack": [
+    1,
+    0,
+    0
+  ],
+  "keywords": [
+    "AI: Anti-Squadron 1",
+    "Intel",
+    "Swarm"
+  ],
+  "defense-tokens": [
+    "Brace",
+    "Scatter"
+  ],
+  "points": 16,
+  "points-history": {
+    "printed": 18,
+    "current": 16
+  },
+  "ability": "While defending against an obstructed attack, it can force a reroll of one attack die.",
+  "source": {
+    "product": "Separatist Fighter Squadrons Expansion Pack",
+    "product-code": "SWM37",
+    "publisher": "Fantasy Flight Games",
+    "rules-baseline": "AMG final Armada update, January 2025",
+    "verification": "AMG SWM37 product listing; FFG Swarm the Opposition preview; final AMG January 2025 point update; Slicer Tools official ruleset; Armada community cross-checks",
+    "data-version": "2025.01-final"
+  },
+  "id": "swarmada:official:separatist-alliance:squadron:dfs-311",
+  "data-version": "2025.01-final",
+  "legality": {
+    "status": "official-final",
+    "faction": "Separatist Alliance",
+    "rules_baseline": "AMG final Armada update, January 2025",
+    "data_version": "2025.01-final",
+    "product_origin": "SWM37"
+  },
+  "image": "squadron-card/separatist-alliance/dfs-311.png",
+  "display-text": "Vulture-class Droid Fighter Squadron | Separatist Alliance | 16 points | Keywords: AI: Anti-Squadron 1, Intel, Swarm | Stats: speed: 4; hull: 3; defense-tokens: Brace, Scatter",
+  "text-fallback": {
+    "label": "DFS-311",
+    "family": "squadron-card",
+    "category": "Vulture-class Droid Fighter Squadron",
+    "faction": "Separatist Alliance",
+    "points": 16,
+    "slots": {},
+    "keywords": [
+      "AI: Anti-Squadron 1",
+      "Intel",
+      "Swarm"
+    ],
+    "traits": {},
+    "stats": {
+      "speed": 4,
+      "hull": 3,
+      "defense-tokens": [
+        "Brace",
+        "Scatter"
+      ]
+    },
+    "sections": {
+      "text": {},
+      "setup": {},
+      "specialRule": {},
+      "endOfRound": {},
+      "endOfGame": {}
+    },
+    "displayText": "Vulture-class Droid Fighter Squadron | Separatist Alliance | 16 points | Keywords: AI: Anti-Squadron 1, Intel, Swarm | Stats: speed: 4; hull: 3; defense-tokens: Brace, Scatter"
+  }
 }

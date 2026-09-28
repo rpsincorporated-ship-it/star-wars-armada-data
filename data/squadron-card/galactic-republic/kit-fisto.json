@@ -1,93 +1,81 @@
 {
-    "name":  "Kit Fisto",
-    "subname":  "Delta-7 Aethersprite Squadron",
-    "faction":  "Galactic Republic",
-    "unique":  true,
-    "speed":  4,
-    "hull":  4,
-    "__comment":  "dice array is [red, blue, black] counts",
-    "squadron-attack":  [
-                            0,
-                            3,
-                            1
-                        ],
-    "attack":  [
-                   0,
-                   1,
-                   0
-               ],
-    "keywords":  [
-                     "Adept 2",
-                     "Counter 2",
-                     "Intel"
-                 ],
-    "defense-tokens":  [
-                           "Brace",
-                           "Brace"
-                       ],
-    "text":  "When you spend a defense token, you may discard it. If you do, reduce the total damage by 3 instead of resolving that token\u0027s effect.",
-    "points":  24,
-    "source":  {
-                   "product":  "Republic Fighter Squadrons Expansion Pack",
-                   "product-code":  "SWM36",
-                   "publisher":  "Fantasy Flight Games",
-                   "rules-baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
-                   "verification":  "BSData Galactic Republic catalogue rev. 14 (22/01/2025 errata changes added)",
-                   "data-version":  "2025.01-final"
-               },
-    "id":  "swarmada:official:galactic-republic:squadron:kit-fisto",
-    "data-version":  "2025.01-final",
-    "legality":  {
-                     "ruleset":  "official-amg-final-2025",
-                     "status":  "legal",
-                     "official":  true,
-                     "faction":  "Galactic Republic",
-                     "productOrigin":  "SWM36",
-                     "baseline":  "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
-                     "scope":  "Republic product-origin record; neutral cross-faction compatibility handled separately"
-                 },
-    "image":  "squadron-card/galactic-republic/kit-fisto.webp",
-    "display-text":  "Text: When you spend a defense token, you may discard it. If you do, reduce the total damage by 3 instead of resolving that token\u0027s effect.",
-    "text-fallback":  {
-                          "label":  "Kit Fisto",
-                          "family":  "squadron-card",
-                          "category":  "",
-                          "faction":  "Galactic Republic",
-                          "points":  24,
-                          "slots":  {
-
-                                    },
-                          "keywords":  [
-                                           "Adept 2",
-                                           "Counter 2",
-                                           "Intel"
-                                       ],
-                          "traits":  {
-
-                                     },
-                          "stats":  {
-                                        "speed":  4,
-                                        "hull":  4,
-                                        "defense-tokens":  [
-                                                               "Brace",
-                                                               "Brace"
-                                                           ]
-                                    },
-                          "sections":  {
-                                           "text":  "When you spend a defense token, you may discard it. If you do, reduce the total damage by 3 instead of resolving that token\u0027s effect.",
-                                           "setup":  {
-
-                                                     },
-                                           "specialRule":  {
-
-                                                           },
-                                           "endOfRound":  {
-
-                                                          },
-                                           "endOfGame":  {
-
-                                                         }
-                                       },
-                          "displayText":  "Text: When you spend a defense token, you may discard it. If you do, reduce the total damage by 3 instead of resolving that token\u0027s effect."
-                      }
+  "name": "Kit Fisto",
+  "subname": "Delta-7 Aethersprite Squadron",
+  "faction": "Galactic Republic",
+  "unique": true,
+  "speed": 4,
+  "hull": 4,
+  "__comment": "dice array is [red, blue, black] counts",
+  "squadron-attack": [
+    0,
+    3,
+    1
+  ],
+  "attack": [
+    0,
+    1,
+    0
+  ],
+  "keywords": [
+    "Adept 2",
+    "Counter 2",
+    "Intel"
+  ],
+  "defense-tokens": [
+    "Brace",
+    "Brace"
+  ],
+  "text": "When you spend a defense token, you may discard it. If you do, reduce the total damage by 3 instead of resolving that token's effect.",
+  "points": 24,
+  "source": {
+    "product": "Republic Fighter Squadrons Expansion Pack",
+    "product-code": "SWM36",
+    "publisher": "Fantasy Flight Games",
+    "rules-baseline": "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+    "verification": "BSData Galactic Republic catalogue rev. 14 (22/01/2025 errata changes added)",
+    "data-version": "2025.01-final"
+  },
+  "id": "swarmada:official:galactic-republic:squadron:kit-fisto",
+  "data-version": "2025.01-final",
+  "legality": {
+    "ruleset": "official-amg-final-2025",
+    "status": "legal",
+    "official": true,
+    "faction": "Galactic Republic",
+    "productOrigin": "SWM36",
+    "baseline": "AMG Star Wars: Armada final update; Rules Reference 1.6.0 / current Errata baseline, January 2025",
+    "scope": "Republic product-origin record; neutral cross-faction compatibility handled separately"
+  },
+  "image": "squadron-card/galactic-republic/kit-fisto.png",
+  "display-text": "Text: When you spend a defense token, you may discard it. If you do, reduce the total damage by 3 instead of resolving that token's effect.",
+  "text-fallback": {
+    "label": "Kit Fisto",
+    "family": "squadron-card",
+    "category": "",
+    "faction": "Galactic Republic",
+    "points": 24,
+    "slots": {},
+    "keywords": [
+      "Adept 2",
+      "Counter 2",
+      "Intel"
+    ],
+    "traits": {},
+    "stats": {
+      "speed": 4,
+      "hull": 4,
+      "defense-tokens": [
+        "Brace",
+        "Brace"
+      ]
+    },
+    "sections": {
+      "text": "When you spend a defense token, you may discard it. If you do, reduce the total damage by 3 instead of resolving that token's effect.",
+      "setup": {},
+      "specialRule": {},
+      "endOfRound": {},
+      "endOfGame": {}
+    },
+    "displayText": "Text: When you spend a defense token, you may discard it. If you do, reduce the total damage by 3 instead of resolving that token's effect."
+  }
 }
